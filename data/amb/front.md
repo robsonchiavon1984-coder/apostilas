@@ -1,0 +1,37 @@
+# APRESENTAÇÃO E MAPA DOS EDITAIS
+
+## Como usar esta apostila
+Os capítulos fundem os pontos de Direito Ambiental do TRF5 (Juiz Federal), do TJRS e do TJSC (Juiz de Direito); pontos sem correspondência ganharam capítulo próprio. A profundidade acompanha o peso do tema nos editais e nas provas.
+Cada capítulo traz: a incidência (referência aos pontos e nível de cobrança); o mapa de cobrança quando há questões suficientes; o desenvolvimento com boxes de lei, jurisprudência, questões, dicas e pegadinhas; o resumo tabelado para revisão pré-prova; os artigos de lei incidentes; os julgados, temas e súmulas desenvolvidos; e as notas de verificação.
+Questões: QConcursos, disciplina Direito Ambiental, bancas FGV e FCC, nível superior, área Direito, 2024 a 2026, excluídas as desatualizadas (482 questões: 435 FGV e 47 FCC, todas com gabarito oficial), parafraseadas e identificadas pelo número Q.
+Cada julgado, tema ou súmula é desenvolvido em um único capítulo; nos demais há só remissão. Convenções: latim e estrangeirismos em itálico; ênfases em CAIXA ALTA; datas d/m/aaaa.
+
+## Correspondência entre capítulos e pontos
+
+| Cap. | Título | TRF5 | TJRS | TJSC | Nível |
+|---|---|---|---|---|---|
+| 1 | Teoria geral do Direito Ambiental: conceito, objeto, natureza, fontes, princípios, ética ambiental, antropocentrismo e ecocentrismo, Estado de Direito Ecológico e interpretação | 1 | 2 | 1 | A |
+| 2 | Meio ambiente na Constituição: art. 225, direito fundamental e humano, deveres ambientais, ordem econômica, função socioambiental da propriedade e bens ambientais | 1, 2 | 1 | 2, 4 | B |
+| 3 | Competências legislativas, administrativas (LC 140/2011) e jurisdicionais em matéria ambiental | 2 | 3 | 3 | A |
+| 4 | Política Nacional do Meio Ambiente (Lei 6.938/1981): princípios, objetivos, SISNAMA, CONAMA, IBAMA, FNMA, instrumentos, zoneamento ambiental e ZEE, padrões, cadastros, informação e educação ambiental | 3 | 11 | 5, 6, 7, 10 | A |
+| 5 | Licenciamento ambiental e avaliação de impactos: Lei Geral do Licenciamento (Lei 15.190/2025), licenciamento especial (Lei 15.300/2025), LC 140, EIA/RIMA, audiência pública, condicionantes e controle judicial | 4, 13 | 7 | 7, 8, 9 | A |
+| 6 | Dano ambiental e responsabilidade civil ambiental | 5 | 5 | 11 | A |
+| 7 | Responsabilidade administrativa ambiental: poder de polícia, infrações, sanções, processo administrativo e prescrição (Lei 9.605/1998 e Decreto 6.514/2008) | 3, 5 | 5 | 11 | A |
+| 8 | Crimes ambientais e responsabilidade penal (Lei 9.605/1998): pessoa jurídica, crimes em espécie, ação e processo penal, competência | 5 | 4, 5 | 13 | A |
+| 9 | Tutela processual do meio ambiente: inquérito civil, TAC, ação civil pública, ação popular, mandado de segurança coletivo, mandado de injunção, controle concentrado, tutelas de urgência, inibitória, execução e processos estruturais | 15 | 4 | 12 | A |
+| 10 | Vegetação e flora: Código Florestal (Lei 12.651/2012), APP, reserva legal, CAR e PRA, supressão, manejo, incêndios e queimadas; Mata Atlântica (Lei 11.428/2006) e gestão de florestas públicas (Lei 11.284/2006) | 6 | 8, 10 | 4, 16, 17 | A |
+| 11 | Espaços territoriais protegidos e unidades de conservação (Lei 9.985/2000): categorias, criação, plano de manejo, zona de amortecimento, mosaicos, corredores, compensação ambiental; zona costeira e áreas marinhas | 7 | 6 | 4, 16, 17 | A |
+| 12 | Fauna e proteção dos animais | — | 8 | 4 | B |
+| 13 | Biodiversidade, patrimônio genético e conhecimentos tradicionais associados (Lei 13.123/2015), biotecnologia, biossegurança e OGM (Lei 11.105/2005) | 8 | — | 17 | B |
+| 14 | Recursos hídricos (Lei 9.433/1997) e saneamento básico (Lei 11.445/2007) | 9 | 8, 11 | 4, 15, 17 | A |
+| 15 | Mineração, recursos minerais e segurança de barragens | 10 | 12 | — | B |
+| 16 | Poluição e resíduos: conceito de poluição, poluição atmosférica, sonora, visual, hídrica e por óleo (Lei 9.966/2000), resíduos sólidos (Lei 12.305/2010), logística reversa, produtos perigosos, agrotóxicos (Lei 14.785/2023) e saúde ambiental | 11, 17 | 8, 11 | 15, 16 | A |
+| 17 | Mudanças climáticas: PNMC (Lei 12.187/2009), adaptação (Lei 14.904/2024), mercado de carbono (Lei 15.042/2024), pagamento por serviços ambientais (Lei 14.119/2021), justiça e litigância climática | 12 | 14 | 16 | B |
+| 18 | Meio ambiente urbano: Estatuto da Cidade e da Metrópole, instrumentos urbanísticos, regularização fundiária (Lei 13.465/2017), áreas de risco, Política de Proteção e Defesa Civil (Lei 12.608/2012) e direito dos desastres | — | 9 | 1 | B |
+| 19 | Patrimônio cultural, arqueológico e natural: proteção, tombamento e cavidades naturais | 2 | — | 4, 12 | C |
+| 20 | Povos indígenas, quilombolas e comunidades tradicionais: direitos territoriais e ambientais, consulta prévia e proteção dos modos de vida | 14 | — | — | C |
+| 21 | Direito Ambiental Internacional: princípios, fontes, tratados e convenções (clima, biodiversidade, resíduos, proteção marinha), MERCOSUL, dano transfronteiriço, ONGs e responsabilidade internacional | 16 | — | 14 | B |
+| 22 | Meio ambiente, economia, energia e infraestrutura: agronegócio, bioeconomia, serviços ecossistêmicos, instrumentos econômicos, matriz energética e avaliação ambiental estratégica | 13, 18 | — | 2 | C |
+| 23 | Legislação ambiental estadual: Código Estadual do Meio Ambiente de SC (Lei 14.675/2009 com a Lei 16.342/2014) e políticas florestal e de biodiversidade do RS | — | 13 | 17 | B |
+
+Nível A: muito cobrado. B: cobrança média. C: cobrança menor ou restrita a um edital.

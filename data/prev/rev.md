@@ -1,0 +1,1713 @@
+# CAPÍTULO 01 — SEGURIDADE SOCIAL: CONCEITO, PRINCÍPIOS, ORGANIZAÇÃO, FONTES E APLICAÇÃO DAS NORMAS
+
+## 01.11 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Conceito de seguridade | Conjunto integrado de ações dos Poderes Públicos e da sociedade: saúde, previdência e assistência | Educação NÃO integra | CF, art. 194; Lei 8.212, art. 1º |
+| Contributividade | Só a previdência é contributiva | Saúde universal; assistência a quem necessitar | CF, arts. 196, 201 e 203 |
+| Competência legislativa | Seguridade: privativa da União; previdência e saúde: concorrente | Assistência fora do art. 24 (ADI 6.559) | CF, arts. 22, XXIII, e 24, XII |
+| Universalidade | Cobertura (riscos) e atendimento (pessoas) | Limitada pela seletividade e, na previdência, pela contribuição; facultativo universaliza | CF, art. 194, I |
+| Uniformidade e equivalência | Mesmos eventos e valor equivalente a urbanos e rurais | Discrímen válido: idade rural 60/55; contribuição sobre comercialização | CF, arts. 194, II, 195, § 8º, 201, § 7º, II |
+| Seletividade e distributividade | Lei escolhe riscos e pessoas; prioridade aos necessitados | Salário-família e auxílio-reclusão (baixa renda); BPC | CF, arts. 194, III, 201, IV, 203, V |
+| Irredutibilidade | Valor nominal, nas três áreas | Valor real só na previdência; leis fundem as garantias ("poder aquisitivo") | CF, arts. 194, IV, e 201, § 4º; RE 263.252; Tema 996 |
+| Equidade no custeio | Capacidade contributiva e risco | Progressividade, § 9º do art. 195, RAT/FAP | CF, art. 194, V |
+| Diversidade da base | Múltiplas fontes; rubricas contábeis específicas por área (receitas e despesas); caráter contributivo preservado | Outra fonte só por lei complementar | CF, arts. 194, VI (EC 103), 195, § 4º |
+| Gestão | Quadripartite: trabalhadores, empregadores, aposentados e Governo | Desde a EC 20/1998; art. 10 da CF é bipartite | CF, art. 194, VII |
+| CNPS | 6 Governo + 3 aposentados + 3 ativos + 3 empregadores = 15 | Mandato 2 anos, uma recondução; reunião mensal | Lei 8.213, art. 3º |
+| Princípios da previdência (lei) | Universalidade de participação; seletividade "dos benefícios"; SC corrigidos; piso mínimo; complementar facultativa custeada por contribuição adicional | "Custeada ou não", "Selic", "economicidade" são falsos | Lei 8.213, art. 2º; Lei 8.212, art. 3º |
+| Art. 201 | Contributivo, filiação obrigatória, equilíbrio financeiro e atuarial | Maternidade (não "natalidade"); dependentes dos segurados de baixa renda | CF, art. 201 |
+| Piso | Benefício substitutivo ≥ salário mínimo | Auxílio-acidente e salário-família podem ser menores | CF, art. 201, § 2º |
+| Equilíbrio financeiro e atuarial | Custeio compatível com benefícios, por cálculo atuarial | Princípio da previdência (RGPS e RPPS), não da saúde e da assistência | CF, arts. 40 e 201 |
+| Contrapartida | Nenhum benefício ou serviço criado, majorado ou estendido sem fonte de custeio total | Não incide sobre benefício criado pela CF nem impede interpretação do alcance (ADI 6.327) | CF, art. 195, § 5º; Tema 1.095 |
+| Solidariedade | Cotização coletiva sem correspondência individual | Contribuição do aposentado que trabalha e do inativo | CF, arts. 3º, I, 40, 195; Tema 1.065; ADI 3.105 |
+| Fontes formais | Só estatais: CF, leis, MP, tratados, decretos, atos normativos | Não são: costume, doutrina, equidade, analogia, direito estrangeiro | Doutrina; LINDB |
+| Decreto 3.048 | Regulamento de execução, adaptado pelo Decreto 10.410/2020 | Não inova | CF, art. 84, IV |
+| INs do INSS | Vinculam a Administração | Não vinculam o juiz; IN restritiva é ilegal; IN favorável obriga o INSS | IN PRES/INSS 128/2022 |
+| Tratados | Lei especial | Convenção 102 da OIT promulgada pelo Decreto 12.936/2026 | Lei 8.212, art. 85-A |
+| *In dubio pro misero* | Interpretação da norma | Não na prova; não cria benefício; não afasta Súmula 7 do STJ | LINDB, art. 5º; Súmula 149 do STJ |
+| Integração | Analogia, costumes, princípios gerais; equidade só se a lei autoriza | Analogia para enquadrar segurado, não para criar benefício | LINDB, art. 4º; SV 33 |
+| Espaço | Territorialidade | Extraterritorialidade taxativa: art. 11, I, c, e, f; d é trabalho no Brasil | Lei 8.213, art. 11 |
+| Tempo | Custeio que cria ou majora: 90 dias; demais: data fixada ou 45 dias | Irretroatividade, mesmo benéfica ao infrator do custeio | CF, art. 195, § 6º; LINDB, art. 1º |
+| *Tempus regit actum* | Lei do implemento dos requisitos | Pensão: lei do óbito | Súmulas 340 do STJ e 359 do STF (Cap. 22) |
+| Direito adquirido | Requisitos completos sob a lei antiga: exercível a qualquer tempo | Inclui a forma de cálculo; não há direito adquirido a regime jurídico | CF, art. 5º, XXXVI; EC 103, art. 3º; Lei 8.213, art. 102, § 1º |
+| Regra de transição | Amparo da expectativa por opção legislativa | Revogável por emenda posterior | Caps. 13, 22 e 23 |
+| Proteção da confiança | Segurança jurídica subjetiva | Transição proporcional (doutrina), autotutela, modulação | CF, art. 5º; Lei 8.213, art. 103-A |
+
+## 01.12 Artigos de lei incidentes
+
+- Constituição Federal: arts. 3º, I; 5º, XXXVI; 6º; 7º, XVIII e XXX; 10; 22, XXIII; 23, II; 24, XII; 40, caput; 60, § 4º; 62, § 1º, III; 84, IV; 149, § 1º; 193; 194; 195, caput, §§ 1º, 2º, 4º, 5º, 6º, 8º e 9º; 196; 198; 199; 201, caput, I a V, §§ 1º, 2º, 4º, 5º, 7º, 8º, 12 e 13; 202; 203; 204; 239.
+- EC 103/2019: arts. 3º, 17 e 28.
+- LINDB (Decreto-Lei 4.657/1942): arts. 1º, 4º, 5º e 6º.
+- Lei 8.212/1991: arts. 1º a 5º, 8º, 9º, 16, parágrafo único, e 85-A.
+- Lei 8.213/1991: arts. 1º a 4º, 11, I, c a f e i, 13, 41-A, 55, § 3º, 102, § 1º, e 103-A.
+- Decreto 3.048/1999 (Regulamento): arts. 1º a 6º.
+- Lei 8.029/1990 (INSS); Lei 11.457/2007 (Receita Federal do Brasil); Lei 8.742/1993, art. 17; Lei 8.080/1990; Lei 13.300/2016.
+- Decreto Legislativo 269/2008 e Decreto 12.936/2026 (Convenção 102 da OIT).
+
+## 01.13 Julgados, temas e súmulas do capítulo
+
+- ADI 6.559 (STF): assistência social fora da competência concorrente; lei estadual de pensão assistencial é inconstitucional.
+- RE 263.252 (STF): irredutibilidade do art. 194, IV, protege o valor nominal.
+- Tema 1.095 (STF): só lei cria ou amplia benefício; acréscimo de 25% não se estende às demais aposentadorias.
+- ADI 6.327 (STF): salário-maternidade a partir da alta hospitalar; interpretar alcance não viola o art. 195, § 5º.
+- RE 778.889 (STF): licença da adotante; precedente invocado na ADI 6.327.
+- ADI 3.105 (STF): contribuição de inativos, solidariedade e equilíbrio financeiro e atuarial.
+- ADI 7.051 (STF): art. 23 da EC 103/2019 válido; vedação do retrocesso não congela o legislador.
+- ADI 1.946 (STF): teto da EC 20/1998 não alcança o salário-maternidade.
+- Súmula Vinculante 33: aposentadoria especial do servidor pelas regras do RGPS até lei complementar.
+- Tema 627 (STJ): na colisão entre diplomas, o preceito mais favorável ao trabalhador (fundamentação com *in dubio pro misero*).
+- Súmula 7 do STJ: o *in dubio pro misero* não autoriza reexame de prova.
+- REsp 1.082.631 (STJ): onde a lei não restringe, não cabe ao intérprete restringir.
+
+Remissões a outros capítulos: ADI 7.633 (Cap. 4); Tema 996 do STF (Cap. 11); Tema 503 do STF (Cap. 13); Tema 555 do STF (Cap. 10); Tema 793 do STF (Cap. 18); Súmula 149 do STJ (Cap. 9); Súmula 340 do STJ e Súmula 359 do STF (Cap. 22); Tema 334 do STF (Cap. 19); Tema 1.065 do STF (Cap. 3); Tema 1.102 do STF e ADIs 2.110 e 2.111 quanto à revisão da vida toda (Cap. 11); ADIs 2.110 e 2.111 quanto à carência do salário-maternidade (Cap. 17); Tema 979 do STJ (Cap. 12); SV 8 (Cap. 5).
+
+
+# CAPÍTULO 02 — FINANCIAMENTO DA SEGURIDADE SOCIAL I: ORÇAMENTO DA SEGURIDADE, NATUREZA JURÍDICA E ESPÉCIES DE CONTRIBUIÇÕES SOCIAIS (ART. 195 DA CF), COMPETÊNCIA RESIDUAL, ANTERIORIDADE NONAGESIMAL, IMUNIDADE DAS ENTIDADES BENEFICENTES (LC 187/2021), ISENÇÕES, DRU E A JURISPRUDÊNCIA CONSTITUCIONAL DO CUSTEIO
+
+## 02.10 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Financiamento | direto (contribuições) e indireto (orçamentos dos entes); por toda a sociedade | solidariedade: não exige referibilidade | CF, art. 195, caput; Lei 8.212/1991, art. 10 |
+| Orçamento da seguridade | peça própria da LOA da União; proposta integrada das três áreas, cada uma gere seus recursos | receitas estaduais e municipais ficam nos orçamentos locais | CF, art. 165, § 5º, III; art. 195, §§ 1º e 2º |
+| Rubricas por área | receitas e despesas identificadas por área, preservado o caráter contributivo | redação da EC 103/2019 | CF, art. 194, parágrafo único, VI |
+| Composição federal | receitas da União, das contribuições sociais e de outras fontes | rol do art. 11 inclui empregador doméstico e não inclui importador nem CBS | Lei 8.212/1991, art. 11 |
+| União | recursos adicionais do orçamento fiscal, fixados obrigatoriamente na LOA; cobre insuficiências da previdência | não Estados, não INSS, não segurados | Lei 8.212/1991, art. 16 |
+| Regime financeiro do RGPS | repartição simples | capitalização na previdência complementar | doutrina; Cap. 27 |
+| Outras receitas | multas e juros, serviços a terceiros, patrimoniais, doações | 50% do confisco do art. 243; 40% dos leilões da Receita; até 40% do seguro de trânsito para o SUS | Lei 8.212/1991, art. 27 |
+| Vinculação | folha e segurado só pagam benefícios do RGPS | COFINS e CSLL: qualquer área; PIS: seguro-desemprego, abono e 28% ao BNDES | CF, art. 167, XI; art. 239 |
+| Contrapartida | nenhum benefício ou serviço criado, majorado ou estendido sem fonte de custeio total | vale contra extensão judicial de benefício | CF, art. 195, § 5º; Tema 1.095 |
+| Devedor da seguridade | não contrata com o Poder Público nem recebe benefícios ou incentivos | base da CND | CF, art. 195, § 3º; Cap. 5 |
+| Natureza | tributo finalístico; competência exclusiva da União | Estados só instituem a do RPPS | CF, arts. 149 e 195 |
+| Inciso I, a | folha e demais rendimentos do trabalho, mesmo sem vínculo | ampliação da EC 20/1998; salário-maternidade fora (Tema 72) | CF, art. 195, I, a |
+| Inciso I, b | receita ou faturamento | revogado em 2027 (EC 132); LC 70/1991 materialmente ordinária | Tema 71 |
+| Inciso I, c | lucro (CSLL) por lei ordinária | bancos 20% (EC 103/2019, art. 32); sem imunidade de exportação; não incide sobre Selic do indébito | RE 146.733; Tema 962 |
+| Inciso II | segurado; alíquotas progressivas facultativas pelo salário de contribuição | imunes aposentadoria e pensão do RGPS; aposentado que trabalha contribui | Tema 1.065 |
+| Inciso III | receita de concursos de prognósticos | não é "concurso público" | Lei 8.212/1991, art. 26 |
+| Inciso IV | importador ou equiparado, inclusive pessoa física | revogado em 2027 | EC 42/2003; art. 149, §§ 2º e 3º |
+| Inciso V | CBS por lei complementar; alíquota por lei ordinária | teste em 2026 (0,9%); plena em 2027; sem o § 7º | EC 132/2023; ADCT, arts. 125 a 127 |
+| § 9º | alíquotas diferenciadas para o inciso I por atividade, mão de obra, porte, mercado de trabalho | bases diferenciadas só em receita e lucro; substitutivas anteriores preservadas | EC 103/2019, art. 30; Temas 204 e 470 |
+| § 11 | vedados moratória e parcelamento acima de 60 meses; remissão e anistia na forma de LC | parcelamentos previstos até 13/11/2019 preservados, sem reabertura | EC 103/2019, art. 31 |
+| Residual | lei complementar, não cumulativa, base distinta das contribuições | pode coincidir com base de imposto; só noventena | CF, art. 195, § 4º; art. 154, I |
+| Noventena | 90 dias da publicação da lei que institui ou modifica | sem anterioridade anual; prorrogação não reabre (Tema 91); MP conta da MP salvo majoração na conversão (Tema 278) | CF, art. 195, § 6º |
+| Beneficentes | imunidade (apesar de "isentas"), regulada pela LC 187/2021 | alcança I, III, IV e PIS; não o inciso II nem a CBS; não se estende a outra pessoa jurídica | Tema 32; Tema 432; LC 187/2021, arts. 3º e 4º |
+| Certificação | 3 anos; efeitos desde o protocolo; renovação nos 360 dias anteriores | Súmula 612: declaratória, retroage ao cumprimento dos requisitos | LC 187/2021, arts. 36 e 37 |
+| Cancelamento | auto de infração com exigibilidade suspensa até decisão definitiva; efeitos retroagem à irregularidade | Lei 15.486/2026: vale para créditos não definitivos de fatos anteriores a 16/12/2021 | LC 187/2021, art. 38 |
+| Isenção | lei específica; revogável por lei ordinária | remissão e anistia da folha e do segurado na forma de LC | CF, art. 150, § 6º; art. 195, § 11 |
+| DRU | 30% de contribuições sociais, CIDE, taxas e receitas patrimoniais até 31/12/2032 | NÃO alcança contribuições destinadas à seguridade nem o salário-educação; não gera restituição | ADCT, art. 76, §§ 2º e 4º; EC 135/2024; Tema 277 |
+
+## 02.11 Artigos de lei incidentes
+
+- Constituição Federal: arts. 149, caput, §§ 1º a 4º; 149-B; 150, I, III, b e c, e § 6º; 154, I; 165, § 5º, III; 167, XI e XII; 194, parágrafo único, V e VI; 195, caput, I a V e §§ 1º a 19; 198, § 1º; 201, § 11; 204; 239.
+- ADCT: art. 76 (EC 135/2024); arts. 124 a 127 (EC 132/2023).
+- EC 103/2019: arts. 29, 30, 31, 32 e 36. EC 132/2023: art. 22, I.
+- Lei 8.212/1991: arts. 10, 11, 12, § 4º, 15, 16, 17, 18, 19, 22, I e § 1º (remissão), 26, 27, 28, §§ 2º e 9º (remissão), 47 (remissão).
+- LC 187/2021: arts. 1º a 6º, 9º, 11, 12, 19, 20, 34 a 39, 41 e 47. Lei 15.486/2026: art. 3º.
+- LC 70/1991, art. 6º, II, e Lei 9.430/1996, art. 56 (Tema 71). LC 84/1996 e Lei 9.876/1999. Lei 7.689/1988 (CSLL). Lei 10.865/2004 (importação). LC 214/2025 (CBS). Lei 11.457/2007 (Receita Federal).
+
+## 02.12 Julgados, temas e súmulas do capítulo
+
+- RE 138.284: classificação das contribuições sociais.
+- RE 146.733: CSLL por lei ordinária; residual não repete base de contribuição, nominada pode coincidir com imposto.
+- STF, Tema 71 (RE 377.457): LC 70/1991 materialmente ordinária.
+- ADIs 2.110 e 2.111 (trecho da ementa): LC 84/1996 perdeu o status de complementar após a EC 20/1998.
+- STF, Tema 72 (RE 576.967): sem contribuição patronal sobre o salário-maternidade.
+- STF, Temas 204 e 470: alíquota diferenciada e adicional dos bancos.
+- STF, Tema 1.223 (RE 1.381.261): decreto não altera base de contribuição.
+- STF, Tema 962 (RE 1.063.187): sem IRPJ e CSLL sobre Selic do indébito.
+- STF, Tema 32 (RE 566.622) e ADI 4.480: requisitos materiais da imunidade por lei complementar.
+- STF, Tema 432 (RE 636.941): imunidade do § 7º alcança o PIS.
+- STJ, Súmula 612: certificado declaratório, efeitos retroativos.
+- STF, Tema 278 (RE 568.503): noventena e medida provisória.
+- STF, Tema 91 (RE 584.100): prorrogação de alíquota sem noventena.
+- STJ, Tema 1.184 (REsp 1.901.638): revogação da opção pela CPRB respeitou a noventena.
+- STF, Tema 277 (RE 566.007): DRU sem restituição.
+- STF, Tema 1.095 (RE 1.221.446): contrapartida; só lei amplia benefício.
+
+Remissões a outros capítulos: Tema 1.065 do STF (Cap. 3); ADIs 2.110 e 2.111 quanto à revisão da vida toda (Cap. 11) e à carência do salário-maternidade (Cap. 17); Temas 20 e 985 (e modulação, Info 1141) do STF e Temas 478, 737, 738, 740 e 1.252 do STJ (Cap. 3); Temas 516, 554, 651, 669 e 281 do STF (Cap. 4); Tema 833 do STF e Súmulas 688 do STF e 310 do STJ (Cap. 3); Súmula Vinculante 8 (Cap. 5); Súmula 466 do STF e RE 626.837 (Cap. 7); Temas 933 e 1.226 do STF (Cap. 24); RE 564.413 e Tema 674 do STF (Apostila de Direito Tributário, Cap. 6); CSLL e COFINS das entidades fechadas, Q3425331 (Cap. 27).
+
+
+# CAPÍTULO 03 — CUSTEIO II: CONTRIBUIÇÕES DOS SEGURADOS E SALÁRIO DE CONTRIBUIÇÃO
+
+## 03.9 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Contribuição do segurado | Tributo do art. 195, II, sobre o salário de contribuição (segurado especial: sobre a comercialização) | Progressividade é faculdade ("podendo"); anterioridade nonagesimal | CF, art. 195, II, § 6º e § 8º |
+| Imunidade | Não incide contribuição sobre aposentadoria e pensão do RGPS | Demais benefícios: não incidência legal; salário-maternidade INTEGRA | CF, art. 195, II; Lei 8.212, art. 28, § 2º e § 9º, a |
+| Aposentado que trabalha | Contribui sobre a nova remuneração | Só salário-família e reabilitação (empregado) | Lei 8.212, art. 12, § 4º; Tema 1.065 do STF |
+| Salário de contribuição | Empregado e avulso: remuneração que retribui o trabalho, inclusive gorjetas, utilidades habituais e adiantamentos; doméstico: remuneração da CTPS; CI: remuneração auferida; facultativo: valor declarado | Mês incompleto: proporcional; dirigente sindical: remuneração na entidade ou empresa; condutor autônomo: 20% do frete | Lei 8.212, art. 28, I a IV, §§ 1º, 10 e 11 |
+| Ganhos habituais | Integram e repercutem no benefício | "nos casos e na forma da lei"; norma da EC 20, não da EC 103 | CF, art. 201, § 11; Tema 20 do STF |
+| 13º salário | Integra (incide contribuição) | NÃO entra no cálculo do benefício; não serve a ajustes de competência | Art. 28, § 7º; Súmula 688 do STF; RPS, art. 216, § 27-B |
+| Limites | Mínimo: piso ou salário mínimo (empregado: mensal, diário ou horário); máximo: teto | 2026: 1.621,00 e 8.475,55; teto vale para TODOS os segurados, não para a patronal | Art. 28, §§ 3º a 5º; Portaria Interministerial MPS/MF 13/2026 |
+| § 9º | Rol taxativo ("exclusivamente") e condicionado | PLR conforme lei; previdência complementar e complementação de auxílio "à totalidade"; diárias sem limite desde 2017; prêmios e abonos fora | Art. 28, § 9º; Lei 13.467/2017; Súmula 646 do STJ (FGTS) |
+| Teses de verbas | Incide: terço de férias gozadas, insalubridade, auxílio-alimentação em pecúnia, 13º do aviso, aprendiz, salário-paternidade (até 2027) | Não incide: aviso prévio indenizado, 15 dias de afastamento, férias indenizadas, salário-maternidade (patronal) | Temas 985 e 72 do STF; Temas 478, 737, 738, 740, 1.164, 1.170, 1.252, 1.342 do STJ |
+| Previdência complementar restrita a dirigentes | Lei: integra (alínea p) | STJ 2026: não incide; art. 69, § 1º, da LC 109/2001 revogou tacitamente a universalidade | REsp 2.142.645/PE |
+| Empregado, doméstico, avulso | 7,5%, 9%, 12%, 14%, progressivas por faixa, desde 1/3/2020 | Antes: 8, 9 ou 11% sobre todo o salário; contribuição máxima de 2026: 988,09 (11,66%) | EC 103, arts. 28 e 36, I; RPS, art. 198 |
+| Presunção de desconto | Contribuição do empregado presume-se descontada e recolhida | Vale também para o CI prestador a empresa desde a Lei 10.666/2003 | Lei 8.212, art. 33, § 5º; Lei 8.213, art. 34, I |
+| Contribuinte individual | 20% sobre a remuneração, até o dia 15 (dia útil POSTERIOR) | Prestador a empresa: 11% retidos (dedução de 45% da patronal, até 9%); exceções do art. 4º, § 3º; TAC pode optar pelo recolhimento direto | Lei 8.212, arts. 21 e 30, II, § 2º, I, e § 4º; Lei 10.666, arts. 4º, 4º-A e 5º |
+| Plano simplificado | 11% do salário mínimo (CI por conta própria e facultativo); 5% (MEI e dona de casa de baixa renda); 12% (MEI transportador) | Exclui aposentadoria por tempo e contagem recíproca; complementação da diferença para 20% com juros, a qualquer tempo | Lei 8.212, art. 21, §§ 2º a 5º; LC 123, art. 18-F |
+| Facultativo de baixa renda | 5% | Sem renda própria, trabalho doméstico na própria residência, CadÚnico com renda de até 2 salários mínimos | Art. 21, § 2º, II, b, e § 4º; RPS, art. 199-A |
+| Competência abaixo do mínimo | Desde 13/11/2019, não conta (tempo, carência, qualidade de segurado, cálculo) | Complementar (7,5% ou 20%), utilizar excedente ou agrupar, no mesmo ano civil; irreversível; dependentes até 15 de janeiro | CF, art. 195, § 14; EC 103, art. 29; RPS, arts. 19-E e 216, §§ 27-A a 27-D |
+| Segurado especial | 1,2% + 0,1% da receita bruta da comercialização (mais 0,2% Senar) | Adquirente sub-rogado recolhe; venda direta ao consumidor, ao exterior ou a outro produtor: o próprio segurado; facultativa de 20% para benefício maior ou aposentadoria por tempo | Lei 8.212, arts. 25 e 30, III, IV, X e XII; Tema 723 do STF; Súmula 272 do STJ |
+| Repetição pelo segurado | Contra a União, na Justiça Federal | Inclusão de verba no benefício: contra o INSS | Lei 11.457/2007; CF, art. 109, I |
+
+## 03.10 Artigos de lei incidentes
+
+- Constituição Federal: art. 7º, XI; art. 40, § 18; art. 149, § 1º-A; art. 195, II, §§ 5º, 6º, 8º e 14; art. 201, §§ 2º, 5º, 7º, II, 11, 12 e 13.
+- EC 103/2019: arts. 28, 29 e 36, I e III.
+- Lei 8.212/1991: arts. 12, § 4º; 20; 21, caput e §§ 2º a 5º; 22, I, III, §§ 2º e 13; 24; 25, caput, I, II e §§ 1º, 3º, 10 e 12; 28, I a IV e §§ 1º a 5º, 7º, 9º, 10 e 11; 30, I, II, III, IV, V, X, XII, §§ 2º, 4º, 5º, 7º, 8º e 9º; 33, § 5º; 43, § 2º.
+- Lei 8.213/1991: arts. 11, § 3º; 18, § 2º; 27, I; 34, I; 39, I.
+- Lei 10.666/2003: arts. 4º, § 3º, 4º-A (Lei 15.485/2026) e 5º.
+- LC 123/2006: arts. 18-A e 18-F, III.
+- LC 109/2001: art. 69, § 1º.
+- CLT: arts. 457, § 2º, e 470.
+- Lei 10.101/2000 (PLR); Lei 11.457/2007 (Receita Federal do Brasil); Lei 9.430/1996, art. 5º, § 3º.
+- Decreto 3.048/1999: arts. 19-E; 198; 199; 199-A; 200; 214; 216, §§ 27-A a 27-D.
+- Portaria Interministerial MPS/MF 13/2026 (valores de 2026).
+
+## 03.11 Julgados, temas e súmulas do capítulo
+
+- STF, Tema 20: contribuição incide sobre ganhos habituais, antes ou depois da EC 20/1998.
+- STF, Tema 985 e RE 1.072.485 ED (Info 1141): incide sobre o terço de férias gozadas; modulação para pagamentos não questionados.
+- STF, Tema 723: constitucional a contribuição do segurado especial sobre a comercialização.
+- STF, Tema 1.065: constitucional a contribuição do aposentado que volta a trabalhar.
+- STF, Súmulas 241, 466 e 688: abono incorporado integra; sócios e administradores contribuem; 13º integra.
+- STJ, REsp 1.230.957/RS (13/5/2026): cancela os Temas 479 e 739; mantém os Temas 478, 737, 738 e 740.
+- STJ, Temas 478, 737, 738 e 740: aviso prévio indenizado, férias indenizadas e 15 dias fora; salário-paternidade dentro.
+- STJ, Tema 1.164: auxílio-alimentação em pecúnia integra.
+- STJ, Tema 1.170: 13º proporcional do aviso prévio indenizado integra.
+- STJ, Tema 1.174: descontos em folha não reduzem a base.
+- STJ, Tema 1.252: adicional de insalubridade integra.
+- STJ, Tema 1.342 e AgInt no AREsp 2.520.394/RS: remuneração do aprendiz integra.
+- STJ, Tema 501: correção monetária de verbas remuneratórias integra.
+- STJ, REsp 2.142.645/PE (Info 897): previdência complementar só de dirigentes não sofre incidência (art. 69, § 1º, da LC 109/2001).
+- STJ, Súmulas 272, 310, 458 e 646: facultativas do segurado especial; auxílio-creche fora; corretor de seguros; rol taxativo para o FGTS.
+
+Remissões a outros capítulos: Temas 72 e 1.223 do STF (Cap. 2); Lei 15.371/2026, salário-paternidade (Cap. 17); LC 224/2025 e alíquotas do empregador rural (Cap. 4); Tema 1.070 do STJ (soma de concomitantes, Cap. 11); Tema 1.238 do STJ (aviso prévio indenizado não é tempo, Cap. 9); Tema 933 e Tema 1.226 do STF (alíquotas do RPPS, Cap. 24); Temas 281, 651 e 669 do STF (rural PF e PJ, Cap. 4); Tema 1.103 do STJ (indenização de período pretérito, Caps. 5 e 9); contribuições patronais, terceiros e mandado de segurança das empresas (Cap. 4 e Apostila de Direito Tributário, Cap. 26).
+
+
+# CAPÍTULO 04 — CUSTEIO III: CONTRIBUIÇÕES DAS EMPRESAS, DO EMPREGADOR DOMÉSTICO, DO SETOR RURAL E DEMAIS FONTES DA SEGURIDADE
+
+## 04.12 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Fontes do art. 195 | I folha, receita, lucro; II segurados; III prognósticos; IV importador; V CBS | § 9º: alíquotas diferenciadas para todo o inciso I; bases diferenciadas só para receita e lucro | CF, art. 195; EC 103/2019, art. 30 |
+| Empresa e equiparados | empresa inclui entidades sem fins lucrativos e administração pública | equiparados: contribuinte individual, dono de obra pessoa física, cooperativa, associação, missão diplomática; doméstico é categoria própria | Lei 8.212, art. 15 |
+| Cota patronal | 20% sobre empregados e avulsos (I) e sobre contribuintes individuais (III) | sem teto; Municípios com FPM inferior a 4,0: 8% (2024), 12% (2025), 16% (2026), 20% (2027) | art. 22, I, III, §§ 17 e 18 |
+| Base patronal | remunerações que retribuem trabalho, inclusive gorjetas e utilidades habituais | fora: salário-maternidade, aviso prévio indenizado, 15 primeiros dias, art. 28, § 9º; dentro: terço de férias (modulado), insalubridade, aprendiz, 13º | Temas 72 e 985 do STF; Temas 478, 738, 1.170, 1.252, 1.342 do STJ |
+| Transportador autônomo | base: 20% do valor do frete | percentual por decreto, antes da lei, inconstitucional | art. 22, § 15; Tema 1.223 do STF |
+| RAT | 1%, 2% ou 3% conforme risco da atividade preponderante, sobre empregados e avulsos | por estabelecimento (CNPJ); preponderante = maior número de segurados | art. 22, II; Decreto 3.048, art. 202; Súmula 351 do STJ |
+| FAP | multiplicador de 0,5 a 2,0 (reduz até 50%, aumenta até 100%) | índices de frequência, gravidade e custo; dois anos de dados; efeitos no quarto mês após a divulgação | Lei 10.666, art. 10; Decreto 3.048, art. 202-A; Tema 554 do STF |
+| Adicional especial | 12, 9 ou 6 pontos (15, 20 ou 25 anos) | EXCLUSIVAMENTE sobre a remuneração do exposto | Lei 8.213, art. 57, §§ 6º e 7º |
+| Instituições financeiras | adicional de 2,5% sobre as bases dos incisos I e III | constitucional antes e depois da EC 20 | art. 22, § 1º; Temas 204 e 470 do STF |
+| Cooperativas de trabalho | 15% do tomador sobre a fatura: inconstitucional | LC 84/1996 (15% da cooperativa, 1996 a 1999): constitucional; adicionais 9/7/5 (tomador) e 12/9/6 (cooperativa de produção) | Tema 166 e Tema 516 do STF; Res. Senado 10/2016; Lei 10.666, art. 1º |
+| Empregador doméstico | 8% + 0,8% | Simples Doméstico com FGTS 8% e 3,2%; não pode contratar MEI como doméstico | Lei 8.212, art. 24; LC 150, art. 34 |
+| MEI com empregado | 3% sobre o salário de contribuição | um único empregado | LC 123, art. 18-C |
+| Produtor rural pessoa física | 1,2% + 0,1% da receita, + Senar 0,2% (1,32% + 0,11% desde 1/4/2026, LC 224/2025) | opção anual pela folha desde 2019; inconstitucional antes de 1/1/2018, com a sub-rogação (ADI 4.395, 15/10/2026) | Lei 8.212, art. 25; Temas 669 e 801 do STF |
+| Sub-rogação | adquirente, consumidor, consignatário ou cooperativa recolhe | produtor recolhe se vende ao exterior, no varejo, a outro produtor pessoa física ou a segurado especial | art. 30, III, IV, X a XIII |
+| Pessoa jurídica rural | 1,7% + 0,1%, + Senar 0,25% (1,87% + 0,11% desde 1/4/2026) | opção pela folha; inconstitucional antes da EC 20 | Lei 8.870, art. 25; Tema 651 do STF |
+| Agroindústria | 2,5% + 0,1%, + Senar 0,25% | não se aplica a cooperativas, piscicultura, carcinicultura, suinocultura, avicultura e celulose | art. 22-A; Tema 281 do STF |
+| Consórcio simplificado | equiparado ao produtor pessoa física | solidariedade dos integrantes | arts. 22-B e 25-A |
+| Futebol | associação: 5% da receita de espetáculos, patrocínio, marcas, publicidade, transmissão | retenção pela promotora em 2 dias úteis e pelo patrocinador; SAF: TEF de 5% nos 5 primeiros anos e 4% depois | art. 22, §§ 6º a 11-A; Lei 14.193, arts. 31 e 32 |
+| CPRB | substitui só art. 22, I e III | opcional; ICMS, ISS, PIS e COFINS na base; transição 2025 a 2027 (80/25, 60/50, 40/75); fim em 2028 | Lei 12.546, arts. 7º a 9º-B; Tema 1.184 do STJ |
+| Prognósticos | receita de concursos, sorteios e loterias | destinação à seguridade como um todo | CF, art. 195, III; Lei 8.212, art. 26 |
+| Importador | PIS/COFINS-Importação | extinção futura pela CBS | CF, art. 195, IV; Lei 10.865 |
+| Terceiros | salário-educação, Sistema S, Sebrae, Incra sobre a folha | sem teto de 20 salários mínimos | Temas 1.079 e 1.390 do STJ |
+
+## 04.13 Artigos de lei incidentes
+
+- CF: art. 149, § 2º; art. 195, I a V, §§ 4º, 8º, 9º, 12 e 13 (revogado); art. 240.
+- EC 103/2019: art. 30.
+- Lei 8.212/1991: arts. 15, 22 (I a IV, §§ 1º, 2º, 6º a 11-A, 13 a 18), 22-A, 22-B, 23, 24, 25 (§§ 1º a 3º, 10 a 16), 25-A, 26, 27 e 30, III, IV e X a XIII.
+- Lei 8.213/1991: art. 57, §§ 6º e 7º.
+- Lei 8.870/1994: arts. 25 e 25-A.
+- Lei 10.666/2003: arts. 1º e 10.
+- Decreto 3.048/1999: arts. 202 e 202-A.
+- Lei 12.546/2011: arts. 7º, 7º-A, 8º, 8º-A, 9º, 9º-A e 9º-B.
+- LC 150/2015: art. 34.
+- LC 123/2006: art. 18-C.
+- Lei 14.193/2021: arts. 31 e 32.
+- Lei 13.756/2018 (prognósticos); Lei 10.865/2004 (importação); Lei 9.718/1998, art. 3º, § 4º (câmbio).
+
+## 04.14 Julgados, temas e súmulas do capítulo
+
+- STF, Tema 554 (RE 677.725): FAP respeita a legalidade.
+- STF, Tema 166 (RE 595.838): 15% do tomador de cooperativa de trabalho inconstitucional.
+- STF, Tema 516 (RE 597.315): 15% da LC 84/1996 a cargo da cooperativa constitucional.
+- STF, Tema 669 (RE 718.874) e ED (Info 903): Funrural da Lei 10.256/2001 válido; Resolução 15/2017 não o afeta.
+- STF, ADI 4.395 (15/10/2026): Funrural e sub-rogação inconstitucionais antes de 1/1/2018; sem modulação por ora.
+- STF, ADI 7.633 (30/4/2026): arts. 1º, 2º, 4º e 5º da Lei 14.784/2023 inconstitucionais sem pronúncia de nulidade; tese sobre art. 14 da LRF e art. 113 do ADCT.
+- STF, Tema 651 (RE 700.922): rural pessoa jurídica, receita só após a EC 20 e Lei 10.256; Senar válido.
+- STF, Tema 801 (RE 816.830): Senar sobre a receita do produtor pessoa física válido.
+- STF, Tema 281 (RE 611.601): agroindústria (art. 22-A) válida.
+- STJ, Súmula 351: RAT por CNPJ ou atividade preponderante.
+- STJ, Tema 1.184 (REsp 1.901.638): irretratabilidade da CPRB só vincula o contribuinte.
+- STJ, Temas 1.079 e 1.390: terceiros sem teto de 20 salários mínimos.
+
+Remissões a outros capítulos: Temas 72, 204, 470 e 1.223 do STF (Cap. 2); Temas 20 e 985 do STF, Temas 478, 737, 738, 740, 1.164, 1.170, 1.174, 1.252 e 1.342 do STJ, Súmulas 688 do STF e 458 do STJ, REsp 2.142.645/PE (Cap. 3; aspecto processual na Apostila de Direito Tributário, Cap. 26); Tema 1.290 do STJ e Lei 15.371/2026 (Cap. 17); Temas 1.048, 1.135 e 1.186 do STF e Tema 994 do STJ (Apostila de Direito Tributário, 26.9); Súmulas 516, 666 e 732 (Apostila de Direito Tributário, Cap. 3); Tema 723 do STF, segurado especial (Cap. 3); Tema 555 do STF (Cap. 10).
+
+
+# CAPÍTULO 05 — ARRECADAÇÃO, RESPONSABILIDADE E CONTENCIOSO DO CUSTEIO: PRAZOS E OBRIGAÇÕES ACESSÓRIAS (ESOCIAL, DCTFWEB), RETENÇÃO NA CESSÃO DE MÃO DE OBRA E NA CONSTRUÇÃO CIVIL, RESPONSABILIDADE SOLIDÁRIA E DE TERCEIROS, CND, DECADÊNCIA E PRESCRIÇÃO DAS CONTRIBUIÇÕES (SV 8), RESTITUIÇÃO, COMPENSAÇÃO, CRIMES CONTRA A PREVIDÊNCIA EM NOÇÃO; COMPETÊNCIA DA JUSTIÇA DO TRABALHO PARA A EXECUÇÃO DE CONTRIBUIÇÕES
+
+## 05.10 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Quem arrecada e cobra | RFB fiscaliza, lança e arrecada; dívida ativa da União; PGFN executa na JF | RPPS: unidade gestora; JT executa de ofício o objeto de suas condenações | Lei 11.457/2007, arts. 2º e 16; Lei 8.212, art. 33 |
+| Desconto presumido | empresa que devia descontar responde como se tivesse descontado | segurado empregado não é prejudicado pelo não recolhimento | Lei 8.212, art. 33, § 5º |
+| Prazos | empresa, doméstico (contribuições), CI a serviço de empresa, adquirente rural, retenção: dia 20; CI e facultativo: dia 15 | sem expediente: dia 15 prorroga, dia 20 antecipa; salário do doméstico: dia 7 | Lei 8.212, art. 30, I, b, II, V, § 2º; Lei 14.438/2022, art. 10; Lei 10.666/2003, art. 4º |
+| Acréscimos | multa de mora de 0,33% ao dia até 20% + Selic; de ofício, 75% | multa qualificada maior; retroatividade benigna | Lei 8.212, arts. 35 e 35-A; Lei 9.430, arts. 44 e 61 |
+| Obrigação acessória | declaração (GFIP, hoje eSocial + EFD-Reinf + DCTFWeb) confessa o débito e alimenta o CNIS | devida mesmo sem fato gerador; falta impede certidão; RPPS fora da DCTFWeb | Lei 8.212, art. 32, IV, §§ 2º, 9º e 10 |
+| Multa por atraso na declaração | 2% ao mês ou fração, até 20%, mesmo com tributo pago | metade se espontânea; 75% se no prazo da intimação; mínimos de 200 e 500 | Lei 8.212, art. 32-A |
+| Retenção | 11% do bruto da nota; recolhe em nome da cedente até o dia 20 do mês seguinte à emissão | cedente compensa em qualquer estabelecimento; saldo restitui; Simples prestador não sofre retenção (ressalva do Anexo IV) | Lei 8.212, art. 31; Tema 80 e Súmula 425 do STJ |
+| Construção civil | proprietário, incorporador, dono da obra, condômino, construtor e subempreiteira solidários, sem benefício de ordem | adquirente de incorporador excluído; unifamiliar econômica sem assalariado não paga; aferição por área | Lei 8.212, arts. 30, VI a VIII, 33, § 4º, 49, § 1º |
+| Grupo econômico | solidariedade legal | STJ exige mais que a só existência do grupo; CARF dispensa interesse comum (Súmula 210) | Lei 8.212, art. 30, IX; CTN, art. 124 |
+| Outros solidários | administradores da indireta em mora por mais de 30 dias; contratantes e oficial em ato sem CND | sócios: só art. 135 do CTN (Tema 13 do STF; Súmula 430 do STJ) | Lei 8.212, arts. 42 e 48 |
+| CND | contratação com o Poder Público, alienação ou oneração de imóvel, móvel do ativo acima do valor legal, atos societários, averbação de obra | validade de 180 dias; dispensas do § 6º; ato sem CND é nulo | CF, art. 195, § 3º; Lei 8.212, arts. 47 e 48 |
+| Decadência | 5 anos (CTN), não 10 | pagamento parcial: art. 150, § 4º; nada pago: art. 173, I; competência dezembro começa um ano depois | SV 8; Súmula 555 do STJ |
+| Prescrição | 5 anos da constituição definitiva | declarado e não pago: da entrega ou do vencimento, o que for posterior | CTN, art. 174; Súmula 436 do STJ |
+| Restituição e compensação | só de pagamento indevido ou a maior; Selic | compensação cruzada só entre períodos pós-eSocial; falsidade: multa isolada em dobro | Lei 8.212, art. 89; Lei 11.457, art. 26-A |
+| Parcelamento | até 60 meses; remissão e anistia só na forma de LC | retidos e descontados: vedado o parcelamento ordinário; Municípios: 300 meses (ADCT, art. 116) | CF, art. 195, § 11; Lei 10.522, arts. 10 e 14 |
+| Justiça do Trabalho | executa de ofício contribuições do art. 195, I, a, e II, do objeto da condenação ou do acordo | não executa as do vínculo só declarado nem as de terceiros; sem discriminação, incide sobre o total | CF, art. 114, VIII; SV 53; Lei 8.212, art. 43 |
+| Crimes | não repassar o descontado: 168-A; fraudar a apuração: 337-A | extinção no 337-A dispensa pagamento; devedor contumaz excluído (LC 225/2026); crimes materiais | CP, arts. 168-A e 337-A |
+
+## 05.11 Artigos de lei incidentes
+
+- CF: arts. 114, VIII; 146, III, b; 195, § 3º e § 11. ADCT: art. 116 (EC 136/2025).
+- Lei 8.212/1991: arts. 30 (I, II, III, IV, V, VI, VII, VIII, IX, X, XIII, §§ 2º, 3º e 4º); 31; 32 (I a IV e VI, §§ 2º, 9º, 10 e 11); 32-A; 33 (§§ 1º a 8º); 35; 35-A; 37; 39; 42; 43; 45 e 46 (revogados; SV 8); 45-A; 47; 48; 49, § 1º; 50; 51; 52; 89.
+- Lei 11.457/2007: arts. 2º, 16 e 26-A.
+- Lei 10.666/2003: art. 4º.
+- Lei 14.438/2022: arts. 10, 11 e 19. LC 150/2015: arts. 34 e 35.
+- Lei 9.430/1996: arts. 44, 61 e 74.
+- Lei 10.522/2002: arts. 10 e 14.
+- CTN: arts. 124, 128, 135, 150, § 4º, 168, 170-A, 173, 174, 186, 205 e 206.
+- Código Penal: arts. 168-A e 337-A.
+- Decreto 3.048/1999: art. 219 (retenção).
+
+## 05.12 Julgados, temas e súmulas do capítulo
+
+- Súmula Vinculante 8: arts. 45 e 46 da Lei 8.212/1991 inconstitucionais; prazos do CTN.
+- Súmula Vinculante 53: JT executa de ofício contribuições do objeto da condenação e dos acordos.
+- STJ, Tema 80: a retenção de 11% não criou tributo, só mudou a forma de recolhimento.
+- STJ, Tema 171 e Súmula 425: prestadora optante pelo Simples não sofre retenção.
+- STJ, REsp 1.652.347-SC: terceirização ilícita; tomadora responde pelas contribuições.
+- STJ, REsp 1.511.682: grupo econômico, por si só, não basta para a solidariedade.
+- Súmula 210 do CARF: art. 30, IX, sem prova de interesse comum (esfera administrativa).
+- STJ, REsp 2.109.311: compensação cruzada; período de apuração do tributo, não do trânsito.
+- STJ, AgInt no REsp 2.149.080-RS: afastamento da Lei 14.151/2021 não se compensa como salário-maternidade.
+
+Remissões a outros capítulos: Súmulas 436, 446, 555, 360, 430, 213 e 460 do STJ, Temas 4, 13 e 390 do STF, Tema 1.209 do STJ e a modulação da SV 8 (Apostila Trib., Caps. 10, 12, 13, 14, 15, 16, 19 e 22); Tema 985 do STF (Cap. 4); tipos penais, natureza material e devedor contumaz (Apostila de Direito Penal, Caps. 30 e 36).
+
+
+# CAPÍTULO 06 — REGIMES PREVIDENCIÁRIOS: RGPS, RPPS, MILITARES E PREVIDÊNCIA COMPLEMENTAR
+
+## 06.10 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Estruturas previdenciárias | RGPS, RPPS, militares (SPSM) e RPC | Lei 8.213, art. 9º: RGPS + "regime facultativo complementar"; Decreto 3.048, art. 6º: RGPS + RPPS de servidores e militares | arts. 40, 42, 142, 201 e 202 da CF |
+| Modelos | previdência bismarckiana (contributiva); seguridade com traço beveridgiano | eixo distinto: repartição x capitalização | doutrina |
+| Repartição x capitalização | RGPS e RPPS: repartição; RPC: reservas (capitalização) | modelo nocional = CD em repartição; EC 103 NÃO criou capitalização | art. 202; 6.2 |
+| Insuficiência do RGPS | coberta pela União | na forma da LOA | Lei 8.212, art. 16, parágrafo único |
+| RGPS | contributivo, filiação obrigatória, equilíbrio, residual | desemprego involuntário não é pago pelo INSS; reclusão e salário-família só baixa renda | art. 201 |
+| Exclusão do RGPS | servidor efetivo e militar amparados por RPPS | condicional ("desde que amparados") e parcial (atividade concomitante gera filiação) | Lei 8.213, art. 12 |
+| Destinatário do RPPS | titular de cargo efetivo; magistrados, MP, TC | estabilizados do art. 19 do ADCT sem concurso: RGPS (Tema 1.254) | art. 40, caput; arts. 73, 93, 129 |
+| Agentes no RGPS | comissionado puro, temporário, mandato eletivo, emprego público | efetivo em mandato: RPPS de origem (art. 38, V); cedido: origem (Lei 9.717, art. 1º-A) | art. 40, § 13 |
+| Regimes alternativos | inconstitucionais | ADI 3.106, ADI 4.639, ADPF 446, ADPF 745 | art. 40, § 13 |
+| Compulsória | não se aplica a comissionado puro | Tema 763 | art. 40, § 1º, II |
+| Tribunal de Contas | registra concessões do RPPS e militares | aposentadoria do RGPS (comissionado, servidor de Município sem RPPS, empregado público) não se registra; prazo de 5 anos da chegada (Tema 445) | art. 71, III |
+| Fontes do RPPS | competência concorrente; normas gerais federais + lei do ente | até a LC do § 22: Lei 9.717 + art. 9º da EC 103; Lei 10.887 em parte só para a União (ADI 4.582); sanções federais válidas (Tema 968) | art. 24, XII; art. 40, § 22 |
+| Rol do RPPS | só aposentadorias e pensão | incapacidade temporária e salário-maternidade pagos pelo ente | EC 103, art. 9º, §§ 2º e 3º |
+| Unicidade | um RPPS e uma gestora por ente, todos os Poderes | prazo de 2 anos para adequação | art. 40, § 20; EC 103, art. 9º, § 6º |
+| Novos RPPS | vedados desde 13/11/2019 | nem com estudo atuarial, nem para parte dos servidores | art. 40, § 22 |
+| Extinção | por lei do ente, com migração ao RGPS | assunção de concedidos e direito adquirido; ressarcimento de quem contribuiu acima do teto; reservas vinculadas; superávit não impede | EC 103, art. 34; Lei 9.717, art. 10 |
+| Militares | SPSM, fora do art. 40 | legislação do RPPS não se aplica (DL 667, art. 24-E); alíquota de inativos estaduais: competência estadual (Tema 1.177); não se unifica com RPPS (ADI 6.917) | arts. 42, 142, 22, XXI; Lei 13.954 |
+| Transição dos militares estaduais | faltante + 17% (mínimo de 30 anos ou menos) | direito adquirido até 31/12/2019 | DL 667, arts. 24-F e 24-G |
+| RPC (art. 202) | privado, complementar, autônomo, facultativo, reservas, LC | aporte público só como patrocinador, nunca acima do participante | art. 202; LC 108 e 109 |
+| RPC do servidor | obrigatório; somente CD; iniciativa do Executivo | quem ingressou antes: só com opção prévia e expressa; por ora só EFPC | art. 40, §§ 14 a 16; EC 103, arts. 9º, § 6º, e 33 |
+| Facultativo | vedado a quem participa de RPPS | salvo afastamento sem vencimento sem possibilidade de contribuir ao RPPS | art. 201, § 5º; Decreto 3.048, art. 11, § 2º |
+| Dupla filiação | obrigatória se o servidor exerce atividade abrangida pelo RGPS | permite duas aposentadorias com tempos distintos; tempo concomitante não se conta duas vezes na contagem recíproca | Lei 8.213, arts. 11, § 2º, 12, § 1º, e 96 |
+| Aposentado do RGPS que trabalha | segurado obrigatório, contribui | só salário-família e reabilitação, quando empregado | Lei 8.213, arts. 11, § 3º, e 18, § 2º |
+| Contribuição do inativo do RPPS | sobre o que excede o teto do RGPS | com déficit: sobre o que excede o salário mínimo; extraordinária por até 20 anos | art. 40, § 18; art. 149, §§ 1º-A a 1º-C; EC 103, art. 9º, § 8º |
+| Vigência da EC 103 nos entes | imediata em geral | art. 149 e revogação das transições anteriores dependem de lei referendária | EC 103, art. 36 |
+| Empréstimos com recursos do RPPS | consignados admitidos | Lei 9.717, art. 6º, V, vedava | EC 103, art. 9º, § 7º |
+
+## 06.11 Artigos de lei incidentes
+
+- Constituição Federal: arts. 22, XXI; 24, XII; 38, IV e V; 40, caput e §§ 1º a 6º, 9º, 10, 11, 13 a 16, 18, 20 e 22; 42, §§ 1º e 2º; 71, III; 142, § 3º, X; 149, §§ 1º a 1º-C; 195, II; 201, caput, I a V, §§ 2º, 5º, 8º-A, 9º, 9º-A e 14; 202, caput e §§ 1º a 6º.
+- EC 103/2019: arts. 9º (caput e §§ 1º a 9º), 10, § 1º, I, 14, 33, 34, 35 e 36.
+- Lei 8.212/1991: arts. 13 e 16, parágrafo único.
+- Lei 8.213/1991: arts. 9º, 11, I, g, h e j, §§ 2º, 3º e 5º, 12, 13, 18, § 2º, e 96.
+- Decreto 3.048/1999: arts. 6º, 10 e 11 (§§ 2º, 3º e 5º).
+- Lei 9.717/1998: arts. 1º (I, V e VI; § 2º), 1º-A, 5º, 6º, V, 9º e 10.
+- Decreto-Lei 667/1969 (redação da Lei 13.954/2019): arts. 24-A a 24-J.
+- Lei 6.880/1980: art. 50-A.
+- LC 109/2001: art. 1º. LC 108/2001 (noção). Lei 12.618/2012 (noção). LC 152/2015 (compulsória aos 75).
+
+## 06.12 Julgados, temas e súmulas do capítulo
+
+- STF, Tema 1.254: estabilizados do art. 19 do ADCT e admitidos sem concurso ficam fora do RPPS, com modulação.
+- STF, ADI 3.106: inconstitucional regime previdenciário especial estadual para agentes não efetivos.
+- STF, ADI 4.639: idem, regime alternativo para agentes não remunerados pelos cofres públicos (Goiás).
+- STF, ADPF 446: a EC 20/1998 restringiu o RPPS aos efetivos e vedou regimes alternativos.
+- STF, ADPF 745: inconstitucional aposentadoria especial a ex-governadores pelo mero exercício do mandato.
+- STF, Tema 763: comissionado puro não se submete à aposentadoria compulsória.
+- STF, Tema 445: Tribunal de Contas tem cinco anos, da chegada do processo, para julgar a concessão inicial.
+- STF, ADI 4.582: reajuste fixado pela Lei 10.887/2004 só vale para a União (limite das normas gerais).
+- STF, Tema 968: válidas as sanções federais ao ente que descumpre as normas gerais dos RPPS; controle judicial com prova técnica.
+- STF, Tema 1.177: Estados fixam a alíquota de seus militares inativos e pensionistas.
+- STF, ADI 6.917: vedada a unificação do regime dos militares estaduais com o RPPS civil.
+- STF, ADO 28: aos militares estaduais só se aplica o art. 40, § 9º, do regime dos servidores.
+- STF, Tema 160: válida a contribuição de militares inativos, inclusive entre as ECs 20 e 41.
+
+Remissões a outros capítulos: mandato eletivo no RGPS, Tema 691 do STF (RE 626.837) (Cap. 7); contribuição de inativos e alíquotas (Cap. 24); contagem recíproca e compensação, art. 96 da Lei 8.213/1991 (Cap. 26); acumulação, art. 24 da EC 103/2019 (Cap. 12 e 28); aposentadorias do servidor e transições (Cap. 23); RPC, Súmulas 563 e 505 do STJ (Cap. 27); competência delegada (Cap. 20); LC SC 412/2008 (Cap. 25).
+
+
+# CAPÍTULO 07 — RGPS: RELAÇÃO JURÍDICA I — SEGURADOS OBRIGATÓRIOS E FACULTATIVOS, FILIAÇÃO E INSCRIÇÃO
+
+## 07.12 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Filiação | Vínculo jurídico; automática com a atividade remunerada para os obrigatórios | Facultativo: inscrição + 1ª contribuição, sem retroação; trabalho gratuito e voluntário não filiam | Decreto, art. 20; art. 11, §§ 3º e 4º |
+| Inscrição | Ato cadastral no CNIS, por empregador, OGMO, sindicato, contratante ou pelo próprio | Mínimo de 16 anos; uma para cada atividade; NIT ou CPF; PIS, Pasep e NIS dispensam novo cadastro | Decreto, art. 18 |
+| Inscrição *post mortem* | Vedada para contribuinte individual e facultativo | Admitida para segurado especial | Lei 8.213, art. 17, § 7º; Decreto, art. 18, §§ 5º a 5º-B |
+| Compulsoriedade | Filiação obrigatória, sem renúncia; cada atividade gera filiação | Aposentado que volta é obrigatório, sem novas prestações (salvo salário-família e reabilitação ao empregado) | CF, art. 201; Lei 8.213, arts. 11, §§ 2º e 3º, e 18, § 2º |
+| Idade | 16 anos (aprendiz 14); doméstico 18; facultativo 14 na lei e 16 no decreto | Trabalho infantil efetivo conta: Súmula 5 TNU (12 a 14 até 24/7/1991), Tema 219 TNU e STJ (qualquer idade, com prova) | CF, art. 7º, XXXIII; LC 150, art. 1º |
+| Empregado | Relação de emprego + rol casuístico | Organismo internacional no Brasil e brasileiro no exterior para a União (empregado) x brasileiro no exterior para o organismo (contribuinte individual) | Lei 8.213, art. 11, I |
+| Agentes públicos | Cargo em comissão, temporário, emprego público, efetivo sem RPPS, mandato sem RPPS: empregados | Servidor efetivo com RPPS fora do RGPS, salvo atividade privada | Lei 8.213, arts. 11, I, g e j, e 12; CF, art. 40, § 13 |
+| Mandato eletivo | Sem RPPS: empregado (alínea j, Lei 10.887/2004; Tema 691 STF) | Servidor efetivo eleito: RPPS de origem (CF, art. 38, V); alínea h (Lei 9.506/1997) suspensa pelo Senado | CF, art. 38; Res. SF 26/2005 |
+| Doméstico | Contínuo, residencial, sem fins lucrativos, mais de 2 dias por semana | Diarista até 2 dias é contribuinte individual; vínculo doméstico entre cônjuges não é reconhecido | LC 150, art. 1º; Decreto, art. 9º, § 15, VI, e § 27 |
+| Avulso | Diversas empresas, sem vínculo, intermediação obrigatória do OGMO ou sindicato | Sem intermediação: eventual (contribuinte individual) | Lei 8.213, art. 11, VI; Decreto, art. 9º, VI |
+| Contribuinte individual | Conta própria, eventual, empresário e sócio remunerados, religioso, produtor rural fora dos limites, garimpeiro | Síndico e dirigentes só se remunerados; equipara-se a empresa quando contrata | Lei 8.213, arts. 11, V, e 14, parágrafo único |
+| MEI | Receita de até 81.000 reais; um empregado; 5% do salário mínimo | Sem aposentadoria por tempo de contribuição e contagem recíproca, salvo complementação de 15%; competência não paga não conta para carência | LC 123, arts. 18-A e 18-C; Lei 8.212, art. 21, §§ 2º e 3º |
+| Segurado especial | Até 4 módulos fiscais, residência no imóvel ou em município próximo, economia familiar sem empregados permanentes, filhos maiores de 16 anos | 120 pessoas/dia; não descaracterizam: parceria até 50% em imóvel até 4 módulos, turismo até 120 dias, previdência classista, programa assistencial, beneficiamento artesanal, cooperativa vinculada | Lei 8.213, art. 11, VII e §§ 1º, 7º e 8º |
+| Outra renda do segurado especial | Descaracteriza o membro que a tem | Exceções: pensão, auxílio-acidente ou auxílio-reclusão até o mínimo; atividade até 120 dias; dirigente sindical rural; vereador no município; artesanato e arte até o mínimo | Lei 8.213, art. 11, § 9º (Lei 15.072/2024) |
+| Exclusão do segurado especial | 1º dia do mês da ocorrência (mudança de condição) | 1º dia do mês subsequente (excesso de limites quantitativos); mantém-se o período de graça | Lei 8.213, art. 11, § 10 |
+| Atividade urbana de membro | Não descaracteriza por si só os demais | Verificar a dispensabilidade do trabalho rural | Tema 532 STJ; Súmulas 41 e 46 TNU |
+| Área acima de 4 módulos | Letra da lei: contribuinte individual | Não descaracteriza por si só o regime de economia familiar (Tema 1.115 STJ; Súmula 30 TNU) | Lei 8.213, art. 11, V, a |
+| Prova do segurado especial | Desde 1/1/2023, só o cadastro no CNIS | Antes: autodeclaração ratificada + art. 106; atualização anual até 30/6; vedada após 5 anos | Lei 8.213, arts. 38-A, 38-B e 106 |
+| Facultativo | Sem atividade vinculante, sem RPPS, maior de 16 anos | Rol exemplificativo; exceção do afastamento sem vencimento; dona de casa de baixa renda com 5% (CadÚnico, até 2 salários mínimos) | CF, art. 201, §§ 5º, 12 e 13; Decreto, art. 11 |
+| Estrangeiro | Territorialidade: filia-se pela atividade no Brasil | Exclusão do não brasileiro sem residência permanente em missão diplomática; acordos: deslocamento temporário e totalização *pro rata* | Lei 8.213, art. 11, I, c, d e f |
+| Dirigente sindical | Mantém o enquadramento anterior | Magistrado eleitoral idem; se aposentado, contribuinte individual | Lei 8.213, art. 11, § 4º; Decreto, art. 9º, § 11 |
+
+## 07.13 Artigos de lei incidentes
+
+- CF: art. 7º, XXXIII e XXXIV, e parágrafo único; art. 38, III a V; art. 40, § 13; art. 195, § 8º; art. 201, *caput*, §§ 5º, 7º, II, 12 e 13; art. 202.
+- EC 103/2019: art. 14, *caput* e § 1º.
+- Lei 8.213/1991: arts. 11 (incisos I a VII e §§ 1º a 12), 12, 13, 14, 17 (§§ 1º, 4º, 5º e 7º), 18, §§ 1º e 2º, 38-A, 38-B, 55, IV e § 2º, e 106.
+- Lei 8.212/1991: arts. 12 (incisos e §§ 1º a 14), 13, 14 e 21, §§ 2º a 5º.
+- Decreto 3.048/1999: arts. 9º (incisos I a VII e §§ 2º a 28), 11, 18 e 20.
+- LC 150/2015: art. 1º.
+- LC 123/2006: arts. 18-A (§§ 1º, 2º, 4º, 12, 15 e 15-B) e 18-C.
+- Lei 10.887/2004 (alínea j do art. 11, I, da Lei 8.213/1991); Lei 9.506/1997 (alínea h, suspensa pela Resolução do Senado 26/2005).
+- Lei 13.846/2019 (arts. 17, § 7º, 38-A e 38-B da Lei 8.213/1991); Lei 15.072/2024 (art. 11, § 8º, VI, e § 9º, V, da Lei 8.213/1991).
+- Lei 12.815/2013 e Lei 12.023/2009 (avulsos); Lei 11.959/2009 (pesca); Lei 11.788/2008 (estágio).
+
+## 07.14 Julgados, temas e súmulas do capítulo
+
+- STF, Tema 691 (RE 626.837): contribuição dos exercentes de mandato eletivo sem RPPS após a Lei 10.887/2004.
+- STJ, Tema 532 (REsp 1.304.479/SP): trabalho urbano de um membro não descaracteriza, por si só, os demais segurados especiais.
+- STJ, Tema 1.115: tamanho da propriedade não descaracteriza, por si só, o regime de economia familiar.
+- STJ, Súmula 657: indígena com menos de 16 anos, segurada especial, tem direito ao salário-maternidade.
+- STJ, AgInt no AREsp 956.558/SP: não há idade mínima para reconhecer trabalho efetivo de criança.
+- TNU, Súmula 5: trabalho rural dos 12 aos 14 anos até a Lei 8.213/1991.
+- TNU, Tema 219: cômputo de trabalho rural antes dos 12 anos.
+- TNU, Súmula 30: imóvel superior ao módulo não afasta, por si só, a condição de segurado especial.
+- TNU, Súmula 41: atividade urbana de um integrante não descaracteriza, por si só, o segurado especial.
+- TNU, Súmula 46: atividade urbana intercalada não impede, por si só, o benefício rural.
+- ACP 5017267-34.2013.4.04.7100: INSS obrigado a computar trabalho infantil efetivo, sem idade mínima.
+- Resolução do Senado 26/2005: suspensão da alínea h (mandato eletivo, Lei 9.506/1997).
+
+Remissões a outros capítulos: art. 40, § 13, da CF e Tema 691 sob a ótica do RPPS (Cap. 6, 6.4.2); Tema 554 do STJ e Súmulas 149 e 577 do STJ (prova rural, Cap. 9); ADI 2.110 e carência do salário-maternidade (Caps. 8 e 17); vedação de facultativo com RPPS e filiação múltipla (Cap. 6); dependentes, período de graça e Tema 1.360 do STJ (Cap. 8); alíquotas dos segurados (Cap. 3).
+
+
+# CAPÍTULO 08 — RGPS — RELAÇÃO JURÍDICA II: DEPENDENTES, QUALIDADE DE SEGURADO, PERÍODO DE GRAÇA E CARÊNCIA
+
+## 08.6 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Classes de dependentes | 1ª: cônjuge, companheiro, filho; 2ª: pais; 3ª: irmão | classe anterior exclui as seguintes; dentro da classe, igualdade | Lei 8.213, art. 16, § 1º |
+| Filho e irmão | não emancipado, de qualquer condição, menor de 21 ou inválido ou com deficiência intelectual ou mental ou grave | universitário não prorroga (Tema 643 do STJ); invalidez deve preceder o óbito (STJ) | art. 16, I e III |
+| Dependência econômica | presumida na 1ª classe; provada nas demais | equiparados e ex-cônjuge provam; dependência dos pais pode ser parcial | art. 16, § 4º |
+| Equiparados a filho | enteado, tutelado e, desde 14/3/2025, pessoa sob guarda judicial | declaração do segurado e falta de condições de se sustentar; óbitos de 13/11/2019 a 13/3/2025: Tema 1.271 do STF pendente | art. 16, § 2º (Lei 15.108/2025); EC 103, art. 23, §§ 6º e 7º |
+| Criança sob guarda antes da EC 103 | dependente, provada a dependência | ECA prevalece (Tema 732 do STJ); exclusão de 1997 inconstitucional (ADIs 4.878 e 5.083) | — |
+| Ex-cônjuge | dependente se recebia alimentos; concorre com a 1ª classe | renunciante: necessidade superveniente (Súmula 336 do STJ) | art. 76, § 2º; Decreto, art. 17, I |
+| Prova da união estável e da dependência | início de prova material contemporânea, nos 24 meses anteriores ao óbito ou à prisão | prova só testemunhal apenas em força maior ou caso fortuito; 2 anos de união para a pensão escalonada (§ 6º) | art. 16, §§ 5º e 6º; Decreto, art. 22, § 3º |
+| Exclusão do dependente | homicídio doloso, consumado ou tentado, contra o segurado, com trânsito em julgado | ressalva de absolutamente incapazes e inimputáveis; culposo não exclui | art. 16, § 7º |
+| Inscrição do dependente | pelo próprio dependente, ao requerer o benefício | vedada a inscrição *post mortem* de CI e facultativo | art. 17, §§ 1º e 7º |
+| Lei aplicável à pensão | a vigente na data do óbito | — | Súmula 340 do STJ |
+| Período de graça: em benefício | sem limite | não vale para auxílio-acidente | art. 15, I |
+| Período de graça: obrigatório | 12 meses | +12 com mais de 120 contribuições sem perda; +12 com desemprego involuntário provado; máximo 36 | art. 15, II, §§ 1º e 2º |
+| Outros prazos | segregação e recluso: 12 meses; militar: 3 meses; facultativo: 6 meses | facultativo não tem prorrogação | art. 15, III a VI |
+| Prova do desemprego | registro no MTE ou outro meio | ausência de anotação na CTPS ou no CNIS não basta (Tema 1.360 do STJ; Súmula 27 da TNU) | art. 15, § 2º |
+| 120 contribuições em filiação anterior | leitura restritiva (FCC): não prorroga após perda | TNU, Tema 255: prorrogação se incorpora ao patrimônio e vale nas filiações posteriores | art. 15, § 1º |
+| Dia da perda | dia seguinte ao vencimento (dia 15, ou dia útil seguinte) da contribuição do mês posterior ao fim do prazo | com 12 meses: dia 16 do 14º mês após a última competência | art. 15, § 4º; Decreto, art. 14; Lei 8.212, art. 30, II e § 2º, I |
+| Efeitos da perda | caducidade dos direitos | não afeta aposentadorias (Lei 10.666, art. 3º) nem a pensão de quem tinha direito a aposentar-se (Súmula 416 do STJ) | art. 102 |
+| Conceito de carência | número mínimo de contribuições mensais, a partir do transcurso do primeiro dia dos meses das competências | só competências com salário de contribuição igual ou superior ao mínimo (Decreto) | art. 24; Decreto, art. 26 |
+| Prazos de carência | 12 (incapacidade); 180 (aposentadorias); 24 (auxílio-reclusão); 10 (salário-maternidade de CI, especial e facultativa) | salário-maternidade: carência inconstitucional (ADIs 2.110 e 2.111) | art. 25 |
+| Dispensa de carência | pensão, salário-família, auxílio-acidente; incapacidade por acidente de qualquer natureza, doença profissional ou do trabalho e doenças da lista após a filiação; segurado especial; serviço social; reabilitação; salário-maternidade de empregada, avulsa e doméstica | não dispensa qualidade de segurado | art. 26; art. 151 |
+| Início da contagem | empregado, doméstico e avulso: filiação; CI e facultativo: primeiro pagamento sem atraso | atrasados de competências anteriores não contam; após perda, só a partir de novo recolhimento sem atraso | art. 27; Decreto, art. 28, § 4º |
+| Benefício por incapacidade intercalado | conta para carência | precisa ser intercalado com atividade ou contribuição | STF, Tema 1.125 |
+| Recuperação após a perda | metade da carência: 6 (incapacidade), 12 (reclusão) | aposentadorias não precisam (Lei 10.666); regra aplicável é a da data do fato gerador | art. 27-A |
+
+## 08.7 Artigos de lei incidentes
+
+- Constituição Federal: art. 195, § 14 (contribuição mínima e agrupamento); art. 201; art. 226, § 3º; art. 227, § 6º.
+- EC 103/2019: art. 23, §§ 5º, 6º e 7º.
+- Lei 8.213/1991: arts. 11 e 13 (remissão); art. 15; art. 16; art. 17, §§ 1º e 7º; art. 24; art. 25; art. 26; art. 27; art. 27-A; art. 39, I; art. 55, II; art. 76, § 2º; art. 77, § 2º, V, b e c; art. 102; art. 151.
+- Lei 8.212/1991: art. 30, II, e § 2º, I.
+- Lei 10.666/2003: art. 3º e art. 4º.
+- Lei 10.741/2003 (Estatuto da Pessoa Idosa): art. 30.
+- Lei 13.846/2019 (inclusão dos §§ 5º a 7º do art. 16, do § 7º do art. 17, do inciso IV do art. 25 e da redação do art. 27-A).
+- Lei 15.108/2025 (nova redação do art. 16, § 2º).
+- Lei 8.069/1990 (ECA): art. 33, § 3º.
+- Decreto 3.048/1999: art. 13 (inclusive §§ 4º a 8º); art. 14; art. 16; art. 17; art. 22 (§§ 3º, 9º, 10, 13 e 14); art. 26 (§§ 1º, 3º, 4º a 4º-C, 5º e 6º); art. 28; art. 29; art. 30, §§ 1º e 2º.
+
+## 08.8 Julgados, temas e súmulas do capítulo
+
+- STJ, Tema 1.360: desemprego para prorrogar a graça pode ser provado por qualquer meio; ausência de anotação no CNIS ou na CTPS não basta.
+- TNU, Súmula 27: falta de registro no Ministério do Trabalho não impede prova do desemprego por outros meios.
+- TNU, Tema 255: prorrogação por mais de 120 contribuições vale nas filiações posteriores.
+- STF, Tema 1.125: auxílio-doença intercalado com atividade conta para carência.
+- STF, ADIs 2.110 e 2.111: inconstitucional a carência do salário-maternidade.
+- STJ, Jurisprudência em Teses, ed. 207, teses 3 e 5: invalidez do filho deve preceder o óbito, irrelevante a idade.
+- STJ, Tema 732: criança sob guarda tem direito à pensão com base no ECA, provada a dependência.
+- STF, ADIs 4.878 e 5.083: inconstitucional a exclusão da guarda pela Lei 9.528/1997.
+- STF, Tema 1.271 (RE 1.442.021, pendente em 3/11/2026): exclusão da guarda pelo art. 23, § 6º, da EC 103.
+- STF, ADI 4.277: união homoafetiva como entidade familiar (base da dependência do companheiro homoafetivo).
+- TNU, Súmula 63: prova da união estável sem início de prova material, superada para óbitos sob o art. 16, § 5º.
+- TNU, Súmula 4: não há direito adquirido à condição de pessoa designada após a Lei 9.032/1995.
+
+Remissões a outros capítulos: STJ, Súmulas 336, 340 e 416, STJ, Tema 643, e TNU, Súmulas 37 e 52 (pensão por morte, Cap. 16); STJ, Tema 896 (baixa renda do preso desempregado, Cap. 16); STF, Temas 526 e 529 (uniões concomitantes, Cap. 16); STJ, Tema 1.007 (híbrida, Cap. 13); Súmula 657 do STJ (salário-maternidade da indígena, Cap. 17); ADI 5.389 (Lei 13.135/2015 e pensão, Cap. 16).
+
+
+# CAPÍTULO 09 — TEMPO DE CONTRIBUIÇÃO E SUA PROVA
+
+## 09.13 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Tempo de serviço x de contribuição | Desde a EC 20/1998, exige-se tempo de contribuição; o tempo de serviço anterior vale como tal | Empregado, doméstico e avulso: contribuição presumida | EC 20/1998, art. 4º |
+| Contagem | Data a data até 13/11/2019; depois, por competência com SC mínimo | Concomitância conta uma vez | Dec. arts. 188-G e 19-C, § 2º |
+| Competência abaixo do mínimo | Não conta (tempo, carência, qualidade, cálculo) a partir de 13/11/2019 | Complementar, utilizar excedente ou agrupar, no mesmo ano civil, de forma irreversível | CF, art. 195, § 14; EC 103, art. 29; Dec. art. 19-E |
+| Período de graça | Mantém a qualidade; não é tempo nem carência | | Lei 8.213, art. 15 |
+| Aviso prévio indenizado | Não conta | | Tema 1.238 do STJ |
+| Auxílio-acidente isolado | Não conta | Conta o trabalho concomitante | STJ, JT ed. 199 |
+| Benefício por tutela revogada | Não conta | | STJ, REsp 1.457.398 |
+| CNIS | Prova vínculos, remunerações e contribuições; recolhimento em época própria reconhecido automaticamente | Dado extemporâneo só com documento; Receita faz os acertos de GPS | Lei 8.213, art. 29-A; Dec. arts. 19 e 19-B |
+| CTPS | Presunção relativa, mesmo fora do CNIS | Cede a defeito formal ou dúvida fundada | Súmula 75 da TNU; Súmula 12 do TST |
+| Sentença trabalhista homologatória | Só é início de prova com elementos contemporâneos nos autos | Salvo caso fortuito ou força maior | Tema 1.188 do STJ; Dec. art. 144, parágrafo único |
+| Início de prova material | Indispensável; contemporâneo; não precisa cobrir todo o período | Prova só testemunhal apenas em força maior ou caso fortuito | Lei 8.213, art. 55, § 3º; Súmulas 149 do STJ e 14 e 34 da TNU |
+| Eficácia do documento | Retrospectiva e prospectiva, com prova oral convincente | | Súmula 577 e Tema 638 do STJ |
+| Boia-fria | Exige início de prova, mitigado quanto à extensão | | Tema 554 do STJ |
+| Documento de terceiro | Vale para o grupo familiar | Não após o titular passar a atividade urbana; o Regulamento veda | Súmula 6 da TNU; Tema 533; Dec. art. 142, § 4º |
+| Ausência de prova material em juízo | Extinção sem mérito, com renovação possível | | Tema 629 do STJ |
+| Justificação administrativa | Incidental; só para corroborar início de prova; 2 a 6 testemunhas | Não cabe para registro público; sem recurso da decisão de eficácia | Lei 8.213, art. 108; Dec. arts. 142 a 151 |
+| Justificação judicial | Dispensa a JA se houver início de prova material | | Dec. art. 144 |
+| Rural anterior a 11/1991 | Tempo sem contribuição | Não é carência (salvo idade rural e híbrida, Tema 1.007, e empregado rural com CTPS, Tema 644); contagem recíproca só com indenização (Tema 609) | Lei 8.213, art. 55, § 2º; Súmula 24 da TNU |
+| Trabalho rural infantil | Conta a partir dos 12 anos (TNU) e abaixo de 14 (STJ) | Prova robusta | Súmula 5 da TNU; JT ed. 94, tese 1 |
+| Segurado especial após 1991 | Garante os benefícios do art. 39, I | Tempo para aposentadoria por tempo de contribuição só com contribuição facultativa | Súmula 272 do STJ |
+| Prova do segurado especial | Autodeclaração ratificada até 31/12/2022; depois, só o cadastro | Prazo prorrogado até 50% de cobertura do CNIS; declaração sindical revogada | Lei 8.213, arts. 38-A, 38-B e 106; EC 103, art. 25, § 1º |
+| Aluno-aprendiz | Conta com retribuição à conta do orçamento, como contraprestação por labor em encomendas para terceiros | Só até 13/11/2019; sem carência | Súmula 18 da TNU; Dec. art. 188-G, IX |
+| Serviço militar | Conta, ainda que anterior à filiação | Se não usado para inatividade ou aposentadoria no serviço público; não é carência | Lei 8.213, art. 55, I |
+| Mandato eletivo | Conta com contribuição e se não usado em outro regime | Segurado empregado desde a Lei 10.887/2004 | Lei 8.213, art. 55, IV |
+| Benefício por incapacidade | Conta como tempo e carência se intercalado | Decreto exclui a carência; uma contribuição facultativa isolada não intercala (STJ) | Lei 8.213, art. 55, II; Tema 1.125 do STF; Súmula 73 da TNU |
+| Indenização (CI decaído; filiação não obrigatória) | 20% da média dos 80% maiores SC desde 7/1994 ou da remuneração do RPPS | Juros 0,5% a.m. capitalizados anualmente, teto 50%; multa 10% | Lei 8.212, art. 45-A; Lei 8.213, arts. 55, § 1º, e 96, IV |
+| Juros e multa da indenização | Só para períodos posteriores à MP 1.523/1996 | Multa afastada para tempo anterior à obrigatoriedade de filiação (Lei 15.363/2026) | Tema 1.103 do STJ; Dec. art. 239, § 8º-A |
+| Atraso não decaído | Regras gerais (Selic e multa de mora) | | Lei 8.212, art. 45-A, § 3º |
+| Carência do CI, especial e facultativo | Desde a primeira contribuição sem atraso | Atrasadas anteriores contam como tempo | Lei 8.213, art. 27, II |
+| Carência de empregado, doméstico e avulso | Desde a filiação | | Lei 8.213, art. 27, I |
+| Plano simplificado (11% ou 5%) | Não serve para tempo de contribuição nem contagem recíproca | Salvo complementação até 20% com juros | Lei 8.213, art. 55, § 4º; Lei 8.212, art. 21, §§ 2º e 3º |
+| Tempo fictício | Vedado após 13/11/2019 | Preservado o fictício previsto até a EC 103; nula a aposentadoria no RPPS com tempo do RGPS sem contribuição ou indenização | CF, art. 201, § 14; EC 103, art. 25 |
+
+## 09.14 Artigos de lei incidentes
+
+- Constituição Federal: art. 38, V; art. 40, § 10; art. 143, § 1º; art. 195, §§ 8º e 14; art. 201, §§ 9º, 9º-A e 14.
+- EC 20/1998: art. 4º.
+- EC 103/2019: art. 25 (caput e §§ 1º a 3º); art. 29.
+- Lei 8.212/1991: art. 21, §§ 2º, 3º e 5º; art. 25; art. 45-A (com o § 4º da Lei 15.363/2026).
+- Lei 8.213/1991: art. 11; art. 15; art. 27; art. 29-A; art. 38-A; art. 38-B; art. 39; art. 48, § 3º; art. 55 (incisos e §§ 1º a 4º); art. 96, I a IX e §§ 1º e 2º; art. 106; art. 108.
+- Lei 10.666/2003: art. 4º (retenção da contribuição do CI pela empresa a partir de 1/4/2003).
+- Lei 13.846/2019: alterações dos arts. 38-A, 38-B, 55, § 3º, 96 e 106 da Lei 8.213.
+- Lei 15.363/2026: art. 45-A, § 4º, da Lei 8.212 e art. 96, § 2º, da Lei 8.213.
+- Decreto 3.048/1999: art. 19 (§§ 1º a 4º e 12); art. 19-B; art. 19-C; art. 19-D; art. 19-E; art. 122; art. 124; art. 127, IV; arts. 142 a 151; art. 188-G; art. 216, §§ 7º, 9º a 14 e 27-A a 27-D; art. 239, §§ 8º e 8º-A.
+- CPC: arts. 381, § 5º, 382, 485, IV, e 486, § 1º.
+
+## 09.15 Julgados, temas e súmulas do capítulo
+
+- Súmula 149 do STJ: prova exclusivamente testemunhal não basta para a atividade rural.
+- Súmula 242 do STJ: cabe ação declaratória de tempo de serviço.
+- Súmula 272 do STJ: segurado especial só tem aposentadoria por tempo se contribuir facultativamente.
+- Súmula 577 do STJ e Tema 638: tempo rural anterior ao documento mais antigo, com prova oral convincente.
+- Tema 533 do STJ: atividade urbana de um membro não descaracteriza os demais; documento do membro que virou urbano não se estende.
+- Tema 554 do STJ: boia-fria precisa de início de prova, mitigado quanto à extensão.
+- Tema 609 do STJ: tempo rural anterior a 1991 no RPPS só com indenização.
+- Tema 644 do STJ: empregado rural com CTPS anterior a 1991 tem o tempo computado também para carência.
+- Tema 629 do STJ: sem início de prova, extinção sem mérito.
+- Tema 1.103 do STJ: juros e multa da indenização só após a MP 1.523/1996.
+- Tema 1.115 do STJ: tamanho da propriedade não descaracteriza, por si, a economia familiar.
+- Tema 1.188 do STJ: sentença trabalhista homologatória exige elementos contemporâneos.
+- Tema 1.238 do STJ: aviso prévio indenizado não é tempo.
+- STJ, REsp 1.457.398 (Info 855): aposentadoria por tutela revogada não é tempo.
+- STJ, AgInt no REsp 2.113.564: contribuição facultativa isolada não intercala benefício.
+- STJ, JT ed. 94, teses 1, 2, 3, 6 e 7; ed. 67, tese 19; ed. 199, tese 4.
+- Súmulas da TNU 5, 6, 10, 14, 18, 24, 34, 41, 46, 73, 75 e 76.
+- Súmula 12 do TST: anotação na CTPS gera presunção *juris tantum*.
+
+Remissões a outros capítulos: segurado especial, MEI e mandato eletivo como categorias (Cap. 7); qualidade de segurado, período de graça (inclusive Tema 1.360 do STJ), carência e Tema 1.125 do STF (Cap. 8); atividade especial, conversão e Tema 998 (Cap. 10); aposentadoria por idade rural, híbrida e Tema 1.007 (Cap. 13); reafirmação da DER e prévio requerimento (Cap. 19); competência, prova pericial e coisa julgada *secundum eventum probationis* (Cap. 20); CTC e compensação financeira, Súmula 10 do STF (tempo militar do servidor estadual), JT ed. 94, tese 12 (certidão do tempo rural reconhecido) e JT ed. 71, tese 15 (tempo ficto e previdência complementar) (Cap. 26).
+
+
+# CAPÍTULO 10 — ATIVIDADE ESPECIAL: EVOLUÇÃO LEGISLATIVA, AGENTES NOCIVOS, EPI, CONVERSÃO DE TEMPO E PROVA
+
+## 10.9 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Lei aplicável à caracterização | Lei da época da prestação | cancerígenos: reconhecimento retroativo (Tema 170 da TNU) | Tema 694 do STJ; art. 188-P, § 6º, do Dec. 3.048 |
+| Lei aplicável à conversão e ao fator | Lei da data da aposentadoria | fator 1,4/1,2 para qualquer período | Tema 546 do STJ; Súmula 55 da TNU |
+| Até 28/4/1995 | Categoria profissional ou agente; formulário | ruído e calor sempre com laudo; sem exigência de permanência | Decs. 53.831/1964 e 83.080/1979; Súmula 49 da TNU |
+| 29/4/1995 a 5/3/1997 | Só agente, efetiva exposição permanente; formulário | ruído e calor com laudo | Lei 9.032/1995 |
+| 6/3/1997 a 31/12/2003 | Formulário com base em LTCAT | EPI só a partir de 3/12/1998 | MP 1.523/1996, Lei 9.528/1997, Dec. 2.172/1997; Súmula 87 da TNU |
+| Desde 1/1/2004 | PPP com base em LTCAT, com responsável técnico | ausência suprida por LTCAT | art. 58, § 4º, da Lei 8.213; Tema 208 da TNU |
+| Categoria/ocupação | Vedada | desde 29/4/1995 na lei; desde 13/11/2019 na CF | art. 201, § 1º, II, da CF |
+| Permanência | Exposição indissociável da produção ou do serviço | não exige toda a jornada; biológicos: probabilidade de exposição | art. 65 do Dec. 3.048; Tema 211 da TNU |
+| Afastamentos | Férias e salário-maternidade contam | auxílio por incapacidade (previdenciário ou acidentário) conta segundo o STJ, apesar do Dec. 10.410/2020 | Tema 998 do STJ |
+| Ruído | superior a 80 dB até 5/3/1997; 90 dB de 6/3/1997 a 18/11/2003; 85 dB (NEN) desde 19/11/2003 | NHO-01 ou NR-15; sem NEN, pico com perícia | Tema 694 do STJ; Tema 174 da TNU; Tema 1.083 do STJ |
+| Calor | Laudo sempre; após 1997, IBUTG da NR-15 | — | código 2.0.4 do Anexo IV |
+| Eletricidade | Superior a 250 V; especial após 1997 por perícia | compatibilidade com EC 103 e Tema 1.209 controvertida | Tema 534 do STJ |
+| Químicos | Quantitativo (limite) ou qualitativo (presença e contato) | cancerígenos LINACH: Dec. 10.410/2020 admite descaracterização por medidas que eliminem a nocividade; TNU em sentido contrário | art. 68, §§ 2º e 4º, do Dec. 3.048; Tema 170 da TNU |
+| Tempos do Anexo IV | Regra 25 anos | amianto e mina afastada da frente: 20; mina na frente de produção: 15 | Anexo IV do Dec. 3.048 |
+| Vigilante | Não é especial, com ou sem arma | até 28/4/1995 (equiparação ao guarda): alcance controvertido; embargos pendentes | Tema 1.209 do STF (superou o Tema 1.031 do STJ) |
+| Motorista e cobrador | Especial por penosidade após 1995 se perícia individualizada comprovar | até 28/4/1995, por categoria | Tema 1.307 do STJ |
+| Contribuinte individual | Pode ter tempo especial | não cooperado: após a Lei 9.032/1995, sem formulário de empresa | Tema 1.291 do STJ; Súmula 62 da TNU |
+| EPI | Eficaz descaracteriza, em princípio | ruído; período anterior a 3/12/1998; hipóteses excepcionais; autor prova a ineficácia; dúvida favorece o autor | Tema 555 do STF; Tema 1.090 do STJ; Súmulas 9 e 87 da TNU |
+| Especial em comum | Fatores H 1,4/1,75/2,33; M 1,2/1,5/2,0 | qualquer período até 13/11/2019; não conta para carência | art. 25, § 2º, da EC 103; Súmula 50 da TNU; Tema 422 do STJ |
+| Especial em especial | Tabela do art. 66 do Dec. 3.048, parâmetro na atividade preponderante (mais tempo) | não atingida pela vedação da EC 103 | art. 66, § 3º, do Dec. 3.048 |
+| Comum em especial | Vedada se a aposentadoria se rege por lei posterior a 28/4/1995 | Súmula 85 da TNU (requisitos antes de 1995) | Tema 546 do STJ |
+| Prova supletiva | Laudo extemporâneo, perícia indireta ou por similaridade, prova emprestada | adicional de insalubridade é só indício | Súmula 68 da TNU; JT ed. 34, tese 3 |
+| DIB com prova nova em juízo | Citação (ou data posterior com reafirmação da DER) | mesma prova do processo administrativo: DER | Tema 1.124 do STJ |
+| Servidor | Regras do RGPS até lei complementar | conversão após a EC 103 depende de lei do ente | SV 33; Tema 942 do STF |
+
+## 10.10 Artigos de lei incidentes
+
+- Constituição Federal: art. 40, § 4º-C; art. 201, § 1º, II, e § 14.
+- EC 103/2019: art. 19, § 1º, I; art. 21, § 3º; art. 25, caput e § 2º.
+- Lei 8.213/1991: art. 57, §§ 3º a 8º; art. 58, caput e §§ 1º a 4º; art. 96, I (contagem recíproca, Cap. 26).
+- Lei 9.032/1995; MP 1.523/1996 e Lei 9.528/1997; MP 1.729/1998 e Lei 9.732/1998; Lei 9.711/1998, art. 28; Lei 6.887/1980.
+- Decreto 3.048/1999: arts. 64 (caput e §§ 1º, 1º-A e 2º), 65, 66, 68 (§§ 2º a 13), 70, 188-P (§§ 5º e 6º), 188-Q; Anexo IV (códigos 1.0.2, 2.0.1, 2.0.4, 3.0.1, 4.0.0 a 4.0.2).
+- Decretos 53.831/1964 e 83.080/1979 (anexos; códigos 1.1.1, 1.1.6, 1.1.8 e 2.5.7 do Dec. 53.831); Decreto 2.172/1997; Decreto 4.827/2003; Decreto 4.882/2003; Decreto 8.123/2013; Decreto 10.410/2020.
+- Portaria Interministerial MTE/MS/MPS 9/2014 (LINACH); NR-15 (Anexos 1, 3, 11 e 13); NHO-01 da FUNDACENTRO.
+
+## 10.11 Julgados, temas e súmulas do capítulo
+
+- STF, Tema 555 (ARE 664.335): EPI eficaz descaracteriza; ruído é exceção.
+- STF, Tema 1.209 (RE 1.368.225): vigilante, com ou sem arma, não é atividade especial.
+- STJ, Tema 694 (REsp 1.398.260): ruído de 90 dB entre 6/3/1997 e 18/11/2003; Decreto 4.882/2003 não retroage.
+- STJ, Tema 1.083 (REsp 1.886.795): NEN; na falta, pico de ruído com perícia judicial.
+- STJ, Tema 534 (REsp 1.306.113): rol exemplificativo; eletricidade após 1997.
+- STJ, Tema 546 (REsp 1.310.034): a lei da aposentadoria rege a conversão.
+- STJ, Tema 422 (REsp 1.151.363): conversão especial-comum após 1998.
+- STJ, Tema 998 (REsp 1.759.098): auxílio-doença, previdenciário ou acidentário, conta como especial.
+- STJ, Tema 1.090: presunção de eficácia do EPI no PPP; ônus do autor; dúvida a favor do autor.
+- STJ, Tema 1.291: contribuinte individual não cooperado pode ter tempo especial.
+- STJ, Tema 1.307: penosidade de motorista e cobrador por perícia individualizada.
+- STJ, Tema 1.031 (EDcl no REsp 1.830.508): vigilante especial (superado pelo Tema 1.209 do STF).
+- STJ, Jurisprudência em Teses, ed. 34, teses 2, 3, 4, 7 e 11: EPI caso a caso; perícia por similaridade; lei da prestação; categoria até a Lei 9.032; fator da data da aposentadoria.
+- TNU, Temas 170, 174, 208 e 211: cancerígenos; metodologia do ruído; responsável técnico no PPP; biológicos.
+- TNU, Súmulas 9, 26, 49, 50, 55, 62, 66, 68, 70, 71, 82, 85 e 87 (canceladas: 16 e 32).
+
+Remissões a outros capítulos: adicional da aposentadoria especial (04.3.3); tempo em gozo de benefício e CNIS (Cap. 9); regras de transição com tempo convertido (13.5) e magistério (13.10); aposentadoria especial, ADI 6.309 (idade mínima inconstitucional; vedação de conversão pós-EC 103 e cálculo mantidos) e Tema 709 (Cap. 14); interesse de agir, reafirmação da DER e Temas 995 e 1.124 (19.5 e 19.8.3); perícia e consectários (Cap. 20); contagem recíproca e CTC com tempo especial (Cap. 26); Tema 942 do STF e Súmula Vinculante 33, servidor (Cap. 23).
+
+
+# CAPÍTULO 11 — CÁLCULO DOS BENEFÍCIOS: SALÁRIO DE BENEFÍCIO, PERÍODO BÁSICO DE CÁLCULO, RENDA MENSAL INICIAL, LIMITES, FATOR PREVIDENCIÁRIO, REAJUSTAMENTO E REVISÕES DE CÁLCULO
+
+## 11.13 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Base do cálculo | Todo benefício continuado parte do SB | Salário-família e salário-maternidade não; pensão e reclusão partem da aposentadoria; segurado especial: SB = mínimo | Lei 8.213, arts. 28 e 29, § 6º |
+| SB após 13/11/2019 | Média de 100% dos SC desde 7/1994 (ou do início, se posterior), corrigidos | Descarte facultativo mantido o tempo mínimo (e a carência); tempo descartado inutilizado | EC 103, art. 26 e § 6º; Decreto 3.048, art. 32, §§ 24 a 27 |
+| SB até 13/11/2019 | 80% maiores SC desde 7/1994 | Divisor mínimo de 60% nas aposentadorias por idade, tempo e especial | Lei 9.876, art. 3º e § 2º |
+| SB até 28/11/1999 | 36 últimos SC em até 48 meses | Direito adquirido | Lei 9.876, art. 6º |
+| Divisor mínimo atual | 108 meses | Filiado até 7/1994; aposentadorias, exceto incapacidade permanente | Lei 8.213, art. 135-A |
+| Correção dos SC | INPC mês a mês | Antes da CF/1988: Súmula 456 do STJ | CF, art. 201, § 3º; Lei 8.213, art. 29-B |
+| 13º | Integra contribuição, não o SB | Requisitos antes da Lei 8.870/1994 | Lei 8.213, art. 29, § 3º; STJ, Tema 904 |
+| Aumentos nos 36 meses | Desconsiderados | Salvo homologação na JT, promoção, sentença normativa, reajuste da categoria | Lei 8.213, art. 29, § 4º |
+| Contribuições não recolhidas | Empregado, doméstico e avulso: computam-se as devidas | Demais: só as recolhidas | Lei 8.213, art. 34 |
+| Fator previdenciário | f = (Tc x 0,31 / Es) x [1 + (Id + Tc x 0,31)/100] | Mulher e professor +5 anos; professora +10; Es do IBGE, unissex | Lei 8.213, art. 29, §§ 7º a 9º |
+| Onde incide o fator | ATC até 13/11/2019 (obrigatório) e pedágio de 50% | Idade e PcD: só se favorável; professor: incide | EC 103, art. 17; Temas 1.091 e 960 do STF |
+| 85/95 | Opção para afastar o fator na ATC: 85/95 até 30/12/2018; 86/96 até 13/11/2019 | Professor: 5 pontos a menos, tempo 25/30; direito à opção preservado | Lei 8.213, art. 29-C |
+| Coeficiente geral | 60% + 2% por ano completo acima de 20 (H) ou 15 (M) | Especial de 15 anos: acima de 15; sem limite em 100% | EC 103, art. 26, §§ 2º e 5º |
+| Coeficiente de 100% | Pedágio de 100%; incapacidade permanente acidentária | Pedágio de 50%: 100% x fator | EC 103, art. 26, § 3º, e art. 17 |
+| Auxílio temporário | 91% do SB | Limitado à média dos 12 últimos SC | Lei 8.213, arts. 61 e 29, § 10 |
+| Auxílio-acidente | 50% do SB | Pode ser menor que o mínimo; integra o SC da aposentadoria | Lei 8.213, arts. 86, § 1º, e 34, II |
+| Pensão | Base: aposentadoria recebida ou hipotética por incapacidade permanente | Cota de 50% + 10% por dependente (Cap. 16) | EC 103, art. 23 |
+| Auxílio-reclusão | Cálculo da pensão | Limitado a 1 salário mínimo | EC 103, art. 27, § 1º |
+| Piso | Salário mínimo (1.621,00 em 2026) | Auxílio-acidente, salário-família, parcela de acordo internacional, cota de pensão | CF, art. 201, § 2º; Lei 8.213, art. 33 |
+| Teto | Limite do SC (8.475,55 em 2026) | Acréscimo de 25%; salário-maternidade da empregada | Lei 8.213, arts. 29, § 2º, 33, 41-A, § 1º, 45 |
+| Concomitantes | Soma dos SC, limitada ao teto | Vale desde a Lei 9.876/1999 (Tema 1.070 do STJ) | Lei 8.213, art. 32 |
+| Direito adquirido | Cálculo pela lei da data dos requisitos | Melhor benefício (Cap. 19) | Lei 9.876, art. 6º; EC 103, art. 3º; Decreto, art. 188-E |
+| Reajuste | Anual, pro rata no 1º ano, INPC, na data do reajuste do mínimo | Benefício mínimo acompanha o mínimo; não há vinculação ao mínimo | CF, art. 201, § 4º; Lei 8.213, art. 41-A; Tema 996 do STF |
+| Vida toda | Inviável: art. 3º da Lei 9.876 é cogente | Irrepetibilidade até 5/4/2024; sem sucumbência em ações pendentes | ADIs 2.110 e 2.111; Tema 1.102 do STF (ED) |
+| Benefício por incapacidade no PBC | SB do benefício vale como SC se intercalado | Transformação direta: SB do auxílio | Lei 8.213, art. 29, § 5º; Súmula 557 do STJ |
+
+## 11.14 Artigos de lei incidentes
+
+- Constituição Federal: art. 194, parágrafo único, IV; art. 195, § 14; art. 201, §§ 2º, 3º, 4º e 11.
+- EC 103/2019: art. 3º; art. 15, § 4º; art. 16, § 3º; art. 17, parágrafo único; art. 18, § 2º; art. 19; art. 20, § 2º; art. 22; art. 23; art. 26, caput e §§ 1º a 7º; art. 27, §§ 1º e 2º.
+- Lei 8.213/1991: art. 28; art. 29, I e II e §§ 2º a 10; art. 29-A; art. 29-B; art. 29-C; art. 31; art. 32 e §§ 1º e 2º; arts. 33 a 36; art. 41-A e §§ 1º e 6º; art. 44; art. 45, parágrafo único; art. 61; art. 86, § 1º; art. 135-A.
+- Lei 9.876/1999: arts. 3º (caput e § 2º), 5º, 6º e 7º; Anexo (fórmula do fator).
+- Lei 13.183/2015 (art. 29-C); Lei 13.135/2015 (art. 29, § 10); Lei 13.846/2019 (art. 32); Lei 14.331/2022 (art. 135-A); Lei 8.870/1994 (13º).
+- Decreto 3.048/1999: art. 32 (caput e §§ 3º a 9º, 18, 21 a 27); art. 36; art. 188-E.
+- Portaria Interministerial MPS/MF 13/2026 (reajuste, piso e teto de 2026).
+
+## 11.15 Julgados, temas e súmulas do capítulo
+
+- STF, Tema 1.102 (RE 1.276.977 ED): revisão da vida toda inviável; art. 3º da Lei 9.876 cogente; modulação até 5/4/2024.
+- STF, ADIs 2.110 e 2.111: constitucionalidade do art. 3º da Lei 9.876/1999 (ata de 5/4/2024).
+- STF, ADI 2.111 ED-ED (Info 1.173, j. 10/4/2025): irrepetibilidade dos valores recebidos até 5/4/2024.
+- STF, Tema 1.091: fator previdenciário constitucional.
+- STF, Tema 996: não há revisão pelo valor nominal do salário mínimo.
+- STF, Súmula 687: art. 58 do ADCT não alcança benefícios concedidos após a CF/1988.
+- STJ, Tema 1.070: atividades concomitantes, soma dos SC limitada ao teto, desde a Lei 9.876/1999.
+- STJ, Tema 904: 13º só integra o SB se requisitos anteriores à Lei 8.870/1994.
+- STJ, Súmula 557: aposentadoria por invalidez precedida de auxílio-doença; art. 29, § 5º, só com intercalação.
+- STJ, Súmula 456: sem correção dos SC em benefícios anteriores à CF/1988.
+- STJ, Jurisprudência em Teses, ed. 67, tese 11: INPC para os benefícios acima do mínimo.
+- TNU, Súmula 83: 13º fora do SB após a Lei 8.870/1994.
+
+Remissões a outros capítulos: questões Q3898984 e Q3047813, coeficiente da incapacidade acidentária (Cap. 15); STF, Tema 960, e STJ, Tema 1.011, fator do professor (Cap. 13); STF, ADI 7.051, cotas da pensão (Cap. 16); STJ, AgInt no REsp 2.113.564, intercalação (Cap. 9); FCC Q3891359, média da aposentadoria da pessoa com deficiência (Cap. 14); STJ, Tema 1.117 e decadência (Cap. 21); Jurisprudência em Teses, ed. 67, tese 10, IRSM, tetos e buraco negro (Cap. 22); STF, Tema 334, melhor benefício (Cap. 19); ADI 1.946, salário-maternidade (Cap. 17); Súmula 111 do STJ e EC 113/2021 (Cap. 20).
+
+
+# CAPÍTULO 12 — PRESTAÇÕES EM GERAL: CONCESSÃO, MANUTENÇÃO, SUSPENSÃO E CESSAÇÃO; REVISÃO ADMINISTRATIVA; ACUMULAÇÃO; ABONO ANUAL; DESCONTOS E RESTITUIÇÃO
+
+## 12.12 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Rol de prestações | Segurado: aposentadorias, auxílio por incapacidade temporária, salário-família, salário-maternidade, auxílio-acidente; dependente: pensão e auxílio-reclusão; ambos: serviço social e reabilitação | Auxílio-acidente só para empregado, doméstico, avulso e segurado especial; texto da lei mantém nomenclatura antiga | art. 18 da Lei 8.213 |
+| Aposentado que trabalha | Contribui, mas só tem salário-família e reabilitação (se empregado) | Empregador paga os 15 primeiros dias de afastamento | art. 18, § 2º; art. 60, § 3º |
+| Requerimento | Canais eletrônicos; APS excepcional; registro civil | Aposentadoria requerida pela empresa (art. 51); desistência até a decisão | art. 124-A; Decreto, arts. 176-A a 176-E |
+| Primeiro pagamento | Até 45 dias da documentação completa | Datas de pagamento conforme o valor (até ou acima de 1 SM) | art. 41-A, §§ 2º, 3º e 5º |
+| Valores não recebidos em vida | Dependentes habilitados à pensão; na falta, sucessores civis | Sem inventário | art. 112 |
+| Prova de vida | Anual, no mês de aniversário, preferencialmente biometria; procurador pode fazer | 80 anos ou mais: meios alternativos; sanção: bloqueio do pagamento | art. 69, § 8º, da Lei 8.212 (Lei 14.199/2021) |
+| Perícias de manutenção | Sob pena de suspensão: exame, reabilitação, tratamento gratuito | Cirurgia e transfusão facultativas; isenção aos 55 anos + 15 de benefício ou aos 60 | art. 101 |
+| Suspensão x cessação x cancelamento | Suspensão é provisória; cessação extingue para o futuro; cancelamento desfaz o ato | Art. 46: cancelamento automático no retorno voluntário | arts. 46, 60, § 6º, 77, § 7º, 101 |
+| Revisão administrativa | Notificação: 30 dias (urbano) / 60 dias (rural, avulso, agricultor familiar, segurado especial) | Sem ciência em 30 dias: bloqueio; suspensão; recurso em 30 dias sem efeito suspensivo; cessação | art. 69 da Lei 8.212 |
+| Decadência do INSS | 10 anos para anular ato favorável, do primeiro pagamento | Má-fé: sem prazo; qualquer impugnação obsta; atos anteriores a 1/2/1999: conta de 1/2/1999 | art. 103-A; Tema 214 do STJ |
+| Acumulações vedadas | Aposentadoria + auxílio por incapacidade temporária; 2 aposentadorias; aposentadoria + abono de permanência; salário-maternidade + auxílio por incapacidade temporária; 2 auxílios-acidente; 2 pensões de cônjuge | Direito adquirido; opção pela pensão mais vantajosa | art. 124 |
+| Seguro-desemprego | Não acumula com benefício de prestação continuada | Salvo pensão por morte e auxílio-acidente (Decreto acrescenta auxílio-reclusão, auxílio-suplementar e abono de permanência) | art. 124, parágrafo único |
+| Auxílio-acidente + aposentadoria | Vedado | Lesão e aposentadoria anteriores a 11/11/1997 | art. 86; Súmula 507 e Tema 555 do STJ |
+| Art. 24 da EC 103 | Pensão de cônjuge + aposentadoria ou pensão de outro regime ou militar: integral o maior + faixas (100% até 1 SM; 60%; 40%; 20%; 10%) dos demais | Mesmo regime: vedado (salvo cargos acumuláveis do mesmo instituidor); direito adquirido até 13/11/2019; revisão a pedido | art. 24 da EC 103; Decreto, art. 167-A |
+| RGPS + RPPS | Duas aposentadorias possíveis com tempos distintos | Participante de RPPS não pode ser facultativo; RPPS: uma aposentadoria, salvo cargos acumuláveis | arts. 40, § 6º, e 201, § 5º, da CF |
+| Abono anual | Base: renda de dezembro; 1/12 por mês (fração de 15 dias = mês); parcelas com agosto e novembro | Lei: auxílio-doença, auxílio-acidente, aposentadoria, pensão e auxílio-reclusão; Decreto inclui salário-maternidade; BPC não | art. 40; art. 201, § 6º, da CF; Decreto, art. 120 |
+| Descontos | Contribuições, indevido (até 30%), IR, alimentos, consignado | Prevalece o indevido sobre o consignado; descontos associativos vedados (Lei 15.327/2026) | art. 115 |
+| Consignado | RGPS: 45% (35 + 5 + 5); BPC: 35% (30 + 5) | Bloqueio inicial; biometria; vedado por procuração ou telefone; INSS sem solidariedade pelos débitos contratados | Lei 10.820, art. 6º; art. 115, §§ 9º a 13 |
+| Erro administrativo | Repetível com desconto até 30%, salvo boa-fé objetiva provada | Interpretação errônea da lei: irrepetível; modulação: ações distribuídas desde 23/4/2021 | Tema 979 do STJ |
+| Tutela revogada | Devolve, nos próprios autos, desconto até 30% | Dupla conformidade; rescisória; troca de modalidade favorável | Tema 692 do STJ; REsp 2.254.787 |
+| Cobrança | Dívida ativa (beneficiário e terceiro de má-fé) | Processos anteriores a 22/5/2017 e 18/1/2019: inscrições nulas | art. 115, §§ 3º a 5º; Temas 598 e 1.064 do STJ |
+| Compensação de inacumuláveis | Mês a mês, limitada ao valor do título, sem saldo negativo | Aplicada por analogia à troca de modalidade | Tema 1.207 do STJ |
+
+## 12.13 Artigos de lei incidentes
+
+- Constituição Federal: art. 37, § 10; art. 40, § 6º; art. 201, §§ 5º, 6º e 15.
+- EC 103/2019: art. 24.
+- Lei 8.213/1991: arts. 18, 40, 41-A, 46, 49, 51, 54, 57, § 2º, 60, 71, 74, 77, § 7º, 80, 86, 101, 103-A, 109, 110, 112, 115, 124, 124-A e 124-G.
+- Lei 8.212/1991: arts. 68 e 69.
+- Lei 10.820/2003: art. 6º.
+- Lei 15.327/2026: arts. 2º, 3º, 5º e 6º.
+- Decreto 3.048/1999: arts. 120, 154, 167, 167-A, 176-A a 176-E e 179.
+- CPC: arts. 520, II, e 833, IV e § 2º.
+
+## 12.14 Julgados, temas e súmulas do capítulo
+
+- Súmula 507 do STJ: auxílio-acidente + aposentadoria só se lesão e aposentadoria anteriores a 11/11/1997.
+- Tema 555 do STJ: os dois marcos (eclosão da lesão e concessão da aposentadoria) antes da MP 1.596-14/1997.
+- Tema 979 do STJ (REsp 1.381.734): erro administrativo é repetível, salvo boa-fé objetiva; modulação a partir de 23/4/2021.
+- Tema 692 do STJ (REsp 1.401.560; Pet 12.482 e EDcl): tutela revogada obriga a devolver, desconto até 30%, nos próprios autos.
+- Tema 598 do STJ (REsp 1.350.804): sem lei, não cabia dívida ativa; ação de enriquecimento ilícito.
+- Tema 1.064 do STJ (REsp 1.860.018): nulidade das inscrições anteriores às MPs 780/2017 e 871/2019.
+- STJ, REsp 2.254.787 (Info 896): troca de modalidade com resultado favorável não gera devolução.
+- STJ, Jurisprudência em Teses, ed. 67, teses 5, 16 e 17: DIB na citação sem requerimento; dupla conformidade; coisa julgada rescindida.
+- STJ, REsp 1.555.853 (Info 573): previdência complementar, devolução com desconto até 10%.
+- Súmula 36 da TNU: pensão de trabalhador rural acumula com aposentadoria por invalidez.
+
+Remissões a outros capítulos: Tema 214 do STJ, decadência do INSS para atos anteriores a 1999 (Cap. 19); Tema 1.207 do STJ, compensação de inacumuláveis (Cap. 20); desaposentação e aposentadorias (Cap. 13); Tema 709 do STF e aposentadoria especial (Cap. 14); benefícios por incapacidade, DCB e auxílio-acidente (Cap. 15); pensão e cotas (Cap. 16); BPC (Cap. 18); DER, Temas 334 do STF e 995 do STJ (Cap. 19); competência e tutela (Cap. 20); decadência do art. 103 e prescrição (Cap. 21); RPPS (Cap. 23); contagem recíproca (Cap. 26); previdência complementar (Cap. 27); militares e teto na acumulação (Cap. 28).
+
+
+# CAPÍTULO 13 — APOSENTADORIAS PROGRAMADAS NO RGPS: IDADE E TEMPO DE CONTRIBUIÇÃO ANTES DA EC 103/2019, APOSENTADORIA PROGRAMADA, REGRAS DE TRANSIÇÃO, RURAL, HÍBRIDA, PROFESSOR E DIREITO ADQUIRIDO
+
+## 13.12 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Carência das aposentadorias programadas | 180 contribuições | Tabela do art. 142 para inscritos até 24/7/1991 (ano da idade: Súmula 44 da TNU); segurado especial comprova atividade | Lei 8.213, arts. 25, II, e 142 |
+| ATC integral (até 13/11/2019) | 35/30 anos, sem idade; 100% da média × fator | Opção sem fator com 96/86 pontos em 13/11/2019 (art. 29-C); bônus de 5 anos para mulher e professor e 10 para professora no fator | CF, art. 201, § 7º, I (redação EC 20); Lei 8.213, arts. 29 e 29-C |
+| Proporcional da EC 20 | 53/48 anos + 30/25 + pedágio de 40%; 70% + 5% por ano | Revogada pela EC 103; só direito adquirido; fator incide (Tema 616) | EC 20, art. 9º, § 1º |
+| Idade urbana (até 13/11/2019) | 65/60 + carência; 70% + 1% por grupo de 12 contribuições | Perda da qualidade de segurado irrelevante; fator só se favorável | Lei 8.213, arts. 48 e 50; Lei 10.666, art. 3º, § 1º |
+| Compulsória | 70/65 anos, a requerimento da empresa, empregado com carência | Indenização trabalhista; rescisão na véspera da DIB | Lei 8.213, art. 51 |
+| Desaposentação/reaposentação | Inexistente por falta de lei | Irrepetíveis os valores de boa-fé até 6/2/2020; preservada a coisa julgada até essa data | Tema 503 do STF; Lei 8.213, art. 18, § 2º |
+| Aposentadoria programada | 65/62 anos + 20/15 de TC + 180 de carência | Só para filiados após 13/11/2019 (para os anteriores, opção); sem tempo fictício | CF, art. 201, § 7º, I; EC 103, art. 19; Decreto, art. 51 |
+| Cálculo após a EC 103 | Média de 100% desde 7/1994; 60% + 2% por ano acima de 20 (H) ou 15 (M) | Coeficiente pode passar de 100%; descarte de contribuições (art. 26, § 6º); art. 20 = 100%; art. 17 = média × fator | EC 103, art. 26 |
+| Transição por pontos | 35/30 de TC + pontos 96/86 em 2019, +1/ano, até 105 (2028)/100 (2033); 2026: 103/93 | Professor: 30/25 + 91/81, até 100/92; apuração em dias | EC 103, art. 15 |
+| Transição por idade progressiva | 35/30 de TC + 61/56 em 2019, +6 meses/ano, até 65 (2027)/62 (2031); 2026: 64,5/59,5 | Professor: 30/25 + 56/51, até 60/57 | EC 103, art. 16 |
+| Pedágio de 50% | Mais de 33/28 anos em 13/11/2019; 35/30 + 50% do que faltava; sem idade | Média × fator obrigatório; sem redução para professor | EC 103, art. 17 |
+| Transição da idade | 65 (H) / 60 + 6 meses/ano até 62 em 2023 (M) + 15 anos de TC | Homem com 15 a 19 anos: 60% | EC 103, art. 18; Decreto, art. 188-H |
+| Pedágio de 100% | 60/57 anos + 35/30 + 100% do que faltava em 13/11/2019 | Professor: 55/52 + 30/25; 100% da média; vale também para servidor federal | EC 103, arts. 20 e 26, § 3º, I |
+| Escolha da regra | Mais vantajosa entre as cumpridas | Melhor benefício (Tema 334 do STF); reafirmação da DER (Tema 995 do STJ) | Cap. 19 |
+| Idade rural | 60/55 anos + atividade rural por 180 meses no período imediatamente anterior ao requerimento ou à idade | Deve estar no campo ao completar a idade (Tema 642), salvo direito adquirido; tamanho da propriedade não descaracteriza por si só (Tema 1.115); segurado especial: 1 salário mínimo | CF, art. 201, § 7º, II; Lei 8.213, arts. 39 e 48, §§ 1º e 2º; Súmula 54 da TNU |
+| Híbrida | Rural + urbano para a carência; idade urbana | Rural remoto, descontínuo e sem contribuição vale como carência (Tema 1.007); sem repercussão geral (Tema 1.104 do STF); após a EC 103, Decreto exige 65/62 e 20/15 (art. 57) | Lei 8.213, art. 48, §§ 3º e 4º |
+| Professor | 60/57 anos + 25 anos de magistério na educação básica (regra permanente) | Funções de magistério: docência, direção, coordenação e assessoramento pedagógico (ADI 3.772; Tema 965); fator incide (Temas 960 do STF e 1.011 do STJ); vedada conversão | CF, art. 201, § 8º; EC 103, arts. 15, § 3º, 16, § 2º, 19, § 1º, II, e 20, § 1º; Decreto, art. 54 |
+| ACS e ACE | 60/57 anos + 25 de TC e exercício (regra permanente) | Transições: idades escalonadas de 52/50 (até 2030) a 60/57 (2041) com 25 anos; ou 63/60 + 15 de TC + 10 de exercício + 86/83 pontos; benefício extraordinário da União | CF, art. 201, § 8º-A; EC 140/2026, arts. 6º a 8º |
+| Direito adquirido | Requisitos até 13/11/2019 = regra e cálculo da época, a qualquer tempo | Não há direito a regime jurídico; transições não se combinam | EC 103, art. 3º; Súmula 359 do STF (Cap. 22) |
+| DIB | Empregado: desligamento, se requerida em até 90 dias; demais: DER | Reafirmação da DER (Cap. 19) | Lei 8.213, arts. 49 e 54; Decreto, art. 52 |
+
+## 13.13 Artigos de lei incidentes
+
+- Constituição Federal: art. 201, §§ 7º, 8º, 8º-A e 14.
+- EC 20/1998: arts. 3º e 9º (revogado pela EC 103).
+- EC 103/2019: arts. 3º, 15, 16, 17, 18, 19, 20, 26 e 35.
+- EC 140/2026: arts. 2º, 6º, 7º e 8º.
+- Lei 8.213/1991: arts. 18, § 2º e § 3º; 25, II; 29, I, II e §§ 7º a 9º; 29-C; 39; 48 a 56; 55, § 2º e § 4º; 142; 143.
+- Lei 9.876/1999: art. 3º (média dos 80%) e art. 7º (fator opcional na aposentadoria por idade).
+- Lei 10.666/2003: art. 3º, § 1º.
+- Lei 9.394/1996 (LDB): art. 67, § 2º (Lei 11.301/2006).
+- Decreto 3.048/1999: arts. 51 a 54, 56, 57, 188-H a 188-O.
+
+## 13.14 Julgados, temas e súmulas do capítulo
+
+- STF, Tema 503 (RE 661.256) e embargos (RE 381.367 ED e RE 827.833 ED, 6/2/2020): não há desaposentação nem reaposentação; art. 18, § 2º, constitucional.
+- STF, Tema 616 (RE 639.856, 19/8/2025): fator previdenciário incide na proporcional do art. 9º da EC 20.
+- STF, Tema 960: fator incide na aposentadoria do professor com requisitos após a Lei 9.876.
+- STF, Tema 965 (RE 1.039.644): docência, direção, coordenação e assessoramento pedagógico na educação básica contam como magistério.
+- STF, ADI 3.772 (29/10/2008): direção, coordenação e assessoramento pedagógico exercidos por professores contam; ressalva à Súmula 726.
+- STF, Tema 1.104: requisitos da híbrida são infraconstitucionais.
+- STJ, Tema 642 (REsp 1.354.908): segurado especial deve estar no campo ao completar a idade, ressalvado o direito adquirido.
+- STJ, Tema 1.007 (REsp 1.788.404): rural remoto e sem contribuição conta como carência da híbrida.
+- STJ, Tema 1.011 (REsp 1.808.156): fator na aposentadoria do professor após 29/11/1999.
+- STJ, Tema 1.115 (REsp 1.947.404): tamanho da propriedade não descaracteriza, por si só, a economia familiar.
+- STJ, Tema 563 e Jurisprudência em Teses, ed. 67, tese 13: desaposentação admitida — superado pelo Tema 503 do STF.
+- STJ, Jurisprudência em Teses, ed. 94, tese 11: DIB na citação sem prévio requerimento (rural, ações antigas).
+- TNU, Súmula 44: tabela do art. 142 pelo ano da idade.
+- TNU, Súmula 54: carência rural no período anterior ao requerimento ou à idade.
+- TNU, Súmulas 30, 41 e 46: tamanho do imóvel, trabalho urbano de familiar e atividade urbana intercalada não descaracterizam por si sós.
+- TNU, Súmula 76: tempo rural não contributivo não eleva o coeficiente do art. 50.
+
+Remissões a outros capítulos: Súmula 359 do STF e direito intertemporal (Cap. 22); Tema 334 do STF e Tema 995 do STJ (Cap. 19); Tema 1.102 do STF e ADIs 2.110 e 2.111 (Caps. 11 e 22); Tema 1.091 do STF (Cap. 11); Tema 709 do STF e ADI 6.309 (Cap. 14); Súmulas 149 e 577 do STJ, Súmulas 14 e 24 da TNU e Tema 644 do STJ (Cap. 9); Tema 1.125 do STF e Lei 10.666/2003 (Cap. 8); RE 631.240 (Cap. 19); Tema 313 do STF (Cap. 21).
+
+
+# CAPÍTULO 14 — APOSENTADORIA ESPECIAL E APOSENTADORIA DA PESSOA COM DEFICIÊNCIA
+
+## 14.10 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Exceção constitucional | idade e tempo diferenciados só por lei complementar, só para aposentadoria, só para PcD e expostos a agentes nocivos | vedada a caracterização por categoria ou ocupação; PcD com avaliação biopsicossocial por equipe multiprofissional e interdisciplinar | CF, art. 201, § 1º |
+| Beneficiários da especial | empregado, avulso, contribuinte individual cooperado | STJ estende ao contribuinte individual não cooperado, com prova por outros meios (Cap. 10) | Decreto, art. 64; Tema 1.291 do STJ |
+| Requisitos da especial | carência 180 + 15/20/25 anos de exposição permanente | 15: subsolo em frente de produção; 20: amianto e mineração afastada das frentes; 25: demais | Lei 8.213, arts. 25, II, e 57; Anexo IV |
+| Idade da EC 103 | 55/58/60 (art. 19, § 1º, I) | declarada inconstitucional (ADI 6.309, j. 3/6/2026); Decreto ainda reproduz | EC 103, art. 19, § 1º, I |
+| Transição | pontos 66/76/86 + exposição 15/20/25; idade + tempo de contribuição total, em dias | só para filiados até 13/11/2019; pontos fixos; possível opção pela regra permanente após a ADI 6.309 (em aberto) | EC 103, art. 21 |
+| Cálculo | média de 100% desde 7/1994 × (60% + 2% por ano acima de 20) | acima de 15 para mulher e atividade de 15 anos; direito adquirido até 13/11/2019: 100% do SB (80% maiores, sem fator) | EC 103, art. 26, §§ 2º, IV, e 5º |
+| Conversão especial em comum | permitida até 13/11/2019 | vedada depois; constitucional (ADI 6.309) | EC 103, art. 25, § 2º |
+| Conversão entre especiais | pela atividade preponderante (1,33; 1,67; 0,75; 1,25; 0,60; 0,80) | não se confunde com especial em comum | Decreto, art. 66 |
+| DIB | desligamento (se requerida em 90 dias) ou DER | segurado que continua exposto: DIB na DER (Tema 709) | Lei 8.213, arts. 49 e 57, § 2º |
+| Vedação de retorno | cessa o pagamento se continuar ou retornar a QUALQUER atividade nociva | atividade comum permitida; modulação: coisa julgada até os embargos e irrepetibilidade | Lei 8.213, art. 57, § 8º; Tema 709 do STF |
+| Afastamento por auxílio-doença | conta como especial (acidentário ou previdenciário) | Decreto 10.410/2020 suprimiu a previsão (Cap. 10) | Tema 998 do STJ; Decreto, art. 65 |
+| PcD: fundamento | LC 142 continua aplicável, inclusive no cálculo | servidor federal: 10 anos de serviço público e 5 no cargo | EC 103, art. 22 |
+| PcD: conceito e avaliação | impedimento de longo prazo + barreiras; perícia médica e social do INSS | IFBr-A: grave até 5.739; moderada 5.740 a 6.354; leve 6.355 a 7.584 | LC 142, arts. 2º, 4º e 5º; Portaria Interministerial 1/2014 |
+| PcD por tempo | H 25/29/33; M 20/24/28; sem idade; RMI 100% | deficiência na DER ou na data dos requisitos | LC 142, arts. 3º, I a III, e 8º, I |
+| PcD por idade | H 60 / M 55 + 15 anos de contribuição com deficiência (qualquer grau) | RMI 70% + 1% por 12 contribuições, até 100% | LC 142, arts. 3º, IV, e 8º, II |
+| Variação de grau | conversão proporcional pelo grau preponderante (maior tempo) | método das frações: soma ≥ 1 | LC 142, art. 7º; Decreto, art. 70-E |
+| Especial x PcD | não acumular reduções no mesmo período | especial → PcD permitida; PcD → especial vedada | LC 142, art. 10; Decreto, art. 70-F |
+| Fator previdenciário na PcD | só se mais vantajoso | opção por qualquer outra aposentadoria mais vantajosa | LC 142, art. 9º, I e V |
+| Prova da deficiência pretérita | documental, com data provável de início | vedada prova exclusivamente testemunhal | LC 142, art. 6º |
+| SB da PcD | INSS: 100% (art. 70-J do Decreto) | tese: 80% maiores (art. 22 da EC 103 + art. 8º da LC 142) | controvertido |
+
+## 14.11 Artigos de lei incidentes
+
+- CF: art. 40, §§ 4º-A e 4º-C (remissão); art. 201, §§ 1º, 2º e 14.
+- EC 103/2019: arts. 19, § 1º, I, e § 2º; 21; 22; 25, § 2º; 26, caput e §§ 2º, IV, e 5º.
+- Lei 8.213/1991: arts. 25, II; 29; 46; 49; 57 (caput e §§ 1º a 8º); 58; 86, § 1º; 96, I; 124.
+- Lei 10.666/2003: art. 3º.
+- LC 142/2013: arts. 1º a 11.
+- Decreto 3.048/1999: arts. 64 a 69; 70-A a 70-J; Anexo IV.
+- Portaria Interministerial SDH/MPS/MF/MOG/AGU 1/2014 (IFBr-A).
+- Lei 13.146/2015: art. 2º.
+
+## 14.12 Julgados, temas e súmulas do capítulo
+
+- STF, ADI 6.309 (j. 3/6/2026): idade mínima da aposentadoria especial inconstitucional; vedação de conversão e novo cálculo válidos.
+- STF, Tema 709 (RE 791.961): vedação de continuar ou retornar a atividade nociva é constitucional; DIB na DER; cessa o pagamento após a implantação.
+- STJ, Tema 1.124 (j. 8/10/2025): prova nova só em juízo desloca a DIB para a citação.
+
+Remissões a outros capítulos: Temas 555 do STF e 1.090, 694, 534, 1.083, 998 e 1.291 do STJ, Tema 1.209 do STF e Tema 1.307 do STJ, ruído, EPI, vigilante e penosidade (Cap. 10); Tema 334 do STF (Cap. 19); SV 33, Temas 942 e 965 do STF e Súmula 726 do STF (Caps. 13 e 23); contagem recíproca do tempo especial (Cap. 26).
+
+
+# CAPÍTULO 15 — BENEFÍCIOS POR INCAPACIDADE, ACIDENTE DO TRABALHO E REABILITAÇÃO PROFISSIONAL
+
+## 15.9 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Incapacidade x doença | o risco é a incapacidade; preexistente à filiação não gera benefício | salvo progressão ou agravamento; DII fixada pela perícia | arts. 42, § 2º, 59, § 1º; Súmula 53 TNU |
+| Carência | 12 contribuições | dispensada: acidente de qualquer natureza, doença ocupacional, art. 151; auxílio-acidente e reabilitação sempre | arts. 25, 26, 151 |
+| Auxílio temporário: evento | incapacidade por mais de 15 dias consecutivos | empregado: 15 dias pagos pela empresa | arts. 59, 60, § 3º |
+| Auxílio temporário: DIB | 16º dia (empregado) ou DII (demais) | DER se requerido após 30 dias | art. 60, § 1º; art. 72 do Decreto |
+| Auxílio temporário: RMI | 91% do SB | limitado à média dos 12 últimos SC; igual se acidentário | arts. 29, § 10, 61 |
+| Prisão | fechado: sem benefício; em gozo: suspensão até 60 dias e cessação | aberto/semiaberto: devido; prisão ilegal: tudo | art. 59, §§ 2º a 8º |
+| DCB | fixada sempre que possível; sem ela, 120 dias | prorrogação a pedido; constitucional (Tema 1.196 STF) | art. 60, §§ 8º e 9º |
+| Análise documental | até 30 dias | exceção por ato do Executivo; acima, perícia presencial ou telemedicina | art. 60, §§ 11-F a 11-I (Lei 15.265/2025) |
+| Revisão judicial x administrativa | INSS pode rever benefício judicial com perícia | sem ação revisional (Tema 1.157 STJ) | arts. 60, § 10, 101 |
+| Trabalho durante a espera | acumula rendas e atrasados | Tema 1.013 STJ; Súmula 72 TNU | — |
+| Aposentadoria por incapacidade: requisito | incapacidade total e permanente, sem reabilitação | condições pessoais (Súmula 47 TNU) | art. 42 |
+| Aposentadoria: RMI | 60% + 2% por ano acima de 20 (H) ou 15 (M) | 100% se acidente do trabalho ou doença ocupacional; constitucional (Tema 1.300 STF) | art. 26, §§ 2º, III, 3º, II, 5º, EC 103 |
+| Aposentadoria: DIB judicial sem DER | citação | — | Súmula 576 STJ |
+| Isenção de revisão | 55 anos + 15 de benefício; 60 anos; aids, Alzheimer, Parkinson, ELA; irreversível | não vale para os 25%, recuperação a pedido, curatela, fraude | arts. 43, §§ 5º e 6º, 101, §§ 1º e 2º |
+| Retorno voluntário | cancelamento automático | — | art. 46 |
+| Mensalidade de recuperação | até 5 anos: cessa de imediato (empregado com função) ou após tantos meses quantos os anos | parcial, após 5 anos ou trabalho diverso: 6 meses integral, 6 com redução de 50%, 6 com redução de 75% | art. 47 |
+| Acréscimo de 25% | só aposentadoria por incapacidade com assistência permanente | ultrapassa o teto; reajusta; não passa à pensão; não se estende (Tema 1.095 STF) | art. 45; Anexo I do Decreto |
+| Auxílio-acidente | 50% do SB; sequela redutora após consolidação | pode ser inferior ao mínimo; lesão mínima basta (Tema 416 STJ) | art. 86; art. 201, § 2º, CF |
+| Auxílio-acidente: segurados | empregado, doméstico, avulso, especial | não CI e facultativo | art. 18, § 1º |
+| Auxílio-acidente: DIB | dia seguinte à cessação do auxílio temporário | DER; citação | Tema 862 STJ |
+| Auxílio-acidente: acumulação | com salário, outros benefícios e seguro-desemprego | não com aposentadoria (corte 11/11/1997) nem com outro auxílio-acidente | art. 86, § 2º; art. 124, V; Súmulas 507 e 146 STJ |
+| Auxílio-acidente: efeitos | não mantém qualidade de segurado; não é tempo de contribuição | transição do Tema 350 TNU | art. 15, I |
+| Acidente do trabalho | típico, doença profissional, doença do trabalho, equiparados | exclusões do art. 20, § 1º | arts. 19 a 21 |
+| Equiparados | concausa; agressão no local e horário; contaminação; fora do local a serviço; trajeto | ofensa física intencional por disputa do trabalho | art. 21 |
+| Doença ocupacional: data | início da incapacidade, segregação ou diagnóstico, o que ocorrer primeiro | — | art. 23 |
+| NTEP | CNAE da empresa x CID; presunção relativa | contestação pela empresa; recurso com efeito suspensivo ao CRPS | art. 21-A; art. 337 do Decreto |
+| CAT | até o 1º dia útil; morte, imediato | supletiva: acidentado, dependentes, sindicato, médico, autoridade, sem prazo | art. 22 |
+| Estabilidade | 12 meses após cessar o auxílio acidentário | doença profissional constatada após a dispensa; contrato a prazo também | art. 118; entendimento sumulado do TST |
+| Competência | acidentária x INSS: Justiça Estadual | comum e acidente de qualquer natureza: Federal; indenização x empregador: Trabalho | art. 109, I, CF; Súmula 15 STJ; Tema 414 STF; SV 22 |
+| Ação acidentária | isenta de custas e sucumbência para o segurado | honorários periciais: Estado, se INSS vencedor (Tema 1.044 STJ); INSS paga custas estaduais (Súmula 178 STJ) | art. 129 |
+| Lei 14.331/2022 | requisitos da inicial e documentos; laudo divergente fundamentado | improcedência após ouvir o autor se o laudo judicial confirma o administrativo | art. 129-A |
+| Reabilitação | serviço obrigatório, sem carência, para todos os segurados | recusa só de cirurgia e transfusão | arts. 62, 89 a 92, 101 |
+| Cotas | 100+ empregados: 2% a 5% | dispensa só após contratar substituto; aprendiz não conta | art. 93 |
+
+## 15.10 Artigos de lei incidentes
+
+- CF: art. 109, I; art. 201, I e § 2º.
+- EC 103/2019: art. 26, caput, §§ 1º, 2º, III, 3º, II, e 5º.
+- Lei 8.213/1991: arts. 15, I; 18, § 1º e § 2º; 19 a 23; 25, I; 26, I, II e V; 29, § 10; 39, I; 42 a 47; 59 a 63; 86; 89 a 93; 101; 118; 120; 124, I, IV, V e parágrafo único; 129; 129-A; 151.
+- Decreto 3.048/1999: arts. 43 a 49; 71 a 80; 104; 336; 337; Anexo I.
+- Leis de alteração: Lei 9.032/1995; Lei 9.528/1997 (MP 1.596-14/1997); Lei 11.430/2006; Lei 13.135/2015; LC 150/2015; Lei 13.146/2015; Lei 13.457/2017; Lei 13.846/2019; Lei 14.331/2022; Lei 14.441/2022; Lei 14.724/2023; Lei 15.157/2025; Lei 15.265/2025.
+
+## 15.11 Julgados, temas e súmulas do capítulo
+
+- STF, Tema 1.095: acréscimo de 25% não se estende a outras aposentadorias sem lei.
+- STF, Tema 1.196: DCB (alta programada) constitucional.
+- STF, Tema 1.300: coeficiente de 60% + 2% da aposentadoria por incapacidade comum é constitucional.
+- STF, Tema 599: auxílio-suplementar e aposentadoria por invalidez, cumulação só antes de 11/11/1997.
+- STF, Tema 414: ação acidentária contra o INSS na Justiça Estadual.
+- STF, Súmula Vinculante 22: indenização por acidente contra o empregador na Justiça do Trabalho.
+- STJ, Súmula 15: litígios de acidente do trabalho na Justiça Estadual.
+- STJ, Súmula 44: grau mínimo regulamentar de disacusia não exclui o benefício.
+- STJ, Súmula 110: isenção de honorários na acidentária só para o segurado.
+- STJ, Súmula 146: novo infortúnio, um único benefício recalculado.
+- STJ, Súmula 159: remuneração variável, média dos 12 últimos meses.
+- STJ, Súmula 178: INSS paga custas na Justiça Estadual.
+- STJ, Súmula 557: RMI da aposentadoria precedida de auxílio (art. 36, § 7º, do Decreto).
+- STJ, Súmula 576: DIB judicial sem requerimento, na citação.
+- STJ, Tema 416: auxílio-acidente devido ainda que mínima a lesão.
+- STJ, Tema 627: segurado especial dispensado de contribuir como facultativo.
+- STJ, Tema 862: DIB do auxílio-acidente no dia seguinte à cessação do auxílio-doença.
+- STJ, Tema 1.013: renda do trabalho e atrasados do benefício, recebimento conjunto.
+- STJ, Tema 1.044 e REsp n. 2.126.628 (Info 809): honorários periciais da acidentária pelo Estado.
+- STJ, Tema 1.157: cancelamento administrativo de benefício judicial com perícia.
+- STJ, Tema 1.246: incapacidade é matéria fática, sem recurso especial.
+- STJ, Jurisprudência em Teses, eds. 198, 199 e 207: auxílio-acidente (acumulação, tempo, alimentos, DIB) e acréscimo de 25% no RPPS.
+- TNU, Súmulas 47, 53, 72, 77, 78, 88, 89 e 177; Temas 220, 259, 269, 274, 275, 315, 343 e 350.
+
+Remissões a outros capítulos: Súmula 507 do STJ, auxílio-acidente e aposentadoria (Cap. 12); Tema 1.125 do STF (carência do período em benefício, Cap. 9); RE 631.240 e prévio requerimento (Cap. 19); Súmula 111 do STJ, EC 113/2021 e EC 136/2025, Tema 1.484 do STF e competência delegada (Cap. 20); prescrição quinquenal (Cap. 21); Tema 554 do STF e FAP (Cap. 4); Tema 979 do STJ e restituição (Cap. 12).
+
+
+# CAPÍTULO 16 — PENSÃO POR MORTE E AUXÍLIO-RECLUSÃO
+
+## 16.10 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Lei aplicável | a do óbito ou da prisão | Lei 15.108/2025 e Portaria 424/2020 não retroagem | Súmula 340 do STJ |
+| Carência da pensão | não há | 18 contribuições e 2 anos de união só afetam a DURAÇÃO da cota do cônjuge | art. 26, I; art. 77, § 2º, V |
+| Qualidade de segurado | exigida no óbito | dispensada se havia direito adquirido a aposentadoria; contribuinte individual não regulariza contribuições *post mortem*, salvo serviço a empresa | art. 102, § 2º; Súmula 416 do STJ; Súmula 52 da TNU |
+| Classes | I exclui II, que exclui III; rateio igual dentro da classe | ex-cônjuge com alimentos concorre com a classe I | art. 16, § 1º; art. 76, § 2º; art. 77 |
+| Filho | até 21 anos; inválido ou com deficiência a qualquer idade se a condição for anterior ao óbito | universitário não prorroga; deficiente pode trabalhar | Tema 643 do STJ; JT 207 do STJ; art. 77, § 6º |
+| Sob guarda | equiparado a filho para óbitos desde 14/3/2025, com declaração do segurado e insuficiência de sustento | óbitos de 13/11/2019 a 13/3/2025: excluído (EC 103, art. 23, § 6º); antes: admitido com prova de dependência (Cap. 8) | Lei 15.108/2025; Cap. 8 |
+| Concubinato | não gera pensão | separado de fato pode constituir união estável (CC, art. 1.723, § 1º) | Temas 526 e 529 do STF |
+| Renúncia a alimentos | não impede a pensão se provada necessidade superveniente | alimentos temporários: pensão pelo prazo remanescente | Súmula 336 do STJ; art. 76, § 3º |
+| Valor | 50% + 10% por dependente sobre a aposentadoria recebida ou a hipotética por incapacidade permanente | dependente inválido ou com deficiência: 100% até o teto; piso de 1 salário mínimo para o total | EC 103, art. 23; ADI 7.051 |
+| Base do não aposentado | 60% + 2% por ano acima de 20 (H) ou 15 (M) anos | 100% da média se o óbito for acidentário (trabalho) | EC 103, art. 26, §§ 2º, 3º e 5º |
+| Reversão | cotas não revertem | 100% preservado com 5 ou mais remanescentes; art. 77, § 1º só para óbitos anteriores à EC | EC 103, art. 23, § 1º |
+| Duração do cônjuge | inválido: enquanto durar; sem 18 contribuições ou 2 anos de união: 4 meses; com ambos: tabela por idade | acidente de qualquer natureza ou doença ocupacional dispensa 18 e 2; óbitos desde 1/1/2021: 3 anos (menos de 22), 6 (22 a 27), 10 (28 a 30), 15 (31 a 41), 20 (42 a 44), vitalícia (45 ou mais) | art. 77, § 2º, V, §§ 2º-A, 2º-B e 5º; Portaria ME 424/2020; ADIs 5.340 e 5.389 |
+| Perda do direito | condenação transitada por homicídio doloso ou tentativa contra o segurado | ressalva de absolutamente incapazes e inimputáveis; suspensão provisória com indícios | art. 74, § 1º; art. 16, § 7º; art. 77, § 7º |
+| Fraude no casamento | perda pelo cônjuge, "a qualquer tempo", em processo JUDICIAL | não basta processo administrativo | art. 74, § 2º |
+| DIB | óbito, se requerida em 180 dias (filho menor de 16) ou 90 dias (demais); depois, DER | morte presumida: decisão judicial; desaparecimento em catástrofe dispensa declaração | art. 74; art. 78; Tema 1.421 do STJ |
+| Habilitação tardia | efeitos só a partir da habilitação | habilitação provisória para rateio, sem pagamento até o trânsito em julgado | art. 76; art. 74, §§ 3º a 6º; Tema 223 da TNU |
+| Auxílio-reclusão: requisitos | regime fechado, 24 contribuições, baixa renda do preso, sem remuneração ou benefício substitutivo | 12 contribuições após perda da qualidade | art. 80; art. 25, IV; art. 27-A |
+| Baixa renda | média dos 12 salários de contribuição anteriores ao mês da prisão ≤ 1.980,38 (2026) | antes de 18/1/2019: último salário; desempregado = sem renda (Tema 896 do STJ) | art. 80, §§ 3º e 4º; Tema 89 do STF |
+| Valor do auxílio-reclusão | cálculo da pensão, até 1 salário mínimo | na prática, 1 salário mínimo | EC 103, art. 27, § 1º |
+| Manutenção | prova de permanência no fechado (atestado trimestral ou base do CNJ) | fuga suspende; progressão e soltura cessam; morte converte em pensão; trabalho do preso não prejudica | Decreto 3.048, arts. 116 a 119; art. 80, §§ 7º e 8º |
+
+## 16.11 Artigos de lei incidentes
+
+- CF: art. 201, IV e V, e § 2º; art. 226, § 3º; art. 227, § 3º, II, e § 6º.
+- EC 103/2019: art. 23 (§§ 1º a 8º); art. 26, §§ 2º, 3º e 5º; art. 27 (*caput* e § 1º); art. 24 (remissão).
+- EC 20/1998: art. 13.
+- Lei 8.213/1991: art. 15; art. 16 (§§ 1º a 7º); art. 18, II; art. 25, IV; art. 26, I; art. 27-A; art. 74 (I a III, §§ 1º a 6º); art. 75; art. 76 (§§ 1º a 3º); art. 77 (§§ 1º a 7º, inclusive 2º-A e 2º-B); art. 78; art. 79 (revogado); art. 80 (§§ 1º a 8º); art. 102, § 2º; art. 124, VI.
+- Decreto 3.048/1999: arts. 105 a 108, 110, 111, 113 a 119.
+- Lei 13.135/2015; Lei 13.183/2015; Lei 13.846/2019; Lei 15.108/2025.
+- Portaria ME 424/2020; Portaria Interministerial MPS/MF 13/2026 (art. 2º e art. 5º).
+- Código Civil: arts. 198, I; 1.723, § 1º; 1.727. ECA: art. 33, § 3º.
+
+## 16.12 Julgados, temas e súmulas do capítulo
+
+- Súmula 340 do STJ: lei do óbito rege a pensão.
+- Súmula 416 do STJ: pensão devida se o falecido já tinha direito a aposentadoria.
+- Súmula 336 do STJ: renúncia aos alimentos e necessidade superveniente.
+- Súmula 613 do STF: rural com óbito anterior à LC 11/1971.
+- Súmula 52 da TNU: contribuinte individual não regulariza contribuições após o óbito, salvo tomador.
+- Tema 643 do STJ: filho universitário maior de 21 anos não recebe.
+- Jurisprudência em Teses do STJ, ed. 207, teses 2 e 4: neto maior incapaz sob guarda; irmão inválido.
+- Tema 526 do STF: concubinato não gera pensão.
+- Tema 529 do STF: monogamia impede novo vínculo concomitante.
+- ADI 7.051 do STF: cotas da EC 103 constitucionais.
+- ADIs 5.340 e 5.389 do STF: duração da pensão do cônjuge (Lei 13.135/2015) constitucional.
+- Tema 1.421 do STJ: filho com menos de 16 anos fora dos 180 dias não retroage (eventos desde 18/1/2019).
+- Tema 223 da TNU: incapaz habilitado depois de outro dependente recebe desde o requerimento.
+- Tema 89 do STF: renda do preso é o parâmetro.
+- Tema 896 do STJ: desempregado preso antes da MP 871/2019 = sem renda.
+- STJ, Primeira Turma, 2026 (Relator Ministro Gurgel de Faria): morte presumida, DIB na decisão judicial mesmo para incapaz.
+
+Remissões a outros capítulos: Cap. 8 (rol de dependentes, prova e período de graça; criança sob guarda: Tema 732 do STJ, ADIs 4.878 e 5.083, Tema 1.271 do STF e Lei 15.108/2025; JT 207, tese 3); Cap. 12 (Q2448984); Cap. 23 (JT 207, teses 5 e 6); Cap. 11 (média e coeficientes); Cap. 12 (acumulação de pensões e art. 24 da EC 103); Cap. 15 (benefício por incapacidade do preso); Cap. 17 (salário-família e baixa renda); Cap. 20 (competência, prova e consectários); Cap. 21 (decadência da revisão do benefício originário e legitimidade do pensionista, Tema 1.057 do STJ); Cap. 22 (direito intertemporal); Caps. 23 e 25 (pensão no RPPS).
+
+
+# CAPÍTULO 17 — OUTROS BENEFÍCIOS DO RGPS: SALÁRIO-MATERNIDADE, SALÁRIO-PATERNIDADE, SALÁRIO-FAMÍLIA, SEGURADO ESPECIAL E AUXÍLIO-INCLUSÃO
+
+## 17.8 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Titulares do salário-maternidade | todas as seguradas; segurado homem na adoção e na morte do titular | aposentada que volta a trabalhar também recebe | arts. 71, 71-A e 71-B; Decreto, art. 103 |
+| Duração | 120 dias, início entre 28 dias antes do parto e o parto | natimorto 120; aborto não criminoso 2 semanas; +2 semanas antes e depois em caso excepcional; +60 dias (Zika) | art. 71; Decreto, art. 93 |
+| Internação | > 2 semanas, por complicação do parto: internação + 120 dias após a alta, descontado o pré-parto | conta da alta da mãe ou do bebê, a que for por último | art. 71, § 3º (Lei 15.222/2025); ADI 6.327 |
+| Carência | nenhuma para qualquer categoria | texto do art. 25, III (10 contribuições) declarado inconstitucional; segurada especial: controvérsia sobre prova de 10 ou 12 meses de atividade | ADIs 2.110 e 2.111 (21/3/2024) |
+| Qualidade de segurada | indispensável no fato gerador | desempregada em período de graça recebe do INSS pela média | art. 73, parágrafo único; Decreto, art. 97 |
+| Valor | empregada e avulsa: remuneração integral (limite do art. 248 da CF); doméstica: último salário de contribuição; CI, MEI, facultativa e desempregada: 1/12 dos 12 últimos salários de contribuição em 15 meses; segurada especial: 1 salário mínimo | piso de 1 salário mínimo; divisor sempre 12 | arts. 72 e 73; ADI 1.946 |
+| Quem paga | empresa (empregada), com compensação | INSS: avulsa, empregada do MEI, doméstica, demais seguradas, adotantes, art. 71-B | arts. 71-A, § 1º, 72 e 73 |
+| Contribuição | patronal: inconstitucional; da segurada: incide por lei | Tema 1.274 pendente; afastamento da Lei 14.151/2021 não é salário-maternidade | Tema 72 do STF; art. 28, § 2º, da Lei 8.212; Tema 1.290 do STJ |
+| Acumulação | vedada com auxílio por incapacidade e com seguro-desemprego | permitida com pensão, auxílio-acidente, aposentadoria (aposentada que voltou) | art. 124, IV e parágrafo único; Decreto, art. 102 |
+| Adoção | 120 dias, qualquer idade da criança, pago pelo INSS | um benefício por processo; guarda deve ser para fins de adoção | art. 71-A; Decreto, art. 93-A |
+| União homoafetiva | mãe não gestante tem licença-maternidade; se a companheira já a usou, licença equivalente à paternidade | — | Tema 1.072 do STF |
+| Morte do titular | transferência ao cônjuge ou companheiro segurado; requerimento até o fim do benefício originário | não há se o filho morre ou é abandonado; cálculo pela categoria do sobrevivente; de 2027: quem assumir as responsabilidades parentais | art. 71-B |
+| Salário-paternidade | benefício do RGPS a partir de 1/1/2027: 10 dias (2027), 15 (2028), 20 (2029, condicionado à meta fiscal) | +1/3 se deficiência; equivale ao salário-maternidade se só há o pai; acumula com o salário-maternidade | Lei 15.371/2026; arts. 73-A a 73-H |
+| Salário-família: quem | empregado, doméstico, avulso; aposentados por incapacidade, por idade e demais com 65/60 anos | não: CI, facultativo, segurado especial | art. 65 |
+| Salário-família: valores 2026 | renda até 1.980,38; cota de 67,54 por filho ou equiparado até 14 anos ou inválido | limite aferido por genitor; ambos podem receber | EC 103, art. 27; Portaria MPS/MF 13/2026 |
+| Salário-família: condicionalidades | Lei: vacinação e frequência anuais; Decreto: vacinação anual até 6 anos, frequência semestral a partir de 4 | doméstico: só certidão; falta gera suspensão | art. 67; Decreto, art. 84 |
+| Salário-família: outros | sem carência; não incorpora ao salário; pago pela empresa com compensação | cessa com 14 anos, morte, fim da invalidez, desemprego | arts. 26, I, 68 e 70; Decreto, art. 88 |
+| Segurado especial | aposentadoria por idade e por incapacidade, auxílio por incapacidade, pensão, auxílio-reclusão e salário-maternidade de 1 salário mínimo; auxílio-acidente | prova de atividade igual à carência; tempo de contribuição só com contribuição facultativa; sem salário-família | art. 39; art. 26, III; Súmula 272 do STJ |
+| Auxílio-inclusão | 50% do BPC (810,50 em 2026) à pessoa com deficiência moderada ou grave que recebe BPC e passa a trabalhar com remuneração até 2 salários mínimos | BPC fica suspenso; inacumulável com BPC, aposentadoria, pensão, benefício por incapacidade e seguro-desemprego; sem contribuição e sem abono | LOAS, arts. 21-A e 26-A a 26-H |
+| Serviço social | esclarecer direitos e meios de exercê-los; prioridade aos segurados em incapacidade temporária | não faz representação judicial; assessora Estados e Municípios | art. 88 |
+| Empresa Cidadã | +60 dias de licença-maternidade e +15 de paternidade, pagos pelo empregador com incentivo fiscal | não é benefício do RGPS | Lei 11.770/2008 |
+
+## 17.9 Artigos de lei incidentes
+
+- Constituição Federal: art. 7º, XII, XVIII, XIX e XXX; art. 194, parágrafo único, III; art. 195, I, a, II, §§ 4º, 5º e 8º; art. 201, II, III e IV; art. 203, V; art. 248; ADCT, art. 10, § 1º.
+- EC 20/1998: art. 14. EC 103/2019: art. 9º, § 2º; art. 27. EC 113/2021: art. 3º.
+- Lei 8.213/1991: arts. 11, V e VII; 13; 15; 16, § 2º; 18, caput e §§ 1º e 2º; 25, III e IV e parágrafo único; 26, I, III, IV, V e VI; 28; 39; 65 a 70; 71 a 73; 73-A a 73-H (Lei 15.371/2026, vigência em 1/1/2027); 88; 124, I e IV e parágrafo único.
+- Lei 8.212/1991: art. 28, § 2º e § 9º, a; art. 89, § 11 (redação da Lei 15.371/2026).
+- Decreto 3.048/1999: arts. 81 a 92 (salário-família); 93 a 103 (salário-maternidade).
+- Lei 8.742/1993 (LOAS): arts. 20, 21-A e 26-A a 26-H.
+- Lei 13.146/2015: art. 94.
+- Lei 11.770/2008: art. 1º.
+- Lei 15.371/2026: arts. 2º a 5º, 11 a 14 (licença e salário-paternidade).
+- Leis 15.156/2025 (Zika) e 15.222/2025 (internação); Lei 13.985/2020, art. 5º; Lei 14.151/2021; Lei 14.176/2021; Lei 14.441/2022; Lei 15.288/2025.
+- CLT: arts. 392, 392-A, 392-B, 393 e 394-A, § 3º.
+- Portaria Interministerial MPS/MF 13/2026 (valores de 2026).
+
+## 17.10 Julgados, temas e súmulas do capítulo
+
+- STF, ADIs 2.110 e 2.111 (j. 21/3/2024): inconstitucional a carência do salário-maternidade só para algumas seguradas.
+- STF, ADI 6.327 (j. 21/10/2022): internação pós-parto superior a duas semanas; licença e benefício contados da alta.
+- STF, ADI 1.946 (j. 3/4/2003): teto da EC 20/1998 não alcança o salário da licença-gestante.
+- STF, Tema 72 (RE 576.967, j. 4/8/2020): inconstitucional a contribuição patronal sobre o salário-maternidade.
+- STF, Tema 1.274 (RE 1.455.643): contribuição da própria segurada sobre o salário-maternidade; pendente.
+- STF, Tema 1.072 (RE 1.211.446, j. 13/3/2024): mãe não gestante em união homoafetiva tem licença-maternidade.
+- STJ, Tema 1.290 (REsp 2.160.674 e 2.153.347, j. 6/2/2025): afastamento da Lei 14.151/2021 não é salário-maternidade; legitimidade da Fazenda Nacional.
+- STJ, AgInt no REsp 2.109.930 (j. 4/6/2024): no mesmo sentido do Tema 1.290.
+- STJ, Súmula 657: indígena com menos de 16 anos, segurada especial, tem direito ao salário-maternidade.
+- STJ, Súmula 272: segurado especial só tem aposentadoria por tempo se contribuir facultativamente.
+
+Remissões a outros capítulos: carência e período de graça (Cap. 8); prova rural e Súmula 149 do STJ (Cap. 9); revisão da vida toda nas ADIs 2.110 e 2.111 (Caps. 11 e 22); acumulação e art. 124 (Cap. 12); aposentadoria rural e híbrida, Tema 1.007 do STJ (Cap. 13); auxílio-acidente e reabilitação (Cap. 15); auxílio-reclusão e baixa renda, Temas 89 do STF e 1.162 do STJ (Cap. 16); BPC (Cap. 18); RE 631.240 (Cap. 19); competência delegada (Cap. 20); prescrição (Cap. 21); RPPS e art. 9º da EC 103/2019 (Cap. 24); Tema 72 e Tema 739 do STJ (Apostila de Direito Tributário, Cap. 26).
+
+
+# CAPÍTULO 18 — ASSISTÊNCIA SOCIAL: LOAS, SUAS, BENEFÍCIO DE PRESTAÇÃO CONTINUADA E NOÇÕES DE SAÚDE NA SEGURIDADE
+
+## 18.11 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Assistência social | prestada a quem dela necessitar, independentemente de contribuição | lei que exija contribuição para o BPC é inconstitucional | CF, art. 203, *caput* |
+| Financiamento | orçamento da seguridade (art. 195) + outras fontes; cofinanciamento dos três entes por transferências automáticas fundo a fundo | Estados e DF PODEM vincular até 0,5% da receita tributária líquida, vedado pagar pessoal, dívida e despesa corrente não vinculada | CF, art. 204; LOAS, arts. 28 e 30-A |
+| Princípios da LOAS | necessidade sobre rentabilidade; universalização dos direitos; dignidade e vedação de comprovação vexatória; igualdade urbano-rural; divulgação | diretrizes: descentralização com comando único, participação, primazia do Estado | LOAS, arts. 4º e 5º |
+| SUAS | sistema descentralizado e participativo; base: território | integrado por entes, conselhos e entidades | LOAS, art. 6º |
+| Proteções | básica: prevenir, fortalecer vínculos (CRAS municipal; PAIF); especial: violação de direitos (CREAS municipal, estadual ou regional; PAEFI) | BPC integra a proteção básica | LOAS, arts. 6º-A, 6º-C, 24-A e 24-B; Decreto 6.214/2007, art. 1º, § 1º |
+| CadÚnico | registro público das famílias de baixa renda; inscrição no CRAS, CREAS ou por meio eletrônico | atualização máxima de 24 meses para programas de transferência de renda; famílias unipessoais: no domicílio | LOAS, art. 6º-F; Lei 15.077/2024, art. 2º |
+| Benefícios eventuais | nascimento, morte, vulnerabilidade temporária, calamidade | definidos e pagos por Estados, DF e Municípios, previstos na LOA; auxílios natalidade e funeral pagos por Municípios e DF | LOAS, arts. 13 a 15 e 22 |
+| BPC: conceito | 1 salário mínimo à PcD e ao idoso com 65 anos ou mais sem meios próprios NEM familiares | não exige contribuição; não gera abono nem pensão; intransferível; resíduo aos herdeiros | LOAS, art. 20; Decreto 6.214/2007, arts. 22 e 23 |
+| BPC: titulares | idoso de 65 anos ou mais; PcD de qualquer idade (criança: impacto compatível com a idade) | estrangeiro residente (Tema 173 do STF), apesar do art. 7º do regulamento; independe de interdição; acolhimento não prejudica | LOAS, art. 20, § 5º; Decreto 6.214/2007, arts. 4º, § 1º, e 18 |
+| Pessoa com deficiência | impedimento de longo prazo (2 anos ou mais) de natureza física, mental, intelectual ou sensorial que, com barreiras, obstrui a participação | não se confunde com incapacidade laboral; 2 anos contados do início do impedimento à cessação prevista (Súmula 48 da TNU) | LOAS, art. 20, §§ 2º e 10 |
+| Avaliação biopsicossocial | perícia médica federal + avaliação social do INSS, com base na CIF; CID obrigatório | sujeita também a concessão judicial (§ 2º-A); estudo social indispensável (Súmula 80 da TNU); infectologista para requerente com aids (§ 16) | LOAS, arts. 20, §§ 2º-A, 6º e 16, e 40-B |
+| Critério de renda | per capita IGUAL OU INFERIOR a 1/4 do SM (2026: 405,25) | presunção absoluta abaixo (Tema 185 do STJ); acima, prova por outros meios (Temas 27 e 312 do STF); ampliação administrativa até 1/2 depende de regulamento (art. 20-B) | LOAS, art. 20, §§ 3º, 11 e 11-A |
+| Fatores do art. 20-B | PcD: grau da deficiência e gastos não cobertos por SUS ou SUAS; idoso: dependência de terceiros e gastos | escalas graduais em regulamento | LOAS, art. 20-B, § 2º |
+| Grupo familiar | requerente, cônjuge ou companheiro, pais (ou madrasta/padrasto na falta de um), irmãos solteiros, filhos e enteados solteiros, tutelados, sob o mesmo teto | rol fechado: netos, avós e casados ficam fora | LOAS, art. 20, § 1º |
+| Cálculo da renda | soma da renda bruta mensal, vedadas deduções não previstas em lei | exclusões: estágio, aprendizagem, barragens (§ 9º); BPC ou benefício de até 1 SM de idoso acima de 65 ou PcD (§ 14; Tema 640 do STJ); auxílio-inclusão para manter BPC de outro (art. 26-A, § 3º) | LOAS, art. 20, §§ 3º-A, 9º e 14 |
+| Cadastros | CPF e CadÚnico; biometria (CIN, título eleitoral ou CNH), do requerente ou do responsável legal | dispensa de biometria em localidades de difícil acesso ou dificuldade de deslocamento | LOAS, art. 20, §§ 12 a 12-B; Lei 15.077/2024, art. 1º |
+| Pagamento e DIB | devido com o cumprimento dos requisitos; pagamento em até 45 dias | judicial: DIB na DER se já presentes impedimento e miserabilidade (Súmula 22 da TNU) | LOAS, art. 37 |
+| Revisão | a cada 2 anos | dispensa de perícia periódica se impedimento permanente, irreversível ou irrecuperável (salvo suspeita de fraude ou erro) e no Zika congênito | LOAS, art. 21, *caput* e §§ 5º e 6º |
+| Cessação e cancelamento | cessa com a superação das condições ou morte; cancela por irregularidade | desenvolvimento de capacidades e reabilitação não remunerada não suspendem; nova concessão possível | LOAS, art. 21, §§ 1º a 4º |
+| Trabalho da PcD | suspensão (inclusive MEI); retorno sem nova perícia | aprendiz: acumula por 2 anos; auxílio-inclusão (50% do BPC) se deficiência moderada ou grave e remuneração até 2 SM | LOAS, arts. 21-A e 26-A a 26-H |
+| CadÚnico desatualizado (mais de 24 meses) | regularização em 45 dias (pequeno porte) ou 90 dias (mais de 50 mil habitantes) | sem ciência: bloqueio em 30 dias; com ciência e descumprimento: suspensão | LOAS, art. 21-B |
+| Acumulação | vedada com qualquer benefício da seguridade ou de outro regime, inclusive seguro-desemprego | salvo assistência médica, pensão especial indenizatória e transferências de renda (Bolsa Família, renda básica); opção pelo mais vantajoso (TNU, Temas 253 e 284) | LOAS, art. 20, § 4º; Decreto 6.214/2007, art. 5º |
+| Processo | réu: INSS; Justiça Federal; prova por perícia e estudo social | sem decadência para o indeferimento (Súmula 64 da TNU cancelada) | Súmulas 79 e 80 da TNU; Caps. 19 a 21 |
+| Saúde | direito de todos; acesso universal e igualitário; SUS com descentralização, integralidade, participação e agentes comunitários (EC 140/2026) | União aplica ao menos 15% da RCL; participação privada complementar; vedações do art. 199 | CF, arts. 196 a 200 |
+
+## 18.12 Artigos de lei incidentes
+
+- Constituição Federal: arts. 6º, parágrafo único; 194; 195 (financiamento); 196 a 200; 203; 204.
+- Lei 8.742/1993 (LOAS): arts. 1º a 6º-F; 8º; 9º; 12 a 17; 20 (§§ 1º, 2º, 2º-A, 3º, 3º-A, 4º a 12-B, 14 a 16); 20-B; 21; 21-A; 21-B; 22 a 26; 26-A a 26-H; 28 a 31; 35; 36; 37; 40-A; 40-B; 40-C.
+- Decreto 6.214/2007 (Regulamento do BPC, Anexo): arts. 1º, 4º a 10, 12, 13, 15 a 24, 42, 47-A a 47-D, 48.
+- Lei 15.077/2024: arts. 1º a 3º e 6º.
+- Lei 13.146/2015 (LBI): arts. 2º, 14 a 16, 39, 40 e 94.
+- Lei 10.741/2003 (Estatuto da Pessoa Idosa): art. 34.
+- Lei 12.764/2012: art. 1º, § 2º.
+- Lei 8.213/1991: arts. 89 a 93 (remissão).
+- Lei 8.080/1990: art. 7º (noção).
+
+## 18.13 Julgados, temas e súmulas do capítulo
+
+- STF, ADI 1.232: constitucionalidade originária do critério de 1/4 (1998), depois superada.
+- STF, Temas 27 e 312 (RE 567.985 e RE 580.963): 1/4 inconstitucional sem pronúncia de nulidade; omissão parcial do art. 34, p.u., do Estatuto do Idoso.
+- STF, Tema 173 (RE 587.970): estrangeiro residente tem direito ao BPC.
+- STJ, Tema 185 (REsp 1.112.557): renda abaixo de 1/4 gera presunção absoluta; acima, outros meios de prova.
+- STJ, Tema 640 (REsp 1.355.052): benefício de 1 SM de idoso excluído do cálculo para BPC de PcD.
+- STJ, REsp 360.202: pessoa com HIV incapaz para o trabalho faz jus ao BPC.
+- STJ, REsp 730.975: só o INSS no polo passivo da ação de BPC.
+- TNU, Súmula 22: DIB na DER se a incapacidade já existia.
+- TNU, Súmula 29: incapacidade para a vida independente não exige impossibilidade de atos elementares.
+- TNU, Súmula 48: deficiência não se confunde com incapacidade laboral; 2 anos do início à cessação prevista.
+- TNU, Súmula 64 (cancelada): afirmava decadência para revisão de indeferimento.
+- TNU, Súmula 79: prova socioeconômica por laudo social, auto de constatação ou testemunhas.
+- TNU, Súmula 80: avaliação social necessária nos pedidos de BPC de PcD.
+- TNU, Temas 70, 253 e 284: HIV e estigma; BPC x auxílio-acidente (opção); renúncia à cota de pensão para receber BPC.
+- TNU, Tema 225: pensão por morte quando o titular do BPC tinha direito adquirido a benefício previdenciário não concedido.
+- STF, Temas 6, 500, 793 e 1.234: judicialização da saúde, em síntese.
+
+Remissões a outros capítulos: princípios da seguridade (Cap. 1); imunidade das beneficentes (Cap. 2); aposentadoria da pessoa com deficiência e LC 142/2013 (Cap. 14); reabilitação profissional (Cap. 15); auxílio-inclusão em interface com o RGPS (Cap. 17); acumulação e restituição (Cap. 12); prévio requerimento (Cap. 19); competência, prova, consectários e honorários (Cap. 20); prescrição e decadência (Cap. 21).
+
+
+# CAPÍTULO 19 — PROCESSO ADMINISTRATIVO PREVIDENCIÁRIO
+
+## 19.9 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Fontes | Lei 8.213, Lei 8.212 (art. 69), Decreto 3.048 (arts. 142 a 151, 176 a 179, 303 a 309, 347) | Lei 9.784 só subsidiária | art. 69 da Lei 9.784 |
+| Requerimento | canais eletrônicos; presencial só excepcionalmente | desistência por escrito antes da decisão | arts. 176-A e 176-C do Decreto |
+| Documentação incompleta | não autoriza recusa do protocolo; carta de exigência | sem cumprimento: concessão ou arquivamento sem mérito, irrecorrível ao CRPS; declaração de inexistência de outros documentos obriga decisão de mérito | art. 105 da Lei 8.213; art. 176 do Decreto |
+| Documento após a decisão | DER = data do documento | revisão ou recurso com elementos novos: efeitos financeiros desde o pedido | art. 176, §§ 6º e 7º; art. 347, § 4º |
+| Prazos de análise | 30 dias após a instrução, prorrogáveis por mais 30; primeiro pagamento em 45 dias | acordo do RE 1.171.152: 30 a 90 dias conforme a espécie | art. 49 da Lei 9.784; art. 41-A, § 5º |
+| Melhor benefício | INSS concede o mais vantajoso e oferece opção | revisão para a espécie melhor com efeitos desde a DER original | art. 176-E do Decreto; Enunciado 1 do CRPS |
+| Tema 334 | direito adquirido ao cálculo mais vantajoso, sob a mesma lei, em qualquer data desde a aquisição | efeitos financeiros desde a DER | RE 630.501 |
+| Justificação administrativa | corrobora início de prova material contemporânea; 2 a 6 testemunhas | não serve para registro público; irrecorrível a decisão sobre eficácia; impedidos: menos de 16 anos, cônjuge, companheiro e parentes até o 3º grau | arts. 108 e 55, § 3º; arts. 142 a 151 do Decreto |
+| Reafirmação administrativa | até a decisão do INSS, com concordância formal | no CRPS, até o cumprimento da decisão | art. 176-D; Enunciado 1, III e IV |
+| Reafirmação judicial | até as instâncias ordinárias, observada a causa de pedir | efeitos desde a implementação; juros só após 45 dias da intimação; sem honorários se o INSS reconhece | Tema 995 do STJ |
+| CRPS | JR (recurso ordinário), CaJ (recurso especial), Conselho Pleno (enunciados) | composição tripartite; recursos de RPPS e compensação | art. 126 da Lei 8.213; art. 303 do Decreto |
+| Recurso | 30 dias da ciência | efeito suspensivo e devolutivo contra decisões das JR e CaJ; ação idêntica = renúncia | arts. 305, 307 e 308 do Decreto; art. 126, § 3º |
+| Anulação pelo INSS | 10 anos do ato ou do primeiro pagamento | má-fé comprovada afasta; medida impugnativa exerce o direito | art. 103-A |
+| Atos anteriores a 1/2/1999 | 10 anos contados de 1/2/1999 (até 1/2/2009) | — | Tema 214 do STJ |
+| Programa de revisão | defesa em 30 dias (urbano) ou 60 dias (rural, avulso, agricultor familiar, segurado especial); bloqueio se não houver ciência em 30 dias | recurso contra a suspensão em 30 dias, sem efeito suspensivo; cessação após 30 dias sem recurso | art. 69 da Lei 8.212; art. 179 do Decreto |
+| Prévio requerimento | exigido para concessão; não exige exaurimento | dispensado: resistência notória; revisão, restabelecimento ou manutenção sem fato novo | Tema 350 do STF; Tema 660 do STJ |
+| Transição do Tema 350 | ações até 3/9/2014: itinerante prossegue; contestação de mérito supre; demais, 30 dias para o autor requerer e 90 para o INSS | DER = data do ajuizamento | Tema 350, itens IV e V |
+| Requerimento apto | documentação mínima; indeferimento forçado ou omissão após exigência = sem interesse | INSS que não intima para complementar gera interesse | Tema 1.124, itens 1.1 a 1.6 |
+| DIB na ação | DER (ou data dos requisitos) com as mesmas provas; DER se o INSS falhou na instrução; citação se a prova é superveniente | prescrição quinquenal | Tema 1.124, itens 2.1 a 2.4 |
+
+## 19.10 Artigos de lei incidentes
+
+- Lei 9.784/1999: arts. 49, 51, 54, 56, 59, 64 e 69.
+- Lei 8.212/1991: art. 69.
+- Lei 8.213/1991: arts. 29-A, 41-A, § 5º, 49, 54, 55, § 3º, 88, 103, 103-A, 105, 108, 124-A, 124-B, 124-C e 126.
+- Decreto 3.048/1999: arts. 142 a 151, 176 a 176-E, 179, 303, 305, 307, 308, 309, 347 e 347-A.
+- CPC: arts. 485, VI, 493 e 933.
+
+## 19.11 Julgados, temas e súmulas do capítulo
+
+- Tema 350 do STF (RE 631.240): prévio requerimento como condição do interesse de agir, sem exaurimento; exceções e regra de transição.
+- Tema 334 do STF (RE 630.501): direito adquirido ao cálculo mais vantajoso desde a aquisição do direito.
+- Tema 1.066 do STF (RE 1.171.152): acordo homologado com prazos máximos de análise de 30 a 90 dias.
+- Tema 660 do STJ (REsp 1.369.834): adesão ao Tema 350.
+- Tema 995 do STJ (REsp 1.727.063): reafirmação da DER até as instâncias ordinárias; efeitos, juros e honorários.
+- Tema 1.124 do STJ (REsp 1.905.830): requerimento apto, indeferimento forçado e DIB conforme a prova.
+- Tema 214 do STJ (REsp 1.114.938): decadência do INSS para atos anteriores a 1/2/1999.
+- Tema 1.018 do STJ (REsp 1.767.789): opção pelo benefício administrativo e execução das parcelas do judicial.
+- Súmulas 346 e 473 do STF: autotutela.
+- Jurisprudência em Teses do STJ, ed. 67, teses 1 e 5: requerimento e termo inicial na citação quando ausente.
+- Enunciado 1 do CRPS: melhor benefício e reafirmação da DER no âmbito administrativo.
+
+Remissões a outros capítulos: Súmula 111 do STJ, Tema 1.207 do STJ, competência, tutela e cumprimento (Cap. 20); art. 103, ADI 6.096 e suspensão da prescrição pelo requerimento (Cap. 21); Tema 979 do STJ e restituição de valores (Cap. 12); prova do tempo e início de prova material (Cap. 9); prova da união estável (Cap. 8); revisão da vida toda (Caps. 11 e 22).
+
+
+# CAPÍTULO 20 — PROCESSO JUDICIAL PREVIDENCIÁRIO: COMPETÊNCIA, JUIZADOS ESPECIAIS FEDERAIS, PROVA E PERÍCIA, TUTELAS E REPETIÇÃO, COISA JULGADA, EXECUÇÃO, HONORÁRIOS E AÇÕES REGRESSIVAS
+
+## 20.9 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Competência geral | Justiça Federal (INSS é autarquia federal) | foro do domicílio ou capital do Estado (competência relativa) | art. 109, I, da CF; Súmula 689 do STF |
+| Acidentária | Justiça Estadual, em ambas as instâncias, recurso ao TJ | inclui revisão, restabelecimento e pensão acidentária; pensão de aposentado acidentário morto por outra causa é federal | art. 109, I; Súmula 15 do STJ; Súmula 501 do STF |
+| Rito e ônus na acidentária | sumaríssimo, nas férias, inicial com CAT | segurado isento de custas e sucumbência; INSS paga custas na Justiça Estadual; INSS antecipa perícia | art. 129 da Lei 8.213; Súmulas 110 e 178 do STJ; Lei 13.876, art. 1º, § 7º, II |
+| Competência delegada | lei autoriza; comarca não sede de vara federal e a mais de 70 km | só ações ajuizadas a partir de 1/1/2020; anteriores ficam na Justiça Estadual; recurso ao TRF; rito comum, sem JEF | art. 109, §§ 3º e 4º; art. 15, III, da Lei 5.010/1966; IAC 6 do STJ; Tema 820 do STF |
+| O que não se delega | MS, ação do INSS contra segurado, regressiva | delegação é faculdade do segurado | art. 109, VIII; CC n. 116.919 |
+| JEF | até 60 SM (vencidas + 12 vincendas), absoluto onde instalado | renúncia EXPRESSA ao excedente (Tema 1.030); sem renúncia tácita (Súmula 17 da TNU); sem MS; INSS só réu | arts. 3º e 6º da Lei 10.259 |
+| Procedimento do JEF | sem prazo diferenciado, sem reexame, recurso só de sentença e de tutela | perícia com laudo até 5 dias antes da audiência; quesitos em 10 dias | arts. 4º, 5º, 9º, 12 e 13 da Lei 10.259 |
+| Uniformização | Turma Regional (mesma região), TNU (regiões diferentes ou contrariedade ao STJ), PUIL ao STJ | só direito material; sem reexame de fato; sem honorários; sem REsp; cabe RE | art. 14; Súmulas 7, 42 e 43 da TNU; Súmula 203 do STJ; Súmula 640 do STF |
+| Interesse de agir e DIB | requerimento apto; DIB conforme a origem da prova | desenvolvimento no Cap. 19 | Tema 350 do STF; Tema 1.124 do STJ (v. Cap. 19) |
+| Pedido | fungibilidade entre benefícios; pedido implícito de consectários | limite: causa de pedir | arts. 322, § 2º, e 323 do CPC; Tema 995 do STJ |
+| Ação por incapacidade | inicial qualificada e documentos obrigatórios | improcedência sem citação se a perícia confirmar o INSS, ouvido o autor; desenvolvimento no Cap. 15 | art. 129-A da Lei 8.213 (v. Cap. 15) |
+| Honorários periciais | antecipação pelo Executivo federal (ou pelo autor com recursos); paga o vencido | uma perícia por processo; acidentária: INSS antecipa; Estado paga se o segurado isento perde | Lei 13.876, art. 1º |
+| Recurso especial e incapacidade | inadmissível para rediscutir existência, extensão ou duração | — | Tema 1.246 do STJ |
+| Tutela de urgência | cabível contra o INSS | ADC 4 não se aplica; apelação sem efeito suspensivo quanto à tutela da sentença | Súmula 729 do STF; arts. 300 e 1.012, § 1º, V, do CPC |
+| Tutela revogada | devolução, com desconto até 30% ou liquidação nos mesmos autos | exceções e desenvolvimento no Cap. 12; Súmula 51 da TNU cancelada; Tema 799 do STF sem RG | Tema 692 do STJ (v. Cap. 12); art. 520, II, do CPC |
+| Consectários | INPC + juros da poupança desde a citação até 8/12/2021; Selic de 9/12/2021 | requisitório: IPCA + 2% a.a. com teto Selic desde a expedição (EC 136/2025); período anterior à expedição pendente | Temas 810 do STF e 905 do STJ; Súmula 204 do STJ; EC 113, art. 3º; Tema 1.484 do STF |
+| Honorários | sobre as vencidas até a sentença (ou acórdão que primeiro concede) | faixas do art. 85, § 3º; pagamento administrativo não reduz a base; recursais só no desprovimento integral; sem honorários em cumprimento não impugnado | Súmula 111 e Temas 1.105, 1.050, 1.059 e 1.190 do STJ |
+| Remessa necessária | não, se condenação inferior a 1.000 SM; nunca no JEF | também afastada por precedente qualificado | art. 496, §§ 3º e 4º, do CPC; art. 13 da Lei 10.259 |
+| Falta de início de prova material (rural) | extinção sem mérito, permitida nova ação | prova material houve e testemunhas não convenceram: improcedência | Tema 629 do STJ |
+| Prejudicial de família | união estável decidida pelo juiz federal não faz coisa julgada | incompetência absoluta para a questão principal | art. 503, § 1º, III, do CPC |
+| Implantação | obrigação de fazer; ofício no JEF; prazo e multa | melhor benefício administrativo: opção + execução até a implantação | art. 16 da Lei 10.259; arts. 536 e 537 do CPC; Tema 1.018 do STJ |
+| RPV e precatório | até 60 SM por credor: RPV em 60 dias; acima: precatório (até 1/2, pago até o fim do exercício seguinte) | renúncia ao excedente; vedado fracionar; superpreferência até 3 x RPV | art. 100, §§ 1º, 2º, 5º e 8º, da CF; art. 17 da Lei 10.259; art. 128 da Lei 8.213 |
+| Cálculos | juros entre cálculo e requisição; compensação de inacumuláveis mês a mês, sem saldo negativo | impugnação em 30 dias | Tema 96 do STF; Tema 1.207 do STJ; art. 535 do CPC |
+| Regressiva | negligência com normas de segurança (contra o empregador) e violência doméstica (contra o agressor) | Justiça Federal; RAT não exclui; prescrição quinquenal | arts. 120 e 121 da Lei 8.213; AREsp n. 387.412 |
+
+## 20.10 Artigos de lei incidentes
+
+- Constituição Federal: art. 100, §§ 1º, 2º, 3º, 5º e 8º; art. 109, I, VIII, §§ 3º e 4º; art. 108, I, c (por analogia).
+- EC 113/2021: art. 3º (redação original e redação da EC 136/2025).
+- Lei 8.213/1991: arts. 41-A, 112, 120, 121, 128, 129, 129-A e 130.
+- Lei 10.259/2001: arts. 1º, 3º, 4º, 5º, 6º, 9º, 10, 11, 12, 13, 14, 15, 16, 17, 20 e 25.
+- Lei 5.010/1966: art. 15, II e III, § 2º (redação da Lei 13.876/2019).
+- Lei 13.876/2019: arts. 1º, 3º e 5º.
+- Lei 12.153/2009: art. 2º. Lei 9.099/1995: arts. 8º, 54 e 55.
+- CPC: arts. 43, 85, §§ 3º, 4º, 5º e 11, 98, § 3º, 99, 141, 292, §§ 1º e 2º, 300, 302, 311, 322, § 2º, 323, 372, 381, § 4º, 485, IV, 486, 492, 496, §§ 3º e 4º, 503, § 1º, III, 504, 505, I, 508, 520, II, 534, 535, 536, 537 e 1.048, I.
+- Lei 9.494/1997: art. 1º-F (redação da Lei 11.960/2009). Lei 8.906/1994: art. 22, § 4º. Decreto 20.910/1932: art. 1º.
+
+## 20.11 Julgados, temas e súmulas do capítulo
+
+- STF, Tema 96 (RE n. 579.431): juros de mora entre o cálculo e a requisição.
+- STF, Tema 799: devolução de tutela revogada sem repercussão geral (matéria infraconstitucional).
+- STF, Tema 810 (RE n. 870.947): TR inconstitucional para correção; juros da poupança válidos.
+- STF, Tema 820 (RE n. 860.508): delegação pressupõe ausência de vara federal na comarca.
+- STF, Tema 1.484 (RE n. 1.623.818): índices antes da expedição do requisitório após a EC 136 (pendente).
+- STF, Súmula 501: acidentárias na Justiça Estadual em ambas as instâncias.
+- STF, Súmula 640: cabe RE contra decisão de turma recursal.
+- STF, Súmula 689: foro do domicílio ou capital do Estado contra o INSS.
+- STF, Súmula 729: ADC 4 não alcança tutela previdenciária.
+- STJ, IAC 6 (CC n. 170.051): Lei 13.876 só para ações ajuizadas a partir de 1/1/2020.
+- STJ, Tema 629 (REsp n. 1.352.721): falta de prova material rural, extinção sem mérito.
+- STJ, Tema 905 (REsp n. 1.495.146): INPC e juros da poupança nas condenações previdenciárias.
+- STJ, Tema 1.030 (REsp n. 1.807.665): renúncia expressa ao excedente no JEF, incluídas 12 vincendas.
+- STJ, Tema 1.050 (REsp n. 1.847.860): pagamento administrativo não reduz a base dos honorários.
+- STJ, Tema 1.059: honorários recursais só no desprovimento integral.
+- STJ, Tema 1.105 (REsp n. 1.883.715): Súmula 111 mantida após o CPC/2015.
+- STJ, Tema 1.190 (REsp n. 2.029.636): sem honorários no cumprimento não impugnado por RPV.
+- STJ, Tema 1.207 (REsp n. 2.039.614): compensação mês a mês, sem saldo negativo.
+- STJ, Tema 1.246 (REsp n. 2.082.395): REsp não rediscute incapacidade.
+- STJ, Súmulas 15, 110, 111, 148, 178, 203, 204 e 376: acidentária estadual; isenção só do segurado; base dos honorários; correção; custas do INSS na Justiça Estadual; sem REsp de turma recursal; juros desde a citação; MS contra juizado na turma.
+- STJ, AgInt no AgInt no AREsp n. 2.246.596: isenção de preparo não se estende ao advogado.
+- STJ, REsp n. 2.126.628: perícia acidentária adiantada pelo INSS, paga pelo Estado se o segurado perde.
+- STJ, AREsp n. 387.412: prescrição quinquenal da regressiva.
+- TNU, Súmulas 7, 17, 22, 33, 42, 43, 51 (cancelada), 72, 77, 79 e 86 (cancelada).
+
+Remissões a outros capítulos: Tema 1.124 do STJ (DIB conforme a origem da prova) e Tema 1.018 do STJ (Cap. 19); Tema 692 do STJ (Cap. 12); Tema 350 do STF, Tema 995 do STJ, Tema 334 do STF e justificação administrativa (Cap. 19); Tema 979 do STJ, art. 115 da Lei 8.213 e transcrição do Tema 692 (Cap. 12); art. 129-A transcrito e roteiro da ação por incapacidade (Cap. 15); Súmula 149 do STJ e prova do rural (Cap. 9); DCB e benefícios por incapacidade (Cap. 15); prescrição, decadência e Súmula 81 da TNU (Cap. 21); complementação de aposentadoria e competência (Cap. 27).
+
+
+# CAPÍTULO 21 — PRESCRIÇÃO E DECADÊNCIA EM MATÉRIA PREVIDENCIÁRIA
+
+## 21.8 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Prescrição das parcelas | 5 anos, contados da data em que cada prestação deveria ter sido paga; corte retroativo a partir do ajuizamento | abono anual e diferenças também; benefício de duração fixa pode prescrever por inteiro | art. 103, parágrafo único; Decreto 20.910, arts. 1º e 3º; Súmula 85 do STJ |
+| Fundo de direito no RGPS | não prescreve nem decai | mesmo com indeferimento expresso | JT 67, tese 4; ADI 6.096; Súmula 81 da TNU |
+| Suspensão | requerimento administrativo suspende; volta a correr pelo saldo após a ciência da decisão final | demora do interessado não suspende | Decreto 20.910, arts. 4º e 5º; Súmula 74 e Tema 103 da TNU |
+| Interrupção | citação válida, retroativa à propositura; uma vez; recomeça pela metade | não aquém de 5 anos se interrompida na 1ª metade; processo anulado não interrompe | CPC, art. 240, § 1º; Decreto 20.910, arts. 7º a 9º; Súmula 383 do STF |
+| Ação coletiva | ação individual: interrupção na data dela, salvo pedido de suspensão (art. 104 do CDC) | tetos das ECs 20 e 41 | Tema 1.005 do STJ |
+| Reclamatória trabalhista | decadência conta do trânsito da reclamatória; prescrição não flui durante ela | só verbas reconhecidas na reclamatória | Tema 1.117 do STJ; Tema 200 da TNU |
+| Incapazes | contra pessoa com menos de 16 anos não corre prescrição nem decadência | 16 a 18 anos: corre; deficiência mental: Tema 1.321 do STJ pendente; art. 79 revogado | art. 103, parágrafo único; CC, arts. 3º, 198 e 208 |
+| Decadência do segurado | 10 anos para revisar o ato de concessão | concessão inicial, indeferimento, cessação e cancelamento: sem prazo | art. 103, caput; Tema 313 do STF; ADI 6.096 |
+| Termo inicial | dia primeiro do mês seguinte ao recebimento da 1ª prestação; ou ciência da decisão de pedido de revisão | não é a DIB nem a DDB | art. 103, I e II |
+| Benefícios antigos | concedidos antes de 28/6/1997: prazo a partir de 1/8/1997, findo em 1/8/2007 | STJ (Tema 544): a partir de 28/6/1997 | Tema 313 do STF |
+| Questão não apreciada | também decai | — | Tema 975 do STJ |
+| Melhor benefício | decai em 10 anos | direito existe (Tema 334 do STF), mas exercício é revisão | Tema 966 do STJ |
+| Pensão derivada | revisão da aposentadoria do instituidor: prazo do benefício originário | vícios próprios da pensão: prazo da pensão | Tema 1.057 do STJ; Q3179513 |
+| Fora do art. 103 | desaposentação; reajustes; readequação aos tetos | — | JT 67, tese 14; Tema 1.023 do STF (sem RG); Cap. 22 |
+| Decadência do INSS | 10 anos para anular ato favorável, do 1º pagamento | má-fé afasta; atos anteriores a 1999: Tema 214 | art. 103-A; Cap. 19 |
+| Cobrança pelo INSS | 5 anos (Decreto 20.910, por isonomia) | imprescritível só improbidade dolosa (Tema 897 do STF) | AgInt no REsp 1.998.744 (Info 768) |
+| RPPS | Decreto 20.910 e Lei 9.784; fundo de direito prescreve contra ato expresso | Tribunal de Contas: 5 anos da chegada do processo (Cap. 23) | Tema 445 do STF; Tema 516 do STJ |
+| Efeitos temporais | modulação por 2/3 (Lei 9.868, art. 27) ou art. 927, § 3º, do CPC; nova tese não reabre decadência | trato sucessivo: decisão em ADI ou RG cessa efeitos futuros da coisa julgada (tributário, por analogia) | Temas 881 e 885 do STF; CPC, arts. 505, I, 525 e 535 |
+
+## 21.9 Artigos de lei incidentes
+
+- Constituição Federal: art. 6º (direito fundamental à previdência, base da ADI 6.096).
+- Lei 8.213/1991: art. 74 (termo inicial da pensão), art. 79 (revogado pela Lei 13.846/2019), art. 103, caput, I e II, e parágrafo único; art. 103-A; art. 112; art. 115, II e §§ 3º e 4º; art. 120.
+- Lei 13.846/2019: art. 24 (nova redação do art. 103; inconstitucionalidade parcial na ADI 6.096).
+- Lei 9.528/1997 (conversão da MP 1.523-9/1997); Lei 9.711/1998; Lei 10.839/2004 (conversão da MP 138/2003).
+- Decreto 20.910/1932: arts. 1º, 3º, 4º e parágrafo único, 5º, 7º, 8º e 9º.
+- Código Civil: arts. 3º, 198, 202, I, 207, 208 e 210.
+- CPC: arts. 240, § 1º; 332, § 1º; 487, II e parágrafo único; 505, I; 525, §§ 12 a 15; 535, §§ 5º a 8º; 927, § 3º.
+- CDC: art. 104.
+- Lei 9.784/1999: art. 54. Lei 9.868/1999: art. 27. LINDB: art. 24.
+
+## 21.10 Julgados, temas e súmulas do capítulo
+
+- STF, Tema 313 (RE 626.489): sem decadência para concessão inicial; revisão de benefício anterior à MP 1.523/1997 decai a partir de 1/8/1997.
+- STF, ADI 6.096: inconstitucional a decadência sobre indeferimento, cancelamento e cessação.
+- STF, Tema 1.023 (ARE 1.172.622): sem repercussão geral (matéria infraconstitucional) sobre o alcance do termo "revisão" do art. 103.
+- STF, Temas 881 e 885 (RE 949.297 e RE 955.227): decisão em ADI ou RG cessa efeitos futuros da coisa julgada em relação de trato sucessivo (tributário).
+- STF, Súmula 383: prescrição a favor da Fazenda recomeça por dois anos e meio, não aquém de cinco anos.
+- STJ, Súmula 85: trato sucessivo contra a Fazenda — prescrevem só as parcelas anteriores ao quinquênio.
+- STJ, Tema 544: decadência do art. 103 alcança benefícios anteriores à MP 1.523-9/1997, com termo a quo em 28/6/1997.
+- STJ, Tema 966: decai em 10 anos o direito ao benefício mais vantajoso.
+- STJ, Tema 975: decai também a questão não apreciada no ato de concessão.
+- STJ, Tema 1.117: decadência da revisão por verbas trabalhistas conta do trânsito da reclamatória.
+- STJ, Tema 1.005: ação individual sobre tetos interrompe a prescrição na própria data, salvo suspensão (art. 104 do CDC).
+- STJ, Tema 1.057: legitimidade de pensionistas e sucessores para revisar, salvo decadência do originário.
+- STJ, Tema 1.321 (pendente): prescrição e decadência contra pessoa com deficiência mental ou intelectual.
+- STJ, Tema 516: licença-prêmio não gozada — prescrição de 5 anos da aposentadoria.
+- STJ, Jurisprudência em Teses, ed. 67, teses 4 e 14: sem prescrição do fundo de direito; desaposentação fora do art. 103.
+- STJ, AgInt no REsp 1.998.744 (Info 768): 5 anos para o INSS cobrar benefício pago indevidamente com má-fé.
+- TNU, Súmula 74 e Tema 103: requerimento administrativo suspende a prescrição.
+- TNU, Súmula 81 (Tema 265): indeferimento, cessação e cancelamento sem prazo extintivo.
+- TNU, Tema 200: prescrição não flui durante a reclamatória trabalhista.
+
+Remissões a outros capítulos: art. 103-A e Tema 214 do STJ (Cap. 19); Tema 979 do STJ e dívida ativa (Cap. 12); Temas 334 do STF, 350 do STF, 995 e 1.124 do STJ (Cap. 19); Tema 1.421 do STJ e TNU, Tema 223 (Cap. 16); Tema 1.102 do STF e ADIs 2.110 e 2.111 (Cap. 11); Temas 1.190 do STJ e consectários (Cap. 20); tetos, buraco negro e direito adquirido, AR 2.876 QO e coisa julgada (Cap. 22); Tema 445 do STF e Q4289393 (Cap. 23); Q3996825 (Cap. 19); Q3757922 (Cap. 11); RPPS e LC SC 412/2008 (Caps. 23 a 25).
+
+
+# CAPÍTULO 22 — DIREITO PREVIDENCIÁRIO INTERTEMPORAL: SUCESSÃO DE REGIMES, TRANSIÇÕES E REVISÕES
+
+## 22.6 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Lei aplicável ao benefício | Lei da data em que reunidos os requisitos (fato gerador) | Pensão: óbito; incapacidade: DII; tempo especial: data da prestação; requerimento fixa DIB, não a lei | Súmula 359 do STF; Súmula 340 do STJ; EC 103, art. 3º |
+| Lei nova mais benéfica | Não alcança benefício concedido | Só com ordem expressa e fonte de custeio; STJ chegou a aplicar ao auxílio-acidente (Tema 18), prevaleceu a orientação do STF (Tema 388) | CF, art. 195, § 5º |
+| Regime jurídico | Não há direito adquirido; vedado combinar regras | Transição é opção, salvo cogente (vida toda) | STF, Tema 70 |
+| Fator na transição da EC 20 | Constitucional | Transição protege requisitos, não modo de cálculo | STF, Tema 616 (Cap. 13) |
+| Invalidez após a reforma | 60% + 2% se a incapacidade é posterior a 13/11/2019 | DII anterior: 100% | STF, Tema 1.300 (Cap. 15) |
+| Situações em curso | Aplicação imediata (teto, reajuste, contribuição) | Não é retroação | Tema 76; ADIs 3.105 e 3.128 |
+| EC 20 (16/12/1998) | Tempo de contribuição; equilíbrio atuarial; idade no RPPS; teto 1.200 | Transições dos arts. 8º e 9º; Tema 578 | EC 20, arts. 3º, 8º, 9º, 14 |
+| EC 41 (31/12/2003) | Fim de integralidade e paridade; inativos contribuem; teto 2.400 | Transições dos arts. 2º e 6º; faixas diferenciadas de isenção dos inativos inconstitucionais | EC 41, arts. 2º, 4º, 5º, 6º, 7º |
+| EC 47 (6/7/2005) | Efeitos retroativos a 31/12/2003; art. 3º para ingresso até 16/12/1998 | Idade de 60/55 menos 1 ano por ano excedente de contribuição; paridade à pensão | EC 47, arts. 2º, 3º, 6º; Temas 139, 156, 396 |
+| EC 70 (2012) | Invalidez de quem ingressou até 31/12/2003: remuneração do cargo e paridade | Revisão em 180 dias, efeitos financeiros desde a promulgação | EC 41, art. 6º-A; EC 70, art. 2º |
+| EC 88 (2015) | Compulsória aos 75 por lei complementar | ADCT, art. 100 | CF, art. 40, § 1º, II |
+| EC 103: revogações | Arts. 9º, 13 e 15 da EC 20; arts. 2º, 6º e 6º-A da EC 41; art. 3º da EC 47; art. 40, § 21, e art. 195, § 13, da CF | Ressalva do art. 36, II | EC 103, art. 35 |
+| EC 103: vigência | Publicação (13/11/2019) | Alíquotas em 1/3/2020; entes subnacionais: revogações das transições do servidor, do § 21 e alterações do art. 149 só com lei referendária integral, de iniciativa do Executivo, sem efeito retroativo | EC 103, art. 36 |
+| Tetos | Readequação do SB limitado ao novo teto a partir de cada emenda | Sem decadência; prescrição quinquenal; ACP não recua a interrupção | STF, Tema 76; STJ, Tema 1.005 (Cap. 21) |
+| Buraco negro | Benefícios de 5/10/1988 a 5/4/1991, recalculados pelo art. 144 sem diferenças até 5/1992 | Readequação aos tetos caso a caso | Lei 8.213, art. 144; STF, Tema 930 |
+| Índice-teto | Excedente incorporado no primeiro reajuste (DIB desde 3/1994) ou em 4/1994 (DIB de 5/4/1991 a 1993) | Limitado ao teto da competência | Lei 8.880, art. 21, § 3º; Lei 8.870, art. 26 |
+| IRSM de 2/1994 | 39,67% nos SC anteriores a 3/1994, DIB posterior a 2/1994 | Acordo da Lei 10.999/2004; decadência | Lei 8.880, art. 21, § 1º; Lei 10.999, arts. 1º e 2º |
+| Art. 58 do ADCT | Equivalência salarial só para benefícios mantidos em 5/10/1988, até os planos de 1991 | Vedada a vinculação posterior ao mínimo | ADCT, art. 58; CF, art. 7º, IV |
+| Viradas jurisprudenciais | Retroagem, salvo modulação | Desaposentação (6/2/2020), vida toda (5/4/2024) | CPC, art. 927, § 3º |
+| Coisa julgada x STF | Inexigibilidade se o STF decidiu antes do trânsito; rescisória se depois | Dois anos do trânsito do STF, retroação de cinco anos; JEF: simples petição; título alinhado ao Plenário à época não se rescinde | CPC, art. 535, §§ 5º a 8º; AR 2.876 QO; Temas 100 e 136; Súmula 343 |
+| Nova interpretação administrativa | Não retroage | Revisão por ilegalidade segue o art. 103-A | Lei 9.784, art. 2º, par. único, XIII; LINDB, arts. 23 e 24 |
+
+## 22.7 Artigos de lei incidentes
+
+- Constituição Federal: art. 5º, XXXVI; art. 7º, IV; art. 40 (§ 1º, II e III; § 4º-A; §§ 14 a 16; § 18; § 21, revogado); art. 149, § 1º-A; art. 195, § 5º e § 13 (revogado); art. 201, *caput* e § 7º; art. 202, § 2º (redação original). ADCT: arts. 58 e 100.
+- EC 20/1998: arts. 3º, 8º, 9º, 13, 14 e 15. EC 41/2003: arts. 2º, 4º, 5º, 6º, 6º-A e 7º. EC 47/2005: arts. 2º, 3º e 6º. EC 70/2012: arts. 1º e 2º. EC 88/2015: arts. 1º e 2º. EC 103/2019: arts. 3º, 4º, 9º, § 6º, 10, 11, 20, 25, § 2º, 26, 28, 32, 35 e 36.
+- Lei 8.213/1991: arts. 29, § 2º, 41-A, § 1º, 102, § 1º, 103, 103-A, 144 e 145 (revogados).
+- Lei 8.870/1994: art. 26. Lei 8.880/1994: art. 21, §§ 1º a 3º. Lei 9.876/1999: arts. 3º e 6º. Lei 10.999/2004: arts. 1º e 2º.
+- Lei 9.784/1999: art. 2º, parágrafo único, XIII. LINDB: arts. 6º, 23 e 24.
+- CPC: arts. 505, I, 525, §§ 12 a 15, 535, §§ 5º a 8º, e 927, § 3º. Lei 9.099/1995: art. 59. Lei 9.868/1999: art. 27.
+- Decreto 3.048/1999: art. 188-E.
+
+## 22.8 Julgados, temas e súmulas do capítulo
+
+- STF, Súmula 359: proventos regulam-se pela lei do tempo em que reunidos os requisitos.
+- STF, Tema 70 (RE 575.089): inexiste direito adquirido a regime jurídico; vedado o regime híbrido.
+- STF, Tema 76 (RE 564.354): novos tetos das EC 20 e 41 aplicam-se de imediato aos benefícios limitados.
+- STF, Tema 930 (RE 937.595): buraco negro não está excluído da readequação aos tetos.
+- STF, Tema 578 (RE 662.423): transição do art. 8º da EC 20 só para quem não tinha os requisitos; cargo = carreira.
+- STF, Tema 139 (RE 590.260): integralidade e paridade para ingressos antes da EC 41 que cumpram a EC 47.
+- STF, Tema 156 (RE 596.962): extensão de vantagens gerais a inativos segundo as transições.
+- STF, ADIs 3.105 e 3.128 (j. 18/8/2004): contribuição de inativos constitucional; faixas diferenciadas inconstitucionais.
+- STF, Tema 388 (RE 613.033): majoração do auxílio-acidente pela Lei 9.032/1995 não retroage.
+- STF, Súmula 343 e Tema 136 (RE 590.809): sem rescisória contra julgado alinhado ao entendimento da época.
+- STF, Tema 100 (RE 586.068): coisa julgada contrária ao STF nos Juizados, por simples petição.
+- STF, AR 2.876 QO: rescisória do art. 535, § 8º, em dois anos do trânsito do STF, retroação de cinco anos.
+- STJ, Tema 18 (REsp 1.096.244): majoração do auxílio-acidente aplicada aos já concedidos (superada pela orientação do STF).
+- STJ, Tema 148 (REsp 1.112.574): limitação do SB ao teto na DIB é legítima.
+- STJ, Jurisprudência em Teses, ed. 67, teses 2 e 3: tetos sem ofensa ao ato jurídico perfeito; lei do tempo dos requisitos.
+- TNU, Súmula 19: IRSM de fevereiro de 1994 (39,67%) na correção dos SC.
+
+Remissões a outros capítulos: Tema 616 do STF (Cap. 13); Tema 1.300 do STF (Cap. 15); Temas 396 e 1.019 do STF e Tema 754 do STF (Cap. 23); Tema 1.005 do STJ (Cap. 21); Súmula 340 do STJ (Caps. 1 e 16); Tema 334 do STF (Cap. 19); Tema 1.102 do STF e ADIs 2.110 e 2.111 (Cap. 11); Tema 503 do STF (Cap. 13); ADI 6.309 (Cap. 14); Tema 692 do STJ (Cap. 20); decadência e prescrição das revisões, Tema 313 do STF (Cap. 21); regras dos arts. 4º, 10 e 20 da EC 103 (Cap. 23); custeio do RPPS e art. 149 (Cap. 24); reforma de Santa Catarina e lei referendária (Cap. 25); previdência complementar do servidor (Cap. 27).
+
+
+# CAPÍTULO 23 — REGIME PRÓPRIO DOS SERVIDORES I: ART. 40 DA CF APÓS A EC 103/2019, APOSENTADORIAS, CÁLCULO, INTEGRALIDADE E PARIDADE, TRANSIÇÕES, ABONO, PENSÃO E TEMPO DE CONTRIBUIÇÃO
+
+## 23.12 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Competência após a EC 103/2019 | União: idade na CF e demais regras na EC 103 até lei federal; entes: idade por emenda local, requisitos por LC do ente, cálculo e pensão por lei do ente | ente sem reforma: normas anteriores; revogação das transições da EC 41/47 só com lei referendária | CF, art. 40, §§ 1º, III, 3º, 7º; EC 103, arts. 4º, § 9º, 36, II |
+| Voluntária (União) | 62/65 anos, 25 de contribuição, 10 de serviço público, 5 no cargo | promoção não reinicia os 5 anos (Tema 1.207) | EC 103, art. 10, § 1º, I |
+| Compulsória | 75 anos, proventos proporcionais; União: TC/20 × (60% + 2 pontos) | não alcança comissionado puro (Tema 763), serventuário não estatizado sem cargo (Tema 571), notários; alcança vitalícios (Súmula 36) | CF, art. 40, § 1º, II; LC 152/2015; EC 103, art. 26, § 4º |
+| Incapacidade permanente | licença → readaptação → aposentadoria se insuscetível de readaptação; avaliações periódicas | União: 60% + 2 pontos; 100% se acidente de trabalho ou doença profissional ou do trabalho; sem acréscimo de 25% | CF, art. 40, § 1º, I; EC 103, art. 26, §§ 2º e 3º; Lei 8.112, arts. 24 e 188 |
+| Critérios diferenciados | lista fechada: deficiência, policiais e agentes penitenciários e socioeducativos, agentes nocivos, professor, ACS e ACE | LC do ente (exceto professor — redução constitucional — e ACS/ACE — regra na CF); vedada categoria profissional; magistrados, MP etc. não têm (ADI 7.494) | CF, art. 40, §§ 4º a 5º-A |
+| Deficiência (União) | LC 142/2013 + 10 de serviço público e 5 no cargo | grave 25/20, moderada 29/24, leve 33/28 anos de contribuição; ou 60/55 com 15 | EC 103, art. 22 |
+| Policial federal | 55 anos, 30 de contribuição, 25 na carreira | transição: 55 com LC 51/1985 ou 52/53 com pedágio de 100%; pensão vitalícia e integral por agressão | EC 103, arts. 5º e 10, §§ 2º, I, e 6º |
+| Agentes nocivos (União) | 60 anos, 25 de exposição e contribuição, 10 e 5 | transição 66/15, 76/20, 86/25 + 20 e 5; conversão de tempo especial vedada após a EC 103 (Tema 942) | EC 103, arts. 10, §§ 2º, II, e 3º, e 21; SV 33 |
+| Professor (União) | 57/60 anos, 25 de contribuição em magistério na educação básica, 10 e 5 | direção, coordenação e assessoramento pedagógico contam (ADI 3.772); extensão a não professores é inconstitucional (ADI 856) | CF, art. 40, § 5º; EC 103, art. 10, § 2º, III |
+| ACS e ACE | 57/60 anos com 25 de contribuição e atividade | transições com integralidade e paridade (EC 140, arts. 3º a 5º) | CF, art. 40, § 5º-A |
+| Cálculo | União: média de 100% desde 7/1994; 60% + 2 pontos acima de 20 | 100%: art. 20 sem integralidade; acidente de trabalho; teto do RGPS só após RPC ou opção | EC 103, art. 26; CF, art. 40, §§ 2º e 14 a 16 |
+| Integralidade e paridade | só para ingresso até 31/12/2003 nas regras que as preveem | art. 4º exige 62/65 (57/60 professor); art. 20 não exige idade adicional; opção pelo RPC exclui | EC 41, arts. 6º, 6º-A e 7º; EC 47, arts. 2º e 3º; EC 103, arts. 4º, § 6º, e 20, § 2º |
+| Gratificações e paridade | genéricas estendem-se aos inativos; *pro labore faciendo* não; termo final: homologação do 1º ciclo | reestruturação não reenquadra (Tema 439) | Temas 67, 153, 409, 410, 664, 1.082, 1.289; SV 34 |
+| Art. 4º (pontos) | 57/62 anos (desde 2022), 30/35, 20 e 5; 86/96 + 1 por ano até 100/105 | professor 52/57; 81/91 até 92/100; pontos em dias | EC 103, art. 4º |
+| Art. 20 (pedágio) | 57/60, 30/35 + 100% do que faltava em 13/11/2019, 20 e 5 | professor: menos 5 anos em idade e contribuição | EC 103, art. 20 |
+| ECs 41 e 47 | art. 6º (ingresso até 2003): 60/55, 35/30, 20, 10 e 5; EC 47, art. 3º (até 16/12/1998): 95/85 | art. 2º da EC 41: média com redutor | vivas nos entes sem lei referendária |
+| Abono de permanência | "no máximo" a contribuição, critérios em lei do ente | União: igual à contribuição; cabe na especial (Tema 888); IR incide (Tema 424 STJ); reflexo em férias e 13º (Tema 1.233 STJ) | CF, art. 40, § 19; EC 103, arts. 3º, § 3º, 8º e 10, § 5º |
+| Pensão (União) | 50% + 10 pontos por dependente até 100% da aposentadoria (ou da incapacidade que teria) | cotas não reversíveis; dependente inválido: 100% até o teto; piso só se única renda formal | CF, art. 40, § 7º; EC 103, art. 23 |
+| Dependentes (Lei 8.112) | cônjuge, ex com alimentos, companheiro, filho até 21/inválido/deficiente, pais e irmãos dependentes | classes I a IV excluem V e VI; alimentos por escritura bastam; filho inválido sem prova de dependência | Lei 8.112, arts. 217 a 222; Súmula 340 do STJ |
+| Tempo | contribuição, não serviço; vedado tempo fictício | licença-prêmio não gozada: pecúnia (Tema 1.086 STJ), prescrição da aposentadoria (Tema 516 STJ) | CF, art. 40, §§ 9º e 10 |
+| Acumulação e vínculo | duas aposentadorias no RPPS só de cargos acumuláveis; aposentadoria rompe o vínculo cujo tempo usou | complementação só por RPC ou lei que extinga o RPPS | CF, arts. 37, §§ 10, 14 e 15, e 40, §§ 6º e 11 |
+| Tribunal de Contas | 5 anos da chegada do processo para julgar a legalidade, sem contraditório | depois, registro tácito; demora do órgão de origem não conta | Tema 445 do STF |
+
+## 23.13 Artigos de lei incidentes
+
+- Constituição Federal: art. 37, XI, XVI e §§ 10, 14 e 15; art. 40, caput, §§ 1º a 22 (com os §§ 4º-A a 4º-C e 5º-A); art. 71, III; art. 201, § 2º.
+- EC 20/1998: art. 4º.
+- EC 41/2003: arts. 2º, 3º, 6º, 6º-A (EC 70/2012) e 7º.
+- EC 47/2005: arts. 2º e 3º.
+- EC 103/2019: arts. 3º, 4º, 5º, 8º, 9º, §§ 2º e 3º, 10, 20, 21, 22, 23, 26, 35 e 36.
+- EC 140/2026: arts. 1º a 5º, 10 e 12.
+- LC 51/1985; LC 142/2013; LC 152/2015, art. 2º.
+- Lei 8.112/1990: arts. 24, 186, 188, 215, 217, 218, 219 e 222.
+- Lei 10.887/2004: art. 1º (média dos entes sem lei própria).
+- Lei 9.394/1996: art. 67, § 2º.
+
+## 23.14 Julgados, temas e súmulas do capítulo
+
+- STF, Tema 445: Tribunal de Contas tem 5 anos, da chegada do processo, para julgar a concessão inicial.
+- STF, Tema 524: integralidade por invalidez depende de doença em rol taxativo da lei.
+- STF, Tema 754: revisão da EC 70/2012 só produz efeitos financeiros desde 30/3/2012.
+- STF, Tema 763: comissionado puro não se sujeita à compulsória.
+- STF, Tema 571: serventuário não estatizado sem cargo efetivo não se sujeita à compulsória.
+- STF, Súmula 36: vitalício sujeita-se à compulsória.
+- STF, Tema 888: abono de permanência também na aposentadoria especial.
+- STF, Tema 942: conversão de tempo especial do servidor até a EC 103/2019; depois, lei do ente.
+- STF, SV 33: regras do RGPS para a aposentadoria especial do servidor até lei complementar.
+- STF, Tema 1.019: policial civil pela LC 51/1985 tem integralidade (e paridade se prevista em LC).
+- STF, ADI 7.494: inconstitucional estender aposentadoria policial a magistrados, MP, Defensoria e outras carreiras.
+- STF, ADI 856: inconstitucional estender a aposentadoria do magistério a não professores.
+- STF, Tema 1.207: promoção não reinicia os 5 anos no cargo.
+- STF, Tema 396: pensionista da EC 47, art. 3º, tem paridade, não integralidade.
+- STF, Temas 67, 153, 409, 410, 664, 1.082, 1.289 e SV 34: gratificações de desempenho e paridade.
+- STF, Tema 439: paridade não garante reenquadramento na carreira reestruturada.
+- STF, Tema 553: transposição de assistente jurídico aposentado para Advogado da União.
+- STF, Súmula 678: tempo celetista anterior ao RJU conta para anuênio e licença-prêmio.
+- STJ, Tema 424 (EREsp 1.596.978): imposto de renda sobre o abono de permanência.
+- STJ, Tema 1.233: abono integra a base de férias e gratificação natalina.
+- STJ, RMS 65.384: prescrição do abono especial conta do requerimento que comprova o direito.
+- STJ, Temas 1.086 e 516: conversão em pecúnia da licença-prêmio e prescrição desde a aposentadoria.
+- STJ, Tema 1.292: RSC estende-se ao aposentado do magistério federal com paridade.
+- STJ, Jurisprudência em Teses, ed. 207, teses 1, 5 e 6, e ed. 76, tese 11: sem acréscimo de 25% no RPPS; invalidez do filho anterior ao óbito e sem prova de dependência (servidor federal); termo inicial da conversão em invalidez integral.
+- STJ, EDcl no AgInt no REsp 2.126.307: ex-cônjuge com alimentos fixados em escritura pública tem pensão.
+
+Remissões a outros capítulos: segurados, Tema 1.254 do STF, rol do RPPS, competência do Tribunal de Contas e extinção do RPPS (Cap. 6); ADI 3.772 (Cap. 13); Súmula 340 do STJ (Cap. 16); Súmula 10 do STF (Cap. 26); média e descarte (Cap. 11); acumulação de pensões, art. 24 da EC 103/2019 (Cap. 12); LC 142/2013 e aposentadoria especial do RGPS (Cap. 14); cotas e duração da pensão no RGPS (Cap. 16); direito intertemporal e quadro por data de ingresso (Cap. 22, 22.3.2); custeio, alíquotas e CRP (Cap. 24); Santa Catarina (Cap. 25); CTC e compensação (Cap. 26); RPC, Funpresp e benefício especial (Cap. 27, 27.11); teto na acumulação, Temas 377 e 384 (Cap. 28, 28.8).
+
+
+# CAPÍTULO 24 — REGIME PRÓPRIO DOS SERVIDORES II: CUSTEIO, GESTÃO E EQUILÍBRIO FINANCEIRO E ATUARIAL
+
+## 24.6 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Normas gerais | LC federal (§ 22), ainda não editada; vale a Lei 9.717/1998 com status de LC | Portaria MTP 1.467/2022; Res. CMN 5.272/2025 (desde 2/2/2026) | CF, art. 40, § 22; EC 103, art. 9º |
+| Lei 9.717, art. 1º | contabilidade e atuária; avaliação inicial e em cada balanço; custeio e benefícios; ativos, inativos e pensionistas | recursos só para benefícios e despesas administrativas | Lei 9.717, art. 1º, I a III |
+| Contribuição do ente | normal: de 1 a 2 vezes a dos segurados | suplementar e aportes fora da proporção; União: o dobro | Lei 9.717, art. 2º; Lei 10.887, art. 8º |
+| Insuficiência financeira | cobertura integral pelo ente, nos dois planos | não se rateia com segurados | Lei 9.717, art. 2º, § 1º |
+| Alíquota mínima dos ativos | não inferior à da União (14%) | sem déficit: não inferior à do RGPS; segregação e lei de equacionamento não são ausência de déficit | EC 103, art. 9º, §§ 4º e 5º |
+| Progressividade | facultativa a todos os entes; obrigatória na União (7,5% a 22%) | entes: depende de lei referendária (art. 36, II); Tema 1.226 pendente (retirado do calendário de 28/10/2026) | CF, art. 149, § 1º; EC 103, art. 11 |
+| Inativos e pensionistas | sobre o que excede o teto do RGPS, mesma alíquota dos ativos | déficit: lei pode baixar até o salário mínimo (maioria no STF contra, julgamento suspenso); fim da imunidade dobrada por doença (ADI 6.336) | CF, art. 40, § 18; art. 149, § 1º-A |
+| Contribuição extraordinária | após insuficiência do § 1º-A, simultânea a outras medidas, prazo determinado | máximo de 20 anos; letra: "no âmbito da União" | CF, art. 149, §§ 1º-B e 1º-C; EC 103, art. 9º, § 8º |
+| Base de contribuição | vencimento + vantagens permanentes + adicionais individuais | excluídas verbas indenizatórias, abono de permanência, terço de férias etc.; opção do servidor por algumas parcelas | Lei 10.887, art. 4º, §§ 1º e 2º |
+| Majoração de alíquota | lei ordinária basta; estudo atuarial prévio não é requisito de validade | não confisco aferido pela carga total | ADI 6.534; Tema 933 |
+| Equilíbrio | equivalência a valor presente entre receitas e despesas, com ativos, evidenciando solvência e liquidez | financeiro (caixa) x atuarial (longo prazo) | EC 103, art. 9º, § 1º |
+| Equacionamento | obrigatório se houver déficit; integral | suplementar, aportes (segregados, aplicados por 5 anos), bens, segregação, extraordinária | Portaria MTP 1.467/2022 |
+| Superávit | reduz suplementar se confirmado em exercícios consecutivos | não aumenta benefício nem financia outras políticas | CF, art. 167, XII |
+| Segregação | fundo financeiro (repartição) x previdenciário (capitalização) | estudo técnico, análise federal e lei; viabilidade do fundo financeiro; sem transferências entre fundos | EC 103, art. 9º, § 5º |
+| Avaliação atuarial | anual; NTA; hipóteses revistas no mínimo a cada 4 anos; DRAA até 31/3 | auditoria atuarial facultativa; crédito unitário projetado como piso de método | Lei 9.717, art. 1º, I |
+| Viabilidades | orçamentária, financeira e fiscal | despesa com pessoal = fiscal; não há ambiental | Portaria MTP 1.467/2022 |
+| Gestora única | um RPPS e uma gestora por ente, todos os Poderes | prazo até 13/11/2021 | CF, art. 40, § 20; EC 103, art. 9º, § 6º |
+| Dirigentes e conselheiros | ficha limpa, certificação, experiência, nível superior | conselheiros: ficha limpa e certificação | Lei 9.717, art. 8º-B |
+| Responsabilidade | direta por infração; solidária pelos prejuízos de aplicações irregulares | inclui consultores, distribuidores, administradoras e gestores | Lei 9.717, arts. 8º e 8º-A |
+| Investimentos | conforme o CMN; custódia por instituição autorizada; vedada aplicação em instituição controlada pelo ente | consignado aos segurados permitido; títulos públicos só federais | Lei 9.717, art. 6º; EC 103, art. 9º, § 7º |
+| Parcelamento | até 60 meses; vedadas contribuições descontadas e débitos não previdenciários | excepcional: 300 meses para débitos até 31/8/2025 (EC 136/2025) | EC 103, art. 9º, § 9º; ADCT, art. 115 |
+| CRP | emitido pela União; atesta cumprimento da Lei 9.717 | negado: sanções do art. 7º e do art. 167, XIII; dispensado para educação, saúde e assistência social | Lei 9.717, arts. 7º e 9º, IV; Decreto 3.788/2001 |
+| Sanções federais | constitucionais; controle judicial com prova técnica | ACO 830 (2007) superada pela tese do Tema 968 | Tema 968 |
+| Fiscalização | Ministério da Previdência, Previc (RPC), Tribunal de Contas | TC não registra benefício do RGPS | Lei 9.717, art. 9º; CF, art. 71, III |
+| LRF | avaliação atuarial no Anexo de Metas Fiscais da LDO; projeções no RREO do último bimestre | demonstrativo bimestral da Lei 9.717 | LC 101/2000, arts. 4º, § 2º, IV, e 53, § 1º |
+
+## 24.7 Artigos de lei incidentes
+
+- Constituição Federal: art. 24, XII; art. 40, caput e §§ 13, 18, 20 e 22; art. 71, III; art. 149, caput e §§ 1º, 1º-A, 1º-B e 1º-C; art. 167, XII e XIII; art. 195, §§ 5º e 11; art. 249.
+- ADCT: art. 115 (EC 113/2021 e EC 136/2025).
+- EC 103/2019: art. 9º, §§ 1º a 9º; art. 11, §§ 1º a 4º; art. 34; art. 35, I, a; art. 36, I a III e parágrafo único.
+- Lei 9.717/1998: arts. 1º (I a XI e §§ 1º e 2º), 1º-A, 2º (caput e §§ 1º e 2º), 3º, 5º, 6º (II, IV a IX e parágrafo único), 7º, 8º, 8º-A, 8º-B, 9º e 10.
+- Lei 10.887/2004: art. 4º, I e II e §§ 1º e 2º; art. 5º; art. 8º; art. 8º-A.
+- Decreto 3.788/2001 (CRP).
+- LC 101/2000 (LRF): art. 4º, § 2º, IV; art. 25, § 3º; art. 53, § 1º; art. 55, III.
+- Portaria MTP 1.467/2022: arts. 2º (definições), 11, 12, 14 a 18 (parcelamento), e capítulos de avaliação atuarial, equacionamento, segregação, prazos de informação e CRP (consulta parcial).
+- Resolução CMN 5.272/2025 (revogou a Resolução CMN 4.963/2021).
+
+## 24.8 Julgados, temas e súmulas do capítulo
+
+- STF, ACO 830 (referendo de tutela, 29/10/2007): fase anterior, em que se afastaram restrições federais ao Paraná.
+- STF, Tema 933 (ARE 875.958): majoração sem estudo atuarial prévio é válida; 13,25% não é confisco.
+- STF, ADI 6.534 (j. 5/6/2024): majoração de alíquota estadual por lei ordinária.
+- STF, Tema 1.226 (RE 1.384.562): progressividade federal da EC 103; pendente, excluído do calendário de 28/10/2026.
+- STF, ADI 6.254 e outras: maioria contra o § 1º-A do art. 149 (base acima do salário mínimo); julgamento suspenso na última informação.
+- STF, ADI 6.336 (outubro de 2026): válida a revogação da imunidade dobrada dos portadores de doença incapacitante.
+
+Remissões a outros capítulos: rol do RPPS, gestora única, vedação de novos RPPS, extinção e Tema 968 (Cap. 6); ADIs 3.105 e 3.128, contribuição de inativos (Cap. 22); benefícios, transições e abono de permanência (Cap. 23); IPREV e alíquotas catarinenses (Cap. 25); compensação financeira (Cap. 26); Funpresp e previdência complementar do servidor, Previc (Cap. 27); militares fora do RPPS, Tema 1.177 (Cap. 28); natureza tributária e Q2510944 (Apostila de Direito Tributário, Cap. 3).
+
+
+# CAPÍTULO 25 — REGIME PRÓPRIO DE SANTA CATARINA: LC SC 412/2008 E IPREV
+
+## 25.15 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Diplomas | LC 412/2008 (RPPS/SC e IPREV), reescrita pela LC 773/2021; EC estadual 82/2021; LC 661/2015 (RPC-SC) | alterações: LCs 795/2022, 848/2023, 867/2025, 883/2025 | — |
+| Vigência da reforma | 1/1/2022 | antes: regras do dia anterior à EC 103; direito adquirido até essa data, inclusive cálculo e reajuste | art. 86 |
+| Benefícios | só aposentadorias e pensão | licença-saúde e maternidade pagas pelo Poder; auxílio-reclusão revogado | arts. 2º, XI; 59 |
+| Segurados | efetivos, magistrados, membros do MP e do TCE, inativos (e, na letra, estabilizados do art. 19 do ADCT) | Tema 1.254 exclui estabilizados não concursados; cartorários fora (ADI 4.641); militares em sistema próprio | arts. 3º, XXV; 4º; 95; CE, art. 31, § 14 |
+| Filiação | automática, na investidura; obrigatória por cargo na acumulação | afastado sem remuneração: sem contribuição nem averbação (exceção até 30/9/2025) | art. 4º |
+| Perda | morte, ausência, exoneração, demissão, perda do cargo, cassação | nas 4 últimas, nenhum benefício; tempo por certidão | art. 5º |
+| Dependentes | preferenciais (filho, inválido, cônjuge, companheiro, ex com alimentos, enteado, tutelado) concorrem; pais e irmão na falta deles | presunção só para filho solteiro com menos de 21, cônjuge e companheiro; prova material de até 24 meses | arts. 6º e 7º |
+| IPREV | autarquia vinculada à Secretaria da Administração, unidade gestora | concessão e folha dos demais Poderes e órgãos autônomos por eles mesmos | arts. 11; 44, § 5º |
+| Conselhos | Administração: 14 membros, quórum 10, maioria absoluta; Fiscal: 6 membros, quórum 4 | mandato de 4 anos; prorrogação até 30/6/2027 | arts. 39 a 43 |
+| Fundos | SC SEGURO (ingresso até 31/12/2023, repartição) e SC FUTURO (desde 1/1/2024, capitalização) | vedada transferência entre fundos; déficit do SC FUTURO equacionado em 12 meses | arts. 8º-A e 9º |
+| Taxa de administração | até 2% das remunerações de contribuição dos ativos | + até 20% para Pró-Gestão e certificação | art. 30 |
+| Avaliação atuarial | anual, entre janeiro e junho | base para rever alíquotas por lei complementar | arts. 33 e 34 |
+| Alíquotas | segurado e pensionista: 14%; patronal: 28% (SC SEGURO), 14% (SC FUTURO) | incide no 13º; após o RPC, só até o teto | art. 17 |
+| Inativos e pensionistas | sobre o que exceder 2 SM (2024), 2,5 SM (2025), 3 SM (2026) | doença isentiva do IR: acima do teto do RGPS; pensão: limite antes do rateio | arts. 17, §§ 2º a 4º; 61 |
+| Mora e parcelamento | juros 1% ao mês, multa 2%, INPC; até 60 parcelas | 180 parcelas se desconto superar 30% dos rendimentos; parcelado só conta após quitação | arts. 22 e 22-A |
+| Prescrição e decadência | prestações: 5 anos; créditos do IPREV: decadência e prescrição de 5 anos | fundo de direito imprescritível | arts. 53 e 54 |
+| Incapacidade permanente | após licença de até 2 + 2 anos e impossibilidade de readaptação | reavaliação a cada 2 a 5 anos até 65; acidentária: 100% da média | art. 60 |
+| Voluntária permanente | 62/65 anos, 25 de contribuição, 10 de serviço, 5 no cargo | professor 57/60; policiais 55 + 30 + 25 na carreira; agentes nocivos 60 + 25 | arts. 63 a 64-D |
+| Deficiência | grave 20; moderada 29/24; leve 33/28; idade 60/55 + 15 | grave: integralidade com INPC | art. 64-B |
+| Transição de pontos | ingresso até 1/1/2022; 57/62 anos; 30/35; pontos 86/96 + 1 por ano até 95/100 | ingresso até 16/12/1998: pontos congelados e redução de idade até 4 anos | art. 65 |
+| Transição do pedágio | 57/60 anos; 30/35; pedágio de 50% do faltante em 1/1/2022 | aposentadoria proporcional sem pedágio completo (1/40 ou 1/35) | art. 66 |
+| Policiais (transição) | 55 anos + 30/20 (H) ou 25/15 (M); ou 52/53 + pedágio de 50% | integralidade e paridade só para ingresso até 31/12/2003; §§ 5º e 6º inconstitucionais | art. 67 |
+| Integralidade e paridade | ingresso até 31/12/2003 sem opção pelo RPC, nas transições | sem idade adicional (diferente do art. 4º da EC 103) | arts. 65, § 6º; 66, § 2º; 72 |
+| Média | 80% maiores desde 7/1994 (ingresso até 1/1/2022); 100% (ingresso depois) | limitada ao teto após o RPC; exclusão de contribuições com perda do tempo | art. 70 |
+| Coeficiente | 60% + 1 p.p. por ano completo | 100% na acidentária, deficiência moderada e leve e transições; compulsória x TC/20 | art. 70, §§ 4º a 6º |
+| Reajuste | INPC, na data do RGPS | paridade para os casos do art. 72 | arts. 71 e 72 |
+| Pensão | 60% + 10 p.p. por dependente, sobre a aposentadoria ou a incapacidade acidentária hipotética | sem reversão; 100% com 4 ou mais; inválido: 100% até o teto; morte em serviço: vitalícia integral | art. 73 |
+| DIB da pensão | óbito, se requerida em 180 dias | requerimento; ajuizamento da ação; habilitação provisória | art. 74 |
+| Duração da pensão | 4 meses ou tabela 3/6/10/15/20/vitalícia (menos de 21 / 21-26 / 27-29 / 30-40 / 41-43 / 44+) | acidente afasta 18 meses e 2 anos | art. 77 |
+| Acumulação | 1 aposentadoria de RPPS; pensões de cônjuge com redutor por faixas | direito adquirido antes da EC 103 | arts. 45 a 46-A |
+| Tempo | vedados tempo fictício, concomitante e conversão | conversão até 13/11/2019 com LTCAT (20% e 40%) | arts. 81 e 98 |
+| Abono de permanência | igual à contribuição, até a compulsória, pago pelo Poder | não impede outra regra depois | art. 84 |
+| RPC-SC | funcionamento em 30/9/2016; SCPREV, fundação de direito privado; CD; até 8% paritário sobre o excedente do teto | inscrição automática; opção dos antigos com contrapartida a qualquer tempo | LC 661/2015 |
+
+## 25.16 Artigos de lei incidentes
+
+- Constituição Federal: art. 37, XI; art. 40, §§ 1º, 4º-A a 5º, 13 a 16 e 19; art. 149, § 1º-A; art. 201, § 5º.
+- EC 103/2019: arts. 4º, 9º, 20, 23, 24, 26 e 36 (por comparação).
+- Constituição do Estado de SC: art. 30 (EC estadual 82/2021); art. 31, §§ 11 e 14 (EC estadual 89/2022).
+- LC SC 412/2008: arts. 1º a 7º, 8º-A, 9º, 10, 11, 13, 15 a 17, 19 a 27, 29 a 31, 33 a 36, 38 a 57, 59 a 79, 81, 83, 84, 86, 88, 89, 92, 95 e 98.
+- LC SC 661/2015: arts. 1º a 5º, 14, 16, 19 a 22, 28, 36 e 37.
+- Lei 9.717/1998, art. 2º (limite da patronal); Lei 9.983/2000 (art. 24 da LC 412); LC federal 142/2013 (art. 64-B, §§ 3º e 4º); Lei 8.213/1991, arts. 57 e 77, § 2º-B (por remissão).
+
+## 25.17 Julgados, temas e súmulas do capítulo
+
+- STF, ADI 4.641: cartorários extrajudiciais excluídos do RPPS/SC (art. 95), efeitos *ex nunc*.
+- TJSC, ADI 5037574-55.2025.8.24.0000: constitucionalidade dos arts. 57, II, 64-C e 67, caput e § 3º; inconstitucionalidade modulada do art. 67, §§ 5º e 6º.
+
+Remissões a outros capítulos: Tema 1.254 do STF (Cap. 6); Tema 1.019 do STF e Jurisprudência em Teses do STJ, ed. 207, tese 6 (Cap. 23); Súmula Vinculante 33 (Cap. 23); Temas 888, 439, 664 e 1.082 (Cap. 23); Tema 1.177 (Cap. 28); Tema 979 do STJ (Cap. 12).
+
+
+# CAPÍTULO 26 — CONTAGEM RECÍPROCA E COMPENSAÇÃO PREVIDENCIÁRIA
+
+## 26.6 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Contagem recíproca | soma, num regime, do tempo de contribuição cumprido em outro, para aposentadoria | bilateral (RGPS x RPPS, RPPS x RPPS, militares) | CF, art. 201, §§ 9º e 9º-A; art. 40, § 9º; Lei 8.213, art. 94 |
+| Quem concede e paga | regime ao qual o interessado está vinculado ao requerer, segundo SUA lei | não há duas aposentadorias proporcionais | Lei 8.213, art. 99 |
+| Restrições locais | inválidas | — | STF, Tema 522 |
+| CTC: emissor | regime de ORIGEM (INSS ou RPPS) | RPPS só emite para EX-servidor | Lei 8.213, art. 96, VI; Decreto 3.048, art. 130 |
+| CTC obrigatória | RPPS não averba tempo do RGPS sem CTC | ainda que o tempo celetista tenha sido prestado ao próprio ente | art. 96, VII |
+| CTC: contribuição | só tempo com contribuição efetiva ou presumida | presunção para empregado, doméstico, avulso e CI de empresa desde 1/4/2003; tempo pré-EC 20/1998 equiparado por lei | art. 96, V e § 1º |
+| CTC: outros requisitos | quitação de débitos; plano simplificado complementado; competências abaixo do mínimo após 13/11/2019 não contam | CTC de período posterior à aposentadoria no RGPS é admitida; período fracionado; cargos acumuláveis (até 2 órgãos) | Decreto 3.048, arts. 125, §§ 3º, 4º e 4º-A, 128, § 1º, e 130, §§ 7º, 10 e 13 |
+| Efeito colateral da CTC | encerra auxílio-acidente, auxílio-suplementar e abono de permanência em serviço | — | Decreto 3.048, art. 129 |
+| Revisão da CTC | por erro material, inclusive de ofício | vedado mudar o órgão de destino | Decreto 3.048, art. 130, § 16 |
+| Desaverbação | possível se o tempo não foi usado | vedada se gerou vantagem remuneratória | art. 96, VIII |
+| Concomitância | mesmo intervalo não se soma duas vezes | cada vínculo pode gerar aposentadoria no seu regime; cargos acumuláveis | art. 96, II; Decreto 3.048, art. 130, § 12 |
+| Tempo já utilizado | não se reaproveita | aposentada especial do RGPS não averba no RPPS; desaposentação vedada (Tema 503) | art. 96, III; Decreto 3.048, art. 130, § 13 |
+| Dobro e fictício | vedados | fictício do RGPS até 13/11/2019 vale só no RGPS | art. 96, I; CF, arts. 40, § 10, e 201, § 14; EC 103, art. 25 |
+| Tempo especial | vai à CTC sem conversão, discriminado, para aposentadoria especial | conversão vedada pela lei e pelo Regulamento; controvérsia após o Tema 942 do STF (Tema 278 da TNU admite até a EC 103 no RPPS da União) | art. 96, I e IX; Decreto 3.048, art. 125, § 1º, I |
+| Deficiência | períodos e graus identificados na CTC, sem conversão | — | Decreto 3.048, art. 125, § 1º, II, e § 5º |
+| Tempo sem contribuição | só com indenização (juros de 0,5% ao mês; sem multa para o tempo anterior à filiação obrigatória) | aposentadoria do RPPS com tempo não indenizado de quem devia recolher é NULA | art. 96, IV e § 2º; Tema 609 do STJ; EC 103, art. 25, § 3º |
+| Militares | contagem recíproca com compensação entre receitas | Súmula 10 do STF | CF, art. 201, § 9º-A |
+| Regime de origem / instituidor | origem: onde esteve vinculado sem receber benefício; instituidor: quem concede e paga | RPPS como origem só quando o RGPS é instituidor (letra do art. 2º, § 1º); compensação RPPS x RPPS pelo art. 8º-A | Lei 9.796, arts. 2º e 8º-A |
+| Alcance da compensação | aposentadorias desde 5/10/1988 e pensões delas decorrentes; só tempo não concomitante | excluída a invalidez por acidente em serviço, moléstia profissional ou doença grave; rural certificado desde 14/10/1996 só se indenizado | Decreto 10.188, arts. 2º e 3º |
+| Cálculo (RGPS instituidor) | RMI x (tempo de origem ÷ tempo total) | teto: percentual x maior benefício da espécie pago pelo RPPS de origem | Lei 9.796, art. 3º |
+| Cálculo (RPPS instituidor) | menor entre proventos e RMI simulada pela regra da origem, x percentual | RMI simulada entre o mínimo e a remuneração do cargo ou o teto do RGPS | Lei 9.796, art. 4º; Decreto 10.188, art. 6º |
+| Estoque e fluxo | estoque: 5/10/1988 a 5/5/1999; fluxo acumulado (parcela única) e mensal | parcelamento do estoque em até 180 meses | Decreto 10.188, arts. 4º, 6º, § 5º, e 9º |
+| Operação | Comprev; total até o dia 30 e pagamento até o 5º dia útil; encontro de contas | ente solidário se o RPPS tem personalidade jurídica; recursos só para benefícios; despesa federal limitada à dotação | Lei 9.796, arts. 6º, 8º e 8º-C; Decreto 10.188, arts. 11, 14 e 15 |
+| Prescrição e decadência | 5 anos (Decreto 20.910/1932): do registro pelo TC (RPPS instituidor) ou da 1ª prestação (RGPS instituidor) | anulação de atos de compensação: 5 anos (Lei 9.784, art. 54) | Decreto 10.188, arts. 12 e 13, § 4º |
+| Sanções | não adesão ou inadimplência: suspensão da compensação devida pelo RGPS e sanções da Lei 9.717 | adesão até 31/12/2021 | Lei 9.796, art. 8º-A, § 2º; Decreto 10.188, art. 25 |
+
+## 26.7 Artigos de lei incidentes
+
+- Constituição Federal: art. 40, §§ 9º e 10; art. 201, §§ 9º, 9º-A e 14.
+- EC 103/2019: art. 25, caput e §§ 2º e 3º; art. 34, III, "b".
+- Lei 8.213/1991: arts. 94 (caput e §§ 1º e 2º), 96 (incisos I a IX e §§ 1º e 2º), 97, 98 e 99.
+- Lei 9.796/1999: arts. 1º a 8º-A e 8º-C.
+- Decreto 3.048/1999: arts. 125 a 134 (em especial 125, § 1º, §§ 3º, 4º, 4º-A e 5º; 127; 128; 129; 130, §§ 3º, 7º, 10, 12, 13, 14 e 16).
+- Decreto 10.188/2019: arts. 2º a 17 e 25.
+- Portaria MTP 1.467/2022: arts. 170, 171, 183, 184, 186, 187, 193, 195 e 198 (numeração segundo o Guia da CTC).
+- Lei 15.363/2026 (art. 96, § 2º, da Lei 8.213/1991); Lei 15.265/2025 (art. 8º-C da Lei 9.796/1999); Lei 13.485/2017 (art. 6º, §§ 5º e 6º, da Lei 9.796/1999).
+
+## 26.8 Julgados, temas e súmulas do capítulo
+
+- STF, Tema 522: restrição local à contagem recíproca é inconstitucional.
+- STF, Súmula 10: serviço militar conta para aposentadoria do servidor estadual.
+- TNU, Tema 278: CTC com tempo especial discriminado; conversão no RPPS da União até a EC 103/2019.
+- STJ, JT ed. 94, tese 12: INSS não pode recusar certidão do tempo rural reconhecido.
+- STJ, AgRg no REsp 1.335.066: concomitância não impede duas aposentadorias em regimes distintos.
+- STJ, AgRg no REsp 1.444.003 (Info 544): vínculos concomitantes aproveitados cada um no seu regime.
+- STJ, JT ed. 71, tese 15: tempo ficto e aluno-aprendiz incompatíveis com a previdência complementar.
+
+Remissões a outros capítulos: Tema 609 do STJ, Súmula 10 da TNU, Tema 1.103 do STJ e indenização (Cap. 9); tempo fictício e Súmula 242 do STJ (Cap. 9); Tema 942 do STF e Súmula Vinculante 33 (Cap. 23); Tema 293 do STF (Cap. 10); Tema 503 do STF, desaposentação (Cap. 13); Tema 709 do STF (Cap. 14); Súmula 726 do STF (Caps. 13 e 23); CRPS (Cap. 19); competência delegada (Cap. 20); avaliação atuarial e CRP (Cap. 24); militares (Cap. 28).
+
+
+# CAPÍTULO 27 — PREVIDÊNCIA COMPLEMENTAR: LC 108 E 109/2001, ENTIDADES, PLANOS, INSTITUTOS, FISCALIZAÇÃO, CONTENCIOSO E PREVIDÊNCIA COMPLEMENTAR DO SERVIDOR
+
+## 27.12 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções/detalhes | Fundamento |
+|---|---|---|---|
+| Regime complementar | privado, complementar, autônomo do RGPS, facultativo, baseado em reservas, regulado por LC | não integra o contrato de trabalho nem a remuneração (salvo benefício concedido) | CF, art. 202; LC 109, arts. 1º e 68 |
+| Leis complementares | LC 109 geral; LC 108 para patrocinador público e suas estatais | LC 109 aplica-se às entidades da LC 108, ressalvadas regras específicas | LC 108, arts. 1º e 2º |
+| Órgãos | EFPC: CNPC regula, Previc fiscaliza; EAPC: CNSP e Susep; investimentos: CMN | vedadas aplicações compulsórias e limites mínimos | LC 109, arts. 5º, 9º e 74; Lei 12.154/2009 |
+| EFPC | só empregados de patrocinador/servidores ou associados de instituidor; fundação ou sociedade civil sem fins lucrativos; sem falência, só liquidação extrajudicial | instituidor: gestão terceirizada e só CD | LC 109, arts. 31, 32 e 47 |
+| EAPC | S.A. (ou seguradora do ramo vida); planos individuais ou coletivos | CDC aplicável | LC 109, arts. 26 e 36; Súmula 563 |
+| Oferta e adesão | oferta obrigatória a todos os empregados; adesão facultativa | não se aplica a plano em extinção | LC 109, art. 16 |
+| Regulamento aplicável | o da data da elegibilidade; alterações valem para todos, respeitado o direito acumulado | expectativa de direito até a elegibilidade | LC 109, art. 17; Tema 907 |
+| Modalidades | BD, CD, CV | capitalização obrigatória para benefícios programados e continuados | LC 109, arts. 7º e 18 |
+| Superávit | reserva de contingência até 25% das reservas matemáticas; excedente em reserva especial; 3 exercícios sem uso: revisão obrigatória | limite regulamentar: menor entre 25% e (10% + 1% x duração) da provisão BD | LC 109, art. 20 |
+| Déficit | equacionado por patrocinadores, participantes e assistidos na proporção das contribuições | assistidos: só contribuição adicional, sem redução do benefício | LC 109, art. 21 |
+| Institutos obrigatórios | BPD, portabilidade, resgate, autopatrocínio | portabilidade exige cessação do vínculo e não é resgate; resgate só das contribuições do participante | LC 109, arts. 14 e 15; Súmulas 289 e 290 |
+| Paridade (LC 108) | contribuição normal do patrocinador nunca excede a do participante | facultativa sem contrapartida; vedados encargos adicionais | CF, art. 202, § 3º; LC 108, art. 6º |
+| Elegibilidade (LC 108) | 60 contribuições e cessação do vínculo com o patrocinador | BD posterior à LC 108: concessão do benefício pelo regime de origem | LC 108, art. 3º; Tema 944 |
+| Benefícios em manutenção | vedado repasse de abono, ganho de produtividade e vantagens | reajuste pelo índice do INSS sem aumento real | LC 108, art. 3º, parágrafo único; Temas 736 e 941 |
+| Conselhos (LC 108) | deliberativo até 6, presidente do patrocinador, uma recondução; fiscal até 4, presidente dos participantes, sem recondução; ambos paritários, mandato de 4 anos | eleição direta dos representantes dos participantes | LC 108, arts. 11, 12, 15 e 16 |
+| Verbas trabalhistas após a concessão | não entram na renda complementar sem reserva prévia | reparação contra o ex-empregador na Justiça do Trabalho; modulação até 8/8/2018 | Temas 955 e 1.021 do STJ; Tema 1.166 do STF |
+| Competência | participante x entidade: Justiça Comum estadual | empregador e verbas: Justiça do Trabalho; complementação instituída por lei: Justiça Comum | STF, Temas 190, 1.092 e 1.166; Súmula 505 do STJ |
+| Legitimidade | patrocinadora ilegítima nas causas do plano | salvo ato ilícito próprio | Tema 936 do STJ |
+| Prescrição | 5 anos das parcelas; fundo de direito imprescritível | diferenças contadas de cada pagamento | LC 109, art. 75; Súmulas 291 e 427 |
+| Tributação | contribuições dedutíveis; benefício tributável; regressivo de 35% a 10%, opção até o benefício ou primeiro resgate, irretratável | sem ITCMD em VGBL e PGBL; EFPC não imune se há contribuição dos beneficiários | LC 109, art. 69; Lei 11.053/2004; Temas 699, 1.214 e 1.280 do STF |
+| RPC do servidor | instituição obrigatória por lei de iniciativa do Executivo; só CD; teto do RGPS no RPPS | quem ingressou antes: só por opção prévia e expressa | CF, art. 40, §§ 14 a 16; EC 103, arts. 9º, § 6º, e 33 |
+| Funpresp | inscrição automática acima do teto; cancelamento com devolução integral em até 90 dias; patrocinador igual ao participante até 8,5% | abaixo do teto: adesão sem contrapartida | Lei 12.618/2012, arts. 1º, 13 e 16 |
+| Benefício especial | (média - teto) x Tc/Tt | até 30/11/2022: 80% maiores e Tt 455/390/325; depois: 100% e Tt 520; sem contribuição, com IR | Lei 12.618/2012, art. 3º |
+
+## 27.13 Artigos de lei incidentes
+
+- Constituição Federal: art. 40, §§ 14, 15 e 16; art. 202, *caput* e §§ 1º a 6º.
+- EC 103/2019: art. 9º, § 6º; art. 33.
+- LC 109/2001: arts. 1º, 2º, 4º, 5º, 7º, 9º, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 31, 32, 33, 34, 35, 36, 38, 41, 42, 43, 44, 47, 48, 49, 50, 57, 59, 63, 65, 67, 68, 69, 71, 74, 75, 76.
+- LC 108/2001: arts. 1º, 2º, 3º, 4º, 5º, 6º, 7º, 10, 11, 12, 13, 14, 15, 16, 17, 19, 20, 21, 23, 25, 26.
+- Lei 12.618/2012: arts. 1º (§§ 1º a 6º), 3º (§§ 1º a 8º), 4º, 5º, 7º, 8º, 12, 13, 14, 15, 16, 17, 19 a 22, 30.
+- Lei 12.154/2009: arts. 1º, 2º, 12, 13 e 15.
+- Lei 11.053/2004: art. 1º (alíquotas e §§ 5º e 6º, este na redação da Lei 14.803/2024).
+- Normas infralegais citadas: Resoluções CNPC 30/2018, 46/2021, 50/2022 (alterada pela 65/2026) e 62/2024; Resolução CMN 4.994/2022.
+
+## 27.14 Julgados, temas e súmulas do capítulo
+
+- Súmula 563 do STJ: CDC nas abertas, não nas fechadas (substituiu a Súmula 321, cancelada).
+- Súmula 505 do STJ: planos da REFER na Justiça estadual.
+- Súmula 289 do STJ: correção plena na restituição (só no desligamento e resgate, não na migração).
+- Súmula 290 do STJ: sem devolução da contribuição do patrocinador.
+- Súmulas 291 e 427 do STJ: prescrição quinquenal das parcelas e das diferenças.
+- STF, Tema 190 (RE 586.453): Justiça Comum para complementação paga por entidade privada.
+- STF, Tema 1.092: Justiça Comum para complementação instituída por lei e paga pela Administração.
+- STF, Tema 1.166: Justiça do Trabalho para verbas e reflexos contra o empregador.
+- STF, Tema 452 (RE 639.138): isonomia de gênero no cálculo da complementação.
+- STJ, Tema 907: regulamento da data da elegibilidade.
+- STJ, Temas 955 e 1.021: sem reflexos de verbas trabalhistas após a concessão.
+- STJ, Tema 936: ilegitimidade da patrocinadora.
+- STJ, Temas 539 e 540: competência estadual; cesta-alimentação não se incorpora.
+- STJ, Temas 736 e 944: vedação de abonos e exigência de cessação do vínculo (patrocínio público).
+- STJ, Tema 941: reajuste pelo índice do INSS sem aumento real.
+- STJ, Tema 943: migração sem revisão e indivisibilidade da transação.
+- STJ, Tema 977: reajuste em entidade aberta após a Circular Susep 11/1996; IPCA-E na falta de repactuação.
+- STJ, Temas 511 e 512: correção da reserva de poupança com expurgos; IPC.
+- STJ, Tema 57: prescrição das diferenças contada de cada pagamento.
+- STJ, AgInt no REsp 2.189.813-SP: cessação do vínculo também em patrocínio privado.
+- STJ, EAREsp 925.908-SE: inclusão posterior de dependente sem prejuízo ao fundo.
+- STJ, REsp 2.013.177-PR: superávit revertido devido ao espólio.
+- STJ, AgInt no CC 185.622-RN: Justiça do Trabalho para auxílio-alimentação com reflexo na complementação.
+- STJ, AgInt nos EDcl no AREsp 1.295.169-DF: Súmula 289 não se aplica à migração.
+
+Remissões a outros capítulos: Súmula 730 do STF e Temas 699, 1.280 e 1.214 do STF, Súmula 556 do STJ e Tema 1.224 do STJ (Apostila de Direito Tributário, Caps. 6, 24, 26 e 30); REsp 2.142.645-PE e salário de contribuição (Cap. 3); art. 40, §§ 14 a 16, e art. 33 da EC 103/2019 (Cap. 6); devolução de tutela revogada e descontos (Cap. 12); competência federal e consectários contra a Fazenda (Cap. 20); decadência do art. 103 da Lei 8.213/1991 (Cap. 21); RPPS e alíquotas da União (Caps. 23 e 24); SCPREV (Cap. 25); compensação financeira (Cap. 26).
+
+
+# CAPÍTULO 28 — SISTEMA DE PROTEÇÃO SOCIAL DOS MILITARES E ACUMULAÇÕES ENTRE SISTEMAS
+
+## 28.10 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Natureza da inatividade militar | remuneração, não aposentadoria; "não tem natureza contributiva" | insuficiência coberta pelo ente | DL 667, art. 24-C, § 1º |
+| Reserva a pedido (FA) | 35 anos de serviço, 30 de atividade militar (oficiais de academia e praças) ou 25 (demais oficiais) | abaixo de 35 anos: quotas de soldo por ano (até 35) | Lei 6.880, arts. 56 e 97 |
+| Reforma (FA) | sempre de ofício: idade-limite na reserva (75/72/68/68) ou incapacidade definitiva | campanha ou ordem pública: grau hierárquico imediato; acidente ou doença do serviço: grau imediato só se inválido; sem nexo: proporcional, integral se inválido | Lei 6.880, arts. 104 a 111 |
+| Transição FA | 30 anos ou mais em 17/12/2019: regras antigas | menos de 30: faltante × 1,17; atividade militar 25 anos + 4 meses/ano desde 2021, até 30 (art. 97, I) | Lei 13.954, art. 22 |
+| Contribuição (FA) | 10,5% desde 1/1/2021 sobre a totalidade, ativos, inativos e pensionistas | + 3% filhas vitalícias; + 1,5% pensionistas do art. 31 da MP 2.215-10; alterável por lei a partir de 1/1/2025 | Lei 3.765, art. 3º-A |
+| Pensão militar | 100% da remuneração ou proventos; paridade | não inferior a aspirante ou terceiro-sargento se morte em serviço | Lei 3.765, art. 15 |
+| Beneficiários | 1ª ordem: cônjuge, companheiro, ex-cônjuge alimentado, filhos e enteados até 21 (24 universitário) ou inválidos, criança sob guarda ou tutela; 2ª: pais dependentes; 3ª: irmão órfão ou inválido dependente | cônjuge e filhos excluem 2ª e 3ª ordens; ex-cônjuge recebe o valor dos alimentos; metade cônjuge, metade filhos | Lei 3.765, art. 7º |
+| Filhas | vitalícia só para instituidor falecido até 29/12/2000 ou que manteve o art. 31 (1,5%) sem renunciar até 31/8/2001 | lei do óbito | MP 2.215-10, art. 31 |
+| Militares estaduais | integral com 35 anos, 30 de atividade militar; quotas abaixo disso; invalidez em razão da função: integral; paridade | pensão igual à remuneração; mesmos beneficiários das FA; alíquota igual à das FA (inativos e pensionistas: Tema 1.177) | DL 667, arts. 24-A a 24-C |
+| Transição estaduais | direito adquirido até 31/12/2019 (ou até 31/12/2021 por ato do art. 26) | lei local com 30 anos ou menos: faltante × 1,17; com 35: sem pedágio; atividade militar 25 anos + 4 meses por ano faltante, desde 2022, até 5 anos | DL 667, arts. 24-F e 24-G |
+| Sistema estadual | lei específica do ente; sem legislação de RPPS | lei local não pode ampliar direitos; simetria com FA | DL 667, arts. 24-D, 24-E e 24-H |
+| Contagem recíproca | tempo militar x RGPS e RPPS, com compensação | tempo usado para reserva não volta ao RGPS | CF, art. 201, § 9º-A; DL 667, art. 24-J |
+| Acumulação de cargos (militar) | FA: só saúde; PM e BM: todo o art. 37, XVI; prevalência da atividade militar | cargo civil permanente: reserva; temporário: agregação | CF, art. 142, § 3º, II, III e VIII; art. 42, § 3º |
+| Provento + remuneração | vedado (RPPS e militar) | cargos acumuláveis, eletivos e em comissão; reingresso até 16/12/1998 (sem segunda aposentadoria do art. 40) | CF, art. 37, § 10; EC 20, art. 11; Tema 627 |
+| Pensões e aposentadorias com militar | redutor por faixas (pensão de cônjuge + pensão militar ou inatividade militar; pensão militar + aposentadoria) | mesmo instituidor por cargos acumuláveis; direito adquirido até 13/11/2019 | EC 103, art. 24 |
+| Teto | por vínculo nas acumulações autorizadas | pensão + remuneração ou provento: soma (óbito após EC 19/1998); indenizatórias fora | Temas 377, 384 e 359; art. 37, § 11 |
+| Ex-combatente | pensão de segundo-tenente; inacumulável com rendimentos públicos, salvo previdenciários | aposentadoria integral aos 25 anos de serviço | ADCT, art. 53 |
+
+## 28.11 Artigos de lei incidentes
+
+- CF: art. 22, XXI; art. 37, XI, XVI, XVII, §§ 10 e 11; art. 40, §§ 6º, 9º e 13; art. 42, §§ 1º a 3º; art. 71, III; art. 142, § 3º, II, III, VIII e X; art. 201, § 9º-A; ADCT, art. 53.
+- EC 20/1998: art. 11. EC 103/2019: art. 24.
+- Lei 6.880/1980 (Estatuto dos Militares): arts. 50-A, 56, 97, 98, 104, 106, 108 a 112.
+- Lei 3.765/1960 (pensões militares): arts. 1º, 3º-A, 3º-B, 7º, 9º, 15, 20, 23, 24, 26, 29 e 31.
+- MP 2.215-10/2001: art. 31.
+- Lei 13.954/2019: arts. 18, 20, 22, 24 e 26.
+- Decreto-Lei 667/1969: arts. 24-A a 24-J.
+- Lei 8.213/1991: arts. 12, § 1º, e 55, I.
+
+## 28.12 Julgados, temas e súmulas do capítulo
+
+- STF, Temas 377 e 384 (RE 612.975 e RE 602.043): teto por vínculo na acumulação autorizada.
+- STF, Tema 359 (RE 602.584): teto sobre a soma de pensão e remuneração ou provento (óbito após a EC 19/1998).
+- STF, Tema 627 (RE 658.999): a vedação final do art. 11 da EC 20 não alcança cargos acumuláveis.
+- STF, Tema 1.397: contribuição da pensão militar federal sobre militares do DF (repercussão geral reconhecida; mérito pendente).
+
+Remissões a outros capítulos: Tema 1.177, ADI 6.917, ADO 28 e Tema 160 (6.5); art. 24 da EC 103 e acumulações no RGPS (12.6 a 12.8); contagem recíproca e compensação (Cap. 26); pensão por morte do RGPS (Cap. 16); RPPS e art. 40 (Caps. 23 e 24).

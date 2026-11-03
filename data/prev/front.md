@@ -1,0 +1,55 @@
+# APRESENTAÇÃO E MAPA DOS EDITAIS
+
+## Para quem é esta apostila
+A apostila cobre o Direito Previdenciário de dois editais: o de Juiz Federal Substituto do TRF5 (12 pontos de Direito Previdenciário, cobrança densa de jurisprudência) e o de Auditor Estadual de Finanças Públicas da SEFAZ/SC (Edital 01/2026, FCC, 5 pontos: RGPS, RPPS e previdência complementar; contagem recíproca e compensação; EC 103/2019; custeio do RPPS, equilíbrio financeiro e atuarial e CRP; LC SC 412/2008). Os pontos dos dois editais foram fundidos num só plano de 28 capítulos; a tabela ao final indica, para cada capítulo, os pontos atendidos.
+
+O texto parte do pressuposto de um leitor com sólida formação jurídica, mas sem prática previdenciária diária. Por isso, além da letra da lei e da jurisprudência, explica a mecânica de cada instituto: a sequência de requisitos, as datas de corte, as regras de transição e os cálculos, sempre em escadas com números conferidos.
+
+## Como usar
+Cada capítulo traz: a incidência (pontos dos editais, nível e número de questões do lote); o mapa de cobrança, quando há questões suficientes; as seções de teoria, com fichas de consulta rápida de cada benefício e de cada regra de transição; o resumo tabelado para revisão pré-prova; os artigos de lei incidentes; os julgados, temas e súmulas desenvolvidos; e a nota de verificação, que registra o que foi conferido na fonte primária (Planalto, portais do STF, do STJ, do CJF e da ALESC) e o que ainda deve ser conferido antes da prova. Boxes usados: TEXTO DE LEI, JURISPRUDÊNCIA, COMO A BANCA COBROU, DICA, PEGADINHA, ATENÇÃO, DOUTRINA, ESQUEMA, EXEMPLO RESOLVIDO, PASSO A PASSO, NA SENTENÇA (como o tema aparece na sentença do juiz federal), REFLEXO PROCESSUAL e PRATIQUE.
+
+Convenções: valores em dinheiro em algarismos com o valor por extenso no texto corrido e só em algarismos dentro das contas, sem símbolo de moeda; valores de 2026 conforme a Portaria Interministerial MPS/MF 13/2026 (salário mínimo de 1.621,00 e teto do RGPS de 8.475,55); datas no formato dia/mês/ano. Cada julgado, tema ou súmula é desenvolvido em um único capítulo; nos demais há remissão ("v. Cap. X"), válida para os dois volumes, que têm numeração contínua.
+
+## Questões
+As questões foram coletadas no QConcursos em 2/11/2026: bancas FGV e FCC, nível superior, 2024 a 2026, na disciplina Direito Previdenciário e, para o RPPS, o custeio e a previdência complementar, por palavras-chave em outras disciplinas. O gabarito de cada questão foi colhido na mesma página do enunciado. O banco reuniu 754 questões (FGV 637 e FCC 117), das quais 482 foram classificadas como úteis; 491 são citadas nesta apostila (FGV 403 e FCC 88) e 391 estão comentadas em box próprio (FGV 310 e FCC 81). Os enunciados são parafraseados e identificados pelo número Q. Gabaritos desatualizados por lei ou julgamento posterior (por exemplo, a ADI 6.309, que afastou a idade mínima da aposentadoria especial) e gabaritos discutíveis estão apontados no box e na nota de verificação.
+
+## Atualização
+Legislação e jurisprudência conferidas até 3/11/2026, incluídas, entre outras: a EC 140/2026 (agentes comunitários de saúde e de combate às endemias), a EC 136/2025 (atualização dos requisitórios), a Lei 15.371/2026 (salário-paternidade, em vigor a partir de 1/1/2027), a Lei 15.363/2026, a Lei 15.108/2025 (criança sob guarda como dependente), as Leis 15.157/2025 e 15.265/2025 (benefícios por incapacidade), a LC 224/2025 (contribuição do empregador rural), a caducidade da MP 1.355/2026, a ADI 6.309 (aposentadoria especial), a ADI 4.395 (Funrural), a ADI 7.633 (desoneração), o Tema 1.102 do STF (revisão da vida toda, após os embargos) e o Tema 1.300 do STF.
+
+## Os dois volumes
+Volume I — Caps. 1 a 17 — Seguridade social, custeio, regimes previdenciários e RGPS (segurados, dependentes, tempo de contribuição, atividade especial, cálculo e benefícios em espécie). Volume II — Caps. 18 a 28 — Assistência social e BPC, processo administrativo e judicial, prescrição e decadência, direito intertemporal, regimes próprios (inclusive o de Santa Catarina), contagem recíproca e compensação, previdência complementar e militares. Há ainda um caderno de Revisão de Véspera com os resumos, os artigos e os julgados de todos os capítulos.
+
+## Correspondência entre capítulos e pontos
+
+| Cap. | Título | TRF5 | SEFAZ/SC | Nível | Questões em box |
+|---|---|---|---|---|---|
+| 1 | Seguridade social | 1 | — | A | 21 |
+| 2 | Financiamento da seguridade social I | 2 | — | A+ | 18 |
+| 3 | Custeio II | 2 | — | A+ | 9 |
+| 4 | Custeio III | 2 | — | A | 11 |
+| 5 | Arrecadação, responsabilidade e contencioso do custeio | 2 | — | A | 11 |
+| 6 | Regimes previdenciários | 3 | 1 | A | 18 |
+| 7 | RGPS — relação jurídica I | 4 | — | A+ | 20 |
+| 8 | RGPS — relação jurídica II | 4 | — | A+ | 16 |
+| 9 | Tempo de contribuição e sua prova | 6 | — | A+ | 2 |
+| 10 | Atividade especial | 6 | — | A+ | 6 |
+| 11 | Cálculo dos benefícios | 5 | — | A+ | 2 |
+| 12 | Prestações em geral | 7 | — | A | 9 |
+| 13 | Aposentadorias programadas no RGPS | 8, 12 | — | A+ | 4 |
+| 14 | Aposentadoria especial (requisitos, cálculo e transição da EC 103/2019, vedação ao retorno — Tema 709 do STF) e aposentadoria da pessoa com deficiência (LC 142/2013) | 8 | — | A | 9 |
+| 15 | Benefícios por incapacidade | 8, 9 | — | A+ | 24 |
+| 16 | Pensão por morte e auxílio-reclusão | 8 | — | A+ | 12 |
+| 17 | Outros benefícios do RGPS | 8 | — | A | 10 |
+| 18 | Assistência social | 1, 9 | — | A+ | 20 |
+| 19 | Processo administrativo previdenciário | 10 | — | A | 1 |
+| 20 | Processo judicial previdenciário | 10 | — | A+ | 7 |
+| 21 | Prescrição e decadência em matéria previdenciária | 11 | — | A | 2 |
+| 22 | Direito previdenciário intertemporal | 3, 12 | 3 | A | 3 |
+| 23 | Regime próprio dos servidores I | 3 | 1, 3 | A+ | 55 |
+| 24 | Regime próprio dos servidores II — custeio, gestão e equilíbrio | 3 | 4 | A+ | 60 |
+| 25 | Regime próprio de Santa Catarina | — | 5 | A | — |
+| 26 | Contagem recíproca e compensação previdenciária | 3, 6 | 2 | A | 8 |
+| 27 | Previdência complementar | 3 | 1 | A | 30 |
+| 28 | Sistema de proteção social dos militares e acumulações entre sistemas | 7 | — | B | 3 |
+
+Nível: A+ (tema central, cobrado em todas as provas), A (cobrança frequente), B (cobrança eventual).

@@ -1,0 +1,3028 @@
+# APRESENTAÇÃO DA REVISÃO
+
+Este caderno reúne, de cada um dos 51 capítulos da Apostila de Direito Penal, apenas as três seções finais: o resumo tabelado para revisão pré-prova, os artigos de lei incidentes e os julgados, temas e súmulas. A numeração das seções é a mesma da apostila completa, e as remissões ("v. Cap. X") apontam para os capítulos dela. Textos de lei conferidos no Planalto em 15/10/2026.
+
+# CAPÍTULO 01 — FUNDAMENTOS DO DIREITO PENAL: CONCEITO, FUNÇÕES, CIÊNCIAS PENAIS, ESCOLAS E EVOLUÇÃO DOGMÁTICA, POLÍTICA CRIMINAL, CRIMINOLOGIA E PERSPECTIVAS CRÍTICAS
+
+## 01.12 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Conceito e caracteres | normas penais + saber que as sistematiza; cultural, normativo, valorativo, finalista, sancionador | *ius puniendi* sempre estatal; "finalista" ≠ finalismo; excepcionalmente constitutivo | Noronha; Zaffaroni |
+| Funções | proteção de bens jurídicos (Roxin) x vigência da norma (Jakobs); garantia (Liszt: "magna carta do delinquente") | simbólica é ilegítima; redutora (Silva Sánchez, Zaffaroni) | doutrina |
+| Ciências penais | dogmática (dever ser), política criminal (valor), criminologia (ser) | vitimologia e penologia; disciplinas auxiliares | Liszt (ciência total); Roxin (integração) |
+| Evolução brasileira | Ordenações Filipinas → Código Criminal 1830 → CP 1890 → Consolidação 1932 → CP 1940 → Reforma 1984 | CP 1969 nunca vigorou; duplo binário → vicariante (1984) | Leis 7.209 e 7.210/1984 |
+| Escolas | clássica (livre-arbítrio, retribuição); positiva (determinismo, defesa social, periculosidade); *terza scuola* (imputável x inimputável); moderna alemã (Liszt, prevenção especial); técnico-jurídica (Rocco, direito positivo); correcionalista (pena como bem); humanista (Lanza); defesa social (Gramatica radical; Ancel moderado) | Lombroso (nato), Ferri (sociológico, responsabilidade social), Garofalo (delito natural, temibilidade) | 01.4 |
+| Sistemas dogmáticos | causal (dolo e culpa na culpabilidade psicológica); neokantiano (dolo normativo na culpabilidade psicológico-normativa); finalista (dolo natural no tipo; culpabilidade normativa pura); funcionalista (dolo no tipo + imputação objetiva) | consciência da ilicitude: atual (no dolo) → potencial (na culpabilidade); Roxin teleológico x Jakobs sistêmico | CP, arts. 20 e 21 (finalismo) |
+| Garantismo | 10 axiomas de Ferrajoli (6 penais + 4 processuais) | garantismo integral (negativo + positivo); "hiperbólico monocular" | *Direito e razão* (1989) |
+| Modelos | mínimo (risco de culpado impune) x máximo (risco de inocente punido); abolicionismo; Lei e Ordem | Hulsman, Christie, Mathiesen; janelas quebradas | Ferrajoli; 01.6 |
+| Direito Penal do inimigo | não-pessoa; antecipação, penas desproporcionais, supressão de garantias | críticas: Direito Penal do autor, dignidade; exemplos apontados: RDD, Lei do Abate | Jakobs |
+| Velocidades | 1ª prisão + garantias; 2ª alternativas + flexibilização; 3ª prisão + flexibilização | 4ª: Daniel Pastor (neopunitivismo internacional) | Silva Sánchez |
+| Criminalização | primária (lei), secundária (agências), terciária (efeitos da prisão) | seletividade estrutural; subterrâneo x paralelo; populismo penal | Zaffaroni |
+| Justiça restaurativa | foco no dano e nas necessidades; voluntária; facilitador | insucesso não agrava sanção nem serve de prova; encaminhamento em qualquer fase | Res. CNJ 225/2016 |
+| Criminologia | consenso (Chicago, anomia, associação diferencial, subcultura) x conflito (labelling, crítica) | Merton: inovação; Lemert: desvio secundário; Sutherland: colarinho branco | 01.9 |
+| Cifras | oculta (gênero); dourada, cinza, amarela, verde, rosa | pesquisas de vitimização | 01.9.3 |
+| Vitimologia | Mendelsohn (5 tipos), von Hentig | vitimização primária, secundária (instâncias formais), terciária (meio social) | Lei 14.245/2021; art. 201 do CPP |
+| Indígenas | autodeclaração; intérprete; laudo facultativo; mecanismos comunitários; semiliberdade | Súmula 140 do STJ (competência estadual, salvo direitos indígenas) | Res. CNJ 287/2019; arts. 56 e 57 da Lei 6.001/1973 |
+| Crimes culturalmente motivados | soluções na tipicidade, culpabilidade (erro culturalmente condicionado) ou pena | limite: direitos humanos das vítimas vulneráveis | 01.11.2 |
+| Gênero e raça | protocolos do CNJ; gênero obrigatório | busca pessoal não pode basear-se em raça (HC 208.240) | Res. CNJ 492/2023 e 598/2024 |
+
+## 01.13 Artigos de lei incidentes
+
+- Constituição Federal: arts. 5º (garantias penais), 22, I e parágrafo único, 109, XI, e 231.
+- Código Penal: arts. 20 e 21 (reflexo do finalismo), 59 (comportamento da vítima), 65, III, b, e 66.
+- Código de Processo Penal: arts. 28-A, 201, 226, 400-A e 474-A.
+- Lei 6.001/1973 (Estatuto do Índio): arts. 56 e 57.
+- Lei 9.099/1995: arts. 74 e 81, § 1º-A.
+- Lei 14.245/2021 (proteção da vítima no processo).
+- Decreto-Lei 3.688/1941 (LCP): art. 59 (vadiagem) e art. 60 (mendicância, revogado pela Lei 11.983/2009).
+- Atos normativos do CNJ: Resoluções 225/2016 (justiça restaurativa), 253/2018 (vítimas), 287/2019 (indígenas), 492/2023 (perspectiva de gênero) e 598/2024 (perspectiva racial).
+
+## 01.14 Julgados, temas e súmulas do capítulo
+
+- STF, HC 208.240 (Plenário, j. 11/4/2024): busca pessoal não pode ser motivada por raça, cor da pele ou aparência física; perfilamento racial como expressão de seletividade.
+
+Remissões a outros capítulos: Tema 593 e Súmula 502 do STJ, adequação social (Cap. 2); ADPF 347 e Súmula Vinculante 56 (Caps. 2 e 23); ADPF 779 (Cap. 9); ADO 26 (Cap. 41); Súmula 140 do STJ (Cap. 42); HC 598.886 do STJ, reconhecimento de pessoas (Cap. 26).
+
+# CAPÍTULO 02 — PRINCÍPIOS DO DIREITO PENAL, BEM JURÍDICO E INSIGNIFICÂNCIA
+
+## 02.13 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções / detalhes | Fundamento |
+|---|---|---|---|
+| Legalidade | crime e pena só por lei em sentido estrito, prévia, escrita, estrita e certa | analogia só *in bonam partem*; interpretação analógica permitida | art. 5º, XXXIX, CF; art. 1º, CP |
+| Anterioridade | lei mais grave não retroage | lei benéfica retroage sempre, mesmo após trânsito em julgado (Cap. 3) | art. 5º, XL, CF |
+| Espécies normativas | lei ordinária e complementar podem tipificar | MP não (art. 62, § 1º, I, "b"); tratado não tipifica internamente (HC 96.007); MP pró-réu admitida pelo STF antes da EC 32 (RE 254.818), mas FGV considera vedada | CF, arts. 22, I, 62 e 68 |
+| Medida de segurança | sujeita à legalidade | prazo máximo: Súmula 527 do STJ (Cap. 19) | art. 5º, XXXIX, CF |
+| Taxatividade | tipos claros; dirigida ao legislador | tipos abertos e normas penais em branco admitidos | lex certa |
+| Mandados de criminalização | a CF manda criminalizar certas condutas | retenção dolosa de salário (art. 7º, X); racismo; tortura e hediondos; meio ambiente; abuso sexual de criança | CF, arts. 5º, XLI a XLIV, 7º, X, 225, § 3º, 227, § 4º |
+| Culpabilidade (princípio) | responsabilidade pessoal, subjetiva e pelo fato; vedada a responsabilidade objetiva | resultado agravador exige ao menos culpa; críticas: *actio libera in causa*, rixa qualificada | arts. 18 e 19, CP |
+| Exclusiva proteção de bens jurídicos | só se criminaliza o que lesa bem jurídico relevante | sede constitucional implícita; funções crítica, sistemática, interpretativa, de medição | doutrina (Roxin); Q3786374 |
+| Bem individual x transindividual | titular determinado x coletividade | transindividual: coletivo ou difuso; espiritualização do bem jurídico | doutrina |
+| Objeto jurídico x material | bem protegido x pessoa ou coisa atingida | há crime sem objeto material; não há sem objeto jurídico | doutrina |
+| Ofensividade | só há crime com lesão ou perigo de lesão a bem alheio | perigo abstrato é constitucional (HC 104.410); alteridade: não se pune autolesão | doutrina; STF |
+| Intervenção mínima | Direito Penal como *ultima ratio* | subsidiariedade (outros ramos bastam?) e fragmentariedade (só ataques graves aos bens mais importantes) | dignidade, liberdade |
+| Adequação social | conduta socialmente aceita é materialmente atípica | não revoga lei; CDs piratas são típicos (Súmula 502 e Tema 593 do STJ) | Welzel |
+| Pessoalidade | pena não passa do condenado | passam aos sucessores, até o limite da herança: reparação do dano e perdimento de bens; multa NÃO passa | art. 5º, XLV, CF |
+| Individualização | legislativa, judicial e executória | inconstitucionais: regime integralmente fechado (HC 82.959), vedação abstrata de substituição no tráfico (HC 97.256), regime inicial fechado obrigatório (HC 111.840) | art. 5º, XLVI, CF |
+| Proporcionalidade | proibição do excesso e da proteção deficiente | Tema 1.003 do STF (art. 273, § 1º-B, I); HC 104.410 | implícito |
+| Humanidade | vedadas penas de morte (salvo guerra declarada), perpétuas, de trabalhos forçados, de banimento e cruéis | limite de 40 anos (art. 75, Cap. 16); ADPF 347 | art. 5º, XLVII e XLIX, CF |
+| *Ne bis in idem* | ninguém é processado, punido ou tem a pena agravada duas vezes pelo mesmo fato | dupla valoração na dosimetria (Súmula 241 do STJ — Cap. 14) | CADH, art. 8.4 |
+| Confiança e alteridade | confiança: exclui imputação de quem age conforme o cuidado (Cap. 6); alteridade: autolesão impune | autolesão para fraudar seguro é crime (art. 171, § 2º, V) | doutrina |
+| Insignificância: natureza | exclusão supralegal da tipicidade MATERIAL | não exclui tipicidade formal, ilicitude ou culpabilidade | HC 84.412 |
+| Insignificância: vetores | mínima ofensividade, nenhuma periculosidade social, reduzidíssimo grau de reprovabilidade, inexpressividade da lesão (cumulativos) | primariedade não é vetor | HC 84.412; JT 219, tese 1 |
+| Insignificância: vida pregressa | STF: reincidência não impede por si só; STJ: em regra impede, salvo excepcionalidade | ações em curso podem indicar habitualidade; crime como meio de vida afasta | STF HC 123.108 (2015); JT 219, teses 2 e 3 |
+| Insignificância: furto | referência de 10% do salário mínimo da data do fato (162,10 em 2026) | soma em continuidade; restituição não basta (Tema 1.205); qualificado em regra não; irrisório x pequeno valor (privilégio) | JT 221, teses 1, 2, 5 e 6; JT 47, tese 15 |
+| Insignificância: descaminho e tributos federais | até 20 mil reais de tributos | reiteração afasta, aferível por procedimentos fiscais pendentes, sem período depurador (Tema 1.218) | Tema 157 do STJ |
+| Insignificância: tributos locais | só se houver lei local com piso | SC: divergência entre 5ª e 6ª Turmas sobre retroatividade da Portaria PGE 58/2021 | JT 174, tese 10 |
+| Insignificância: contrabando | em regra não | cigarros até 1.000 maços sem reiteração (Tema 1.143); não vale para cigarro eletrônico | Tema 1.143 do STJ |
+| Insignificância: vedações | violência doméstica (Súm. 589), Administração Pública (Súm. 599, com exceção ínfima), internet via rádio (Súm. 606), roubo, moeda falsa, tráfico, armas, SFN, estelionato contra ente público, previdenciários, direito autoral | munição isolada em pequena quantidade: excepcionalmente cabe; ambientais e atos infracionais: cabe | Súmulas e JT 219 a 221 |
+| Insignificância: processo | arquivamento, rejeição (395, III), absolvição sumária (397, III), absolvição (386, III) | prevalece que o delegado não a reconhece | CPP |
+| Bagatela imprópria | fato típico, mas pena desnecessária no caso concreto | rejeitada na violência doméstica; aceitação restrita | art. 59, CP |
+
+## 02.14 Artigos de lei incidentes
+
+- Constituição Federal: art. 1º, III; art. 5º, XXXIX, XL, XLI, XLII, XLIII, XLIV, XLV, XLVI, XLVII, XLIX; art. 7º, X; art. 22, I e parágrafo único; art. 62, § 1º, I, "b"; art. 68, § 1º, II; art. 225, § 3º; art. 227, § 4º.
+- Código Penal: arts. 1º, 18, 19, 29, 59, 63, 64, I, 75, 107, I, 155, §§ 2º e 4º, 171, § 2º, V, 180, § 1º, 184, § 2º, 273, 334, 334-A.
+- Código de Processo Penal: arts. 28, 67, III, 386, III, 395, III, 397, III.
+- Lei 10.522/2002: art. 20 (piso de execução fiscal federal), com as Portarias MF 75 e 130/2012.
+- Lei 9.472/1997: art. 183.
+- Lei 7.210/1984 (LEP): arts. 39, V, 45, 112.
+- LINDB: art. 2º.
+- Convenção Americana de Direitos Humanos: art. 8.4.
+
+## 02.15 Julgados, temas e súmulas do capítulo
+
+- Súmula 589 do STJ: insignificância inaplicável a crimes e contravenções contra a mulher no âmbito doméstico.
+- Súmula 599 do STJ: insignificância inaplicável a crimes contra a Administração Pública (exceção excepcional: JT 220, tese 2).
+- Súmula 606 do STJ: não cabe insignificância na transmissão clandestina de internet via radiofrequência.
+- Tema 593 do STJ: venda de CDs e DVDs piratas é típica; afasta adequação social.
+- Tema 157 do STJ: insignificância no descaminho e crimes tributários federais até 20 mil reais.
+- Tema 1.218 do STJ: reiteração impede a insignificância no descaminho; contumácia por procedimentos pendentes.
+- Tema 1.143 do STJ: contrabando de cigarros até 1.000 maços, sem reiteração.
+- AgRg no REsp 2.184.785 (STJ, 2025): Tema 1.143 não se aplica a cigarros eletrônicos.
+- AgRg no RHC 185.605 (STJ, 2024): reincidência em crime de natureza diversa não impede insignificância no contrabando de cigarros.
+- AgRg no HC 920.735 (5ª Turma) x AgRg no HC 863.522 (6ª Turma): retroatividade do piso estadual de SC.
+- Jurisprudência em Teses do STJ, eds. 219, 220 e 221 (insignificância), 47 (teses 7 e 15), 174 (tese 10), 87 (tese 11) e 218 (tese 6): parâmetros e vedações.
+- STF, HC 84.412 (2004): os quatro vetores da insignificância.
+- STF, HC 123.108, 123.533 e 123.734 (Plenário, 2015): reincidência não impede, por si só, a insignificância.
+- STF, HC 104.410 (2012): perigo abstrato e proibição de proteção deficiente.
+- STF, RE 254.818 (2000): medida provisória favorável ao réu.
+- STF, HC 96.007 (2012): tratado não tipifica crime no direito interno.
+- STF, ARE 1.327.963 (Tema 1.169): exemplo de analogia *in bonam partem* (aplicação no Cap. 24).
+- STF, HC 103.684: insignificância rejeitada em crime militar (aplicação no Cap. 51).
+
+Remissões: Súmulas 711 e 611 do STF e 501 do STJ (Cap. 3); Súmula 444 do STJ (Cap. 13); Súmula 241 do STJ (Cap. 14); Súmula Vinculante 26, HC 97.256 e HC 111.840 (Cap. 17); HC 82.959 (Cap. 24); Súmula 502 do STJ (Cap. 32); ADO 26 (Cap. 41); Súmula 527 do STJ (Cap. 19); Súmula Vinculante 56 e ADPF 347 (Cap. 23); Tema 1.205 do STJ (Cap. 29); Tema 506 do STF (Cap. 37); Tema 1.003 do STF e RE 979.962 (Cap. 33).
+
+# CAPÍTULO 03 — LEI PENAL: FONTES, NORMA PENAL, INTERPRETAÇÃO, LEI PENAL NO TEMPO, CONFLITO APARENTE DE NORMAS E CONTAGEM DE PRAZOS
+
+## 03.8 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Fonte formal imediata | só a lei cria crime e pena | costume, jurisprudência, doutrina, tratados e princípios são mediatos; MP não trata de direito penal | art. 22, I, e art. 62, § 1º, I, "b", CF; art. 1º CP |
+| Norma penal em branco | homogênea (lei; homovitelina ou heterovitelina), heterogênea (ato infralegal), ao revés (pena por remissão; só lei), ao quadrado | complemento local admitido no art. 268 | STF, Tema 1.246 |
+| Interpretação analógica x analogia | analógica: lei manda estender (vale contra o réu); analogia: integração de lacuna (só *in bonam partem*) | analogia exige lacuna involuntária; silêncio eloquente impede | art. 5º, XXXIX, CF |
+| Tempo do crime | teoria da atividade | lugar: ubiquidade (LUTA); prescrição: consumação | arts. 4º, 6º e 111 CP |
+| Irretroatividade | lei mais grave não retroage; a antiga é ultrativa | inclui qualificadora, majorante, regime, prazo, requisito de benefício | art. 5º, XL, CF |
+| *Abolitio criminis* | retroage sempre, até após o trânsito; extingue a punibilidade | cessam efeitos penais; ficam os extrapenais | arts. 2º e 107, III, CP |
+| Continuidade normativo-típica | revogação formal com migração da conduta não é *abolitio* | aplica-se a lei mais favorável (em regra, a antiga) | STJ, Info 722 e 895 |
+| *Lex mitior* | retroage de qualquer modo, até após o trânsito | após o trânsito: juízo da execução | art. 2º, parágrafo único, CP; Súmula 611 STF |
+| Combinação de leis | vedada; compara-se em concreto e aplica-se uma lei por inteiro | simular a dosimetria nas duas | Súmula 501 STJ; Tema 169 STF; Tema 191 STJ |
+| Permanente e continuado | aplica-se a lei mais grave vigente antes da cessação | lei posterior mais benéfica ainda retroage | Súmula 711 STF |
+| Lei temporária e excepcional | ultrativas; fim da vigência não é *abolitio* | salvo lei posterior expressa em contrário | art. 3º CP |
+| Alteração do complemento | retroage se reflete nova valoração | não retroage se o complemento é temporário ou excepcional (tabela de preços) | doutrina e STF, HC 94.397 |
+| Jurisprudência | não retroage | SV e controle concentrado; SV 24 aplica-se a fatos anteriores; Tema 1.331 STJ pendente | JT 90, tese 6 |
+| Normas mistas | seguem a regra penal (benéfica retroage) | representação no estelionato: retroagiu (Lei 13.964/2019); revogação pela Lei 15.397/2026 não retroage | art. 2º CPP; STF, HC 208.817 AgR |
+| Conflito aparente | um fato, várias normas vigentes, só uma incide | não confundir com concurso de crimes nem com sucessão de leis | doutrina |
+| Especialidade | especial prevalece (abstrato), mais grave ou mais branda | infanticídio x homicídio | doutrina |
+| Subsidiariedade | principal (mais grave) prevalece (concreto) | expressa (arts. 132, 307; art. 21 LCP) ou tácita (art. 146) | doutrina |
+| Consunção | crime-fim, progressivo, progressão, *ante* e *post factum* | nem sempre prevalece o mais grave (Súmula 17) | doutrina; Súmula 17 STJ |
+| Alternatividade | tipo misto alternativo, mesmo contexto: crime único | contextos distintos: pluralidade | doutrina |
+| Prazo penal | inclui o dia do começo; calendário comum; improrrogável | prazo misto segue a regra penal | art. 10 CP |
+| Leis especiais | Parte Geral se aplica, salvo disposição diversa | LCP, art. 4º; Lei 9.605; CPM | art. 12 CP |
+
+## 03.9 Artigos de lei incidentes
+
+- Constituição Federal: art. 5º, XXXIX e XL; art. 22, I, e parágrafo único; art. 62, § 1º, I, "b".
+- Código Penal: arts. 1º, 2º, 3º, 4º, 10, 11, 12; art. 107, III; art. 6º e arts. 5º, 7º, 8º e 9º (por remissão ao Cap. 4); art. 111 (por remissão ao Cap. 22).
+- Código de Processo Penal: arts. 2º, 3º, 798.
+- LINDB: arts. 2º e 4º.
+- LEP: art. 66, I.
+- Leis especiais: Lei 11.343/2006, arts. 33, § 4º, 42 e 44; Lei 6.368/1976, art. 12; Lei 7.716/1989, art. 2º-A; Lei 9.099/1995, art. 90; Lei 9.605/1998, art. 34; Lei 15.397/2026; Decreto-Lei 3.688/1941 (LCP), art. 4º.
+
+## 03.10 Julgados, temas e súmulas do capítulo
+
+- Súmula 611 do STF: lei mais benigna após o trânsito em julgado é aplicada pelo juízo da execução.
+- Súmula 711 do STF: lei mais grave vigente antes da cessação da permanência ou da continuidade rege o crime.
+- Súmula 501 do STJ e Tema 191 do STJ: Lei 11.343/2006 retroage se, na íntegra, for mais favorável; vedada a combinação com a Lei 6.368/1976.
+- Tema 169 do STF (RE 600.817): vedada a conjugação de partes das leis de drogas; aplica-se a mais favorável por inteiro.
+- Súmula 17 do STJ: falso que se exaure no estelionato é por este absorvido.
+- Tema 1.246 do STF (ARE 1.418.846): art. 268 do CP pode ser complementado por atos de Estados e Municípios.
+- Tema 1.331 do STJ (afetado; Info 848): retroatividade de jurisprudência mais benéfica, pendente.
+- STF, HC 208.817 AgR (Plenário, 2023): representação no estelionato (Lei 13.964/2019) retroage até o trânsito em julgado.
+- STF, HC 94.397: exclusão temporária do cloreto de etila da lista da Anvisa gerou *abolitio criminis*.
+- STF, ADI 1.719: normas penais benéficas da Lei 9.099/1995 alcançam processos em curso.
+- STJ, REsp 2.135.321-SP (Info 895): injúria racial migrou para a Lei 7.716/1989; continuidade normativo-típica; aplica-se a redação antiga.
+- STJ, AgRg nos EDcl no REsp 1.863.977-SC (Info 722): revogação do art. 65 da LCP não gerou *abolitio* para condutas reiteradas (art. 147-A).
+- STJ, REsp 2.215.385-RS (Inf. Ed. Extraordinária 30): portaria que liberou a pesca de polvo retroage.
+- STJ, HC 961.560-SP (Info 856): furto com explosivo anterior a 2018: sem consunção, mas com retroação do art. 155, § 4º-A.
+- STJ, AgRg no AgRg no AREsp 2.077.019-RJ (Info 815): uso de documento falso absorve a falsidade ideológica.
+- STJ, AgRg no REsp 1.977.628-GO (Info 877): corrupção ativa absorve o uso de documento falso.
+- STJ, HC 179.927-RJ: autor do roubo não responde por receptação do mesmo bem.
+- STJ, AgRg no REsp 2.104.061-MG: vedada analogia *in malam partem* para qualificar homicídio por arma de numeração raspada.
+- Jurisprudência em Teses do STJ: ed. 90, tese 6 (SV 24 e fatos anteriores); ed. 99, tese 2 (falso absorvido pelo crime tributário); ed. 130, tese 9 (Lei de Imprensa sem *abolitio*); ed. 151, tese 5 (Lei 12.015/2009 retroage aos arts. 213 e 214).
+
+Remissões: Tema 1.169 do STF, HC 96.007, AgRg no HC 920.735 e AgRg no HC 863.522 (Cap. 2); Súmula 664 do STJ (Cap. 43); Tema 1.168 do STJ (Cap. 42); Súmula Vinculante 24 (Cap. 45); exame criminológico da Lei 14.843/2024, AgRg no HC 954.277-SP e RHC 200.670-GO (Cap. 24); retroatividade do ANPP, HC 185.913 (Cap. 25); art. 89 da Lei 8.666 e art. 337-E (Cap. 48); Súmula 513 do STJ e *abolitio* temporária do Estatuto do Desarmamento (Cap. 39).
+
+# CAPÍTULO 04 — LEI PENAL NO ESPAÇO E EM RELAÇÃO ÀS PESSOAS: TERRITORIALIDADE, EXTRATERRITORIALIDADE, IMUNIDADES, EXTRADIÇÃO, DEPORTAÇÃO E EXPULSÃO
+
+## 04.9 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Territorialidade | lei brasileira para crime cometido no território | temperada: tratados e regras internacionais (imunidade diplomática: intraterritorialidade); passagem inocente | CP, art. 5º; Lei 8.617/1993 |
+| Território por extensão | navios e aeronaves públicos brasileiros onde estiverem; privados brasileiros em alto-mar e espaço aéreo correspondente | privados estrangeiros em porto, mar territorial ou espaço aéreo brasileiro: lei brasileira; embaixadas são território do Estado onde estão | CP, art. 5º, §§ 1º e 2º |
+| Lugar do crime | ubiquidade: conduta (no todo ou em parte) OU resultado (produzido ou que deveria produzir-se) | competência interna: resultado (art. 70 CPP), com exceções; LUTA | CP, art. 6º |
+| Extraterritorialidade incondicionada | vida ou liberdade do Presidente; patrimônio ou fé pública dos entes e entidades públicas; Administração Pública por quem está a seu serviço; genocídio por brasileiro ou domiciliado no Brasil | pune ainda que absolvido ou condenado no estrangeiro; honra do Presidente e latrocínio não entram | CP, art. 7º, I e § 1º |
+| Extraterritorialidade condicionada | tratado; brasileiro; aeronave ou navio privado brasileiro em território estrangeiro não julgado lá | 5 condições cumulativas do § 2º | CP, art. 7º, II e § 2º |
+| "Hipercondicionada" | estrangeiro contra brasileiro fora do Brasil | § 2º + extradição não pedida ou negada + requisição do Ministro da Justiça | CP, art. 7º, § 3º |
+| Contravenção | só no território nacional | nunca extraterritorial | LCP, art. 2º |
+| Pena cumprida no estrangeiro | idênticas: computa; diversas: atenua | relevante na incondicionada; STF 2ª Turma: *ne bis in idem* convencional (HC 171.118) | CP, art. 8º |
+| Sentença estrangeira | homologação pelo STJ para efeitos civis (pedido da parte) e medida de segurança (tratado ou requisição do MJ) | reincidência dispensa homologação; transferência de execução da pena (caso Robinho) | CP, art. 9º; CF, art. 105, I, "i"; Lei 13.445/2017, art. 100 |
+| Imunidade diplomática | qualquer crime; julgamento no Estado acreditante | renúncia só pelo Estado, expressa; família incluída; pessoal de serviço só atos funcionais | Convenção de Viena 1961 |
+| Imunidade consular | só atos funcionais | prisão preventiva só por crime grave e decisão judicial | Convenção de Viena 1963, arts. 41 e 43 |
+| Imunidade parlamentar material | opiniões, palavras e votos; atipicidade | nexo funcional (presumido no recinto); não cobre ameaça e discurso de ódio; vereador só no Município | CF, arts. 53, 27, § 1º, 29, VIII; Tema 469 STF |
+| Imunidade parlamentar formal | prisão só em flagrante de crime inafiançável, autos remetidos à Casa em 24 horas, que decide por maioria absoluta; sustação do processo por crime posterior à diplomação | partido provoca; 45 dias; suspende prescrição; não alcança corréu (Súmula 245 STF) | CF, art. 53, §§ 2º a 5º |
+| Presidente da República | sem prisão antes de sentença condenatória; irresponsabilidade temporária por atos estranhos às funções | não se estende a Governadores | CF, art. 86, §§ 3º e 4º |
+| Extradição | STF julga a legalidade, Presidente decide a entrega; defesa limitada | nato nunca; naturalizado: crime anterior ou tráfico; filho ou cônjuge brasileiro não impede (Súmula 421 STF) | CF, art. 5º, LI e LII, art. 102, I, "g"; Lei 13.445/2017, arts. 81 a 99 |
+| Deportação, expulsão, repatriação | irregularidade migratória; condenação com impedimento de reingresso; impedimento na entrada | expulsão vedada com filho brasileiro sob guarda, cônjuge, ingresso até 12 anos, mais de 70 anos com 10 de residência | Lei 13.445/2017, arts. 49, 50, 54 e 55; Tema 373 STF; CP, art. 338 |
+| Entrega ao TPI | entrega a tribunal, não a Estado | admitida para brasileiro nato (majoritário) | CF, art. 5º, § 4º; Estatuto de Roma, art. 102 |
+
+## 04.10 Artigos de lei incidentes
+
+- Código Penal: arts. 5º, 6º, 7º, 8º e 9º; art. 4º e art. 12 (por remissão ao Cap. 3); art. 42 (detração, por remissão); art. 63 (reincidência por condenação estrangeira); art. 142 (por remissão); art. 338 (reingresso de estrangeiro expulso).
+- Constituição Federal: art. 5º, § 4º, XLVII, LI e LII; art. 12, § 1º e § 4º (EC 131/2023); art. 27, § 1º; art. 29, VIII; art. 32, § 3º; art. 53; art. 86, *caput*, §§ 3º e 4º; art. 102, I, "g"; art. 105, I, "i"; art. 109, IV, V, IX e X.
+- Código de Processo Penal: arts. 70, 88, 89, 90, 221 e 787 a 790; art. 386, III.
+- Lei 13.445/2017 (Migração): arts. 49, 50, 54, 55, 81 a 99 (especialmente 82, 84, 86, 87, 88, 91 e 96) e 100.
+- Lei 8.617/1993 (mar territorial): arts. 1º e 3º. Lei 7.565/1986 (Código Brasileiro de Aeronáutica): art. 11.
+- Decreto-Lei 3.688/1941 (LCP): art. 2º.
+- Lei 9.455/1997 (Tortura): art. 2º. Lei 9.474/1997 (Refúgio). Lei 9.099/1995: art. 63. Lei 8.906/1994: art. 7º, § 2º.
+- Convenção de Viena sobre Relações Diplomáticas (Decreto 56.435/1965): arts. 9º, 29, 31, 32 e 37. Convenção de Viena sobre Relações Consulares (Decreto 61.078/1967): arts. 41 e 43. Estatuto de Roma (Decreto 4.388/2002): art. 102.
+
+## 04.11 Julgados, temas e súmulas do capítulo
+
+- STF, Súmula 421: casamento com brasileira ou filho brasileiro não impede a extradição.
+- STF, Súmula 245: imunidade parlamentar não se estende ao corréu sem a prerrogativa.
+- STF, Súmula 420: sem prova do trânsito em julgado não se homologa sentença estrangeira.
+- STF, Tema 373 (RE 608.898): filho brasileiro posterior ao fato, sob guarda e dependência, impede a expulsão.
+- STF, Tema 469 (RE 600.063): imunidade do vereador limitada à circunscrição e ao nexo com o mandato.
+- STJ, Jurisprudência em Teses, ed. 130, tese 11: imunidade material afasta a tipicidade; estende-se ao deputado estadual.
+- STJ, HDE 7.986 e STF, HC 239.162 (caso Robinho): transferência de execução da pena de brasileiro nato; norma processual aplicável a fatos anteriores.
+- STF, HC 171.118 (2ª Turma): *ne bis in idem* convencional impede novo processo por fato julgado no exterior. STJ, RHC 104.123: processo no exterior em curso não impede o processo no Brasil.
+- STF, Ext 1.652: compromisso de comutação com limite de 30 anos para crimes anteriores ao Pacote Anticrime.
+- STF, Ext 1.462 (caso Hoerig): perda da nacionalidade por aquisição voluntária de outra, antes da EC 131/2023.
+- STF, Ext 1.085 e Rcl 11.243 (caso Battisti): deferida a extradição, a entrega é decisão do Presidente da República.
+- STF, ADI 5.526: cautelares que afetem o mandato submetem-se à Casa legislativa.
+- STF, ADIs 5.823, 5.824 e 5.825: Assembleia pode rever a prisão de deputado estadual.
+- STF, ADIs 4.764, 4.797 e 4.798: inválida a exigência de autorização da Assembleia para processar Governador.
+- STF, AP 1.044 e AP 1.021: a imunidade material não cobre ameaças, incitação contra instituições nem difamação por montagem de vídeo.
+- STF, RE 606.451 AgR-segundo: fora do recinto, a imunidade exige nexo com o mandato.
+- STF, AP 396: prisão de parlamentar para execução de condenação definitiva.
+
+Remissões a outros capítulos: Súmula 611 do STF, Tema 191 e Súmula 501 do STJ, Tema 1.331 do STJ, Tema 1.246 do STF, Súmula Vinculante 24 e demais itens do Radar sobre lei penal no tempo (Cap. 3); Súmula 231 do STJ (Cap. 14); Súmula Vinculante 45 e AP 937 QO e HC 232.627 (foro: Processo Penal, só menção aqui); TPI e Estatuto de Roma (Cap. 47); tortura extraterritorial (Cap. 40); imunidade judiciária do art. 142 (Cap. 28); escusas absolutórias (Cap. 30).
+
+# CAPÍTULO 05 — TEORIA DO DELITO: CONCEITO, SISTEMAS, CLASSIFICAÇÃO DOS CRIMES, SUJEITOS E RESPONSABILIDADE PENAL DA PESSOA JURÍDICA
+
+## 05.7 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Infração penal | Gênero: crime (reclusão ou detenção) e contravenção (prisão simples ou multa isolada) | Art. 28 da Lei de Drogas: crime sem pena privativa (despenalização); maconha para uso: ilícito administrativo (Tema 506) | LICP, art. 1º |
+| Contravenção | Tentativa impunível; sem extraterritorialidade; nunca Justiça Federal; limite de 5 anos; *sursis* de 1 a 3 anos; ação pública incondicionada | Contravenção anterior + crime posterior não gera reincidência | LCP, arts. 2º, 4º, 7º, 8º, 10, 11 e 17; CF, art. 109, IV; Súmula 38 STJ |
+| Conceito analítico | Tripartido: fato típico, ilícito e culpável (majoritário; FGV e FCC) | Bipartido: culpabilidade é pressuposto da pena; quadripartido: inclui punibilidade (minoritário) | Doutrina; arts. 23 e 26 CP |
+| Absolvição e camadas | Atipicidade: art. 386, III; ilicitude ou culpabilidade: art. 386, VI | Inimputável: absolvição imprópria; punibilidade: extinção, não absolvição | CPP, arts. 386 e 397 |
+| Sistemas | Causalista: dolo e culpa na culpabilidade; neoclássico: dolo normativo; finalista: dolo natural no tipo, culpabilidade normativa pura; Roxin: responsabilidade; Jakobs: estabilização da norma | CP de 1984 seguiu a estrutura finalista | CP, arts. 18, 20 e 21 |
+| Material, formal, mera conduta | Material consuma com o resultado; formal com a conduta (resultado = exaurimento); mera conduta não tem resultado descrito | Extorsão e corrupção de menores: formais; estupro de vulnerável: material | CP, art. 14, I; Súmulas 96 e 500 STJ |
+| Dano x perigo | Dano exige lesão; perigo concreto exige prova do perigo; abstrato presume | Perigo abstrato é constitucional | Doutrina; Cap. 2 |
+| Comum, próprio, mão própria | Próprio admite coautoria do estranho (art. 30); mão própria não admite coautoria, mas admite participação | Falso testemunho: advogado partícipe; bipróprio: infanticídio | CP, arts. 29 e 30 |
+| Uni x plurissubsistente | Unissubsistente não admite tentativa | Formal e mera conduta podem ser plurissubsistentes | CP, art. 14, II |
+| Permanente | Prescrição da cessação; flagrante a qualquer tempo; lei mais grave anterior à cessação se aplica | Instantâneo de efeitos permanentes: tudo conta da consumação | CP, art. 111, III; CPP, art. 303; Súmula 711 STF |
+| Habitual | Reiteração reveladora de estilo de vida; ato isolado atípico | Não admite tentativa (majoritário); flagrante controvertido | Doutrina |
+| Tipo misto alternativo x cumulativo | Alternativo: vários núcleos no mesmo contexto = crime único; cumulativo: concurso | Tráfico e receptação: alternativos | Doutrina; alternatividade |
+| Transeunte x não transeunte | Não transeunte deixa vestígios e exige corpo de delito | Prova testemunhal supre se os vestígios desapareceram | CPP, arts. 158 e 167 |
+| Sujeito passivo | Constante (Estado) e eventual (titular do bem) | PJ pode ser vítima; morto e animal não; feto sim; crime vago: coletividade | Doutrina |
+| Responsabilidade penal da PJ | Só em crimes ambientais; decisão do representante ou colegiado + interesse ou benefício da entidade | Art. 173, § 5º, CF não regulamentado; Lei 12.846 é administrativa e civil | CF, art. 225, § 3º; Lei 9.605, art. 3º |
+| Dupla imputação | Superada: PJ pode ser processada e condenada sem a pessoa física | Os requisitos do art. 3º continuam exigíveis | RE 548.181 STF; RMS 39.173 STJ |
+| Penas da PJ | Multa, restritivas (suspensão, interdição, proibição de contratar até 10 anos), prestação de serviços, liquidação forçada | Sem pena privativa nem regime | Lei 9.605, arts. 18, 21 a 24 |
+| Incorporação da PJ | Extingue a punibilidade (analogia ao art. 107, I); não transmite a pena à incorporadora | Efeitos civis e reparação transmitem-se | REsp 1.977.172 STJ; CF, art. 5º, XLV |
+
+## 05.8 Artigos de lei incidentes
+
+- Constituição Federal: arts. 5º, XLV e XLVI; 20, III; 109, IV; 173, § 5º; 225, § 3º.
+- Decreto-Lei 3.914/1941 (Lei de Introdução ao Código Penal): art. 1º.
+- Código Penal: arts. 13; 14; 18; 19; 20; 21; 23; 26; 27; 29; 30; 63; 65, III, e; 101; 107, I e IV; 108; 111, III; 121, § 4º; 124; 129, § 1º, I, e § 3º; 130; 135; 137; 147; 148, § 1º, III; 150; 158; 159; 169, parágrafo único, II; 171, § 2º, V; 208; 217-A; 233; 235; 250; 258; 284; 288; 288-A; 304; 316; 317, § 1º; 328; 342; 352.
+- Decreto-Lei 3.688/1941 (LCP): arts. 2º, 3º, 4º, 6º, 7º, 8º, 10, 11, 17 e 25.
+- Código de Processo Penal: arts. 63; 70; 71; 158; 167; 168, § 2º; 268; 302; 303; 313; 386, III e VI, e parágrafo único, III; 387, IV; 397.
+- Lei 9.605/1998: arts. 2º, 3º, 18, 21, 22, 23, 24, 27 e 54.
+- Lei 8.137/1990: art. 11.
+- Lei 11.343/2006: arts. 28 e 33.
+- Lei 8.069/1990 (ECA): arts. 103 e 244-B.
+- Lei 9.503/1997 (CTB): arts. 306 e 309.
+- Lei 4.737/1965 (Código Eleitoral): art. 309.
+- Lei 15.358/2026: arts. 10 e 11 (medidas contra a pessoa jurídica, por remissão).
+- Código Civil: art. 51.
+
+## 05.9 Julgados, temas e súmulas do capítulo
+
+- STF, RE 548.181 (Primeira Turma, j. 6/8/2013): responsabilidade penal da PJ independe da imputação simultânea de pessoa física; fim da dupla imputação.
+- STJ, RMS 39.173 (Quinta Turma, j. 6/8/2015): STJ adere ao abandono da dupla imputação.
+- STJ, REsp 1.977.172 (Terceira Seção, j. 24/8/2022, Informativo 746): incorporação extingue a punibilidade da PJ; intranscendência aplicável à PJ.
+- STF, RE 583.523 (Plenário, repercussão geral): art. 25 da LCP não recepcionado; crime de mera suspeita.
+- STF, AP 863: lavagem na modalidade ocultar é crime permanente (exemplo de classificação).
+
+Remissões a outros capítulos: Súmula 96 do STJ (Cap. 29); Súmula 500 do STJ (Cap. 42); Súmula 711 do STF (Cap. 3); Súmula 145 do STF (Cap. 8); Súmula 720 do STF (Cap. 43); Súmula 38 do STJ (Cap. 50); Tema 506 do STF (Cap. 37); ADPF 54 (Cap. 27); HC 104.410 e perigo abstrato (Cap. 2); Jurisprudência em Teses, ed. 87, tese 7 (Cap. 6); JT ed. 57, tese 9 (Cap. 11).
+
+# CAPÍTULO 06 — FATO TÍPICO I: CONDUTA, RESULTADO, NEXO DE CAUSALIDADE, IMPUTAÇÃO OBJETIVA E CRIMES OMISSIVOS
+
+## 06.9 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Conduta | Comportamento humano voluntário, finalista, exteriorizado; ação ou omissão | Teorias: causal (Liszt, Beling), neokantiana (Mezger), finalista (Welzel — adotada pelo CP), social (Jescheck), funcionalistas (Roxin: manifestação da personalidade; Jakobs: causação evitável), significativa (Vives Antón) | Arts. 18 e 20 |
+| Ausência de conduta | Exclui o fato típico | Coação física (não a moral, que exclui culpabilidade), atos reflexos, sonambulismo, hipnose, inconsciência, caso fortuito; a conduta anterior voluntária pode fundamentar culpa | Doutrina; art. 22 (coação moral) |
+| Resultado | Naturalístico só nos crimes materiais; jurídico em todos | Nexo causal só importa nos crimes materiais e nos omissivos impróprios | Art. 13, *caput* |
+| Causalidade | Equivalência dos antecedentes; eliminação hipotética de Thyrén | Regresso ao infinito limitado por dolo, culpa e imputação objetiva; causalidade alternativa: ambos respondem | Art. 13, *caput* |
+| Concausa absolutamente independente | Rompe o nexo; responde pelos atos praticados | Preexistente, concomitante ou superveniente: mesma solução | Art. 13, *caput* |
+| Concausa relativamente independente preexistente ou concomitante | Não rompe; responde pelo resultado | Desde que haja dolo ou culpa quanto ao resultado (hemofilia desconhecida e imprevisível: só lesão) | Arts. 13, *caput*, e 19 |
+| Concausa relativamente independente superveniente | Se por si só produziu o resultado: exclui a imputação, subsistem os atos anteriores (tentativa) | Não rompem: cirurgia, infecção do ferimento, broncopneumonia; rompem: ambulância, incêndio no hospital, troca de medicação (FGV) | Art. 13, § 1º (causalidade adequada) |
+| Imputação objetiva (Roxin) | Risco proibido + realização do risco + alcance do tipo | Exclusões: diminuição do risco, risco irrelevante ou permitido, curso anômalo, fim de proteção da norma, comportamento alternativo conforme o direito, autocolocação, heterocolocação consentida, âmbito de responsabilidade alheio | Doutrina; STJ, HC 46.525/MT |
+| Imputação objetiva (Jakobs) | Violação do papel social | Risco permitido, confiança, proibição de regresso, competência da vítima; ações neutras não são sempre atípicas | Doutrina |
+| Omissivo próprio | Omissão no tipo; mera conduta; sem tentativa; em regra sem culpa | Dolo genérico; admite participação | Ex.: arts. 135, 168-A, 244, 269 |
+| Omissivo impróprio | Garantidor responde pelo resultado | Requisitos: situação típica, garantidor, poder agir, evitabilidade, dolo ou culpa; admite tentativa e culpa; pena igual à do comissivo | Art. 13, § 2º |
+| Garantidor | Lei (a), assunção (b), ingerência (c) | Parentesco entre irmãos não basta para a alínea a; assunção é fática; aumento do art. 226, II, para a mãe garantidora é *bis in idem* | HC 603.195/PR; HC 683.176 |
+
+## 06.10 Artigos de lei incidentes
+
+- Código Penal: arts. 4º e 6º (tempo e lugar do crime, por remissão); art. 13, *caput*, §§ 1º e 2º; art. 14, II, e parágrafo único (tentativa, por remissão); art. 15 (desistência voluntária, por remissão); arts. 18, 19, 20 e 22 (dolo, culpa, preterdolo, erro de tipo e coação moral, por remissão); art. 24, § 1º; art. 121, § 3º; art. 121-A (feminicídio, Lei 14.994/2024); art. 129, § 3º; art. 135; art. 168-A; art. 169, parágrafo único, II; art. 217-A c/c art. 226, II; art. 244; art. 269.
+- Código de Processo Penal: art. 41 (inépcia); art. 158 (exame de corpo de delito); art. 301 (dever de prender em flagrante); art. 386, III (fato atípico); art. 483 (quesitação no Júri).
+- Código Civil: art. 403 (causalidade no cível, para contraste); art. 1.566, III; art. 1.634.
+- ECA (Lei 8.069/1990): art. 22.
+- Código de Trânsito Brasileiro (Lei 9.503/1997): arts. 302 e 304 (por remissão).
+
+## 06.11 Julgados, temas e súmulas do capítulo
+
+- STJ, HC 46.525/MT, 5ª Turma: morte de estudante em festa; ausência de risco proibido e autocolocação em risco; trancamento da ação penal por homicídio culposo.
+- STJ, 5ª Turma, processo em segredo de justiça, j. 27/8/2024 (Informativo de Jurisprudência n. 24, Edição Extraordinária): decisão médica de urgência no parto, dentro da técnica, não gera imputação penal.
+- STJ, HC 603.195/PR, 5ª Turma, j. 6/10/2020 (Info 681): irmã garantidora pelas alíneas b e c responde por estupro de vulnerável por omissão.
+- STJ, HC 683.176, 6ª Turma, j. 7/12/2021: mãe garantidora condenada por omissão imprópria; aumento do art. 226, II, é *bis in idem*.
+- STJ, REsp 2.069.914/DF, 4ª Turma, j. 6/6/2023 (Info 778): no cível vale a causalidade adequada; a equivalência dos antecedentes é a teoria penal (contraste).
+- STJ, Jurisprudência em Teses, ed. 87, tese 7: apropriação indébita previdenciária é omissivo próprio e dispensa dolo específico (só a natureza omissiva; o crime é do Cap. 30).
+
+Remissões: princípio da confiança na culpa e erro sobre o nexo causal (Cap. 7); tentativa, desistência voluntária e consumação (Cap. 8); autoria colateral, incerta e participação em omissão (Cap. 11); natureza material do art. 168-A (Cap. 30); feminicídio (Cap. 27); crimes de trânsito (Cap. 43).
+
+# CAPÍTULO 07 — FATO TÍPICO II: TIPICIDADE, DOLO, CULPA, CRIME PRETERDOLOSO, ERRO DE TIPO E ERROS ACIDENTAIS
+
+## 07.8 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Tipicidade penal | Formal + material (majoritária); para Zaffaroni, legal + conglobante | Insignificância exclui a tipicidade material; na conglobante, estrito cumprimento do dever e atividades fomentadas saem do tipo; legítima defesa e estado de necessidade ficam na ilicitude | Doutrina; ADPF 54 |
+| Tipo e ilicitude | Tipo indiciário (*ratio cognoscendi*) | Elementos negativos do tipo: justificante exclui o próprio tipo | Doutrina |
+| Adequação típica | Imediata ou mediata | Mediata pelas normas de extensão: arts. 14, II; 29; 13, § 2º | CP |
+| Dolo | Consciência + vontade; teorias da vontade e do assentimento | Representação NÃO adotada; dolo natural (finalismo) | Art. 18, I |
+| Dolo de 2º grau | Efeito colateral necessário do meio escolhido | É dolo direto; diferente do eventual (possível) | Doutrina |
+| Elemento subjetivo especial | Finalidade exigida pelo tipo; não precisa se realizar | Ausente: atipicidade (dano por preso que foge; prevaricação por desídia) | STJ |
+| Culpa | Violação do cuidado + resultado + nexo + previsibilidade objetiva + tipicidade | Sem tentativa (salvo culpa imprópria); sem compensação; sem participação | Art. 18, II |
+| Excepcionalidade | Só há crime culposo se previsto | Furto, dano, violação de domicílio, importunação sexual: sem forma culposa | Art. 18, parágrafo único |
+| Princípio da confiança | Quem age corretamente pode confiar no comportamento correto alheio | Cessa diante de sinais concretos de irregularidade ou se o agente também viola a regra | Doutrina |
+| Dolo eventual x culpa consciente | Ambos preveem; no dolo eventual aceita, na culpa consciente confia que não ocorrerá | Embriaguez ou fuga, isoladas, não provam dolo eventual; dúvida razoável vai ao Júri; dolo eventual admite tentativa (STJ) | Art. 18; Info 623, 824, 843 |
+| Preterdolo | Dolo no antecedente + culpa no consequente | Não admite tentativa; resultado imprevisível não se imputa; lesão seguida de morte é do juiz singular | Arts. 19 e 129, § 3º |
+| Erro de tipo essencial | Exclui sempre o dolo | Inevitável: atípico; evitável: culposo, se previsto; sobre circunstância: afasta só ela | Art. 20, caput |
+| Descriminante putativa fática | Inevitável: isenta de pena; evitável: culpa (imprópria) | Teoria limitada da culpabilidade (Cap. 10) | Art. 20, § 1º |
+| Erro provocado por terceiro | Terceiro responde (dolo ou culpa, conforme provocou) | Enganado responde se o erro era evitável (culpa) | Art. 20, § 2º |
+| Erro sobre a pessoa | Considera-se a vítima virtual | Vale para agravar e para beneficiar | Art. 20, § 3º |
+| Erro na execução | Unidade simples: um crime, como se atingisse a visada | Unidade complexa: concurso formal (Cap. 16) | Art. 73; Info 855 |
+| Resultado diverso | Culpa pelo resultado diverso, se previsto | Ambos os resultados: concurso formal; pessoa → coisa: tentativa contra a pessoa | Art. 74 |
+| Erro sobre o nexo e dolo geral | Responde pelo crime doloso consumado | Qualificadora do meio depende do meio efetivo | Doutrina |
+
+## 07.9 Artigos de lei incidentes
+
+- Código Penal: arts. 13, § 2º; 14, II, e parágrafo único; 17; 18; 19; 20, caput e §§ 1º a 3º; 21; 29; 61, II, "e"; 70; 73; 74; 121, § 2º, II e III, §§ 3º, 4º e 5º; 127; 129, §§ 3º, 3º-A, 6º e 9º; 155; 163, parágrafo único, III; 168-A; 180, caput e § 3º; 273, § 1º; 319.
+- Código de Processo Penal: arts. 41; 384; 386, III e VI; 413, § 1º; 419.
+- Código de Trânsito Brasileiro: arts. 302, 303, 305, 308, § 2º, e 309.
+- Lei 6.766/1979: art. 50.
+- Lei 15.358/2026: inclusão do art. 129, § 3º-A, do CP.
+
+## 07.10 Julgados, temas e súmulas do capítulo
+
+- STF, HC 107.801 (1ª Turma, 2011): embriaguez não preordenada não fundamenta, por si, dolo eventual no trânsito.
+- STF, HC 101.698 (1ª Turma, 2011): racha com morte compatível com dolo eventual.
+- STJ, REsp 1.689.173-SC (Info 623): embriaguez isolada não presume dolo eventual.
+- STJ, AgRg no AREsp 2.519.852-SC (Info 824): fuga posterior não prova dolo eventual.
+- STJ, AgRg no AREsp 2.795.012-SP (Info 843): dúvida razoável entre dolo eventual e culpa consciente vai ao Júri.
+- STJ, REsp 912.904/SP: motivo fútil compatível com dolo eventual.
+- STJ, AgRg no REsp 2.167.600-RS (Info 855): erro na execução com unidade simples gera um só crime.
+- STJ, Jurisprudência em Teses, ed. 87, tese 3: dano por preso exige *animus nocendi*.
+- STJ, HC 916.770-SC (Info 856): sem *animus nocendi*, não há dano qualificado.
+- STJ, AgRg no AREsp 2.693.820-SP (Info 846): prevaricação exige interesse pessoal concreto.
+- STJ, REsp 1.765.673-SP (Info 672): injúria sem previsibilidade de chegar à vítima é atípica.
+- STJ, REsp 2.088.056-PR (Info Extra 33): art. 273, § 1º, exige conhecimento prévio da falsificação.
+- STJ, HC 857.566-PB (Info 853): loteamento regularizado antes da denúncia, ausência de dolo.
+
+Remissões: insignificância (Cap. 2); imputação objetiva e omissão, Info Extra 24 do STJ (parto de urgência) e Jurisprudência em Teses, ed. 87, tese 7 (Cap. 6); crime impossível e tentativa (Cap. 8); teorias da culpabilidade, erro de proibição e descriminantes putativas (Cap. 10); autoria mediata (Cap. 11); concurso formal nos arts. 73 e 74 e AgRg no REsp 2.052.416-SC, Info 860 (Cap. 16); perdão judicial (Cap. 21); benefícios consensuais (Cap. 25); qualificadoras e dolo eventual, ADPF 54 (Cap. 27); estupro e erro sobre a idade, AgRg no AREsp 3.089.315-SP (Cap. 31); trânsito (Cap. 43); art. 129, § 3º-A (Cap. 46); Súmula 453 do STF (Cap. 26).
+
+# CAPÍTULO 08 — ITER CRIMINIS: CONSUMAÇÃO, TENTATIVA, DESISTÊNCIA VOLUNTÁRIA, ARREPENDIMENTO EFICAZ E POSTERIOR, CRIME IMPOSSÍVEL E FLAGRANTE PROVOCADO
+
+## 08.8 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| *Iter criminis* | Cogitação → preparação → execução → consumação → exaurimento; pune-se a partir da execução | Atos preparatórios típicos como crimes autônomos (arts. 288 e 291 do CP; art. 5º da Lei 13.260/2016); só crimes dolosos têm *iter* | Art. 14 do CP |
+| Preparação x execução | Teoria objetivo-formal (verbo nuclear) | STJ "temperado": romper obstáculo no furto é tentativa (2026); romper cadeado de casa para roubar é preparação (2021) | AgRg no REsp 2.255.737; AREsp 974.254 |
+| Consumação | Todos os elementos do tipo | Material: resultado; formal: conduta; permanente: prolonga-se (flagrante, prescrição, Súmula 711); exaurimento não altera o tipo | Art. 14, I |
+| Tentativa | Execução iniciada + não consumação + circunstâncias alheias + dolo | Norma de extensão (adequação típica mediata): capitular "c/c art. 14, II" | Art. 14, II |
+| Fundamento | Teoria objetiva (pena menor) | Subjetiva nos crimes de atentado (art. 352 do CP; art. 309 do CE) | Art. 14, parágrafo único |
+| Espécies | Perfeita/imperfeita; branca/cruenta; inidônea (= art. 17); abandonada (= art. 15) | Combinam-se entre si | Doutrina |
+| Não admitem | Culposo, preterdoloso, contravenção, omissivo próprio, unissubsistente, habitual, atentado | Culpa imprópria admite; dolo eventual admite; estupro de vulnerável não (STJ) | Art. 4º da LCP |
+| Fração da tentativa | 1/3 a 2/3, pelo *iter* percorrido (proximidade da consumação) | Tentativa branca tende a 2/3; nunca pelo art. 59; 3ª fase; pode ir abaixo do mínimo | Art. 14, parágrafo único |
+| Desistência voluntária | Interrompe a execução podendo prosseguir: responde pelos atos praticados | Voluntária, não espontânea; fórmula de Frank; adiamento não é desistência | Art. 15, 1ª parte |
+| Arrependimento eficaz | Esgota a execução e impede o resultado | Se o resultado ocorre: crime consumado + atenuante do art. 65, III, b; não cabe em crime formal | Art. 15, 2ª parte |
+| Natureza do art. 15 | Exclusão da tipicidade da tentativa ou causa pessoal de isenção (divergência) | Não é causa de diminuição nem atenuante | Doutrina |
+| Arrependimento posterior | Sem violência ou grave ameaça à pessoa + reparação integral + até o recebimento + voluntário: reduz 1/3 a 2/3 | Fração pela celeridade e voluntariedade; comunica-se aos coautores; não cabe em homicídio culposo de trânsito nem em moeda falsa; STF aceitou reparação da parte principal | Art. 16; REsp 1.187.976; REsp 1.561.276; REsp 1.242.294; HC 165.312 |
+| Reparação tardia ou crime violento | Atenuante genérica | Antes do julgamento | Art. 65, III, b |
+| Regimes especiais | Peculato culposo extingue até o trânsito; cheque sem fundos pago antes da denúncia; tributários | Prevalecem sobre o art. 16 | Art. 312, § 3º; Súmula 554 do STF |
+| Crime impossível | Ineficácia absoluta do meio ou impropriedade absoluta do objeto: atípico | Relativa = tentativa; teoria objetiva temperada | Art. 17 |
+| Vigilância | Não torna, por si só, o furto impossível | Excepcionalmente, se excluir totalmente a consumação | Súmula 567 do STJ; Tema 924 |
+| Delito putativo | Crime só na imaginação do agente | Por erro de proibição, de tipo ou por obra do agente provocador | Doutrina; Súmula 145 do STF |
+| Flagrante preparado | Indução + impossibilidade de consumação: não há crime | Esperado e diferido são válidos; forjado não é crime do preso; agente disfarçado é crime autônomo; crime permanente preexistente subsiste | Súmula 145 do STF; Lei 11.343, art. 33, § 1º, IV; Lei 12.850, art. 8º |
+
+## 08.9 Artigos de lei incidentes
+
+- Código Penal: art. 11 (desprezo das frações de dia); 14 (consumação e tentativa); 15 (desistência voluntária e arrependimento eficaz); 16 (arrependimento posterior); 17 (crime impossível); 18, I (dolo eventual); 20, § 1º (culpa imprópria); 30 (comunicabilidade); 65, III, b (atenuante da reparação); 111, I a III (termo inicial da prescrição); 155, § 4º, I; 171, § 2º, VI, e § 5º; 288; 291; 312, § 3º; 317, § 1º; 352.
+- Código de Processo Penal: arts. 70 (competência na tentativa); 302 e 303 (flagrante; crime permanente); 310, I; 386, III; 395; 397, III; 483, § 5º.
+- Constituição Federal: art. 5º, LXV.
+- Lei das Contravenções Penais (Decreto-Lei 3.688/1941): art. 4º.
+- Código Eleitoral (Lei 4.737/1965): art. 309.
+- Lei 11.343/2006: art. 33, § 1º, IV; art. 53, II.
+- Lei 10.826/2003: arts. 15, 17, § 2º, e 18, parágrafo único.
+- Lei 12.850/2013: art. 8º.
+- Lei 13.260/2016: art. 5º.
+- Lei 9.099/1995: art. 74, parágrafo único.
+- Lei 10.684/2003: art. 9º.
+
+## 08.10 Julgados, temas e súmulas do capítulo
+
+- Súmula 145 do STF: flagrante preparado com consumação impossibilitada não é crime.
+- Súmula 567 do STJ e Tema 924 do STJ: vigilância não torna, por si só, o furto impossível.
+- Súmula 554 do STF: pagamento do cheque sem fundos após o recebimento da denúncia não obsta a ação penal.
+- STJ, AREsp 974.254-TO (Info 711): romper cadeado de casa para roubar é ato preparatório (objetivo-formal).
+- STJ, AgRg no REsp 2.255.737-MG (Info 887): romper obstáculo para furtar é tentativa (objetivo-formal temperada).
+- STJ, AgRg no AgRg no AREsp 3.063.890-MS (Info 886): flagrado com os bens na mochila dentro da loja: furto tentado.
+- STJ, AgRg no HC 731.845: tentativa branca de homicídio justifica redução de 2/3.
+- STJ, REsp 2.172.883-SP (Info 837): estupro de vulnerável não admite tentativa.
+- STJ, REsp 1.187.976-SP: arrependimento posterior estende-se aos coautores.
+- STJ, REsp 1.561.276-BA (Info 590): arrependimento posterior inaplicável ao homicídio culposo de trânsito.
+- STJ, REsp 1.242.294-PR: arrependimento posterior incompatível com crimes contra a fé pública (moeda falsa).
+- STJ, EDcl no AgRg no REsp 1.540.140-RS: arrependimento posterior exige reparação integral.
+- STF, HC 165.312 (Info 973): basta reparar a parte principal do dano antes da denúncia.
+- STJ, RHC 101.299-RS (Info 645) e HC 452.163-RS: pagamento no furto de energia e na apropriação indébita não extingue a punibilidade; cabe art. 16.
+
+Remissões a outros capítulos: Súmula 711 do STF (Cap. 3); Súmula 96 do STJ, Súmula 582 do STJ e Temas 916 e 934 do STJ (Cap. 29); Súmula 246 do STF (Cap. 30); Súmula 231 do STJ (Cap. 14); roteiro de aplicação das causas de diminuição (Cap. 15); benefícios na tentativa (Cap. 25); indulto e reparação do dano no Decreto 12.338/2024 (Cap. 21).
+
+# CAPÍTULO 09 — ILICITUDE: CAUSAS DE JUSTIFICAÇÃO, EXCESSOS E CONSENTIMENTO DO OFENDIDO
+
+## 09.11 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Ilicitude | Contrariedade do fato típico ao ordenamento; afirma-se pela ausência de justificante | Objetiva (cabe legítima defesa contra inimputável); insignificância exclui a tipicidade material, não a ilicitude | Art. 23; doutrina |
+| Tipo e ilicitude | Teoria indiciária: excluída a ilicitude, o fato continua típico | Dúvida fundada sobre a excludente absolve | Art. 386, VI, CPP; Cap. 7 |
+| Elemento subjetivo | Exigido em todas as justificantes (conhecer a situação e agir para defender, salvar, cumprir) | Sem ele, crime consumado (majoritária); tentativa (Roxin, Cirino) | Doutrina finalista |
+| Comunicabilidade | Justificante torna o fato lícito para todos os concorrentes | Putativas não se comunicam automaticamente (erro é pessoal) | Acessoriedade limitada |
+| Estado de necessidade | Perigo atual, não provocado dolosamente, inevitável, sacrifício razoável, sem dever legal de enfrentar | Perigo iminente: controvertido; causador culposo pode alegar (majoritária) | Art. 24 |
+| Teoria do CP | Unitária: bem salvo de valor maior ou igual = justificante | Bem salvo de valor menor: crime com redução de 1/3 a 2/3, na terceira fase; exculpante supralegal em casos extremos; CPM adota a diferenciadora (arts. 39 e 43) | Art. 24, § 2º |
+| Dever legal de enfrentar o perigo | Afasta o estado de necessidade | Não exige heroísmo inútil; inclui deveres contratuais (majoritária) | Art. 24, § 1º |
+| Furto famélico | Estado de necessidade (exclui a ilicitude) | Fome atual, inevitabilidade, mínimo indispensável; dificuldade financeira genérica não basta | Art. 24 |
+| Estado de necessidade agressivo x defensivo | Ambos excluem a ilicitude | Agressivo indeniza o terceiro, com regresso | Arts. 929 e 930 do CC |
+| Legítima defesa | Agressão humana injusta, atual ou iminente, a direito próprio ou alheio; meio necessário; moderação | Não exige fuga nem proporcionalidade rígida; restrições ético-sociais (agressão insignificante, inimputável, provocação) | Art. 25 |
+| Animais | Ataque espontâneo = estado de necessidade; animal atiçado = legítima defesa | | Doutrina |
+| Combinações | Real x real: não; sucessiva: sim; real x putativa: sim; putativa x putativa: sim; contra justificante: não | Contra inimputável ou coagido: sim | Doutrina |
+| Art. 25, parágrafo único | Agente de segurança pública que repele agressão ou risco de agressão a vítima refém | Exige os requisitos do caput; efeito sobretudo simbólico | Lei 13.964/2019 |
+| Legítima defesa da honra | Tese inconstitucional; proibida a todos os atores, sob pena de nulidade | A honra segue defensável contra ofensa atual | ADPF 779 |
+| Estrito cumprimento | Dever imposto por norma geral, cumprido nos limites estritos | Não há dever legal de matar; morte em confronto = legítima defesa; arma contra fugitivo desarmado é ilegítima | Art. 23, III; Lei 13.060/2014 |
+| Exercício regular | Direito previsto no ordenamento, exercido sem abuso | Desforço imediato, retenção, esportes, intervenções médicas; castigo físico de filhos não é mais justificado | Art. 23, III; CC; ECA, art. 18-A |
+| Ofendículos | Majoritária: exercício regular enquanto não acionado; legítima defesa quando acionado | Devem ser visíveis e proporcionais; o excesso é punível | Doutrina |
+| Colisão de deveres | Deveres de agir equivalentes: cumprir um justifica omitir o outro | Agir x omitir: estado de necessidade | Doutrina (supralegal) |
+| Consentimento do ofendido | Exclui a tipicidade (dissenso elementar) ou a ilicitude (supralegal) | Bem disponível e individual, capacidade, vontade livre, anterior ou simultâneo; vida indisponível | Doutrina; Lei 9.434/1997; Lei 9.263/1996 |
+| Excesso | Responde pelo excesso doloso ou culposo, em qualquer justificante | Intensivo x extensivo; exculpante (supralegal) e acidental não são punidos | Art. 23, parágrafo único |
+| Excesso no Júri | Quesito genérico absolutório cobre a legítima defesa; excesso culposo exige quesito próprio | Absolvido no genérico, não se quesita excesso doloso | REsp 2.043.554; HC 190.264 |
+| Absolvição | Art. 386, VI, do CPP, mencionando a causa | Não usar o inciso III | CPP |
+| Efeito civil | Coisa julgada no cível quanto à justificante real | Terceiro inocente e estado de necessidade agressivo: indenização; putativas, dúvida e quesito genérico: sem vinculação | Art. 65 CPP; arts. 188, 929 e 930 CC |
+| Medidas cautelares | Preventiva vedada; liberdade provisória no flagrante | | Arts. 310, § 1º, e 314 do CPP |
+
+## 09.12 Artigos de lei incidentes
+
+- Código Penal: arts. 20, § 1º (remissão); 21 (remissão); 22 (remissão); 23; 24; 25; 73; 121, § 1º e § 3º; 122; 128; 129, § 1º e § 4º; 136; 142; 146, § 3º; 150, § 3º; 163; 329; 345.
+- Código de Processo Penal: arts. 65; 66; 284; 292; 301; 310, § 1º; 314; 386, III e VI; 387, IV; 397, I; 415, IV; 419; 483, III, § 2º e § 4º; 492, § 1º.
+- Código Civil: arts. 187; 188; 929; 930; 1.210, § 1º; 1.219; 1.634.
+- Código de Processo Civil: art. 846.
+- Código Penal Militar: arts. 39; 43; 45, parágrafo único.
+- Constituição Federal: arts. 1º, III; 5º, caput; 144.
+- Leis especiais: Lei 13.060/2014, art. 2º, parágrafo único; Decreto 12.341/2024; Lei 9.434/1997, art. 9º; Lei 9.263/1996, art. 10 (Lei 14.443/2022); ECA, art. 18-A (Lei 13.010/2014); Lei 9.099/1995, art. 89; Lei 13.964/2019 (art. 25, parágrafo único, do CP).
+
+## 09.13 Julgados, temas e súmulas do capítulo
+
+- STF, ADPF 779 (Plenário, j. 1/8/2023): legítima defesa da honra é inconstitucional; vedada a todos os atores, sob pena de nulidade.
+- STJ, REsp 2.043.554/AL (Terceira Seção, j. 6/11/2025): rejeitada a legítima defesa, o excesso culposo subsidiário ainda deve ser quesitado.
+- STJ, HC 190.264/PB (5ª Turma, j. 26/8/2014, Info 545): absolvido no quesito genérico, não cabe quesito sobre excesso doloso.
+- STF, Temas 952 e 1.069 (j. 25/9/2024): adulto capaz pode recusar transfusão por motivo religioso, com decisão livre e informada.
+
+Remissões a outros capítulos: Súmula 593 do STJ (Cap. 31); Súmula 542 do STJ (Cap. 38); Súmula 231 do STJ (Cap. 14); Tema 1.087 do STF (Cap. 26); ADPF 54 (Cap. 27); descriminantes putativas e Q3742365, Q3058679, Q3362378 (Cap. 10); tipicidade conglobante (Cap. 7).
+
+# CAPÍTULO 10 — CULPABILIDADE: IMPUTABILIDADE, EMBRIAGUEZ, ERRO DE PROIBIÇÃO, DESCRIMINANTES PUTATIVAS E INEXIGIBILIDADE DE CONDUTA DIVERSA
+
+## 10.7 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Culpabilidade | Juízo de reprovação do autor de fato típico e ilícito; fundamento e limite da pena | Não confundir com a circunstância judicial do art. 59 | Teoria normativa pura; JT 26, tese 3 |
+| Teorias | Psicológica (dolo e culpa são espécies); psicológico-normativa (Frank: dolo normativo + exigibilidade); normativa pura (Welzel: imputabilidade, potencial consciência, exigibilidade) | Funcionalismo: Roxin (responsabilidade), Jakobs (fidelidade ao Direito) | Doutrina |
+| Vulnerabilidade | Limita a culpabilidade de ato conforme o esforço pessoal para a vulnerabilidade | Nunca aumenta a pena | Zaffaroni |
+| Inimputabilidade (art. 26, caput) | Doença mental ou DMIR + inteira incapacidade de entender ou de se autodeterminar, ao tempo do fato | Critério biopsicológico; diagnóstico não basta; exige incidente de insanidade; juiz não vinculado ao laudo | Art. 26; arts. 149 e 182 do CPP; REsp 1.802.845 |
+| Efeito na sentença | Absolvição imprópria com medida de segurança | Teses de absolvição própria antes; no Júri, sumária só se for tese única | Art. 386, VI e p.u., III, e art. 415, p.u., do CPP |
+| Semi-imputabilidade | Condena com redução de 1/3 a 2/3 (terceira fase), conforme grau de perturbação | Ou substitui a pena reduzida por medida de segurança (vicariante) | Arts. 26, p.u., e 98 |
+| Menoridade | Menos de 18 anos na data da conduta: inimputável (critério biológico, presunção absoluta) | Emancipação irrelevante; crime permanente que alcança os 18 anos: responde; sem medida de segurança (ECA) | Art. 27; CF, art. 228; Súmula 74 do STJ (Cap. 14) |
+| Emoção e paixão | Não excluem a imputabilidade | Privilégio (domínio + logo em seguida) e atenuante (influência); patológicas: art. 26 | Art. 28, I; arts. 121, § 1º, 129, § 4º, 65, III, c |
+| Embriaguez voluntária ou culposa | Não exclui nem reduz, mesmo completa | *Actio libera in causa*; crítica: responsabilidade objetiva | Art. 28, II; Info 851 do STJ |
+| Embriaguez preordenada | Responde com agravante | Exige prova da finalidade | Art. 61, II, l |
+| Embriaguez acidental | Completa: isento de pena (absolvição própria, sem medida de segurança); incompleta: 1/3 a 2/3 | Caso fortuito (ignorância da substância ou do efeito) ou força maior (coação a beber) | Art. 28, §§ 1º e 2º; art. 386, VI, do CPP |
+| Embriaguez patológica e drogas | Patológica = doença mental | Drogas: regra própria, com dependência equiparada | Art. 26; arts. 45 e 46 da Lei 11.343 |
+| Desconhecimento da lei | Inescusável | Atenuante; nas contravenções, perdão judicial se escusável | Arts. 21 e 65, II; LCP, art. 8º |
+| Erro de proibição | Inevitável: isento de pena; evitável: crime doloso com redução de 1/6 a 1/3 | Direto, indireto (existência ou limites da justificante), mandamental; culturalmente condicionado | Art. 21; Info 807 do STJ |
+| Erro de tipo x de proibição | Tipo: não sabe o que faz (exclui o dolo); proibição: sabe o que faz, acha que pode (exclui ou reduz a culpabilidade) | Elemento normativo do tipo = erro de tipo | Arts. 20 e 21 |
+| Teoria adotada | Limitada da culpabilidade | Extremada: toda putativa é erro de proibição | Art. 20, § 1º; Exposição de Motivos |
+| Putativa fática | Inevitável: isento de pena (exclui dolo e culpa); evitável: crime culposo, se previsto (culpa imprópria, admite tentativa) | Ilicitude permanece; "isento de pena" e "exclui o dolo" são aceitos pela FGV | Art. 20, § 1º |
+| Putativa sobre existência ou limites | Erro de proibição indireto | Redução de 1/6 a 1/3 se evitável | Art. 21 |
+| Coação moral irresistível | Coagido isento; coator autor mediato, com agravante, mais tortura ou constrangimento ilegal | Física = exclui a conduta; resistível = atenuante | Arts. 22, 62, II, 65, III, c; Lei 9.455, art. 1º, I, b |
+| Obediência hierárquica | Ordem não manifestamente ilegal, relação de direito público, estrita obediência: só o superior responde | Ordem legal = estrito cumprimento do dever; manifestamente ilegal = ambos respondem (atenuante e agravante) | Arts. 22, 62, III, 65, III, c |
+| Supralegais | Admitidas: estado de necessidade exculpante, crise financeira comprovada em crimes tributários, cláusula de consciência, desobediência civil, excesso exculpante | Ônus da defesa; furto famélico é estado de necessidade | JT 176, tese 12; AgRg no AREsp 299.662 |
+| Dispositivo absolutório | Dirimentes e putativas: art. 386, VI, do CPP | Erro de tipo inevitável: art. 386, III; inimputável: + medida de segurança | CPP, art. 386 |
+
+## 10.8 Artigos de lei incidentes
+
+- Constituição Federal: art. 228.
+- Código Penal: arts. 4º; 20, caput e § 1º; 21; 22; 26; 27; 28; 29, caput; 61, II, l; 62, II e III; 65, II e III, c; 66; 97; 98; 121, § 1º; 129, § 4º.
+- Código de Processo Penal: arts. 149 a 152; 156; 182; 386, III e VI, e parágrafo único, III; 415, parágrafo único.
+- Lei 11.343/2006: arts. 45 e 46.
+- Lei 9.455/1997: art. 1º, I, b.
+- Lei 8.137/1990: art. 2º, II (inexigibilidade por crise financeira).
+- Decreto-Lei 3.688/1941 (LCP): art. 8º.
+- Lei 8.069/1990 (ECA): arts. 103 e 104.
+
+## 10.9 Julgados, temas e súmulas do capítulo
+
+- STJ, Jurisprudência em Teses, ed. 26, tese 3 — culpabilidade normativa não se confunde com a circunstância judicial do art. 59.
+- STJ, REsp 1.802.845/RS, j. 23/6/2020 (Info 675) — inimputabilidade e semi-imputabilidade exigem incidente de insanidade e exame médico-legal.
+- STJ, AREsp 2.835.056-MG, Quinta Turma, j. 20/5/2025 (Info 851) — embriaguez voluntária e ânimo exaltado não afastam o dolo.
+- STJ, AgRg no AREsp 2.389.611-MG, Quinta Turma, j. 12/3/2024 (Info 807) — erro de proibição reconhecido em caso excepcional pelas condições pessoais do agente.
+- STJ, Jurisprudência em Teses, ed. 176, tese 12 — crise financeira comprovada como inexigibilidade nos crimes do art. 2º, II, da Lei 8.137/1990.
+- STJ, AgRg no AREsp 299.662/PB, DJe 23/9/2015 — ônus da defesa de provar a crise financeira.
+
+Remissões a outros capítulos: Súmula 74 do STJ (Cap. 14); Súmula 593 e Tema 918 do STJ (Cap. 31); medida de segurança e sistema vicariante (Cap. 19); circunstância judicial da culpabilidade (Cap. 13); culpa imprópria e erro de tipo (Cap. 7); excesso exculpante e teoria diferenciadora do estado de necessidade (Cap. 9).
+
+# CAPÍTULO 11 — CONCURSO DE PESSOAS: TEORIAS, AUTORIA E PARTICIPAÇÃO, DOMÍNIO DO FATO, COMUNICABILIDADE E PUNIBILIDADE
+
+## 11.10 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Natureza do art. 29 | Norma de extensão: adequação típica mediata do partícipe | Dispensável para os integrantes de crime plurissubjetivo | Art. 29 |
+| Teoria adotada | Monista temperada: um crime, pena pela culpabilidade de cada um | Exceções pluralistas: 124 x 126; 317 x 333; 342 x 343; 235 caput x § 1º; 318 x 334; art. 29, § 2º | Art. 29, caput e § 2º |
+| Requisitos | Pluralidade de condutas; relevância causal; liame subjetivo; identidade de infração | Liame dispensa acordo prévio (adesão unilateral basta); ingresso até a consumação (no permanente, durante a permanência) | Doutrina |
+| Autor | Restritiva objetivo-formal, complementada pelo domínio do fato | Domínio do fato não vale para culposos, crimes de dever e de mão própria; não supre prova (REsp 1.854.893) | Doutrina; STJ |
+| Formas de domínio (Roxin) | Ação (autor direto), vontade (autor mediato), funcional (coautor) | Aparatos organizados de poder: hierarquia, fungibilidade, desvinculação do Direito; executor também é autor | Doutrina |
+| Autoria mediata | Uso de instrumento: inimputável, coação moral irresistível, ordem não manifestamente ilegal, erro provocado | Não é concurso; coação física = autoria direta; impossível em mão própria | Arts. 20, § 2º, 22, 26, 62, III |
+| Coautoria | Divisão de tarefas com imputação recíproca | Sucessiva: responde a partir da adesão; em crime próprio, se conhece a qualidade | Art. 29 |
+| Autoria colateral e incerta | Sem liame: cada um responde pelo que causou | Incerta: ambos por tentativa (*in dubio pro reo*) | Doutrina |
+| Participação | Moral (induzir, instigar) ou material (auxiliar) | Exige dolo e eficácia causal; posterior só se prometida antes | Art. 29 |
+| Conivência | Impunível sem dever jurídico de agir | Garante que se omite concorre por omissão | Art. 13, § 2º |
+| Acessoriedade | LIMITADA: fato do autor típico e ilícito | Partícipe de inimputável responde; insignificância ou excludente do autor beneficiam o partícipe | Doutrina |
+| Culposos | Admitem coautoria, não participação | Doloso + culposo: sem concurso | Doutrina |
+| Omissivos próprios | Admitem participação | Coautoria controvertida | Doutrina |
+| Menor importância | Causa de diminuição de 1/6 a 1/3, na 3ª fase | Só partícipe; nunca coautor; pode ir abaixo do mínimo | Art. 29, § 1º |
+| Cooperação dolosamente distinta | Pena do crime que quis | Aumento até metade se previsível; se previsto e aceito, responde pelo mais grave | Art. 29, § 2º |
+| Impunibilidade | Sem tentativa, ajuste, instigação e auxílio não são puníveis | Salvo crime autônomo: 288, 286, 122, Lei 11.343, art. 35 etc. | Art. 31 |
+| Comunicabilidade | Pessoais não se comunicam; elementares e objetivas sim, se conhecidas | Feminicídio: comunicação expressa; paga não se comunica automaticamente ao mandante; art. 327, § 2º não se comunica | Art. 30; art. 121-A, § 3º |
+| Contratar crime a associação criminosa | Crime autônomo além do crime contratado | Lei 15.245/2025 | Art. 288, § 2º |
+
+## 11.11 Artigos de lei incidentes
+
+- Código Penal: arts. 13, § 2º; 19; 20, § 2º; 21; 22; 26; 29, caput, §§ 1º e 2º; 30; 31; 62; 65, III, c e e; 117, § 1º; 121, §§ 1º e 2º, I; 121-A, §§ 1º e 3º; 122; 123; 124; 126; 180, § 1º; 235, caput e § 1º; 286; 288, § 2º; 312; 317; 318; 327, § 2º; 333; 342; 343.
+- Código de Processo Penal: arts. 41; 77, I; 79; 80; 580.
+- Lei 9.455/1997: art. 1º, § 2º.
+- Lei 9.605/1998: art. 3º, parágrafo único.
+
+## 11.12 Julgados, temas e súmulas do capítulo
+
+- STF, AP 470 (Plenário, 2012) — domínio do fato invocado para dirigentes; crítica de Roxin.
+- STJ, REsp 1.854.893 (Info 681) — domínio do fato não dispensa descrição do nexo; cargo não presume autoria.
+- STJ, Jurisprudência em Teses, ed. 57, tese 9 — elementar do peculato comunica-se ao particular.
+- STJ, AgRg no AREsp 2.712.504 (Info 863) — elementares da receptação qualificada comunicam-se aos corréus.
+- STJ, EAREsp 1.322.867 (Info 860) — qualificadora da paga não se comunica automaticamente ao mandante.
+- STJ, AgRg no REsp 1.789.273 — majorante do art. 327, § 2º não se comunica ao *extraneus*.
+
+Remissões a outros capítulos: Súmula 231 do STJ (Cap. 14); agravantes do art. 62 e reincidência (Cap. 14); concurso de pessoas como qualificadora do furto e majorante do roubo, inclusive com inimputável (Cap. 29); latrocínio e coautor (Cap. 29); estupro coletivo e art. 226 (Cap. 31); art. 288, § 2º (Cap. 33); crimes funcionais e particular (Cap. 35); responsabilidade penal da pessoa jurídica (Cap. 5); art. 117, § 1º (Cap. 22); colaboração premiada (Cap. 46).
+
+# CAPÍTULO 12 — TEORIA DA PENA E PENAS EM ESPÉCIE: FINALIDADES, SISTEMAS PENITENCIÁRIOS, PRIVATIVAS DE LIBERDADE, RESTRITIVAS DE DIREITOS E MULTA
+
+## 12.8 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Penas permitidas e proibidas | rol exemplificativo de permitidas; vedadas morte, perpétua, trabalhos forçados, banimento e cruéis | morte em guerra declarada; trabalho do preso não é trabalho forçado | art. 5º, XLVI e XLVII, CF |
+| Personalidade da pena | não passa do condenado | reparação do dano e perdimento alcançam sucessores até o limite da herança; multa NÃO | art. 5º, XLV, CF |
+| Teorias absolutas | retribuição (*quia peccatum est*) | Kant (imperativo categórico), Hegel (negação da negação) | doutrina |
+| Teorias relativas | prevenção (*ne peccetur*) geral (negativa: intimidação; positiva: vigência da norma) e especial (negativa: neutralização; positiva: ressocialização) | Feuerbach; Jakobs; von Liszt | doutrina |
+| Teorias mistas | retribuição + prevenção; Roxin: dialética, culpabilidade como teto | Zaffaroni: teoria agnóstica | art. 59 CP; art. 1º LEP |
+| Sistemas penitenciários | pensilvânico (isolamento total); auburniano (trabalho em comum + silêncio); progressivos (inglês: marcas; irlandês: prisão intermediária + livramento); Montesinos | Brasil: progressivo, de matriz irlandesa | art. 33, § 2º, CP; art. 112 LEP |
+| Espécies de pena | privativas, restritivas, multa | não há mais penas acessórias | art. 32 CP |
+| Cominação alternativa | escolha da espécie deve ser fundamentada | — | art. 59, I; Info 880 STJ |
+| Reclusão | regime inicial fechado, semiaberto ou aberto | executada primeiro no concurso; efeito do art. 92, II; interceptação | arts. 33, 69, 76 e 92 CP |
+| Detenção | regime inicial semiaberto ou aberto | fechado só por regressão; acima de 8 anos inicia no semiaberto | art. 33 CP |
+| Prisão simples | semiaberto ou aberto, sem rigor penitenciário | nem por regressão vai ao fechado; máximo de 5 anos | arts. 6º e 10 LCP |
+| Regime fechado | segurança máxima ou média; trabalho diurno em comum; isolamento noturno | trabalho externo só em serviços ou obras públicas; exame criminológico de classificação | art. 34 CP |
+| Regime semiaberto | colônia agrícola, industrial ou similar; trabalho em comum diurno | trabalho externo e cursos admitidos | art. 35 CP |
+| Regime aberto | casa do albergado; autodisciplina; trabalho fora sem vigilância; recolhimento noturno e nas folgas | regride se crime doloso, frustrar fins ou não pagar multa podendo | art. 36 CP |
+| Trabalho do preso | sempre remunerado, com previdência | piso de 3/4 do salário mínimo na LEP | art. 39 CP; art. 29 LEP |
+| Doença mental superveniente | PPL: HCTP; multa: execução suspensa | conversão em medida de segurança (art. 183 LEP) | arts. 41 e 52 CP |
+| Detração | computa prisão provisória (Brasil ou exterior), administrativa e internação | aplicação na sentença: Cap. 17 | art. 42 CP |
+| PRD: natureza | autônomas e substitutivas; mesma duração da PPL (incisos III a VI) | PSC abreviável; pecuniárias medem-se em valor; execução só após trânsito | arts. 44, 54 e 55 CP; Súmula 643 STJ |
+| Prestação pecuniária | 1 a 360 SM à vítima, dependentes ou entidade social | deduz da indenização se coincidentes beneficiários; outra natureza com aceitação; vedada na violência doméstica | art. 45, §§ 1º e 2º, CP; art. 17 Lei 11.340 |
+| Perda de bens e valores | em favor do FUNPEN | teto: o MAIOR entre prejuízo e provento | art. 45, § 3º, CP |
+| Prestação de serviços | pena superior a 6 meses; 1 hora por dia de condenação; gratuita | pena superior a 1 ano: abreviação até a metade; juiz da execução só ajusta a forma | art. 46 CP; arts. 148 a 150 LEP; Info 841 STJ |
+| Interdição temporária | cargo público; profissão regulamentada; habilitação para dirigir; lugares; concursos | I e II: violação de deveres; III: culposos de trânsito; II: interpretação restritiva | arts. 47, 56, 57 CP; arts. 154 e 155 LEP |
+| Limitação de fim de semana | 5 horas diárias, sábados e domingos, casa do albergado | cursos e palestras PODERÃO ser ministrados | art. 48 CP; arts. 151 a 153 LEP |
+| Conversão da PRD | descumprimento injustificado: converte, deduzindo o cumprido, saldo mínimo de 30 dias | nova condenação: conversão facultativa; oitiva prévia | art. 44, §§ 4º e 5º, CP; art. 181 LEP |
+| Multa: cálculo | 10 a 360 dias-multa; dia de 1/30 a 5 SM do tempo do fato | até o triplo; correção desde o fato | arts. 49 e 60 CP |
+| Multa: natureza | sanção penal executada como dívida de valor | não passa aos herdeiros; indultável; não cabe HC | art. 51 CP; ADI 3.150; Súmula 693 STF |
+| Multa: execução | MP, no juízo da execução penal | Fazenda subsidiária; nunca se converte em prisão | art. 51 CP; art. 164 LEP |
+| Multa: pagamento | 10 dias do trânsito; parcelamento; desconto em salário (1/10 a 1/4) | não pode atingir o indispensável ao sustento | art. 50 CP; arts. 168 a 170 LEP |
+| Multa: prescrição | prazo do CP (2 anos ou o da PPL cumulada) | causas interruptivas e suspensivas da dívida ativa | arts. 51 e 114 CP |
+| Multa vicariante | até 1 ano (art. 44, § 2º) | art. 60, § 2º tido por derrogado; vedada se lei especial comina multa cumulativa | Súmula 171 STJ |
+| Multa no concurso | aplicada distinta e integralmente (soma) | crime continuado: Cap. 16 | art. 72 CP |
+| Inadimplemento e extinção | hipossuficiência não obsta extinção | Tema 931: basta alegar; ADI 7.032: comprovar impossibilidade, ainda que parcelada | Tema 931 STJ; ADI 7.032 |
+
+## 12.9 Artigos de lei incidentes
+
+- Constituição Federal: art. 5º, XLV, XLVI, XLVII, XLVIII e L; art. 15, III.
+- Código Penal: arts. 32 a 52 (espécies, regimes, direitos do preso, trabalho, doença mental, detração, restritivas de direitos e multa); arts. 53 a 58 (cominação); art. 59, I e IV; art. 60; art. 69, caput; art. 72; art. 76; art. 92, I e II; art. 97; art. 114; art. 337-P.
+- Lei de Execução Penal (Lei 7.210/1984): art. 1º; arts. 29 e 31; arts. 87, 88, 91 a 95; arts. 147 a 155; arts. 164 a 170; arts. 180 e 181; art. 183.
+- Lei das Contravenções Penais (Decreto-Lei 3.688/1941): arts. 5º, 6º e 10.
+- Lei 9.296/1996: art. 2º, III.
+- Lei 11.340/2006: art. 17.
+- Código de Processo Penal: art. 322.
+- Lei 9.268/1996 e Lei 13.964/2019 (redações do art. 51 do CP); Lei 9.714/1998 (restritivas de direitos); Lei 12.550/2011 (art. 47, V).
+
+## 12.10 Julgados, temas e súmulas do capítulo
+
+- STF, ADI 3.150 (j. 13/12/2018): multa é sanção penal; legitimidade prioritária do MP, subsidiária da Fazenda.
+- STF, ADI 7.032 (j. 22/3/2024): inadimplemento da multa obsta a extinção, salvo comprovada impossibilidade de pagamento, ainda que parcelado.
+- STJ, Tema 931 (revisão de 20/2/2024): alegada hipossuficiência, o inadimplemento da multa não obsta a extinção da punibilidade.
+- STJ, AgRg no REsp 2.096.649-CE (j. 18/2/2025): hipossuficiência exige demonstração concreta da impossibilidade de pagar, ainda que parcelado.
+- Súmula 693 do STF: não cabe *habeas corpus* contra condenação só a multa.
+- Súmula 521 do STJ: execução da multa pela Fazenda — superada (ADI 3.150 e Lei 13.964/2019).
+- Súmula 171 do STJ: lei especial com multa cumulativa veda substituição da prisão por multa.
+- Súmula 643 do STJ: execução de restritiva de direitos só após o trânsito em julgado.
+- STJ, AgRg no AREsp 2.783.936-SP (Info 841): juiz da execução só ajusta a forma da prestação de serviços, não a substitui.
+- STJ, Informativo de Jurisprudência n. 30 (Edição Extraordinária), Sexta Turma, j. 29/10/2025: art. 47, II, só para atividade que dependa de habilitação estatal.
+- STJ, AgRg no AREsp 2.808.209-SC (Info 880): escolha da privativa, na cominação alternativa, exige fundamentação concreta.
+
+Remissões: Súmulas 718 e 719 do STF, Súmulas 269, 440 e 493 do STJ, Súmula 588 do STJ, Tema 1.155 do STJ e Tema 972 do STF (Cap. 17); Súmula 491 do STJ e Súmula Vinculante 56 (Caps. 23 e 24); prescrição da multa (Cap. 22); indulto da multa (Cap. 21); art. 72 e crime continuado (Cap. 16); cálculo da multa (Cap. 15).
+
+# CAPÍTULO 13 — DOSIMETRIA I: INDIVIDUALIZAÇÃO, SISTEMA TRIFÁSICO E PRIMEIRA FASE (CIRCUNSTÂNCIAS JUDICIAIS DO ART. 59)
+
+## 13.9 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Individualização | Legal, judicial e executória | Limita também o legislador (regime integralmente fechado inconstitucional) | Art. 5º, XLVI, CF; arts. 59 e 68 CP; arts. 5º a 9º LEP |
+| Sistema de determinação | Pena relativamente determinada; discricionariedade vinculada | — | Arts. 59 e 68 CP |
+| Método | Trifásico (Hungria): pena-base, agravantes e atenuantes, causas de aumento e diminuição | Multa: bifásico | Art. 68 CP |
+| Limites | 1ª e 2ª fases presas ao mínimo e ao máximo; 3ª fase pode ultrapassá-los | Sem compensação entre fases | Tema 190 STJ; Súmula 231 STJ (Cap. 14) |
+| Elementar x circunstância | Elementar não aumenta pena | Qualificadora já usada também não | Vedação do *bis in idem* |
+| Fundamentação | Dado concreto que extrapole o tipo | Gravidade abstrata e fórmulas genéricas não valem | Art. 93, IX, CF; art. 387, II e III, CPP |
+| Recurso da defesa | Afastado vetor, redução proporcional obrigatória | Reclassificar ou reforçar fundamentação sem aumentar a pena é válido | Tema 1.214 STJ |
+| Culpabilidade | Grau de reprovabilidade, não a culpabilidade normativa | Premeditação vale se não for elementar, qualificadora ou agravante | JT ed. 26, tese 3; Tema 1.318 STJ |
+| Antecedentes | Só condenação definitiva, por fato anterior, que não gere reincidência | Trânsito posterior ao novo fato: maus antecedentes | Art. 59 CP; art. 63 CP |
+| Inquéritos e ações em curso | Não servem para nenhum vetor | — | Súmula 444 STJ; Tema 129 STF |
+| Período depurador | Afasta reincidência, não maus antecedentes | Juiz pode desprezar condenação antiga; Quinta Turma: mais de 10 anos da extinção | Art. 64, I, CP; Tema 150 STF; REsp 1.702.028 (Info 856) |
+| Fato posterior | Não gera antecedente nem reincidência | — | Art. 63 CP |
+| Ato infracional, transação, ANPP, perdão judicial | Não geram antecedentes | Ato infracional pode servir a outros fins (preventiva, Cap. 37) | JT ed. 26, teses 6 e 10; art. 28-A, § 12, CPP; Súmula 18 STJ |
+| Condenações e outros vetores | Só como antecedentes; não para personalidade ou conduta social | — | Tema 1.077 STJ |
+| Várias condenações | Uma reincidência, outra maus antecedentes | A mesma não serve às duas | JT ed. 26, tese 12; Súmula 241 STJ (Cap. 14) |
+| Conduta social | Comportamento familiar, profissional, comunitário com prova concreta | Desemprego, uso de drogas, fuga: inválidos | Art. 59 CP |
+| Personalidade | Dados concretos; laudo dispensável | Não pode basear-se em processos ou atos infracionais | JT ed. 26, tese 13; Súmula 444 |
+| Motivos | Só o que exceder o motivo comum do tipo | Lucro fácil no tráfico e nos crimes patrimoniais é inerente | Q3117542 |
+| Circunstâncias | *Modus operandi* não previsto como qualificadora, agravante ou majorante | Período noturno no roubo, por si só, não vale | Info 843 e 847 STJ; Tema 1.110 STJ |
+| Consequências | Efeitos além do resultado típico | Morte no latrocínio, por si só, não vale; orfandade vale | Tema 1.394 STJ; JT ed. 26, tese 14 |
+| Comportamento da vítima | Neutro ou favorável; nunca aumenta | Vida sexual pregressa da vítima não pode ser valorada | JT ed. 26, tese 15; ADPF 1.107 STF |
+| Qualificadora sobressalente | Uma tipifica; outra vira agravante, se houver; senão, circunstância judicial | Majorante sobressalente: pode ir para a pena-base (Cap. 15) | JT ed. 29, tese 7 |
+| *Quantum* | 1/6 da mínima ou 1/8 do intervalo por vetor; fração maior exige fundamentação concreta | Tema 1.351 pendente; frações somadas, não em cascata | Q4102463 |
+| Frações de dia | Desprezam-se | — | Art. 11 CP |
+| Lei de Drogas | Natureza e quantidade da droga, personalidade e conduta social preponderam | Ver Cap. 37 | Art. 42 da Lei 11.343/2006 |
+
+## 13.10 Artigos de lei incidentes
+
+- Constituição Federal: art. 5º, XLVI (individualização), XLVII, "b" (vedação de penas perpétuas, fundamento do "esquecimento" de antecedentes) e LVII (presunção de inocência); art. 93, IX (fundamentação).
+- Código Penal: art. 11 (frações de dia); art. 59 (circunstâncias judiciais e decisões); art. 60 (critérios da multa); arts. 61 a 67 (circunstâncias legais, por remissão); art. 63 e art. 64, I e II (reincidência e período depurador); art. 68 (método trifásico); art. 120 (perdão judicial); arts. 121, 155, 157 e 171 (exemplos de cálculo).
+- Código de Processo Penal: art. 28-A, § 12 (ANPP e antecedentes); art. 381, III (motivação da sentença); art. 387, I a IV e §§ 1º e 2º (sentença condenatória); art. 400-A (proteção da vítima — ADPF 1.107); art. 492, I, "a" e "b" (dosimetria no Júri); art. 617 (*reformatio in pejus*).
+- Lei 9.099/1995: art. 76, § 6º (transação penal sem registro de antecedentes).
+- Lei 11.343/2006: art. 42 (preponderância na fixação da pena — Cap. 37).
+- Lei 9.605/1998: art. 6º (critérios próprios — Cap. 49).
+- Lei 7.210/1984 (LEP): arts. 5º a 9º (individualização executória — Cap. 23).
+
+## 13.11 Julgados, temas e súmulas do capítulo
+
+- Súmula 444 do STJ: inquéritos e ações penais em curso não agravam a pena-base.
+- Tema 129 do STF (RE 591.054): inquéritos e ações sem trânsito não são maus antecedentes.
+- Tema 150 do STF (RE 593.818): período depurador não se aplica aos maus antecedentes; condenação antiga pode ser desprezada.
+- STJ, REsp 1.702.028-SP (Informativo 856): mais de 10 anos entre extinção da pena e novo crime afasta maus antecedentes.
+- Tema 1.077 do STJ: condenações só valem como antecedentes, não para personalidade ou conduta social.
+- Tema 190 do STJ: 1ª e 2ª fases não extrapolam os limites da pena cominada.
+- Tema 1.214 do STJ: afastado vetor em recurso da defesa, redução proporcional obrigatória.
+- Tema 1.318 do STJ: premeditação como culpabilidade negativa, com ressalvas.
+- Tema 1.394 do STJ: orfandade de filhos crianças ou adolescentes agrava as consequências do homicídio.
+- Tema 1.110 do STJ: arma branca no roubo (intervalo da Lei 13.654/2018) pode elevar a pena-base.
+- Tema 1.351 do STJ (pendente): critérios obrigatórios ou discricionariedade vinculada no *quantum* da pena-base.
+- STF, ADPF 1.107: vedado valorar vida sexual pregressa ou modo de vida da vítima na pena dos crimes sexuais.
+- Jurisprudência em Teses do STJ, ed. 26, teses 1, 2, 3, 6, 8, 10, 12, 13, 14 e 15; ed. 29, teses 2 e 7; ed. 57, tese 2; ed. 90, tese 3; ed. 152, tese 9: fundamentação concreta, corréus, culpabilidade, atos infracionais, transação, condenações múltiplas, personalidade sem laudo, consequências, vítima neutra, qualificadora sobressalente e vedação de dupla valoração.
+- STJ, REsp 2.245.209-AL (Informativo 886): roubo contra motorista de aplicativo eleva a culpabilidade.
+- STJ, AgRg no AREsp 2.603.711-AL (Informativo 843): roubo contra criança no caminho da escola eleva a pena-base.
+- STJ, Informativo 847 (Sexta Turma, j. 8/4/2025): período noturno, por si só, não eleva a pena-base do roubo.
+- STJ, AgRg no AREsp 1.834.993/SC: confiança da família na pena-base e majorante do art. 226, II, sem *bis in idem*.
+- STJ, AgRg no HC 699.762/SC: pena-base no máximo com um só vetor, se fundamentada.
+
+Remissões a outros capítulos: Súmulas 231, 241, 545, 630 e 636 do STJ, Súmula 74 do STJ, Temas 585, 1.172 e 1.194 do STJ e Tema 158 do STF (Cap. 14); Súmula 443 do STJ, art. 68, parágrafo único, Tema 1.422 e EREsp 2.206.873 (Cap. 15); Súmula 659 do STJ (Cap. 16); Súmulas 440, 269 e 171 do STJ e 718 e 719 do STF (Cap. 17); Súmulas 18 e 631 do STJ (Cap. 21); Temas 1.154, 1.262 e 1.381 do STJ e art. 42 da Lei de Drogas (Cap. 37); Tema 1.215 do STJ (Cap. 31); escolha da pena alternativa, art. 59, I (Cap. 12, 12.4.3).
+
+# CAPÍTULO 14 — DOSIMETRIA II: SEGUNDA FASE (AGRAVANTES, ATENUANTES, REINCIDÊNCIA E CONCURSO DE CIRCUNSTÂNCIAS)
+
+## 14.10 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Natureza | Circunstâncias legais genéricas; obrigatórias; não integram o tipo | Agravante não incide se constitui ou qualifica o crime | Arts. 61 e 65 CP |
+| Rol | Agravantes: taxativo; atenuantes: exemplificativo | Atenuante inominada facultativa | Art. 66 CP |
+| *Quantum* | 1/6 sobre a pena-base, somando, sem cascata | Reincidência específica sozinha: acima de 1/6 só excepcionalmente; confissão qualificada ou parcial: menos | Temas 1.172 e 1.194 STJ |
+| Limites | Pena intermediária entre o mínimo e o máximo | Revisão da súmula rejeitada em 2024; 3ª fase pode romper | Súmula 231 STJ; Tema 158 STF; REsp 1.869.764 |
+| Ordem | Calcular toda a fase, depois aplicar o piso | Nunca travar a atenuante antes de aplicar a agravante | Art. 67 CP |
+| Denúncia e Júri | Juiz reconhece agravante não alegada (ação pública) | Júri: só as debatidas; reincidência exige debate | Arts. 385 e 492, I, "b", CPP |
+| Crime culposo | Agravantes do inciso II não incidem | Reincidência incide | Doutrina e STJ |
+| Reincidência: conceito | Novo crime após trânsito de condenação por crime (Brasil ou exterior) | Ficta; condenação estrangeira sem homologação | Art. 63 CP |
+| Período depurador | Mais de 5 anos da extinção ou cumprimento, computado período de prova não revogado | Após, pode haver maus antecedentes | Art. 64, I, CP; Tema 150 STF (Cap. 13) |
+| Não geram reincidência | Militar próprio, político, PPP, perdão judicial, transação, *sursis* processual, ANPP, art. 28 da Lei de Drogas, ato infracional | Contravenção anterior + crime: só antecedentes | Arts. 64, II, e 120 CP; art. 7º LCP |
+| Geram reincidência | Condenação só à multa, crime culposo, PPE, indulto | Reabilitação não apaga | Arts. 63 e 77, § 1º, CP; Súmula 631 STJ |
+| Constitucionalidade | Reincidência como agravante é constitucional | — | Tema 114 STF |
+| Prova | Folha de antecedentes basta | Dúvida favorece o réu | Súmula 636 STJ |
+| Dupla valoração | Mesma condenação não é antecedente e reincidência | Condenações diferentes podem ir a fases diferentes | Súmula 241 STJ; JT ed. 26, tese 12 |
+| Art. 61, II | 12 alíneas ("a" a "m") | "m" (instituição de ensino) desde 4/7/2025 | Lei 15.159/2025 |
+| Alínea "e" | Ascendente, descendente, irmão, cônjuge | Não abrange companheiro nem afins | Legalidade |
+| Alínea "f" | Inclui violência contra a mulher | Não é *bis in idem* com Lei Maria da Penha; incide em contravenções, salvo vias de fato do § 2º | Temas 1.197 e 1.333 STJ; Tema 1.215 (Cap. 31) |
+| Alínea "g" | Abuso de poder ou dever de cargo, ofício, profissão | Não incide em crimes funcionais | JT ed. 57, tese 4 |
+| Alínea "h" | Vítima criança, maior de 60, enferma ou grávida | Exige conhecimento; não incide se elementar | Lei 10.741/2003 |
+| Alínea "j" | Calamidade ou desgraça particular | Nexo com a calamidade: Tema 1.185 pendente | Tema 1.185 STJ |
+| Alínea "l" | Embriaguez preordenada | Voluntária ou culposa não agrava | *Actio libera in causa* |
+| Art. 62 | Líder, coator, quem usa subordinado ou inimputável, mercenário | Inciso I: basta função de direção (Info 903); IV é preponderante | Art. 62 CP |
+| Idade do réu | Menos de 21 na data do fato; mais de 70 na data da sentença | Não incide em crime com violência sexual contra a mulher (fatos desde 4/7/2025); prova por documento hábil | Art. 65, I, CP; Lei 15.160/2025; Súmula 74 STJ |
+| Desconhecimento da lei | Atenua | Diferente do erro de proibição | Arts. 21 e 65, II, CP |
+| Relevante valor; violenta emoção | Atenuam | Não cumulam com o privilégio do homicídio pelo mesmo fato | AgRg no REsp 1.835.054 |
+| Reparação do dano | Até o julgamento; qualquer crime | Até a denúncia e sem violência: art. 16 (3ª fase) | Art. 65, III, "b", CP; Info 900 |
+| Confissão | Atenua mesmo que não usada para condenar | Retratada só se útil; informal não; qualificada e parcial em menor proporção e sem preponderância | Súmula 545 revisada; Tema 1.194; Info 845 |
+| Confissão no tráfico | Posse para uso próprio atenua em proporção inferior | Redação de 2019 superada | Súmula 630 revisada |
+| Art. 67 | Preponderam motivos, personalidade (menoridade, confissão) e reincidência | Preponderante x preponderante: compensa; x não preponderante: prevalece | Art. 67 CP |
+| Reincidência x confissão | Compensação integral, específica ou não | Multirreincidência: compensação proporcional; STF tem precedentes pela prevalência da reincidência | Tema 585 STJ; JT ed. 29, teses 9 e 10 |
+| Fases distintas | Não se compensam | — | JT ed. 29, tese 2 |
+
+## 14.11 Artigos de lei incidentes
+
+- Constituição Federal: art. 5º, XL (irretroatividade da lei mais gravosa), XLVI (individualização) e LVII (presunção de inocência); art. 227, § 6º (igualdade dos filhos, parentesco por adoção).
+- Código Penal: art. 4º (tempo do crime); art. 9º (sentença estrangeira); art. 11 (frações de dia); arts. 15 e 16 (arrependimento eficaz e posterior); arts. 21 e 22 (erro de proibição, coação irresistível e obediência hierárquica); art. 28 (emoção, paixão e embriaguez); art. 30 (comunicabilidade); art. 33, § 2º; art. 44, II e § 3º; arts. 61 a 67 (agravantes, reincidência, atenuantes e concurso); art. 68; art. 77, I e § 1º; art. 83, II e V; art. 110; art. 115 (redação da Lei 15.160/2025); art. 117, VI; art. 120 (perdão judicial); art. 121, §§ 1º, 2º, 2º-C e 4º; art. 121-A; art. 129, §§ 4º, 9º e 12; art. 155, §§ 2º e 4º; art. 226, II; art. 312, § 3º.
+- Código de Processo Penal: art. 28-A, § 2º, II, e §§ 12 e 13; art. 313, II; art. 385; art. 387; art. 492, I, "b"; art. 580; art. 617.
+- Decreto-Lei 3.688/1941 (LCP): art. 7º (reincidência); art. 8º (erro de direito); art. 21, § 2º (vias de fato contra a mulher, Lei 14.994/2024).
+- Lei 9.099/1995: art. 76, §§ 2º, 4º e 6º; art. 89, § 5º.
+- Lei 11.340/2006: art. 5º (violência doméstica e familiar, remissão da alínea "f").
+- Lei 11.343/2006: art. 28 e art. 33, § 4º (Cap. 37).
+- Lei 10.741/2003 (Estatuto da Pessoa Idosa): alteração da alínea "h".
+- Lei 15.159/2025 (alínea "m" do art. 61, II) e Lei 15.160/2025 (arts. 65, I, e 115).
+- Lei 9.605/1998: arts. 14 e 15 (atenuantes e agravantes próprias — Cap. 49); Lei 9.503/1997 (CTB): art. 298 (agravantes próprias — Cap. 43).
+- Lei 7.210/1984 (LEP): art. 112 (progressão e reincidência — Cap. 24).
+
+## 14.12 Julgados, temas e súmulas do capítulo
+
+- Súmula 231 do STJ: atenuante não reduz a pena abaixo do mínimo legal.
+- Tema 158 do STF (RE 597.270 QO): idem, em repercussão geral.
+- STJ, REsp 1.869.764-MS (Informativo 823): Terceira Seção rejeita a revisão da Súmula 231.
+- Súmula 241 do STJ: reincidência não é, ao mesmo tempo, agravante e circunstância judicial.
+- Súmula 636 do STJ: folha de antecedentes prova reincidência e maus antecedentes.
+- Súmula 74 do STJ: menoridade exige prova por documento hábil.
+- Súmula 545 do STJ (revisada em 2025): confissão atenua independentemente de uso na condenação.
+- Súmula 630 do STJ (revisada em 2025): confissão de posse para uso no tráfico atenua em menor proporção.
+- Tema 1.194 do STJ: confissão atenua com outras provas; retratada só se útil; qualificada ou de crime menor, em menor proporção e sem preponderância.
+- Tema 585 do STJ: compensação integral reincidência x confissão; proporcional na multirreincidência.
+- Tema 1.172 do STJ: reincidência específica sozinha não justifica fração acima de 1/6, salvo exceção fundamentada.
+- Tema 114 do STF (RE 453.000): reincidência como agravante é constitucional.
+- Tema 1.197 do STJ (REsp 2.027.794): alínea "f" com Lei Maria da Penha sem *bis in idem*.
+- Tema 1.333 do STJ: alínea "f" nas contravenções de violência doméstica, salvo vias de fato do § 2º.
+- Tema 1.185 do STJ (pendente): nexo entre calamidade e crime na alínea "j".
+- STJ, Informativo 903: art. 62, I, não exige liderança absoluta.
+- STJ, Informativo 900: telefonema para libertar a vítima configura a atenuante do art. 65, III, "b".
+- STJ, Informativo 896: confissão extrajudicial reconhecível no Júri sem debate em plenário.
+- STJ, Informativo 845: confissão informal não gera a atenuante.
+- STJ, Informativo de Jurisprudência, ed. extraordinária 33: confissão é personalíssima; reincidência no Júri exige debate em plenário.
+- STJ, AgRg no REsp 1.835.054/SP: privilégio do homicídio e atenuante da violenta emoção não se cumulam.
+- STJ, HC 557.224/PR: confissão prevalece sobre a dissimulação.
+- STJ, HC 411.243/PE: coculpabilidade como atenuante inominada, em tese.
+- STJ, EREsp 1.154.752/RS: confissão ligada à personalidade, preponderante.
+- STF, RHC 120.677: reincidência prepondera sobre a confissão (posição de Turma do STF).
+- Jurisprudência em Teses do STJ, ed. 29, teses 1, 4, 6, 8, 9 e 10; ed. 57, tese 4; ed. 131, tese 48: limite da atenuante, confissão qualificada, menoridade, prova da reincidência, compensação e multirreincidência, crimes funcionais, reincidência e tráfico privilegiado.
+
+Remissões a outros capítulos: Tema 190 do STJ, Tema 150 do STF, Súmula 444 do STJ e Tema 1.318 do STJ (Cap. 13); Súmula 443 do STJ e frações da 3ª fase (Cap. 15); Súmula 269 do STJ (Cap. 17); Súmula 18 e Súmula 631 do STJ (Cap. 21); Súmula 220 do STJ (Cap. 22); Tema 1.215 do STJ (Cap. 31); art. 28 da Lei de Drogas e reincidência, REsp 1.672.654 (Cap. 37); insignificância e reincidência (Cap. 2).
+
+# CAPÍTULO 15 — DOSIMETRIA III: TERCEIRA FASE (CAUSAS DE AUMENTO E DE DIMINUIÇÃO), FIXAÇÃO DA MULTA E ROTEIROS COMPLETOS DE CÁLCULO
+
+## 15.9 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Causas de aumento e de diminuição | Frações previstas em lei; 3ª fase; incidem sobre a pena provisória | Podem romper o mínimo e o máximo do tipo | Art. 68 CP |
+| Qualificadora x majorante x agravante | Nova moldura x fração x rol sem fração | Qualificadora define a partida; majorante na 3ª; agravante na 2ª | Arts. 61, 68 e tipos derivados |
+| "Homicídio privilegiado" e "tráfico privilegiado" | São causas de diminuição | 1/6 a 1/3 e 1/6 a 2/3 | Art. 121, § 1º, CP; art. 33, § 4º, LD |
+| Fração variável | Critério próprio de cada causa | Nunca as circunstâncias do art. 59 | Vedação do *bis in idem* |
+| Redução com "pode" | Reconhecida a causa, a redução é obrigatória | O juiz escolhe só a fração | Arts. 26, parágrafo único, e 29, § 1º |
+| Concurso de causas gerais | Todas incidem | Também com as especiais | Art. 68 CP |
+| Concurso de causas especiais do mesmo sentido | Pode aplicar só uma, a que MAIS aumente ou diminua | Cumulação com fundamentação concreta | Art. 68, parágrafo único; EREsp 2.206.873 |
+| Majorante sobressalente | Pode ir para a pena-base ou para a 2ª fase | Sem contar o mesmo dado duas vezes | HC 463.434 (Terceira Seção) |
+| Incisos do mesmo parágrafo | Uma causa só, uma fração | Número de incisos não basta para elevar a fração | Súmula 443 STJ |
+| Método | Cascata (cada fração sobre o resultado da anterior) | Majorantes: Tema 1.422 pendente; minorantes: cascata pacífica | Art. 68 CP |
+| Ordem | Indiferente em cascata (multiplicação comutativa) | Até 1 dia de diferença pelo art. 11; prática: aumentos antes | Art. 68 CP |
+| Conversão | Trabalhar em meses e dias; 1 mês = 30 dias | Frações de dia desprezadas | Art. 11 CP |
+| Concurso formal e continuidade | Não são 3ª fase: vêm depois de cada crime dosado | Multas: art. 72 (continuado: multa única exasperada) | Arts. 70 a 72 CP (Cap. 16) |
+| Multa: etapas | Número (10 a 360) pela gravidade; valor (1/30 a 5 SM) pela situação econômica | Até o triplo do valor se ineficaz | Arts. 49 e 60 CP |
+| Multa: número de dias | Corrente 1: art. 59; corrente 2: proporcional às três fases | Tribunais controlam a proporcionalidade | REsp 1.535.956 |
+| Multa e causas da 3ª fase | Incidem também sobre o número de dias | Piso de 10 tratado como absoluto (posição prudente); lei especial: mínimo do tipo é rompido | Arts. 49 e 58 CP |
+| Valor do dia-multa | Mínimo, salvo dado econômico concreto | Pobreza não isenta da multa | Art. 60 CP; ADI 7.032 (Cap. 12) |
+| Reflexos processuais | Majorante descrita na denúncia; no Júri, quesitada; fração pelo juiz | Prescrição em abstrato: aumento máximo, diminuição mínima | Arts. 41, 384 e 483 CPP; Cap. 22 |
+
+## 15.10 Artigos de lei incidentes
+
+- Código Penal: art. 11 (frações de dia); art. 14, II e parágrafo único (tentativa); art. 16 (arrependimento posterior); art. 21 (erro de proibição evitável); art. 24, § 2º; art. 26, parágrafo único (semi-imputabilidade); art. 28, § 2º; art. 29, §§ 1º e 2º; arts. 49 e 58 a 60 (multa); arts. 61 e 65 (por remissão); art. 68, *caput* e parágrafo único; arts. 70 a 72 (por remissão); art. 121, §§ 1º, 2º e 4º; art. 155, §§ 1º, 2º e 4º; art. 157, §§ 2º, 2º-A e 2º-B; art. 171, § 3º; art. 226 e art. 327, § 2º (por remissão).
+- Código de Processo Penal: art. 41 (descrição das circunstâncias na denúncia); art. 384 (*mutatio libelli*); art. 387 (sentença condenatória); art. 483, IV e V (quesitos sobre causas de diminuição e de aumento no Júri); art. 28-A, § 1º (ANPP e causas de aumento e de diminuição).
+- Lei 11.343/2006: art. 33, *caput* e § 4º; art. 40; art. 41; art. 42; art. 43 (por remissão ao Cap. 37).
+
+## 15.11 Julgados, temas e súmulas do capítulo
+
+- Súmula 443 do STJ: no roubo circunstanciado, o aumento exige fundamentação concreta; o número de majorantes não basta.
+- STJ, EREsp 2.206.873-SP (Terceira Seção, Informativo 882): optando por um só aumento (art. 68, parágrafo único), prevalece a causa que mais aumenta; cumulação exige fundamentação concreta.
+- Tema 1.422 do STJ (pendente): admissibilidade da aplicação cumulativa e em cascata das majorantes.
+- STJ, HC 463.434-MT (Terceira Seção): majorante sobressalente pode ser deslocada para a 1ª ou a 2ª fase.
+- STJ, REsp 1.535.956-RS: multa em duas fases; valor acima do mínimo exige análise concreta da situação econômica.
+- Art. 68, parágrafo único, do CP: concurso de causas da parte especial (aplicação desenvolvida neste capítulo).
+
+Remissões a outros capítulos: Tema 190 do STJ, Tema 1.318 do STJ, Tema 1.110 do STJ, REsp 2.245.209 e critérios de 1/6 e 1/8 na pena-base (Cap. 13); Súmula 231 do STJ, Tema 585 do STJ e agravantes no Júri (Cap. 14); Súmula 659 do STJ, art. 72 e multa no crime continuado (Cap. 16); Súmula 269 do STJ e regime (Cap. 17); Súmulas 243 e 723 e ANPP (Cap. 25); fração da tentativa e AgRg no HC 731.845 (Cap. 8); Súmulas 442 e 582 do STJ e Tema 1.087 do STJ (Cap. 29); Tema 1.215 do STJ (Cap. 31); art. 327, § 2º (Cap. 35); Tema 712 do STF, Tema 1.154 do STJ, Súmula Vinculante 59 e art. 40 da Lei de Drogas (Cap. 37); ADI 7.032 e Tema 931 do STJ (Cap. 12).
+
+# CAPÍTULO 16 — CONCURSO DE CRIMES, ERRO NA EXECUÇÃO, RESULTADO DIVERSO DO PRETENDIDO E LIMITE DE CUMPRIMENTO DAS PENAS
+
+## 16.11 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Concurso material | Várias condutas, vários crimes: soma das penas | Reclusão antes de detenção; sem substituição se uma pena não foi substituída nem suspensa; restritivas compatíveis simultâneas | Art. 69; art. 76 |
+| Concurso formal próprio | Uma conduta, vários crimes, sem desígnios autônomos: pena mais grave + 1/6 a 1/2 | Fração pelo número: 2=1/6, 3=1/5, 4=1/4, 5=1/3, 6 ou mais=1/2 | Art. 70, 1ª parte; JT ed. 23, tese 4 |
+| Concurso formal impróprio | Uma conduta DOLOSA com desígnios autônomos: soma | Dolo direto (inclusive de 2º grau) ou eventual | Art. 70, 2ª parte; Info 827 e 860 |
+| Roubo com uma ação contra vítimas diferentes | Concurso formal, ainda que da mesma família | Número de roubos = número de patrimônios atingidos | Tema 1.192 do STJ |
+| Concurso material benéfico | Exasperação não pode superar a soma | Vale para formal e continuidade | Art. 70, p. único; art. 71, p. único |
+| Crime continuado simples | Várias condutas, mesma espécie, mesmas condições, unidade de desígnios: pena mais grave + 1/6 a 2/3 | 2=1/6, 3=1/5, 4=1/4, 5=1/3, 6=1/2, 7 ou mais=2/3; número incerto em longo período: 2/3 (Tema 1.202) | Art. 71; Súmula 659 do STJ |
+| Mesma espécie | Mesmo tipo penal | Não há continuidade entre roubo e extorsão, roubo e latrocínio, 168-A e 337-A | STJ; Tema 1.353 |
+| Tempo | Parâmetro de 30 dias | Flexível em casos excepcionais (Info 880); vítimas diferentes não afastam (Info 903) | JT ed. 17, teses 2 a 4 |
+| Habitualidade | Afasta a continuidade: soma | Exige dolo renovado e condutas autônomas | JT ed. 17, tese 5 |
+| Continuidade específica | Dolosos, vítimas diferentes, violência ou grave ameaça real: até o triplo | Circunstâncias judiciais orientam a fração; limites do art. 70, p. único, e do art. 75; não cabe com violência presumida | Art. 71, p. único |
+| Formal + continuado | Só o aumento da continuidade | Exceção: crimes fiscais (cumulação admitida) | STJ, HC 162.987; AgRg no REsp 2.018.231 |
+| Multa | Aplicada distinta e integralmente (soma) no material e no formal (próprio ou impróprio) | No continuado: uma multa exasperada (STJ) | Art. 72 |
+| Erro na execução com duplo resultado | Concurso formal (doloso quanto à vítima visada; culposo quanto ao terceiro) | Dolo eventual quanto ao terceiro: formal impróprio | Art. 73, parte final |
+| Resultado diverso com duplo resultado | Concurso formal | Pessoa visada, coisa atingida: tentativa (não há dano culposo) | Art. 74, parte final |
+| Prescrição no concurso | Cada crime isoladamente, sem o acréscimo | Também no continuado | Art. 119; Súmula 497 do STF |
+| Benefícios processuais e JECrim | Soma ou exasperação das penas cominadas | Ver Cap. 25 | Súmula 243 do STJ; Súmula 723 do STF |
+| Limite de cumprimento | 40 anos (fatos a partir de 23/1/2020); 30 anos para fatos anteriores | Unificação pelo juiz da execução | Art. 75, caput e § 1º |
+| Nova unificação | Fato posterior ao início do cumprimento: despreza-se o cumprido | Fato anterior: entra na soma, sem reiniciar o teto | Art. 75, § 2º |
+| Benefícios da execução | Calculados sobre a pena total, não sobre a unificada | Vale para o limite atual de 40 anos | Súmula 715 do STF |
+
+## 16.12 Artigos de lei incidentes
+
+- Código Penal: arts. 11 (frações de dia), 13, § 1º, 20, § 3º, 44, 69, 70, 71, 72, 73, 74, 75, 76, 109, 119, 129, § 6º, 155, 157, 168-A, 217-A, 337-A.
+- Lei de Execução Penal (Lei 7.210/1984): arts. 66, III, a, e 111.
+- Código de Processo Penal: arts. 28-A, § 2º, II, 76 e 82.
+- Lei 9.099/1995: arts. 61, 76 e 89 (por remissão).
+- Constituição Federal: art. 5º, XLVII, b.
+- Lei 13.964/2019 (nova redação do art. 75).
+
+## 16.13 Julgados, temas e súmulas do capítulo
+
+- Súmula 659 do STJ: fração da continuidade pelo número de crimes (1/6 a 2/3).
+- Súmula 497 do STF: prescrição no crime continuado sem o acréscimo.
+- Súmula 715 do STF: benefícios calculados sobre a pena total, não a unificada.
+- Súmula 605 do STF: superada; cabe continuidade em crimes contra a vida.
+- Tema 1.192 do STJ: roubo com uma conduta contra vítimas diferentes, ainda que da mesma família, é concurso formal.
+- Tema 1.353 do STJ: não há continuidade entre arts. 168-A e 337-A.
+- Tema 1.202 do STJ: estupro de vulnerável em longo período; fração de 2/3 sem número exato.
+- Jurisprudência em Teses do STJ, ed. 17, teses 1 a 5 e 8 a 11: requisitos da continuidade, 30 dias, comarcas próximas, modo diverso, habitualidade, estupro e AVP, competência no concurso.
+- Jurisprudência em Teses do STJ, ed. 23, teses 1 a 4, 7 e 8: concurso formal (roubo, desígnios, fração, prescrição, transação).
+- Jurisprudência em Teses do STJ, ed. 51, teses 5, 12 e 15; ed. 84, tese 6; ed. 87, tese 8; ed. 131, tese 19: casos de concurso formal e continuidade em crimes específicos.
+- STJ, AgRg no AREsp 2.521.343-SP (Info 827) e AgRg no REsp 2.052.416-SC (Info 860): dolo eventual e desígnios autônomos.
+- STJ, REsp 2.198.744-MG (Info 860) e AgRg no HC 749.440-SC: concurso material em crimes de trânsito.
+- STJ, REsp 2.194.002-MS (Info 880): flexibilização do intervalo de 30 dias.
+- STJ, REsp 2.270.023-SC (Info 903): rachadinha; vítimas diferentes e habitualidade.
+- STJ, REsp 2.204.207-PE: tributos mensais; continuidade.
+- STJ, HC 435.792/SP: não há continuidade entre roubo e extorsão.
+- STJ, HC 232.709/SP e AgRg no AREsp 2.165.385/MG (Info 786): violência presumida não gera continuidade específica.
+- STJ, HC 162.987/DF e AgRg no REsp 2.018.231-MG: concorrência entre concurso formal e continuidade.
+- STJ, AgRg no REsp 1.843.797-SP: multa única exasperada no crime continuado.
+- STJ, AgRg no AREsp 1.422.493-DF: execução não altera concurso reconhecido na mesma sentença.
+
+Remissões a outros capítulos: Súmula 711 do STF (Cap. 3); Súmula 444 do STJ (Cap. 13); Súmula 243 do STJ, Súmula 723 do STF e ANPP (Cap. 25); art. 119 e prazos prescricionais (Cap. 22); latrocínio com várias mortes (Cap. 29); tráfico e arma de fogo (Cap. 37); data-base após unificação e incidentes da execução (Cap. 24); limite das medidas de segurança (Cap. 19); regime e substituição no concurso (Cap. 17); teoria do erro na execução e do resultado diverso (Cap. 7).
+
+# CAPÍTULO 17 — DEPOIS DA PENA: REGIME INICIAL, DETRAÇÃO NA SENTENÇA, SUBSTITUIÇÃO POR RESTRITIVAS DE DIREITOS E SUSPENSÃO CONDICIONAL DA PENA
+
+## 17.8 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Ordem das decisões | detração para o regime → regime → substituição → *sursis* | o regime é fixado SEMPRE, mesmo com substituição ou *sursis* | art. 59, III e IV; art. 77, III; art. 387, § 2º, CPP |
+| Regime: quantidade | > 8 anos fechado; > 4 até 8 semiaberto; até 4 aberto | "deverá" (fechado) x "poderá" (semiaberto e aberto) | art. 33, § 2º |
+| Regime: reincidência | reincidente perde o regime mais brando | até 4 anos com art. 59 favorável: semiaberto | Súmula 269 STJ |
+| Regime: art. 59 | vetor negativo concreto autoriza regime mais grave | gravidade abstrata não fundamenta; pena-base no mínimo impede regime mais grave só pela gravidade abstrata | art. 33, § 3º; Súmulas 718 e 719 STF; 440 STJ |
+| Regime: detenção | nunca começa no fechado | fechado só por regressão | art. 33, caput |
+| Regime: hediondos | regras gerais do art. 33 | regime inicial fechado obrigatório é inconstitucional; progressão: SV 26 | HC 111.840; Tema 972 STF; SV 26 |
+| Regime: drogas | natureza e quantidade da droga podem justificar regime mais grave | privilegiado sem vetor negativo: aberto e substituição impositivos (SV 59 — Cap. 37) | art. 42 Lei 11.343; JT 131, tese 50 |
+| Regime: concurso | pela pena total (soma ou exasperação) | condenação superveniente: unificação pelo juiz da execução | art. 111 LEP |
+| Detração na sentença | desconta a prisão provisória só para escolher o regime | não exige fração de progressão; art. 59 negativo pode manter regime mais grave | art. 387, § 2º, CPP; art. 42 CP |
+| Detração: cautelares | recolhimento noturno e nas folgas é detraído (horas → dias; fração desprezada) | não depende de monitoração; monitoração isolada não detrai | Tema 1.155 STJ |
+| Detração: outro processo | admite prisão em processo diverso | só para crime praticado ANTES da prisão (vedação do crédito de pena) | art. 42 CP; jurisprudência |
+| Substituição: requisitos | pena até 4 anos, sem violência ou grave ameaça à pessoa; não reincidente em doloso; art. 59 favorável | culposo: qualquer pena; concurso: pena total | art. 44, I a III |
+| Substituição: reincidente | pode, se socialmente recomendável e não for reincidência no mesmo crime | "mesmo crime" = mesmo tipo penal | art. 44, § 3º; AgRg no AREsp 1.716.664 |
+| Substituição: quantidade | até 1 ano: multa ou 1 PRD; > 1 ano: 2 PRD ou PRD + multa | PSC só para pena > 6 meses | art. 44, § 2º; art. 46 |
+| Substituição: vedações | violência doméstica contra a mulher com violência ou grave ameaça, inclusive contravenção | tráfico: vedação inconstitucional | Súmula 588 STJ; HC 97.256; Res. 5/2012 Senado |
+| PRD e regime aberto | restritiva não pode ser condição do aberto | — | Súmula 493 STJ; Tema 20 STJ |
+| *Sursis*: requisitos | pena até 2 anos; não reincidente em doloso; art. 59 favorável; substituição incabível | condenação anterior só a multa não impede; violência não impede | art. 77 |
+| *Sursis*: espécies | simples (2 a 4 anos, PSC ou limitação no 1º ano); especial (reparação e art. 59 inteiramente favorável) | etário (> 70 anos) e humanitário (saúde): pena até 4, prova de 4 a 6 | arts. 77, § 2º, e 78 |
+| *Sursis*: alcance | suspende só a privativa | não se estende à multa nem às restritivas | art. 80 |
+| *Sursis*: início | audiência admonitória após o trânsito | ausência injustificada: sem efeito | arts. 160 e 161 LEP |
+| *Sursis*: revogação obrigatória | condenação irrecorrível por doloso; não reparação injustificada (ou frustrar multa); descumprir art. 78, § 1º | trânsito no curso do prazo | art. 81, caput |
+| *Sursis*: revogação facultativa | outra condição descumprida; condenação por culposo ou contravenção a privativa ou restritiva | pode prorrogar até o máximo | art. 81, §§ 1º e 3º |
+| *Sursis*: prorrogação | automática se processado por outro crime ou contravenção | até o julgamento definitivo | art. 81, § 2º |
+| *Sursis*: extinção | expirado o prazo sem revogação, extingue-se a pena | condenação subsiste; período de prova conta para o depurador | art. 82; art. 64, I |
+| *Sursis* x SCP | suspende a execução, gera reincidência | SCP suspende o processo e extingue a punibilidade | art. 77 CP; art. 89 Lei 9.099 |
+
+## 17.9 Artigos de lei incidentes
+
+- Código Penal: arts. 33, 42, 44, 54, 59, III e IV, 64, I, 69, §§ 1º e 2º, 76, 77 a 82.
+- Código de Processo Penal: art. 387, § 2º.
+- Lei de Execução Penal: arts. 66, III, "c" e "d", 111, 115, 156 a 163.
+- Lei 8.072/1990: art. 2º, § 1º (declarado inconstitucional).
+- Lei 11.343/2006: arts. 33, § 4º (parte final suspensa pela Resolução 5/2012 do Senado), 42 e 44.
+- Lei 11.340/2006: arts. 17 e 41.
+- Lei 9.455/1997: art. 1º, § 7º. Lei 12.850/2013: art. 2º, § 8º.
+- Lei 9.099/1995: art. 89 (comparação). Decreto-Lei 3.688/1941: art. 11. Lei 9.605/1998: arts. 16 e 17.
+- Constituição Federal: art. 5º, XLVI; art. 52, X.
+
+## 17.10 Julgados, temas e súmulas do capítulo
+
+- Súmula 718 do STF — gravidade abstrata não é motivação idônea para regime mais severo.
+- Súmula 719 do STF — regime mais severo que o permitido exige motivação idônea.
+- Súmula 269 do STJ — reincidente, pena até 4 anos, art. 59 favorável: semiaberto.
+- Súmula 440 do STJ — pena-base no mínimo impede regime mais grave pela gravidade abstrata.
+- Súmula 493 do STJ e Tema 20 do STJ — restritiva não pode ser condição especial do aberto.
+- Súmula 588 do STJ — violência doméstica contra a mulher com violência ou grave ameaça impede substituição.
+- Súmula Vinculante 26 — progressão em hediondos e exame criminológico fundamentado.
+- STF, HC 111.840 (Plenário, j. 27/6/2012) e Tema 972 do STF — inconstitucional o regime inicial fechado obrigatório dos hediondos.
+- STF, HC 97.256 (Plenário, j. 1/9/2010) e Resolução 5/2012 do Senado — inconstitucional a vedação de substituição no tráfico.
+- STJ, Tema 1.155 — detração do recolhimento noturno e nas folgas, convertido em horas.
+- STJ, AgRg no AREsp 1.716.664/SP (Terceira Seção, j. 25/8/2021) — reincidência específica do art. 44, § 3º, exige crimes idênticos.
+- Jurisprudência em Teses do STJ, ed. 131, teses 49 e 50 — regime no tráfico: regras do CP; natureza e quantidade da droga podem agravar o regime.
+- Súmula 499 do STF — condenação anterior a multa não impede o *sursis* (reproduzida no art. 77, § 1º).
+
+Remissões a outros capítulos: HC 123.108, 123.533 e 123.734 (Cap. 2); Súmulas 171 e 643 do STJ, Tema 931 do STJ e AgRg no AREsp 2.783.936 (Cap. 12); Súmula 444 do STJ (Cap. 13); art. 64 e reincidência (Cap. 14); Súmula 715 do STF (Cap. 16); prescrição e detração (Cap. 22); Súmula Vinculante 56 (Cap. 23); HC 82.959, Súmula 491 do STJ, Súmula 716 do STF, Súmula 617 do STJ, Lei 14.843/2024 e progressão (Cap. 24); Súmulas 536 do STJ e 696 do STF, Tema 920 do STJ (Cap. 25); Súmula Vinculante 59 (Cap. 37); art. 17 da Lei 11.340/2006 (Cap. 38).
+
+# CAPÍTULO 18 — EFEITOS DA CONDENAÇÃO, PERDA DE BENS, CONFISCO ALARGADO E REABILITAÇÃO
+
+## 18.11 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Efeitos penais secundários | reincidência, antecedentes, revogação de benefícios, prescrição | subsistem ao indulto e à PPE; não à PPP | CP, arts. 63, 77, 81, 86, 110, 117; Súmula 631 STJ |
+| Obrigação de reparar | automática; sentença é título executivo | valor mínimo exige pedido e contraditório; dano moral *in re ipsa* na violência doméstica | CP, art. 91, I; CPP, arts. 63 e 387, IV; Tema 983 STJ |
+| Coisa julgada no cível | inexistência do fato, negativa de autoria e excludentes vinculam | falta de provas e atipicidade não | CC, art. 935; CPP, arts. 65 a 67 |
+| Perda de instrumentos | só os ilícitos em si | orcrim e milícia; tráfico; lavagem perdem até os lícitos | CP, art. 91, II, a; 91-A, § 5º; CF, art. 243 |
+| Perda de produto e proveito | automática; ressalva do lesado e do terceiro de boa-fé | destinação à União (ou Estado) por lei orçamentária | CP, art. 91, II, b; ADPF 569 |
+| Perda pelo equivalente | produto não encontrado ou no exterior; de ofício | sequestro e arresto pelo equivalente desde a investigação | CP, art. 91, §§ 1º e 2º |
+| Confisco alargado | pena máxima > 6 anos de reclusão; patrimônio incompatível (bens na data da infração ou recebidos depois; transferências gratuitas ou irrisórias desde o início da ATIVIDADE criminal) | pedido do MP na denúncia; presunção relativa; sentença declara valor e bens | CP, art. 91-A |
+| Perda do cargo | ≥ 1 ano (abuso de poder/violação de dever) ou > 4 anos (demais) | não automática; independe de pedido e de PAD; cargo da época (salvo correlação); não cassa aposentadoria | CP, art. 92, I, § 1º; REsp 1.452.935 |
+| Poder familiar, tutela, curatela | crime doloso, reclusão, contra filho, descendente, tutelado, curatelado, outro titular, mulher (gênero) | não automática (salvo § 2º) | CP, art. 92, II |
+| Inabilitação para dirigir | veículo como meio de crime doloso | não se confunde com a pena do CTB; cabe no tráfico | CP, art. 92, III; AgRg no REsp 2.220.076 |
+| Suspensão do CNPJ | 180 dias; estabelecimento usado na receptação | reincidência: inaptidão e interdição do administrador por 5 anos | CP, art. 92, IV, §§ 3º e 4º (Lei 15.358/2026) |
+| Regime automático | violência de gênero (e crimes sexuais do ECA desde 7/8/2026) | perda do cargo, poder familiar e vedação de nomeação até o fim da pena | CP, art. 92, § 2º |
+| Leis especiais | tortura e orcrim: automáticos; racismo e falência: motivados; abuso: só reincidente | interdição: dobro (tortura, lavagem), 8 anos (orcrim) | Leis 9.455, 12.850, 9.613, 7.716, 11.101, 13.869 |
+| Direitos políticos | suspensos automaticamente até o fim da pena | vale com pena substituída; cessa sem reabilitação | CF, art. 15, III; Tema 370 STF; Súmula 9 TSE |
+| Reabilitação: requisitos | 2 anos da extinção; domicílio; bom comportamento; reparação | impossibilidade, renúncia ou novação dispensam; computa-se prova do *sursis* e do livramento | CP, art. 94 |
+| Reabilitação: efeitos | sigilo e suspensão dos efeitos do art. 92 | sem reintegração no cargo e no poder familiar sobre a vítima; não afasta reincidência | CP, art. 93; CPP, art. 748 |
+| Reabilitação: revogação e competência | de ofício ou a pedido do MP; juízo da condenação | condenação como reincidente a pena que não seja só multa; apelação | CP, art. 95; CPP, art. 743 |
+
+## 18.12 Artigos de lei incidentes
+
+- Constituição Federal: arts. 5º, XLV; 15, III; 27, § 1º; 41, § 1º, I; 55, VI, e § 2º; 142, § 3º, VI e VII; 243, parágrafo único.
+- Código Penal: arts. 43, II; 63; 64; 91; 91-A; 92 (incisos I a IV, §§ 1º a 4º); 93; 94; 95; 121-A, § 1º; 180.
+- Código de Processo Penal: arts. 28-A, II; 63 a 68; 118 a 144-A (em especial 124-A, 125, 129, 130, 133 e 133-A); 386; 387, IV; 593, II; 743 a 750.
+- Código Civil: arts. 200; 935; 1.638, parágrafo único.
+- Código de Processo Civil: arts. 315; 515, VI, e § 1º.
+- Lei de Execução Penal: art. 202.
+- Leis especiais: Lei 9.455/1997, art. 1º, § 5º; Lei 12.850/2013, art. 2º, § 6º; Lei 9.613/1998, art. 7º; Lei 7.716/1989, arts. 16 e 18; Lei 13.869/2019, art. 4º; Lei 11.101/2005, art. 181; Lei 11.343/2006, arts. 63 a 63-F; Lei 9.099/1995, art. 76; LC 64/1990, art. 1º, I, "e"; Lei 8.112/1990, arts. 126 e 134; Leis 13.964/2019, 14.994/2024, 15.358/2026 e 15.487/2026 (alterações).
+
+## 18.13 Julgados, temas e súmulas do capítulo
+
+- STF, ADPF 569: valores de condenações e acordos vão à União, pelo orçamento; vedada destinação por MP ou juiz.
+- STJ, REsp 1.452.935 (Informativo 599): perda do cargo restrita ao cargo da época do crime, salvo correlação fundamentada.
+- STJ, AgRg no REsp 2.220.076 (Informativo 30, edição extraordinária, 2026): inabilitação para dirigir no tráfico com uso de veículo.
+- STF, Tema 370 (RE 601.182): suspensão dos direitos políticos mesmo com pena substituída.
+- Súmula 9 do TSE: suspensão dos direitos políticos cessa com o cumprimento ou extinção da pena, sem reabilitação.
+- Súmula 18 do STF: falta residual autoriza punição administrativa após absolvição criminal.
+
+Remissões a outros capítulos: Tema 983 do STJ (REsp 1.643.051) — dano moral mínimo na violência doméstica (Cap. 38); Tema 187 do STF (RE 795.567) — transação penal sem efeitos do art. 91 (Cap. 25); Súmula 631 do STJ — indulto e efeitos secundários (Cap. 21); quadro de efeitos da PPP x PPE e Informativo 884 do STJ sobre o DL 201/1967 (Cap. 22); Tema 647 do STF — confisco no tráfico (Cap. 37); Súmula 673 do STF — perda da graduação de praças (Cap. 51); art. 33, § 4º, do CP — progressão e reparação nos crimes contra a Administração (Cap. 35); reincidência e período depurador (Cap. 14).
+
+# CAPÍTULO 19 — MEDIDAS DE SEGURANÇA E POLÍTICA ANTIMANICOMIAL
+
+## 19.12 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Natureza | sanção penal preventiva especial; fundamento na periculosidade | não gera reincidência nem maus antecedentes | arts. 96 a 99 do CP |
+| Legalidade | reserva legal e anterioridade | sem medida pré-delitual; lei mais grave não retroage | art. 5º, XXXIX e XL, da CF |
+| Sistema | vicariante: pena OU medida | duplo binário abolido em 1984 | Lei 7.209/1984; art. 98 |
+| Pressupostos | fato típico e ilícito + periculosidade + inimputabilidade ou semi-imputabilidade | absolvição própria prevalece; adolescente e embriaguez fortuita não recebem medida | arts. 26, 27, 28, § 1º |
+| Espécies | internação (reclusão: obrigatória pela lei) ou ambulatorial (faculdade na detenção) | STJ: escolha pela periculosidade, mesmo na reclusão; Resolução 487: ambulatorial como regra | art. 97; EREsp 998.128 |
+| Local | estabelecimento hospitalar | presídio comum: constrangimento ilegal, mesmo sem vaga | art. 99; HC 381.907 |
+| Sentença | absolvição imprópria com medida | sem dosimetria; fundamentar espécie e prazo mínimo | art. 386, VI e p.u., III, do CPP |
+| Recurso só da defesa | tribunal não aplica medida | vedada a *reformatio in pejus* | Súmula 525 do STF |
+| Prazo mínimo | 1 a 3 anos; marco do 1º exame | detração (art. 42) | art. 97, § 1º |
+| Duração máxima | pena máxima abstrata do crime | STF: limite do art. 75 (40 anos); vale também na absolvição imprópria | Súmula 527 do STJ; EDcl HC 894.787 |
+| Perícia | ao fim do prazo mínimo e de ANO EM ANO | a qualquer tempo, por ordem do juiz; antes do mínimo, a requerimento fundamentado | art. 97, § 2º; art. 176 da LEP |
+| Rito do exame | relatório da autoridade administrativa 1 mês antes, com laudo; MP e defesa 3 dias cada; decisão em 5 dias | diligências mesmo após o prazo mínimo; desinternação após trânsito | arts. 175 a 179 da LEP |
+| Desinternação ou liberação | sempre condicional, por 1 ano | volta se praticar fato indicativo de periculosidade (não precisa ser crime) | art. 97, § 3º; art. 178 da LEP |
+| Ambulatorial → internação | a qualquer fase, para fins curativos ou por incompatibilidade | prazo mínimo de 1 ano | art. 97, § 4º; art. 184 da LEP |
+| Semi-imputável | pena reduzida (1/3 a 2/3) e, se precisar de tratamento, substituída por medida | duração: controvertida (pena concreta x máximo abstrato) | art. 26, p.u.; art. 98 |
+| Doença superveniente | transitória: transferência (conta como pena); duradoura: conversão | conversão limitada ao restante da pena | art. 41; arts. 108 e 183 da LEP; HC 373.405 |
+| Extinção da punibilidade | não se impõe nem subsiste medida | indulto alcança medida de segurança | art. 96, p.u.; Tema 371 do STF |
+| Prescrição | inimputável: máximo abstrato (PPP e PPE); semi-imputável: pena concreta após a sentença | absolutória imprópria não interrompe; incidente de insanidade não suspende | arts. 109, 110, 116 e 117; RHC 39.920 |
+| Lei 10.216/2001 | internação só se insuficientes os recursos extra-hospitalares | vedadas instituições asilares; internação compulsória pelo juiz | arts. 2º, 4º, 6º e 9º |
+| Resolução CNJ 487/2023 | ambulatorial na RAPS, PTS, internação excepcional em leito de saúde; fechamento dos HCTPs | prazos de 9 e 15 meses (Res. 572/2024), prorrogáveis; ADIs 7.389, 7.454, 7.566 e ADPF 1.076 pendentes | Resolução CNJ 487/2023 |
+| Direitos do internado | direitos do preso no que couber; médico de confiança | divergência médica resolvida pelo juiz; sem regime disciplinar | arts. 3º, 42, 43 e 44 da LEP |
+
+## 19.13 Artigos de lei incidentes
+
+- Constituição Federal: art. 5º, XXXIX, XL e XLVII, "b"; art. 5º, § 3º; art. 84, XII.
+- Código Penal: arts. 26, 27, 28, § 1º, 41, 42, 52, 75, 96 a 99, 107, 109, 110, 116 e 117.
+- Código de Processo Penal: arts. 149 a 154, 319, VII, 386, VI e parágrafo único, III, 415, parágrafo único, e 617.
+- Lei 7.210/1984 (LEP): arts. 3º, 41 a 44, 99 a 101, 108, 132, 133, 171 a 179, 183, 184 e 197.
+- Lei 10.216/2001: arts. 2º, 4º, 5º, 6º, 8º e 9º.
+- Lei 13.146/2015 (Estatuto da Pessoa com Deficiência) e Convenção sobre os Direitos das Pessoas com Deficiência (Decreto 6.949/2009), art. 14.
+- Resolução CNJ 487/2023 (art. 18 e art. 18-A, este incluído pela Resolução CNJ 572/2024).
+
+## 19.14 Julgados, temas e súmulas do capítulo
+
+- Súmula 527 do STJ — duração máxima da medida de segurança: pena máxima abstrata do delito.
+- Súmula 422 do STF — absolvição não prejudica a medida de segurança (hoje: só na absolvição imprópria).
+- Súmula 525 do STF — medida de segurança não se aplica em segunda instância em recurso exclusivo da defesa.
+- STJ, EREsp 998.128/MG (Info 662) — escolha da espécie pela periculosidade, não pela reclusão ou detenção.
+- STJ, EDcl no HC 894.787/SP (2025) — Súmula 527 vale para a absolvição imprópria.
+- STJ, HC 373.405/SP — conversão do art. 183 da LEP limitada ao restante da pena concreta.
+- STJ, HC 381.907 — inimputável em presídio comum é constrangimento ilegal, mesmo sem vaga.
+- STJ, RHC 39.920/RJ (Info 535) e AgRg no REsp 1.667.508 — prescrição da medida de segurança pelo máximo abstrato.
+- STF, HC 84.219/SP — medida de segurança limitada ao teto do art. 75 do CP.
+- STF, Tema 371 (RE 628.658) — indulto alcança medida de segurança.
+- STF, ADIs 7.389, 7.454 e 7.566 e ADPF 1.076 (pendentes) — constitucionalidade da Resolução CNJ 487/2023.
+- Corte IDH, caso Ximenes Lopes vs. Brasil (2006) — primeira condenação do Brasil; saúde mental.
+
+Remissões a outros capítulos: inimputabilidade, semi-imputabilidade, incidente de insanidade e STJ REsp 1.802.845 (Cap. 10); legalidade e Q2511469 (Cap. 2); autoria mediata e acessoriedade (Cap. 11); detração e Tema 1.155 do STJ (Cap. 17); Súmula Vinculante 56 e estabelecimentos penais (Cap. 23); marcos e causas suspensivas da prescrição (Cap. 22); indulto em geral (Cap. 21).
+
+# CAPÍTULO 20 — AÇÃO PENAL NO CÓDIGO PENAL, CONDIÇÕES OBJETIVAS DE PUNIBILIDADE E ESCUSAS ABSOLUTÓRIAS
+
+## 20.14 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Regra geral | ação pública incondicionada; silêncio da lei = incondicionada | privada e condicionada só por previsão expressa ("somente se procede mediante...") | art. 100 CP |
+| Normas de ação penal | mistas: benéfica retroage, gravosa não | ação pública é divisível; privada, indivisível | art. 5º, XL, CF |
+| Representação | condição de procedibilidade; sem forma (BO, até eletrônico, serve) | eficácia objetiva (fato, não pessoas); destinatário: juiz, MP ou delegado | art. 24 e 39 CPP; Info 862 STJ |
+| Decadência | 6 meses do conhecimento da autoria (12 meses na violência doméstica e familiar contra a mulher, Lei 15.438/2026); prazo penal (art. 10); peremptório | subsidiária: conta do fim do prazo do MP e é imprópria (não extingue a punibilidade) | art. 103 CP; art. 38 CPP; Info 887 STJ |
+| Retratação da representação | até o OFERECIMENTO da denúncia | Maria da Penha: perante o juiz, em audiência, até o RECEBIMENTO; retratação da retratação dentro do prazo | art. 102 CP; art. 25 CPP; art. 16 Lei 11.340 |
+| Requisição do MJ | ato político; não vincula o MP; sem prazo decadencial | irretratável (majoritário) | art. 100, § 1º; art. 145, par. único; art. 7º, § 3º, b |
+| Estelionato | incondicionado para fatos desde 4/5/2026 | condicionado de 23/1/2020 a 3/5/2026, salvo vítimas do antigo § 5º | Lei 13.964/2019; Lei 15.397/2026 |
+| Crimes sexuais | incondicionados desde 25/9/2018 | 2009 a 2018: condicionados, salvo vulnerável ou menor de 18; vulnerabilidade temporária = condicionada | art. 225; Lei 13.718/2018; Súmula 670 STJ |
+| Lesão em violência doméstica contra a mulher | incondicionada, mesmo leve | ameaça comum e perseguição seguem condicionadas | ADI 4.424; Súmula 542 STJ; art. 41 Lei 11.340 |
+| Ameaça | condicionada | contra a mulher por razões da condição do sexo feminino: incondicionada e pena em dobro | art. 147, §§ 1º e 2º (Lei 14.994/2024) |
+| Honra de servidor *propter officium* | legitimidade concorrente: queixa ou representação | a representação preclui a queixa | Súmula 714 STF; Corte Especial STJ, 4/12/2024 |
+| Crime complexo | se um componente é de ação pública, o todo é público | injúria real com lesão | art. 101 CP |
+| Privada personalíssima | só o ofendido; sem sucessão | único exemplo: art. 236 | art. 236, par. único |
+| Indivisibilidade (privada) | queixa contra todos os coautores conhecidos | omissão voluntária = renúncia tácita para todos; ofensores autônomos na internet não violam | arts. 48 e 49 CPP; JT 280 STJ |
+| Privada subsidiária | cabe com a inércia do MP no prazo do art. 46 CPP | não cabe se o MP arquivou ou requisitou diligências externas; MP pode retomar | art. 5º, LIX, CF; art. 29 CPP; Tema 811 STF |
+| Renúncia, perdão, perempção | ver o ESQUEMA de 20.10.4 | indenização não é renúncia, salvo composição homologada no Juizado; perdão: silêncio em 3 dias = aceitação | arts. 104 a 106 CP; arts. 49 a 60 CPP |
+| Condição objetiva de punibilidade | evento futuro, incerto, exterior ao tipo, fora do dolo | comunica-se; não altera tempo e lugar do crime; sentença falimentar | art. 180 Lei 11.101; art. 7º, § 2º |
+| Condição de procedibilidade | condiciona apenas a ação | representação, requisição; art. 236, par. único | art. 395, II, CPP |
+| Escusa absolutória | causa pessoal de exclusão da pena, contemporânea ao fato | não se comunica; crime e dever de indenizar subsistem | arts. 181 e 348, § 2º; art. 183 |
+
+## 20.15 Artigos de lei incidentes
+
+- Constituição Federal: art. 5º, XLV e LIX; art. 127, § 1º; art. 129, I; art. 226, § 3º.
+- Código Penal: arts. 7º, §§ 2º e 3º, 10, 100 a 107, 140, §§ 2º e 3º, 141, I, 145, 147, §§ 1º e 2º, 147-A, § 3º, 151, § 4º, 154-B, 156, § 1º, 161, § 3º, 167, 171 (§ 5º revogado), 179, parágrafo único, 181 a 183, 225, 236, 345, parágrafo único, 348, § 2º.
+- Código de Processo Penal: arts. 5º, § 4º, 24 a 62, 395, II, 520, 529, 569.
+- Leis especiais: Lei 9.099/1995, arts. 74, 75, 88; Lei 11.340/2006, arts. 7º, IV, 16, 16-A e 41; Lei 9.503/1997 (CTB), art. 291, § 1º; Lei 11.101/2005, arts. 180 e 182; Lei 8.137/1990, art. 1º; Lei 13.718/2018; Lei 14.994/2024; Lei 15.397/2026, art. 3º; Lei 15.438/2026 (art. 103, parágrafo único, do CP; art. 16-A da Lei 11.340/2006; art. 38, § 2º, do CPP).
+
+## 20.16 Julgados, temas e súmulas do capítulo
+
+- Súmula 714 do STF: legitimidade concorrente na ofensa a servidor *propter officium*.
+- Súmula 594 do STF: queixa e representação exercidas independentemente pelo ofendido e pelo representante legal.
+- Súmula 608 do STF: estupro com violência real era de ação incondicionada (superada para fatos após a Lei 13.718/2018).
+- Súmula 709 do STF: acórdão que provê recurso contra a rejeição vale como recebimento.
+- Súmula 542 do STJ: lesão em violência doméstica contra a mulher, ação incondicionada.
+- Súmula 670 do STJ: vulnerabilidade temporária sob a Lei 12.015/2009, ação condicionada.
+- STF, ADI 4.424 (Plenário, 9/2/2012): Lei Maria da Penha e lesão leve, ação incondicionada.
+- Tema 811 do STF (ARE 859.251): privada subsidiária só com inércia; diligências internas não afastam.
+- STJ, Corte Especial, 4/12/2024 (Inf. Extraordinário 24): representação do servidor preclui a queixa.
+- STJ, AgRg no AREsp 3.080.643-SE (Info 887): prazo decadencial peremptório, ainda que mude a capitulação.
+- STJ, AgRg no HC 1.005.298-SP (Info 862): BO eletrônico vale como representação.
+- STJ, AgRg no AREsp 2.907.967-RS: representação sem formalidade no estelionato.
+- STJ, REsp 2.083.823-DF (Info 843): ANPP cabível em ação privada.
+- STJ, Jurisprudência em Teses ed. 280, teses 8 e 9: ofensores autônomos na internet não violam a indivisibilidade.
+
+Remissões a outros capítulos: retroatividade da representação no estelionato, STF HC 208.817 AgR (Cap. 3); Súmula Vinculante 24 (Cap. 45); imunidades patrimoniais e ADPF 1.185 (Cap. 30); retratação na Lei Maria da Penha (Cap. 38); ANPP e Juizados (Cap. 25); perdão judicial e efeitos da extinção da punibilidade (Cap. 21); HC 46.525 (Cap. 6).
+
+# CAPÍTULO 21 — EXTINÇÃO DA PUNIBILIDADE: MORTE, ANISTIA, GRAÇA, INDULTO, ABOLITIO CRIMINIS, RENÚNCIA, PERDÃO, RETRATAÇÃO, DECADÊNCIA, PEREMPÇÃO E PERDÃO JUDICIAL
+
+## 21.11 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Natureza | consequência do crime, não elemento; causa posterior ao fato | rol exemplificativo; declaração de ofício | art. 107; art. 61 do CPP |
+| Momento | antes do trânsito: some tudo; depois: só a pena | *abolitio* e anistia apagam também efeitos penais; civis ficam | arts. 2º, 63, 91 e 92 |
+| Art. 108 | extinção do crime-pressuposto, elemento ou agravante não se estende | conexão: agravação permanece | art. 108 |
+| Morte | personalíssima; extingue todas as penas, inclusive multa | reparação e perdimento alcançam herdeiros até a herança; certidão falsa: decisão revogável | art. 5º, XLV, da CF; art. 62 do CPP; HC 104.998 |
+| Anistia | lei do Congresso; atinge fatos; apaga efeitos penais | condicionada é recusável; irrevogável | art. 48, VIII, da CF; ADPF 153 |
+| Graça e indulto | decreto presidencial, delegável; só a pena | decisão declaratória; interpretação estrita; comutação = indulto parcial | art. 84, XII; LEP, arts. 187 a 193; JT 139 |
+| Vedações | hediondos, tortura, tráfico, terrorismo | "graça" abrange indulto; privilegiado pode; fatos anteriores à Lei 8.072 podem | art. 5º, XLIII; Lei 8.072, art. 2º, I; Tema 1.400 do STF |
+| Controle | discricionário; só constitucionalidade | graça com desvio de finalidade é nula | ADI 5.874; ADPFs 964 a 967 |
+| Efeitos do indulto | só efeitos primários | reincidência, antecedentes e extrapenais ficam | Súmula 631 do STJ |
+| Renúncia | antes da queixa; unilateral; estende-se a todos | indenização não é renúncia, salvo composição civil homologada | art. 104; art. 49 do CPP; art. 74 da Lei 9.099 |
+| Perdão do ofendido | após a queixa, até o trânsito; bilateral | silêncio em 3 dias = aceitação; não vale para quem recusa; não cabe na subsidiária | arts. 105 e 106; art. 58 do CPP |
+| Decadência | 6 meses do conhecimento da autoria | prazo penal fatal; basta oferecer a queixa | art. 103; art. 38 do CPP |
+| Perempção | negligência do querelante, só ação privada exclusiva | 30 dias; 60 dias sem sucessor; ausência ou falta de pedido de condenação; PJ extinta | art. 60 do CPP |
+| Retratação | calúnia e difamação; falso testemunho e falsa perícia; antes da sentença | unilateral; não cabe na injúria | arts. 143 e 342, § 2º; APn 912 |
+| Perdão judicial | só nos casos legais; sentença declaratória | sem reincidência, sem interrupção da prescrição, sem título civil; culposo exige vínculo afetivo ou dano físico | arts. 107, IX, 120 e 121, § 5º; Súmula 18 do STJ |
+| Casamento e outras causas | incisos VII e VIII revogados (ultratividade antes de 29/3/2005) | peculato culposo, tributo, *sursis*, livramento, ANPP; furto: reparação não extingue | Lei 11.106/2005; art. 312, § 3º |
+
+## 21.12 Artigos de lei incidentes
+
+- Constituição Federal: art. 5º, XL, XLIII e XLV; art. 48, VIII; art. 84, XII e parágrafo único.
+- Código Penal: arts. 2º; 10; 11; 63; 64; 91; 92; 102 a 108; 120; 121, § 5º; 129, § 8º; 140, § 1º; 143; 168-A, §§ 2º e 3º; 176, parágrafo único; 180, § 5º (revogado pela Lei 15.358/2026; fatos até 24/3/2026); 236, parágrafo único; 242, parágrafo único; 249, § 2º; 312, § 3º; 337-A, §§ 1º e 2º; 342, § 2º.
+- Código de Processo Penal: arts. 25; 28-A, § 13; 29; 31; 36; 38; 48 a 62; 395; 397, IV; 520 a 522; 581, VIII e IX; 739.
+- Lei 7.210/1984 (LEP): arts. 66, II; 187 a 193; 197.
+- Lei 8.072/1990: art. 2º, I.
+- Lei 9.099/1995: arts. 74, parágrafo único; 76; 89, § 5º.
+- Lei 9.807/1999: arts. 13 e 14.
+- Lei 12.850/2013: art. 4º, *caput*, §§ 2º e 5º.
+- Lei 9.613/1998: arts. 1º, § 5º, e 2º, § 1º.
+- Lei 11.340/2006: art. 16.
+- Leis 10.684/2003 (art. 9º, § 2º) e 9.430/1996 (art. 83, § 4º).
+- Lei 15.358/2026 (vedação de anistia, graça e indulto aos crimes que tipifica).
+- Lei 11.106/2005 (revogação dos incisos VII e VIII do art. 107).
+- Decretos de indulto: Decreto 12.338/2024 e Decreto 12.790/2025.
+
+## 21.13 Julgados, temas e súmulas do capítulo
+
+- Súmula 18 do STJ: sentença de perdão judicial é declaratória, sem efeito condenatório.
+- Súmula 631 do STJ: indulto extingue só os efeitos primários da condenação.
+- STF, ADI 5.874: indulto é ato discricionário do Presidente; controle judicial só de constitucionalidade.
+- STF, ADPFs 964, 965, 966 e 967: graça anulada por desvio de finalidade.
+- STF, ADPF 153: validade da Lei da Anistia de 1979.
+- STF, HC 104.998: extinção baseada em certidão de óbito falsa pode ser revogada.
+- STJ, Jurisprudência em Teses, ed. 139, teses 1 a 11 e 13: indulto e comutação (graça abrange indulto; decisão declaratória; interpretação estrita; data-base; pena original; penas alternativas; humanitário).
+- STJ, Jurisprudência em Teses, ed. 146, tese 17: falta grave no período do decreto impede o indulto.
+- STJ, Jurisprudência em Teses, ed. 193, tese 7: perdão judicial da Lei 9.807 exige requisitos cumulativos.
+- STJ, AgRg no HC 1.050.739 (Informativo 33, ed. extraordinária, 2026): reparação do dano dispensada no indulto se presumida a hipossuficiência.
+- STJ, APn 912 (Informativo 687): retratação da calúnia independe de aceitação.
+- STJ, AgRg no HC 1.014.496 (Informativo 30, ed. extraordinária): retratação unilateral, por escrito; mesmos meios só se a vítima quiser.
+- STJ, REsp 1.444.699 (Informativo 606): perdão judicial no homicídio culposo exige vínculo afetivo com a vítima.
+
+Remissões a outros capítulos: Tema 1.400 do STF (RE 1.542.482) — indulto ao tráfico privilegiado (Cap. 37); Súmula 535 do STJ (Cap. 23); Súmula 438 do STJ e prescrição em geral (Cap. 22); Súmula 611 do STF e teoria da *abolitio criminis* (Cap. 3); Súmula 554 do STF (Cap. 8); ADI 7.032, ADI 3.150 e Tema 931 do STJ (Cap. 12); Súmula 593 do STJ (Cap. 31); Tema 1.336 do STJ (Cap. 37); Súmula Vinculante 35 (Cap. 25); Súmula Vinculante 24 e pagamento do tributo (Cap. 45); Súmula 714 do STF (Cap. 20).
+
+# CAPÍTULO 22 — PRESCRIÇÃO PENAL: ESPÉCIES, PRAZOS, CÁLCULO, MARCOS INTERRUPTIVOS E SUSPENSIVOS
+
+## 22.17 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Natureza | causa de extinção da punibilidade, matéria de ordem pública, instituto material | reconhecível de ofício em qualquer fase; lei mais gravosa não retroage | arts. 107, IV, e 10 do CP; art. 61 do CPP |
+| Imprescritíveis | racismo (incluída a injúria racial) e ação de grupos armados | tortura, tráfico, terrorismo e hediondos prescrevem; tratado não cria imprescritibilidade | art. 5º, XLII e XLIV, da CF; HC 154.248 |
+| Tabela | <1: 3; 1 a 2: 4; >2 a 4: 8; >4 a 8: 12; >8 a 12: 16; >12: 20 | pena igual a 1 ano → 4 anos; fatos anteriores a 6/5/2010: 2 anos para pena <1 | art. 109 |
+| Abstrata | máximo cominado | majorante no máximo; minorante (tentativa) no mínimo; sem agravantes, atenuantes e reincidência | art. 109; Súmula 220 do STJ |
+| Contagem | inclui o dia do começo; calendário comum | prazo de N anos a partir de D termina em D − 1 dia, N anos depois | art. 10 |
+| Termo inicial | consumação | tentativa: último ato; permanente: cessação; bigamia e registro civil: conhecimento; vítima criança ou adolescente: 18 anos | art. 111 |
+| Interrupção | recebimento, pronúncia, confirmação da pronúncia, sentença ou acórdão condenatórios, início ou continuação do cumprimento, reincidência | oferecimento NÃO; acórdão confirmatório SIM; pronúncia vale mesmo com desclassificação; prazo recomeça integral (salvo inciso V) | art. 117; Tema 1.100 do STJ; HC 176.473; Súmula 191 do STJ |
+| Extensão | incisos I a IV atingem todos os autores e os crimes conexos do mesmo processo | incisos V e VI são pessoais | art. 117, § 1º |
+| Suspensão | questão prejudicial, pena no exterior, recursos inadmissíveis, ANPP; preso por outro motivo (PPE) | art. 366 do CPP limitado pelo máximo em abstrato; art. 89, § 6º, da Lei 9.099; parcelamento; art. 53, § 5º, da CF | art. 116; Súmula 415 do STJ; Tema 438 do STF |
+| Redução etária | metade: menor de 21 no fato ou maior de 70 na sentença | acórdão confirmatório não conta; exceção para violência sexual contra a mulher (fatos desde 2025) | art. 115; Lei 15.160/2025 |
+| Retroativa | pena aplicada, para trás, após trânsito para a acusação | não alcança o período anterior ao recebimento (fatos desde 6/5/2010); não se declara na própria sentença | art. 110, § 1º; Súmula 146 do STF |
+| Superveniente | pena aplicada, da sentença até o trânsito | acórdão confirmatório interrompe, mas não reabre prazo já esgotado | art. 110, § 1º |
+| Virtual | pena hipotética | inadmissível | Súmula 438 do STJ; Tema 239 do STF |
+| Concurso | cada crime isoladamente | sem o acréscimo do formal ou da continuidade; sem soma do material | art. 119; Súmula 497 do STF |
+| Executória | pena aplicada + 1/3 se reincidente | começa do trânsito para ambas as partes (trânsitos para a acusação após 12/11/2020); fuga e revogação do livramento: tempo que resta; detração não abate | arts. 110, 112 e 113; Tema 788 do STF |
+| Efeitos | PPP apaga tudo; PPE só a pena | PPE mantém reincidência, antecedentes e título civil | arts. 91 e 92 |
+| Multa | 2 anos se única cominada ou aplicada; senão, o prazo da PPL | execução: prazo do CP, causas do CTN (art. 174) e da LEF | art. 114; art. 51; Tema 1.405 do STJ |
+| PRD | mesmos prazos da PPL substituída | sem prazo próprio para prestação pecuniária | art. 109, parágrafo único |
+
+## 22.18 Artigos de lei incidentes
+
+- Constituição Federal: art. 5º, XL, XLII, XLIII, XLIV e LXXVIII; art. 53, § 5º.
+- Código Penal: arts. 4º, 10, 11, 42, 51, 107, IV, 109 a 119; art. 171, § 3º; art. 312, § 2º.
+- Código de Processo Penal: arts. 28-A, § 13; 61; 92; 93; 149, § 2º; 366; 368; 389; 581, VIII.
+- Lei 9.099/1995: art. 89, § 6º.
+- Lei 9.430/1996: art. 83, §§ 2º a 4º; Lei 10.684/2003: art. 9º.
+- Lei 12.850/2013: art. 4º, § 3º; Lei 12.529/2011: art. 87.
+- Lei 9.613/1998: art. 2º, §§ 1º e 2º.
+- Lei 11.101/2005: art. 182; Lei 11.343/2006: art. 30.
+- Lei 7.210/1984 (LEP): arts. 66, II, e 197.
+- Lei 6.830/1980 (LEF): art. 40; CTN: art. 174.
+- Leis de alteração: Lei 12.234/2010; Lei 12.650/2012; Lei 13.964/2019; Lei 14.344/2022; Lei 15.160/2025.
+
+## 22.19 Julgados, temas e súmulas do capítulo
+
+- Súmula 146 do STF: pena concretizada regula a prescrição quando não há recurso da acusação.
+- Súmula 592 do STF: crimes falimentares seguem as causas interruptivas do CP.
+- Súmula 191 do STJ: pronúncia interrompe mesmo com desclassificação pelo júri.
+- Súmula 220 do STJ: reincidência não influi na PPP.
+- Súmula 338 do STJ: prescrição penal aplica-se às medidas socioeducativas.
+- Súmula 415 do STJ: suspensão do art. 366 limitada pelo máximo cominado.
+- Súmula 438 do STJ: prescrição virtual inadmissível.
+- Tema 788 do STF (ARE 848.107): PPE corre do trânsito para ambas as partes; modulação para trânsitos da acusação após 12/11/2020.
+- Tema 438 do STF (RE 600.851): limitação da suspensão do art. 366 é constitucional.
+- Tema 239 do STF (RE 602.527 QO): rejeição da prescrição pela pena hipotética.
+- STF, HC 176.473 (Plenário, 2020): acórdão condenatório sempre interrompe.
+- Tema 1.100 do STJ: acórdão confirmatório interrompe, mantenha, reduza ou aumente a pena.
+- Tema 1.405 do STJ: multa — prazo do art. 114; causas do CTN e da LEF.
+- Tema 1.361 do STJ (afetado, pendente): base de cálculo da PPE de medida socioeducativa.
+- STJ, Informativo 860 (AgRg nos EDcl no REsp 2.086.256): sentença eletrônica interrompe na assinatura e disponibilização.
+- STJ, Informativo 848 (RHC 201.968): trânsito para a acusação anterior a 12/11/2020 segue a regra antiga.
+- STJ, Informativo 875 (RHC 219.766): art. 115 quando o acórdão posterior aos 70 anos altera substancialmente a condenação.
+- STJ, Informativo 886 (HC 1.037.843): retroativa anterior à denúncia para crime militar anterior à Lei 12.234/2010.
+- STJ, Informativo 884 (AgRg no AREsp 2.130.713): perda do cargo do DL 201/1967 com prazo próprio.
+- STF, RHC 84.177; STJ, AgRg no HC 490.288: detração não reduz a base da prescrição.
+
+Remissões a outros capítulos: Súmula 497 do STF — prescrição no continuado sem o acréscimo (Cap. 16); HC 154.248 do STF — injúria racial imprescritível (Cap. 41); Súmula 709 do STF (recebimento pelo tribunal — Cap. 20); Súmula 18 do STJ e Súmula 631 do STJ (Cap. 21); Súmula 231 e Súmula 74 do STJ (Cap. 14); Súmula Vinculante 24 (Cap. 45); ADO 26 (Cap. 41); falta grave em 3 anos, Jurisprudência em Teses ed. 7 (Cap. 23); Súmulas 243 do STJ e 723 do STF (Cap. 25).
+
+# CAPÍTULO 23 — EXECUÇÃO PENAL I: PRINCÍPIOS, LEP, ÓRGÃOS, ESTABELECIMENTOS, DIREITOS E DEVERES DO PRESO, DISCIPLINA, FALTAS E RDD
+
+## 23.12 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Natureza e alcance | jurisdicional (ou mista); aplica-se ao condenado, internado, provisório, egresso e ao condenado eleitoral ou militar em estabelecimento comum | provisório não é obrigado a trabalhar | arts. 1º, 2º e 194 |
+| Competência | juiz da organização judiciária; na falta, o da sentença | preso de outra Justiça em presídio estadual: juízo estadual; presídio federal: juiz federal | art. 65; Súmula 192 do STJ; Lei 11.671/2008 |
+| Falta de vaga | nunca regime mais gravoso; parâmetros do RE 641.320 | domiciliar não é automática | SV 56; Tema 993 do STJ |
+| Classificação | Comissão Técnica; exame criminológico obrigatório no fechado, facultativo no semiaberto | perfil genético: reclusão em regime inicial fechado; recusa é falta grave | arts. 5º a 9º-A |
+| Assistência | material, saúde, jurídica, educacional, social, religiosa, extensiva ao egresso | egresso: liberado definitivo por 1 ano e liberado condicional no período de prova; alojamento por 2 meses, prorrogável 1 vez | arts. 10 a 27 |
+| Trabalho | dever e direito; sem CLT; mínimo de 3/4 do salário mínimo; 6 a 8 h | externo no fechado: só obras públicas, 10%, consentimento para privada, 1/6, direção autoriza; semiaberto sem 1/6 | arts. 28 a 37; ADPF 336; Súmula 40 do STJ |
+| Direitos | rol exemplificativo do art. 41 | só V, X e XV restringíveis, por ato motivado do juiz; sem visita íntima no crime contra a mulher por razões da condição do sexo feminino | art. 41, §§ 1º e 2º |
+| Disciplina | legalidade; vedadas cela escura e sanção coletiva; tentativa = consumação | leves e médias na legislação local | arts. 45 e 49 |
+| Faltas graves | arts. 50 (I a IX), 51 e 52; rol taxativo | celular e componentes sem perícia; prescrição da apuração em 3 anos; crime doloso dispensa trânsito em julgado | Súmulas 526, 660 e 661; Tema 758 |
+| Sanções | diretor: advertência, repreensão, suspensão ou restrição de direitos, isolamento (até 30 dias); juiz: RDD | isolamento preventivo até 10 dias (administração); falta grave só com incisos III a V | arts. 53 a 58 e 60 |
+| Procedimento | PAD com defesa técnica | suprido por audiência judicial com defensor e MP; regressão definitiva exige oitiva | Súmula 533; Tema 941; art. 118, § 2º |
+| Efeitos da falta grave | regressão; interrompe progressão (base: pena remanescente); perda de até 1/3 dos remidos; revoga saída e trabalho externo | não interrompe livramento nem indulto e comutação | Súmulas 534, 441 e 535; arts. 112, § 6º, e 127; SV 9 cancelada |
+| RDD | crime doloso com subversão; alto risco; suspeita de facção; violência doméstica contra a vítima | até 2 anos; prorrogação sucessiva por 1 ano; liderança ou 2+ Estados: presídio federal; pedido também do MP; decisão final em 15 dias | arts. 52 e 54 |
+| Órgãos | oito órgãos do art. 61 | só o juiz interdita; juiz e MP visitam mensalmente; Conselho Penitenciário opina em indulto e comutação | arts. 61 a 81-B |
+| Estabelecimentos | penitenciária (fechado), colônia (semiaberto), albergado (aberto e limitação de fim de semana), centro de observação, HCTP, cadeia (provisórios) | berçário até no mínimo 6 meses; creche de 6 meses a 7 anos; cela de 6 m² | arts. 82 a 104 |
+
+## 23.13 Artigos de lei incidentes
+
+- Constituição Federal: art. 5º, XLV, XLVI, XLVII, XLVIII, XLIX e L; art. 15, III; art. 24, I.
+- Lei 7.210/1984 (LEP): arts. 1º a 104 (núcleo do capítulo), em especial 2º, 3º, 8º, 9º-A, 10 a 37, 39, 41, 41-A, 41-B, 45 a 60, 61 a 81-B, 82 a 104; e, pelos efeitos da falta grave, arts. 112, §§ 4º, 6º e 7º, 118, 125, 127, 146-C e 181.
+- Código Penal: arts. 34, 35, 36, 38, 39 e 109 (prescrição da falta, por analogia).
+- Código de Processo Penal: art. 292, parágrafo único.
+- Lei 11.671/2008 (sistema penitenciário federal).
+- Leis de alteração: 13.964/2019; 14.843/2024; 14.994/2024; 15.295/2025; 15.358/2026; 15.407/2026; 15.410/2026.
+
+## 23.14 Julgados, temas e súmulas do capítulo
+
+- Súmula Vinculante 56 e RE 641.320 (Tema 423 do STF): falta de vaga não autoriza regime mais gravoso.
+- ADPF 347: estado de coisas inconstitucional do sistema prisional.
+- Tema 993 do STJ: falta de vaga não gera domiciliar imediata.
+- AgRg no RHC 136.961 (STJ): pena em dobro no Instituto Penal Plácido de Sá Carvalho.
+- ADPF 336: piso de 3/4 do salário mínimo é constitucional.
+- REsp 2.168.896 (STJ): saque do pecúlio para itens de higiene.
+- HC 879.757 (STJ): recusa ao perfil genético é falta grave.
+- AgRg no HC 839.818 (STJ): celular no trabalho externo sem vedação judicial não é falta grave.
+- EP 2 TrabExt-AgR (STF) e Súmula 40 do STJ: 1/6 para trabalho externo só no fechado; tempo no fechado aproveitado.
+- Súmula 192 do STJ, AgInt nos EREsp 1.887.271, CC 137.899 e CC 170.111: competências na execução.
+- HC 133.305 (STF), RMS 48.818 e Tema 1.274 do STJ: visitas.
+- REsp 2.211.681 (STJ): Defensoria como *custos vulnerabilis*.
+- Súmulas 660 e 661 do STJ: celular e componentes; perícia dispensável.
+- Súmula 526 do STJ e Tema 758 do STF: crime doloso como falta sem trânsito em julgado.
+- Súmula 533 do STJ e Tema 941 do STF: PAD com defesa técnica, suprível por audiência judicial.
+- Súmulas 534 e 535 do STJ: falta interrompe progressão, não indulto e comutação.
+- Tema 477 do STF e cancelamento da SV 9: perda de até 1/3 dos dias remidos.
+- Súmulas 639 e 662 do STJ: sistema penitenciário federal.
+- Jurisprudência em Teses do STJ, eds. 7, 144, 145 e 146; AgRg no AREsp 3.114.054; Temas 1.320 e 1.440 do STJ (pendentes): falta grave e monitoramento.
+
+Remissões a outros capítulos: Tema 1.383 do STJ — penhora de até 1/4 do pecúlio para a multa (Cap. 24); Súmula 611 do STF (Cap. 3); Súmulas 439, 441, 491 e 520 do STJ, Súmulas 700, 716 e 717 do STF, Temas 1.347 e 1.165 do STJ, Lei 14.843/2024 e Lei 15.402/2026 (progressão e exame criminológico — Cap. 24); Tema 1.195 do STJ (indulto — Caps. 21 e 24); Tema 506 do STF e posse de droga (Cap. 37); HC 619.776 (art. 349-A do CP — Cap. 36); sistemas penitenciários (Cap. 12.3); medida de segurança e política antimanicomial (Cap. 19).
+
+# CAPÍTULO 24 — EXECUÇÃO PENAL II: PROGRESSÃO E REGRESSÃO, SAÍDAS, REMIÇÃO, LIVRAMENTO CONDICIONAL, MONITORAÇÃO, UNIFICAÇÃO, CONVERSÕES, INCIDENTES E AGRAVO EM EXECUÇÃO
+
+## 24.12 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Execução provisória | progressão do preso cautelar antes do trânsito | prisão automática após a 2ª instância: não; júri: sim; restritiva: não | Súmulas 716 e 717 do STF; ADCs 43, 44 e 54; Súmula 643 do STJ |
+| Unificação | define o regime; nova pena soma-se ao restante | não altera a data-base; frações distintas por crime | arts. 111 e 118, II; Temas 1.006 e 1.354 do STJ |
+| Progressão: frações | fatos desde 8/5/2026: 1/6; 25%; 30%; 20%; hediondos 70%, 75%, 80%, 85% | vale a lei do FATO; Título XII no 1/6; genérico = primário | art. 112; Temas 1.084 e 1.196 do STJ; Súmula 471 do STJ |
+| Progressão especial | 1/8, requisitos cumulativos do § 3º | hediondo não impede; só organização da Lei 12.850 impede | art. 112, § 3º; Tema 1.374 do STJ |
+| Progressão: mérito | boa conduta + exame criminológico | exame obrigatório só para fatos desde 11/4/2024; crimes sexuais: art. 119-A | art. 112, § 1º; Súmula 439 do STJ |
+| Data-base e saltos | último requisito; fração sobre o remanescente; sem saltos | regressão por salto é admitida | Tema 1.165 e Súmula 491 do STJ |
+| Aberto e domiciliar | trabalho, exame, condições do art. 115; domiciliar nas hipóteses do art. 117 | pena substitutiva não é condição; rol do art. 117 não taxativo | arts. 113 a 117 |
+| Regressão | crime doloso, falta grave, condenação anterior incompatível, frustrar fins ou não pagar multa podendo | oitiva prévia (salvo inciso II); cautelar sem oitiva | art. 118; Tema 1.347 do STJ |
+| Monitoração | facultativa nas hipóteses do art. 146-B | obrigatória para feminicídio e crimes sexuais | arts. 146-B a 146-E |
+| Permissão de saída | fechado, semiaberto e provisório; escolta; diretor | morte ou doença grave de familiar (inclusive irmão); tratamento médico | arts. 120 e 121 |
+| Saída temporária | semiaberto; só estudo; 1/6 ou 1/4; juiz | vedada a hediondo e violento (fatos desde 11/4/2024); indelegável | arts. 122 a 125; Súmula 520 do STJ |
+| Remição | 3 dias de trabalho = 1; 12 horas de estudo = 1; +1/3 pela conclusão | aberto e livramento só estudo; leitura; ENEM e ENCCEJA; perda de até 1/3 | arts. 126 a 128; Temas 1.278 e 1.357 do STJ |
+| Livramento: requisitos | pena de 2 anos ou mais; mais de 1/3, 1/2 ou 2/3; conduta; reparação | falta grave não interrompe; vedações do art. 112 da LEP | art. 83 do CP; Súmula 441 e Tema 1.161 do STJ |
+| Livramento: revogação e efeitos | obrigatória (condenação a privativa); facultativa (condições; pena não privativa) | crime anterior: conta o período; demais: não conta e sem novo livramento | arts. 86 a 88 do CP; arts. 141 e 142 da LEP |
+| Livramento: fim | sem suspensão ou revogação no prazo, extingue-se | nova pena começa no dia seguinte ao fim do período | Súmula 617 e Tema 1.367 do STJ |
+| Conversões | arts. 180, 181, 183 e 184 | multa nunca vira prisão | LEP; art. 51 do CP |
+| Excesso ou desvio | ato além da sentença, lei ou regulamento | MP, Conselho Penitenciário, sentenciado, demais órgãos | arts. 185 e 186 |
+| Agravo em execução | 5 dias, rito do RESE, sem efeito suspensivo | retratação; MS do MP não dá efeito suspensivo | art. 197; Súmula 700 do STF; Súmula 604 do STJ |
+
+## 24.13 Artigos de lei incidentes
+
+- Lei 7.210/1984 (LEP): arts. 61, VIII; 65 e 66; 105 a 146-E (guia, regimes, progressão, regressão, aberto, saídas, remição, livramento, monitoração); 147 e 148; 179 a 197 (conversões, excesso ou desvio, anistia e indulto, procedimento e agravo).
+- Código Penal: arts. 10, 11, 33, 36, 41 a 44, 51, 70, 71, 75, 77, 83 a 90, 121-A e 359-M-A e 359-M-B.
+- Código de Processo Penal: arts. 185, §§ 2º e 8º; 581 a 592 (rito do RESE); 593; 712.
+- Lei 8.072/1990: arts. 1º e 2º (redações de 1990 e da Lei 11.464/2007).
+- Leis de alteração da execução: 11.464/2007, 12.258/2010, 12.313/2010, 12.433/2011, 13.769/2018, 13.964/2019, 14.843/2024, 14.994/2024, 15.280/2025, 15.358/2026 e 15.402/2026.
+- Lei 11.343/2006: art. 33, § 4º, e art. 35 (reflexos na progressão). Lei 12.850/2013: art. 2º, § 9º.
+- Resolução CNJ 391/2021 (remição por práticas educativas, leitura e exames).
+
+## 24.14 Julgados, temas e súmulas do capítulo
+
+- Súmula 716 do STF — progressão antes do trânsito em julgado.
+- Súmula 717 do STF — prisão especial não impede progressão.
+- Súmula 700 do STF — agravo em execução em 5 dias.
+- ADCs 43, 44 e 54 do STF — vedada a prisão automática após a 2ª instância.
+- HC 82.959 do STF — inconstitucional o regime integralmente fechado.
+- EP 12 ProgReg-AgR do STF — multa deliberadamente não paga impede progressão.
+- Súmula 471 do STJ — hediondo anterior a 29/3/2007 progride com 1/6.
+- Súmula 491 do STJ — vedada a progressão per saltum.
+- Súmula 439 do STJ — exame criminológico por decisão motivada.
+- Súmula 441 do STJ — falta grave não interrompe o prazo do livramento.
+- Súmula 520 do STJ — saída temporária é ato jurisdicional indelegável.
+- Súmula 562 do STJ — remição por trabalho extramuros.
+- Súmula 617 do STJ — sem suspensão ou revogação no período de prova, extingue-se a pena.
+- Súmula 604 do STJ — MS não dá efeito suspensivo a recurso do MP.
+- Tema 1.006 do STJ — unificação não altera a data-base.
+- Tema 1.084 do STJ — reincidente genérico em hediondo: 40% retroativo.
+- Tema 1.106 do STJ — restritiva e nova privativa: unificação com reconversão.
+- Tema 1.120 do STJ — remição ficta só na pandemia, para quem já trabalhava ou estudava.
+- Tema 1.161 do STJ — livramento: todo o histórico prisional.
+- Tema 1.165 do STJ — decisão de progressão é declaratória; data-base no último requisito.
+- Tema 1.195 do STJ — falta nos 12 meses anteriores ao decreto impede comutação.
+- Tema 1.196 do STJ — reincidente genérico em hediondo com morte: 50% e livramento.
+- Tema 1.208 do STJ — reincidência reconhecida na execução.
+- Tema 1.236 do STJ — remição por EAD exige integração ao PPP.
+- Tema 1.277 do STJ — prisão provisória conta para indulto e comutação.
+- Tema 1.278 do STJ — remição pela leitura com validação; vedado atestado de profissional contratado.
+- Tema 1.347 do STJ — regressão cautelar pelo poder geral de cautela.
+- Tema 1.354 do STJ — percentuais distintos por condenação na mesma execução.
+- Tema 1.357 do STJ — remição por ENEM ou ENCCEJA mesmo com ensino médio prévio.
+- Tema 1.367 do STJ — pena de crime no livramento começa após o período de prova.
+- Tema 1.374 do STJ — "organização criminosa" do § 3º, V, é só a da Lei 12.850.
+- Tema 1.383 do STJ (REsp 2.204.874-SP) — penhora de até 1/4 do pecúlio para a multa; impenhorabilidade do art. 833, IV e X, do CPC inoponível à multa penal.
+- Tema 445 do STJ — calendário anual de saídas por ato judicial único, excepcionalmente.
+- EREsp 2.218.166 (STJ) — ENEM gera remição mesmo com diploma superior prévio.
+- AgRg no HC 1.045.443 (STJ) — vedadas remições múltiplas por exames da mesma natureza.
+- HC 920.980 (STJ) — amamentação e cuidados maternos como trabalho para remição.
+- AgRg no HC 1.001.270 (STJ) — remição ficta por doença incapacitante.
+- AgRg no HC 954.277 e RHC 200.670 (STJ) — exame criminológico obrigatório não retroage.
+- HC 932.864 (STJ) — vedação de saída temporária da Lei 14.843/2024 não retroage.
+- HC 888.336 (STJ) — afastar o tráfico privilegiado não é integrar organização.
+- AgRg no HC 1.032.005 (STJ) — associação para o tráfico com arma: fração do crime violento.
+- HC 271.907 (STJ) — crime no livramento não é falta grave nem gera perda de remidos.
+
+Remissões a outros capítulos: Súmula 611 do STF (Cap. 3); Tema 1.169 do STF (Cap. 2); Súmula 715 do STF (Cap. 16); SV 26, Súmula 493 e Tema 20 do STJ (Cap. 17); Súmula 643 do STJ, ADI 7.032 e Tema 931 do STJ (Cap. 12); Tema 1.068 do STF (Cap. 27); SV 56, RE 641.320, Tema 993 do STJ, Súmulas 40, 526, 533, 534, 535 e 660 do STJ, Temas 477, 758 e 941 do STF, Temas 1.320 e 1.440 do STJ, REsp 2.211.681 e PSV 60 e 64 (Cap. 23); Tema 1.400 do STF e indulto em geral (Cap. 21); medida de segurança (Cap. 19); tráfico privilegiado (Cap. 37); Lei 12.850/2013 (Cap. 46).
+
+# CAPÍTULO 25 — JUSTIÇA PENAL CONSENSUAL E JUIZADOS ESPECIAIS CRIMINAIS: COMPOSIÇÃO CIVIL, TRANSAÇÃO, SUSPENSÃO CONDICIONAL DO PROCESSO E ACORDO DE NÃO PERSECUÇÃO PENAL
+
+## 25.8 Resumo para revisão pré-prova
+
+O quadro comparativo dos quatro institutos está em 25.1; a tabela abaixo cobre o restante do capítulo.
+
+| Instituto | Regra | Exceções/detalhes | Fundamento |
+|---|---|---|---|
+| Infração de menor potencial ofensivo | contravenções e crimes com pena máxima não superior a 2 anos | qualquer rito; no concurso, soma ou exasperação das máximas | art. 61 da Lei 9.099; Cap. 16 |
+| Exclusões da Lei 9.099 | violência doméstica contra a mulher; Justiça Militar; crimes do Estatuto da Pessoa Idosa e crimes com violência contra pessoa idosa (fatos desde 4/7/2025) | fatos anteriores contra pessoa idosa: só o rito (ADI 3.096); conexão: reunião com preservação dos institutos | art. 41 LMP; art. 90-A; art. 94 do Estatuto (Lei 15.163/2025; Cap. 42); art. 60, parágrafo único |
+| Fase policial | TCO; sem flagrante nem fiança se o autor comparecer ou se comprometer | porte para consumo de drogas: nunca flagrante | art. 69; art. 48, § 2º, Lei 11.343 |
+| Competência territorial | lugar em que praticada a infração | não repete a teoria do resultado do art. 70 do CPP | art. 63 |
+| Sumaríssimo | denúncia oral; defesa antes do recebimento; sentença sem relatório; apelação em 10 dias à Turma Recursal | sem citação por edital (vai ao juízo comum); RE sim, REsp não | arts. 66, 77 a 83; Súmulas 640 STF e 203 STJ |
+| Composição civil | homologada, renúncia à queixa ou representação; título executivo | ação incondicionada: só título; descumprida, não reabre a ação; sem acordo, representação sem decadência imediata | arts. 74 e 75 |
+| Transação: vedações | condenação definitiva por crime a pena privativa; benefício em 5 anos; circunstâncias desfavoráveis | contravenção ou multa anterior não impedem | art. 76, § 2º |
+| Transação: efeitos | sem reincidência, antecedentes ou efeitos civis; apelação | não suspende a prescrição; sem confisco do art. 91 | art. 76, §§ 4º a 6º; Tema 187 STF |
+| Transação descumprida | retoma-se a persecução; sem coisa julgada material | não se converte em prisão | SV 35 |
+| Suspensão: requisitos | pena mínima até 1 ano; não processado nem condenado por outro crime; art. 77 do CP | pena de multa alternativa admite; violência não impede (salvo contra pessoa idosa, desde 4/7/2025) | art. 89 |
+| Suspensão no concurso | pena mínima com soma ou aumento mínimo (1/6) até 1 ano | vale para material, formal e continuado | Súmulas 243 STJ e 723 STF |
+| Recusa do MP | juiz discorda: remessa ao órgão de revisão do MP | juiz não concede de ofício | Súmula 696 STF; art. 28 CPP |
+| Condições e revogação | legais e judiciais (inclusive equivalentes a penas); obrigatória: processo por crime ou dano não reparado sem justificativa; facultativa: contravenção ou outra condição | revogação após o prazo por fato ocorrido durante ele; aceitação não impede HC de trancamento | art. 89, §§ 1º a 4º; Temas 920 e 930 STJ; Súmula 667 STJ |
+| Desclassificação | abre-se oportunidade de suspensão, transação ou ANPP | juiz não condena direto | Súmula 337 STJ; art. 383, §§ 1º e 2º, CPP |
+| ANPP: requisitos | confissão formal e circunstanciada; sem violência ou grave ameaça à pessoa; pena mínima inferior a 4 anos com aumento mínimo e diminuição máxima | confissão pode vir na assinatura; continuidade não impede | art. 28-A, caput e § 1º; Tema 1.303 STJ; Info 867 |
+| ANPP: vedações | transação cabível; reincidência ou habitualidade; benefício em 5 anos; violência doméstica ou contra a mulher por razões de gênero | inquéritos e processos em curso podem indicar habitualidade; crimes raciais: não cabe (Cap. 41) | art. 28-A, § 2º; Info 879; RHC 222.599 STF |
+| ANPP: controle | juiz verifica voluntariedade e legalidade; recusa do MP: remessa ao órgão superior | juiz não impõe acordo; recusa ilegal permite rejeitar a denúncia; HC não discute condições | §§ 4º a 8º e 14; Infos 827, 846 e 895 |
+| ANPP: efeitos | cumprido, extinção; sem antecedentes; prescrição suspensa | descumprido, rescisão com contraditório e denúncia | §§ 10 a 13; art. 116, IV, CP |
+| ANPP no tempo | retroage a processos em curso, até o trânsito em julgado, mesmo sem confissão anterior | processos novos: manifestação antes do recebimento da denúncia; JT 185, tese 1, superada | STF, HC 185.913; Tema 1.098 STJ |
+
+## 25.9 Artigos de lei incidentes
+
+- Constituição Federal: art. 5º, XL; art. 98, I, e § 1º.
+- Código Penal: arts. 45, 46, 64, I, 65, III, b, 77, 91, 104, parágrafo único, 107, V, e 116, IV.
+- Código de Processo Penal: art. 28; art. 28-A (caput, incisos e §§ 1º a 14); arts. 38, 155, 383, §§ 1º e 2º, 384, § 3º, 395, II, e 538.
+- Lei 9.099/1995: arts. 60 a 63, 66, 69, 72 a 83, 88, 89, 90 e 90-A.
+- Lei 10.259/2001: arts. 1º e 2º.
+- Lei 11.340/2006: arts. 5º, 24-A e 41.
+- Lei 10.741/2003: art. 94 (redação da Lei 15.163/2025).
+- Lei 11.343/2006: arts. 28 e 48.
+- Lei 9.503/1997 (CTB): art. 291, §§ 1º e 2º; arts. 302 e 306.
+- Lei 9.605/1998: arts. 27 e 28.
+- Leis de alteração: Lei 11.313/2006; Lei 13.603/2018; Lei 13.964/2019; Lei 14.994/2024; Lei 15.163/2025 (art. 94 do Estatuto da Pessoa Idosa); Lei 15.397/2026 (penas do furto e do roubo usadas nos exemplos).
+
+## 25.10 Julgados, temas e súmulas do capítulo
+
+- Súmula Vinculante 35: transação descumprida, retoma-se a persecução.
+- Súmula 696 do STF: recusa da proposta de suspensão, remessa ao chefe do MP.
+- Súmula 723 do STF: suspensão no crime continuado, mínimo + 1/6 até 1 ano.
+- Súmula 243 do STJ: suspensão no concurso, soma ou majorante até 1 ano.
+- Súmula 337 do STJ: suspensão na desclassificação e na procedência parcial.
+- Súmula 536 do STJ: nem transação nem suspensão na Lei Maria da Penha.
+- Súmula 667 do STJ: aceitar a suspensão não prejudica o trancamento.
+- Tema 187 do STF (RE 795.567): transação não gera os efeitos do art. 91 do CP.
+- Temas 920 e 930 do STJ (REsp 1.498.034-RS): revogação após o prazo; condições equivalentes a penas.
+- STF, HC 185.913 (Plenário, 18/9/2024): ANPP retroage até o trânsito em julgado; regras de transição.
+- Tema 1.098 do STJ (REsp 1.890.344-RS): ANPP norma híbrida; alinhamento ao HC 185.913.
+- Tema 1.303 do STJ (REsp 2.161.548-BA): confissão no inquérito não é exigida.
+- STJ, HC 657.165-RJ: silêncio no inquérito não afasta o ANPP.
+- STJ, Info 867 (5ª Turma, 7/10/2025): elegibilidade pela pena mínima com frações favoráveis; continuidade com 1/6.
+- STJ, AgRg no RHC 215.549-GO (Info 879): inquéritos e processos em curso podem fundamentar a recusa por habitualidade.
+- STJ, AgRg no HC 788.419-PB: habitualidade afasta a continuidade e o ANPP.
+- STJ, AgRg no REsp 2.088.701-PR (Info 895): remessa ao órgão superior salvo manifesta inadmissibilidade.
+- STJ, REsp 2.038.947-SP (Info 827): recusa ilegal, rejeição da denúncia por falta de interesse de agir.
+- STJ, AgRg no HC 895.165-SP (Info 827): confissão para o ANPP não impede o tráfico privilegiado.
+- STJ, AgRg no REsp 2.039.021-TO; JT ed. 185, teses 2 a 4: ANPP não é direito subjetivo; sem dever de notificar; controle judicial só objetivo.
+- STJ, AREsp 2.419.790-MG (Info 800): juízo da execução escolhe a entidade beneficiária.
+- STJ, HC 969.749-RJ (Info 844); RHC 184.507-MT (Info 846); AgRg no REsp 2.167.109-RS (Info 843): estabilidade das cláusulas homologadas; HC inadequado; Súmula 5.
+- STJ, AgRg no Acordo no AREsp 2.600.503-ES (Info 863) e Info 852: preclusão e momento da manifestação.
+- STJ, CC 210.253-DF (Info 875): execução da reparação ajustada no ANPP, competência da 3ª Seção.
+- STF, HC 194.677: Judiciário não impõe ao MP o oferecimento do ANPP.
+
+Remissões a outros capítulos: ADI 1.719 e Súmula 17 do STJ (Cap. 3); Súmula 444 do STJ (Cap. 13); reincidência e antecedentes (Caps. 13 e 14); Súmula 659 do STJ e AREsp 2.406.856-SP (Cap. 16); *sursis* penal (Cap. 17); ADI 4.424 e REsp 2.083.823-DF (Cap. 20); Súmula 438 do STJ e art. 116 do CP (Cap. 22); Tema 506 do STF e art. 28 da Lei de Drogas (Cap. 37); Lei Maria da Penha (Cap. 38); racismo e injúria racial, inclusive STF, RHC 222.599, e STJ, AREsp 2.607.962-GO — ANPP incabível em crimes raciais (Cap. 41); STF, ADI 3.096 e Lei 15.163/2025 — Lei 9.099/1995 e pessoa idosa (Cap. 42); colaboração premiada (Cap. 46).
+
+# CAPÍTULO 26 — A SENTENÇA PENAL NA PROVA DE SEGUNDA FASE: ESTRUTURA, QUESTÕES PROCESSUAIS CONEXAS, ROTEIRO DE DOSIMETRIA E MODELOS COMENTADOS
+
+## 26.14 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Prova de sentença | Duas sentenças (cível e criminal) em dias sucessivos; mínimo de 4 horas; nota mínima 6 em cada uma | TJSC 2025 (FGV): 5 horas; só legislação não anotada; súmulas proibidas | Res. CNJ 75/2009, arts. 49, 51, 53 e 54 |
+| Estrutura | Relatório, fundamentação, dispositivo, data e assinatura | Sem fundamentação: nulidade | Art. 381; art. 564, V; art. 315, § 2º, CPP |
+| Ordem | Preliminares → prejudiciais → mérito por fato e réu → teses → dosimetria → dispositivo | Prescrição em abstrato impede o mérito | Arts. 61 do CPP e 107 do CP |
+| Nulidades | Sem prejuízo, sem nulidade | Arguição oportuna nas relativas | Arts. 563, 571 e 572 CPP; Súmula 523 STF |
+| Art. 155 CPP | Elementos do inquérito não bastam sozinhos | Provas cautelares, não repetíveis e antecipadas | Art. 155 CPP |
+| Reconhecimento | Art. 226 obrigatório; violado, prova inválida e irrepetível | Condenação possível por prova independente; dispensável se a pessoa já era conhecida | HC 598.886 e Tema 1.258 (STJ) |
+| Busca domiciliar | Sem mandado, só com fundadas razões prévias ou consentimento provado pelo Estado | Encontro da droga não convalida | Tema 280 (STF); HC 598.051 (STJ); Tema 1.163 (STJ, afetado) |
+| Cadeia de custódia | Quebra não gera nulidade automática; afere-se a confiabilidade | Trata-se no mérito | Arts. 158-A a 158-F CPP; HC 653.515 (STJ) |
+| *Emendatio* | Mesmo fato, nova capitulação, sem aditamento, ainda que pena maior | Também em 2º grau, sem *reformatio in pejus* | Art. 383 CPP |
+| *Mutatio* | Elemento ou circunstância nova: aditamento do MP e nova instrução | Vedada em 2º grau | Art. 384 CPP; Súmula 453 STF |
+| Desclassificação | Julga-se o fato provado | Suspensão do processo; competência | Art. 383, §§ 1º e 2º; Súmula 337 STJ (Cap. 25) |
+| Art. 385 | Juiz pode condenar contra pedido do MP e reconhecer agravantes não alegadas | Só na ação pública; questionado na ADPF 1.122 | REsp 2.022.413 (STJ, Info 765) |
+| Absolvição | Indicar o inciso do art. 386 | I, IV e excludentes de ilicitude fazem coisa julgada no cível | Arts. 65 a 67 CPP; art. 935 CC |
+| Absolvição imprópria | Inimputável, fato típico e ilícito: medida de segurança | Absolvição própria prevalece se houver outra causa | Art. 386, parágrafo único, III (Cap. 19) |
+| Roteiro da pena | Três fases → multa → concurso → detração e regime → substituição/*sursis* → prisão → reparação → efeitos → bens → custas → comandos | Frase-resultado em cada etapa | Caps. 13 a 18 |
+| Preventiva na sentença | Decisão fundamentada obrigatória; compatível com o regime | Sem execução provisória da pena (ADCs 43, 44 e 54 — Cap. 24); tribunal não supre fundamentação | Art. 387, § 1º; RHC 212.836 (STJ, Info 847) |
+| Reparação mínima | Pedido expresso, contraditório, prova do valor | Violência doméstica: dano moral sem instrução específica | Art. 387, IV; Tema 983 do STJ (Cap. 38) |
+| Efeitos do art. 92 | Não automáticos, motivados, independem de pedido | Automáticos nos crimes contra a mulher por razões da condição do sexo feminino e nos crimes do ECA do § 2º | Art. 92, §§ 1º e 2º (Leis 14.994/2024 e 15.487/2026) |
+| Direitos políticos | Suspensão automática; comunicar ao TRE | Inclui pena substituída | Art. 15, III, CF; Tema 370 do STF (Cap. 18) |
+| Prescrição retroativa | Não se declara na sentença condenatória | Determinar conclusão após o trânsito para a acusação | Art. 110, § 1º, CP (Cap. 22) |
+
+## 26.15 Artigos de lei incidentes
+
+- Constituição Federal: art. 5º, XI, XLVI, LV e LVI; art. 15, III; art. 93, IX.
+- Código de Processo Penal: arts. 3º-A, 41, 60, III, 61, 63 a 67, 155, 157, 158 a 158-F, 167, 201, § 2º, 226, 244, 312, § 2º, 315, § 2º, 336, 337, 381, 383 a 387, 390 a 392, 563 a 573, 617 e 804.
+- Código Penal: arts. 29, §§ 1º e 2º, 30, 33, 44, 45, § 1º, 59 a 68, 91, 91-A, 92, 107, IV, 109, 110, 115, 155, § 4º, 157, §§ 2º e 2º-A, e 307.
+- Leis especiais: Lei 12.850/2013, art. 4º, § 16; Lei 10.826/2003, art. 25; Lei 8.072/1990, art. 1º, II, "b"; Lei 13.869/2019, art. 4º, I; LEP, art. 105.
+- Código Civil: arts. 188, 928 a 930, 935 e 942; CPC: art. 98, § 3º.
+- Resolução CNJ 75/2009: arts. 48, 49, 51, 53 e 54; Resolução CNJ 484/2022.
+
+## 26.16 Julgados, temas e súmulas do capítulo
+
+- STJ, HC 598.886-SC (2020): o art. 226 do CPP não é mera recomendação; reconhecimento irregular não sustenta condenação.
+- STJ, Tema 1.258 (2025): seis teses sobre o reconhecimento de pessoas (obrigatoriedade, alinhamento, irrepetibilidade, prova independente).
+- STF, Tema 280 (RE 603.616): ingresso em domicílio sem mandado só com fundadas razões justificadas *a posteriori*.
+- STJ, HC 598.051-SP (2021): fundadas razões objetivas e prova do consentimento a cargo do Estado.
+- STJ, Tema 1.163 (afetado): fuga para dentro de casa ou denúncia anônima como justa causa para o ingresso.
+- STJ, RHC 158.580-BA (2022): busca pessoal exige fundada suspeita objetiva.
+- STJ, HC 653.515-RJ (2021): quebra da cadeia de custódia se resolve pela confiabilidade, não por nulidade automática.
+- STJ, AREsp 2.123.334-MG (2024): confissão extrajudicial só vale se formalizada e corroborada.
+- STF, Súmula 453: *mutatio libelli* não se aplica em segundo grau.
+- STF, Súmula 523: falta de defesa é nulidade absoluta; deficiência, só com prejuízo.
+- STJ, REsp 2.022.413-PA (Informativo 765): art. 385 do CPP compatível com o sistema acusatório; STF, ADPF 1.122 (pendente).
+- STJ, AgRg no HC 876.612-SP (Informativo extraordinário 24): fundamentação *per relationem* válida se a peça referida for suficiente e acessível.
+- STJ, RHC 212.836-RS (Informativo 847): o tribunal não supre a falta de fundamentação da preventiva mantida na sentença.
+- STF, ADIs 6.298, 6.299, 6.300 e 6.305: inconstitucionalidade do art. 157, § 5º, do CPP.
+
+Remissões a outros capítulos: Súmulas 231, 241, 545 e 74 e Temas 585 e 1.194 do STJ (Cap. 14); Súmula 444 do STJ, Tema 1.318 e critérios de fração da pena-base (Cap. 13); Súmula 443 do STJ e art. 68, parágrafo único (Cap. 15); Súmula 497 do STF e Súmula 659 do STJ (Cap. 16); Súmulas 269 e 440 do STJ, 718 e 719 do STF e Tema 1.155 (Cap. 17); Súmula 18 do STJ (Cap. 21); Súmulas 438 e 220 do STJ e art. 115 (Cap. 22); Súmula 716 do STF e ADCs 43, 44 e 54 (Cap. 24); Tema 370 do STF (Cap. 18); Tema 983 do STJ (Cap. 38); Súmula 337 do STJ (Cap. 25); Tema 1.068 do STF (Cap. 27); Súmula 582 e Temas 934 e 1.087 do STJ (Cap. 29); Súmula 522 do STJ (Cap. 34); HC 127.900 do STF e Súmula 347 do STJ (Cap. 37); HC 208.240 do STF (Cap. 1).
+
+# CAPÍTULO 27 — CRIMES CONTRA A VIDA: HOMICÍDIO, FEMINICÍDIO, INDUZIMENTO AO SUICÍDIO E À AUTOMUTILAÇÃO, INFANTICÍDIO E ABORTO
+
+## 27.14 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Marco aborto x homicídio | Início do parto (dilatação e contrações; incisão na cesárea) | Antes: aborto; depois: homicídio ou infanticídio | Doutrina |
+| Competência | Júri para os dolosos contra a vida, tentados ou consumados | Culposo, lesão seguida de morte e latrocínio: juiz singular; § 2º-D: Varas Colegiadas (discutido); automutilação: juiz singular | CF, art. 5º, XXXVIII; CPP, art. 74, § 1º |
+| Homicídio simples | 6 a 20 anos | Hediondo só em atividade típica de grupo de extermínio | Lei 8.072, art. 1º, I |
+| Privilégio | Causa de diminuição de 1/6 a 1/3, obrigatória se reconhecida | Relevante valor social ou moral; domínio de violenta emoção logo após injusta provocação; não se comunica | CP, art. 121, § 1º |
+| Qualificadoras | 12 a 30 anos; hediondo | Subjetivas: I, II, V; objetivas: III, IV, VIII, IX, X; VII discutida | CP, art. 121, § 2º |
+| Paga ao mandante | Não se comunica automaticamente | Depende do motivo do próprio mandante | EAREsp 1.322.867 (Cap. 11) |
+| Motivo fútil | Reação desproporcional a ato da vítima | Ausência de motivo não é fútil; compatível com dolo eventual | HC 152.548; REsp 912.904 |
+| Conexão (V) | Assegurar execução, ocultação, impunidade ou vantagem de outro CRIME | Contravenção não; no contexto do roubo, latrocínio | CP, art. 121, § 2º, V |
+| Menor de 14 (IX) | Qualificadora | Afasta a majorante do § 4º quanto à criança; somam-se as do § 2º-B | Lei 14.344/2022 |
+| Híbrido | Privilégio + qualificadora objetiva | Não é hediondo; subjetivas ficam prejudicadas nos quesitos | CP, art. 67; CPP, art. 483 |
+| Dolo eventual | Compatível com motivo fútil e meio cruel | Julgados afirmam incompatibilidade com surpresa (IV) | Cap. 7 |
+| § 2º-D | Homicídio por integrante de facção ultraviolenta: 20 a 40 anos | Competência e hediondez discutidas | Lei 15.358/2026 |
+| Majorantes dolosas | § 4º (menor de 14, maior de 60): 1/3; § 6º (milícia, extermínio): 1/3 a 1/2 | §§ 2º-B e 2º-C | CP, art. 121 |
+| Homicídio culposo | 1 a 3 anos; § 4º: + 1/3; § 5º: perdão judicial | Trânsito: CTB, art. 302 | CP, art. 121, §§ 3º a 5º |
+| Feminicídio | Crime autônomo, 20 a 40 anos, hediondo | Razões: violência doméstica e familiar ou menosprezo/discriminação; § 3º comunica | CP, art. 121-A |
+| Feminicídio no tempo | Fatos antes de 10/10/2024: art. 121, § 2º, VI, e § 7º | Lei nova mais grave não retroage; sem abolitio | CF, art. 5º, XL |
+| Feminicídio e agravantes | 61, II, "e": cabe (JT 231, t. 8) | 61, II, "f": *bis in idem* se o fundamento é a violência doméstica | JT ed. 231 |
+| Vicaricídio | Matar parente ou dependente da mulher para fazê-la sofrer; 20 a 40 anos | Hediondo; fatos antes de 10/4/2026: homicídio qualificado | CP, art. 121-B |
+| Art. 122 | Caput 6 m a 2 a; lesão grave 1 a 3; morte 2 a 6 | Duplica: motivo egoístico, torpe ou fútil; vítima menor ou com resistência diminuída; internet até o dobro; líder de grupo em dobro | Lei 13.968/2019; Lei 14.811/2024 |
+| Art. 122 e vulnerável | Menor de 14 ou sem discernimento | Lesão gravíssima: art. 129, § 2º; morte: homicídio | CP, art. 122, §§ 6º e 7º |
+| Infanticídio | Mãe, estado puerperal, durante o parto ou logo após; 2 a 6 anos de detenção | Sem forma culposa; elementares comunicam (Cap. 11); erro sobre a pessoa mantém o crime | CP, art. 123 |
+| Aborto: espécies | 124 (1 a 3, detenção); 125 (3 a 10); 126 (1 a 4) | Consentimento inválido: gestante não maior de 14, alienada, fraude, violência → 125 | CP, arts. 124 a 126 |
+| Art. 127 | + 1/3 (lesão grave) ou em dobro (morte) da gestante | Só arts. 125 e 126; preterdoloso | CP, art. 127 |
+| Aborto legal | Necessário (vida da gestante) e sentimental (estupro + consentimento) | Só médico; sem autorização judicial; exclusão da ilicitude | CP, art. 128 |
+| Anencefalia | Fato atípico; sem autorização judicial | Não se estende a Síndrome de Edwards sem prova de inviabilidade | ADPF 54; HC 932.495 |
+| Sentença no Júri | Agravantes só se debatidas; execução imediata | Apelação contra absolvição genérica com limites | CPP, art. 492; Temas 1.068 e 1.087 do STF |
+
+## 27.15 Artigos de lei incidentes
+
+- Constituição Federal: art. 5º, XXXVIII, "d" (Júri), e XL (irretroatividade); art. 109, IV, IX e XI.
+- Código Penal: arts. 121 (caput, §§ 1º, 2º, 2º-B, 2º-C, 2º-D, 3º, 4º, 5º e 6º), 121-A, 121-B, 122, 123, 124, 125, 126, 127 e 128; correlatos: arts. 4º, 13, § 2º, 14, 20, § 3º, 29, 30, 61, II, 65, III, 67, 68 e 146, § 3º, II.
+- Código de Processo Penal: arts. 74, § 1º, 78, I (redação da Lei 15.358/2026), 207, 394-A, 406 a 419, 483, 490, 492 e 593, III, "d".
+- Lei 8.072/1990: art. 1º, I, I-B, I-C e X.
+- Lei 11.340/2006: arts. 5º, 7º, VI, 17-A, 22 e 24-A.
+- Lei 7.210/1984: art. 112, VI-A.
+- Lei 15.358/2026: art. 2º, §§ 2º e 8º; Lei 12.694/2012, art. 1º-A.
+- Lei 9.099/1995: arts. 60, parágrafo único, 61 e 89.
+- Leis de alteração a conhecer: 13.104/2015, 13.142/2015, 13.964/2019, 13.968/2019, 14.344/2022, 14.811/2024, 14.994/2024, 15.134/2025, 15.159/2025, 15.358/2026 e 15.384/2026.
+
+## 27.16 Julgados, temas e súmulas do capítulo
+
+- STF, ADPF 54 (2012): interrupção da gravidez de feto anencéfalo é atípica.
+- STF, HC 124.306/RJ (2016): aborto no primeiro trimestre; fundamento de Turma sem efeito vinculante.
+- STF, ADPF 442: descriminalização até a 12ª semana; julgamento pendente.
+- STF, Tema 1.068 (RE 1.235.340): execução imediata da condenação pelo Júri.
+- STF, Tema 1.087 (ARE 1.225.185): apelação contra absolvição pelo quesito genérico e limite da clemência.
+- STJ, HC 56.572/SP (2006): inviabilidade de vida extrauterina comprovada afasta o aborto.
+- STJ, HC 932.495-SC (Info 820): Síndrome de Edwards não se equipara à anencefalia.
+- STJ, HC 1.000.918-SP (Info 887): sigilo médico e prova ilícita no autoaborto.
+- STJ, HC 152.548/MG: ausência de motivo não é motivo fútil.
+- STJ, HC 307.617-SP (Info 583): sem motivo fútil no "racha" contra terceiro.
+- STJ, AgRg no AREsp 1.886.886/GO: tortura e meio cruel exigem sofrimento prolongado; exclusão de qualificadora só se manifestamente improcedente.
+- STJ, REsp 1.829.601-PR: meio cruel compatível com dolo eventual.
+- STJ, Jurisprudência em Teses, ed. 231, teses 6 a 8: feminicídio objetivo; Júri não o afasta por motivação; sem *bis in idem* com o art. 61, II, "e".
+- STJ, HC 433.898-RS (Info 625): feminicídio (regime anterior) compatível com motivo torpe.
+- STJ, REsp 1.860.829/RJ: feminicídio majorado pela gestação e aborto sem *bis in idem*.
+- STJ, REsp 1.977.124/SP: Lei Maria da Penha aplicável à mulher transexual.
+- Súmula 147 do STJ: crime contra servidor federal na função, competência federal (Júri federal).
+- Súmula 140 do STJ: crime contra indígena, competência estadual (regra).
+
+Remissões a outros capítulos: STF, ADPF 779 — legítima defesa da honra (Cap. 9); REsp 912.904/SP, dolo eventual e embriaguez, AgRg no AREsp 2.519.852 e AgRg no AREsp 2.795.012 (Cap. 7); AgRg no HC 731.845 e frações da tentativa (Cap. 8); EAREsp 1.322.867 e comunicabilidade no feminicídio e no infanticídio (Cap. 11); AgRg no REsp 2.104.061 e Súmula 711 do STF (Cap. 3); Tema 1.394 do STJ e qualificadora sobressalente (Cap. 13); Súmula 231 do STJ (Cap. 14); Súmula 18 do STJ (Cap. 21); Súmula 723 do STF e Súmula 243 do STJ (Cap. 25); Súmula 603 do STF (Cap. 29); AgRg no REsp 2.245.002-RS (Cap. 28); art. 288, § 2º (Cap. 33); Lei 15.358/2026 (Cap. 46).
+
+# CAPÍTULO 28 — LESÕES CORPORAIS, PERICLITAÇÃO DA VIDA E DA SAÚDE, RIXA, CRIMES CONTRA A HONRA E CONTRA A LIBERDADE INDIVIDUAL
+
+## 28.6 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Lesão x vias de fato | lesão exige dano à integridade ou à saúde | laudo sem vestígio: vias de fato | art. 129; LCP, art. 21 |
+| Grave x gravíssima | § 1º: 30 dias, perigo de vida, debilidade, aceleração de parto; § 2º: incapacidade permanente, enfermidade incurável, perda ou inutilização, deformidade, aborto | perigo de vida e aborto só culposos; um olho = debilidade; deformidade só física | §§ 1º e 2º; HC 689.921 |
+| Seguida de morte e culposa | § 3º: preterdolo, juiz singular (§ 3º-A: 20 a 40 a); culposa: 2 m a 1 a, sem graus | + 1/3 (§ 7º); perdão (§ 8º); trânsito: CTB | §§ 3º a 8º |
+| Privilégio e multa | redução de 1/6 a 1/3; multa só na leve com privilégio ou lesões recíprocas | — | §§ 4º e 5º |
+| § 9º x § 13 | § 9º: relação doméstica, qualquer vítima e lugar; § 13: mulher por razões de gênero (prevalece); ambos 2 a 5 a | agravante "f": incide com o § 9º; não com o § 13, o 147-A, § 1º, II, e o 147-B | Tema 1.197 (Cap. 14); AgRg no REsp 2.245.002 |
+| § 12 | 1/3 a 2/3 (agentes, carreiras jurídicas, escola); 2/3 ao dobro (escola + vulnerável ou autor com autoridade) | hediondo só gravíssima e seguida de morte | Leis 15.134 e 15.159/2025 |
+| Perigo, socorro, maus-tratos | dolo de perigo; resultado mais grave só culposo; 135: estranho sem dever especial; 136: vínculo para educação, tratamento ou custódia | 130, § 1º, e 131: formais com dolo de dano; quem criou o perigo responde pelo resultado; esposa não é vítima do 136 | arts. 13, § 2º, "c", e 130 a 136 |
+| Rixa | três ou mais, todos contra todos; qualificada para todos | autor identificado: homicídio + rixa | art. 137 |
+| Calúnia, difamação, injúria | fato criminoso sabidamente falso; fato ofensivo, verdadeiro ou falso; qualidade negativa | exceção da verdade: regra / só funcional / nunca; retratação: não na injúria; perdão judicial: só na injúria; § 3º do 140: religião, idoso, deficiente; racial na Lei 7.716 | arts. 138 a 140 e 143; JT 130 |
+| Majorantes do art. 141 | 1/3 (caput, fração única); dobro (paga; mulher); triplo (rede social) | inciso II constitucional; concurso de parágrafos: art. 68, parágrafo único | ADPF 338 |
+| Art. 142 e ação penal | ofensa em juízo, crítica e informação funcional; ação privada | 142 não abrange calúnia; requisição (Presidente); representação ou queixa (funcionário); representação (§ 3º do 140); pública na injúria real com lesão | arts. 142 e 145; Súmula 714 STF |
+| Constrangimento e *bullying* | 146: subsidiário, material; 146-A: só multa | virtual: reclusão 2 a 4 a | arts. 146 e 146-A |
+| Ameaça, perseguição, violência psicológica | 147: formal; 147-A: habitual, representação SEMPRE, + 1/2 em fração única; 147-B: só mulher, dano emocional, incondicionada | 147: dobro e incondicionada contra a mulher; escolha fundamentada entre detenção e multa; 147-B: dano psíquico é lesão, dispensa perícia, + 1/2 com IA | REsp 2.052.237; Inq 1.802; Lei 15.123/2025 |
+| Sequestro e art. 149 | 148: permanente; 149: tipo misto alternativo, condições degradantes bastam | distinguir art. 159; 149 na Justiça Federal | REsp 2.204.503; RE 398.041 |
+| Domicílio | casa = compartimento habitado ou não aberto ao público | diligência de dia; flagrante a qualquer hora | art. 150 |
+| Invasão de dispositivo | formal; com ou sem rede e senha | § 2º prejuízo econômico; § 3º qualificada; § 5º taxativo; condicionada, salvo Administração | arts. 154-A e 154-B |
+
+## 28.7 Artigos de lei incidentes
+
+- Código Penal: arts. 129 a 154-B; correlatos: arts. 4º, 13, § 2º, 19, 25, 28, I, 61, II, "f", 62, IV, 68, parágrafo único, 71, 107, V e VI, 111, III, 121, §§ 4º a 6º, 121-A, § 1º, 159 e 168.
+- Código de Processo Penal: arts. 28-A, § 2º, IV, 85, 158, 167, 168, § 2º, 387, IV, 519 a 523.
+- Lei 9.099/1995: arts. 61, 76, 88 e 89. Lei 11.340/2006: arts. 5º, 7º, 11, parágrafo único, 12, § 3º, 16, 24-A e 41.
+- Lei 8.072/1990: art. 1º, I-A. Lei 9.455/1997: art. 1º, II. Lei 7.716/1989: art. 2º-A. Decreto-Lei 3.688/1941: art. 21.
+- Lei 8.906/1994: art. 7º, § 2º. Lei 6.538/1978: art. 40. Lei 9.296/1996: art. 10. CTB: arts. 302, § 1º, III, 303 e 304.
+- Constituição Federal: arts. 5º, XI, 27, § 1º, 53 e 109, VI.
+- Leis de alteração a conhecer: 12.653/2012, 12.737/2012, 13.142/2015, 13.344/2016, 13.964/2019, 14.132/2021, 14.155/2021, 14.188/2021, 14.344/2022, 14.532/2023, 14.811/2024, 14.994/2024, 15.123/2025, 15.134/2025, 15.163/2025 (arts. 133 e 136), 15.159/2025, 15.358/2026 e 15.455/2026.
+
+## 28.8 Julgados, temas e súmulas do capítulo
+
+- STF, ADPF 338/DF (Info 1204): aumento do art. 141, II, é constitucional; exige nexo funcional.
+- STF, AP 1.021/DF (Info 987): vídeo editado que distorce discurso é difamação.
+- STF, RE 398.041 e RE 459.510: art. 149 é da competência da Justiça Federal.
+- STJ, Jurisprudência em Teses, ed. 130, teses 1 a 9 e 11 a 13: dolo específico, ciência da falsidade, fato determinado, exceção da verdade, exaltação e crítica, Lei de Imprensa, imunidades.
+- STJ, Inq 1.656/DF: compartilhar charge sem intenção ofensiva é atípico.
+- STJ, CC 184.269-PB (Info 724): injúria por mensagem privada consuma-se onde a vítima toma conhecimento.
+- STJ, HC 689.921-SP (Info 728): deformidade permanente só abrange dano físico.
+- STJ, RHC 50.026-PA (Info 609): lesão contra irmão é § 9º em qualquer lugar.
+- STJ, HC 697.581-GO (Info 771): "serviços espirituais" para matar não são ameaça.
+- STJ, REsp 2.052.237-SC (Info 861): escolha fundamentada entre detenção e multa na ameaça.
+- STJ, Inq 1.802-DF (Info 893): art. 147-B exige dano emocional, não psíquico, sem perícia.
+- STJ, AgRg no REsp 2.245.002-RS (Info 903): agravante "f" não incide nos arts. 147-A, § 1º, II, e 147-B.
+- STJ, REsp 2.204.503-BA (Info 862): condições degradantes bastam para o art. 149.
+
+Remissões a outros capítulos: Tema 1.197 e Tema 1.333 do STJ (Cap. 14); AgRg nos EDcl no REsp 1.863.977 e REsp 2.135.321 (Cap. 3); REsp 1.765.673 e AREsp 2.587.582 (Cap. 7); AgRg no HC 1.014.496 e APn 912 (Cap. 21); ADI 4.424, Súmula 542 do STJ e Súmula 714 do STF (Cap. 20); Súmula 588 do STJ (Cap. 17); Súmula 536 do STJ, Súmula 243 do STJ e Súmula 723 do STF (Cap. 25); Súmula 231 do STJ (Cap. 14); Súmula 147 do STJ e REsp 1.977.124 (Cap. 27); Súmula 711 do STF (Cap. 3); STJ, HC 616.070/MG (ameaça e art. 24-A em concurso) e AREsp 3.057.385-DF (corpo de delito suprível no art. 147-B) (Cap. 38).
+
+# CAPÍTULO 29 — CRIMES CONTRA O PATRIMÔNIO I: FURTO, ROUBO, LATROCÍNIO, EXTORSÃO, EXTORSÃO MEDIANTE SEQUESTRO, USURPAÇÃO E DANO
+
+## 29.9 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Penas novas | Furto 1 a 6; roubo 6 a 10; latrocínio 24 a 30; repouso noturno + 1/2 | Só para fatos de 4/5/2026 em diante; lesão grave no roubo continua 7 a 18 (veto) | Lei 15.397/2026 |
+| Consumação do furto e do roubo | Inversão da posse, ainda que breve e com perseguição | Preso ainda dentro da loja = tentativa (Cap. 8) | Temas 934 e 916; Súmula 582 |
+| Furto de uso | Atípico | Coisa infungível, devolução rápida e integral; "roubo de uso" é crime | Doutrina e STJ |
+| Furto de coisa comum | 6 meses a 2 anos ou multa; representação | Fungível dentro da quota: não punível | Art. 156 |
+| Repouso noturno | + 1/2 só no furto simples | Não incide no qualificado (STF 1ª Turma diverge); irrelevante se a vítima dormia | Temas 1.087 e 1.144 |
+| Privilégio | Primário + coisa até 1 salário mínimo: detenção, 1/3 a 2/3 ou só multa | Direito subjetivo; cabe no qualificado objetivo; soma na continuidade; restituição irrelevante | § 2º; Súmula 511; JT 47 |
+| Insignificância no furto | Até 10% do salário mínimo, sem reiteração | Em regra não no qualificado; restituição não basta | JT 221; Tema 1.205; Cap. 2 |
+| Qualificadoras do § 4º | 2 a 8 anos | Perícia em regra; prova substitutiva admitida (Tema 1.107 pendente); concurso conta inimputável | Arts. 158 e 167 do CPP; Info 843 e 897 |
+| Súmula 442 | Não se aplica ao furto em concurso a majorante do roubo | — | STJ |
+| Formas de 4 a 10 anos | Explosivo (hediondo), eletrônico, veículo para outro Estado, animal, celular, explosivos ou arma como objeto, facção, combustíveis | Fios e cabos: 2 a 8, com privilégio | §§ 4º-A a 12 |
+| Roubo: meios | Violência, grave ameaça, violência imprópria | Simulacro = grave ameaça, não majora, impede substituição | Tema 1.171 |
+| Roubo impróprio | Violência logo depois para manter a coisa ou fugir | Só violência ou ameaça; "logo depois" admite lapso | § 1º; Info 873 |
+| Majorantes do roubo | § 2º: 1/3 a 1/2; § 2º-A: 2/3; § 2º-B: dobro | Uma só ou várias com fundamentação; fração não pelo número | Art. 68, p. ú.; Súmula 443 (Cap. 15) |
+| Arma de fogo | Apreensão e perícia dispensáveis | Inapta por perícia: só grave ameaça; repetitivo afetado | JT 51, teses 6 a 8 |
+| Arma branca | 1/3 a 1/2 desde 23/1/2020 | Entre 24/4/2018 e 22/1/2020, só pena-base | Tema 1.110 (Cap. 13) |
+| Latrocínio | Morte consumada = latrocínio consumado | Tentado exige dolo de matar; juiz singular; hediondo | Súmulas 610 e 603 do STF |
+| Várias mortes, uma subtração | Concurso formal impróprio (STJ) | STF: precedentes de crime único | JT 51, tese 15 |
+| Continuidade | Não entre roubo e furto, roubo e extorsão, roubo e latrocínio | Espécies diferentes | JT 47 e 51 |
+| Extorsão | Vítima faz, tolera ou omite; vantagem econômica indevida | Sem grave ameaça real (carteira): estelionato | Art. 158; Info 904 |
+| Consumação da extorsão | Independe da vantagem | Tentativa se a vítima não pratica ato algum | Súmula 96; Info 895 |
+| Sequestro relâmpago | 6 a 12 anos; resultado: penas do art. 159 | Restrição NECESSÁRIA à vantagem; hediondo | Art. 158, § 3º |
+| Extorsão mediante sequestro | Formal e permanente; 8 a 15 | Qualificadoras de 12 a 30 anos; todas hediondas | Art. 159 |
+| Delação do art. 159, § 4º | Concurso + denúncia + libertação facilitada: 1/3 a 2/3 | Eficácia indispensável | Lei 9.269/1996 |
+| Extorsão indireta | Documento como garantia, abusando da situação | Exigir: formal; receber: material | Art. 160 |
+| Usurpação | Alteração de limites, águas, esbulho | Esbulho: violência ou mais de duas pessoas; queixa se particular sem violência | Art. 161 |
+| Dano | Só doloso; *animus nocendi* exigido pelo STJ | Preso que foge e viatura em fuga: atípico | JT 87, tese 3; Cap. 7 |
+| Dano qualificado | 6 meses a 3 anos | DF, autarquias, fundações e empresas públicas desde 7/12/2017 | Lei 13.531/2017 |
+| Ação penal no dano | Privada: simples, inciso IV e art. 164 | Incisos I a III: pública incondicionada | Art. 167 |
+| Facções (2026) | Furto § 9º; roubo §§ 4º e 5º; extorsão § 4º; art. 159, § 5º | Conceitos no Cap. 46 | Lei 15.358/2026 |
+
+## 29.10 Artigos de lei incidentes
+
+- Código Penal: arts. 155 (caput, §§ 1º a 12), 156, 157 (caput, §§ 1º, 1º-A, 2º, 2º-A, 2º-B, 3º, 4º e 5º), 158 (§§ 1º a 4º), 159 (§§ 1º a 5º), 160, 161, 162, 163, 164, 165, 166 e 167; arts. 14, 24, 68, parágrafo único, 70 e 73 (remissões); art. 345 (exercício arbitrário).
+- Lei 8.072/1990: art. 1º, II (roubo com restrição de liberdade, com arma de fogo ou de uso restrito e qualificado pelo resultado), III (extorsão do art. 158, § 3º), IV (extorsão mediante sequestro) e IX (furto com explosivo).
+- Leis de alteração: Lei 13.531/2017; Lei 13.654/2018; Lei 13.964/2019; Lei 14.155/2021; Lei 15.181/2025; Lei 15.358/2026; Lei 15.397/2026; Lei 15.517/2026.
+- Código de Processo Penal: arts. 158 e 167 (perícia das qualificadoras), 28-A (ANPP), 303 (flagrante no crime permanente).
+- Lei 9.605/1998: arts. 62, 63 e 65 (dano a bens protegidos e pichação).
+- Lei 4.947/1966, art. 20; Lei 8.176/1991, art. 2º; Lei 1.521/1951, art. 4º (remissões).
+
+## 29.11 Julgados, temas e súmulas do capítulo
+
+- Súmula 610 do STF: latrocínio consumado com a morte, ainda que sem subtração.
+- Súmula 603 do STF: latrocínio é julgado pelo juiz singular.
+- Súmula 582 do STJ: roubo se consuma com a inversão da posse.
+- Súmula 511 do STJ: privilégio no furto qualificado de ordem objetiva.
+- Súmula 442 do STJ: não se aplica ao furto a majorante do concurso do roubo.
+- Súmula 96 do STJ: extorsão independe da vantagem.
+- Súmula 174 do STJ (cancelada): arma de brinquedo não majora.
+- Tema 916 do STJ: consumação do roubo sem posse mansa e pacífica.
+- Tema 934 do STJ: consumação do furto sem posse mansa e pacífica.
+- Tema 561 do STJ: privilégio no furto qualificado.
+- Tema 1.087 do STJ: repouso noturno não incide no furto qualificado.
+- Tema 1.107 do STJ (pendente): laudo oficial no rompimento de obstáculo.
+- Tema 1.144 do STJ: conceito de repouso noturno.
+- Tema 1.171 do STJ: simulacro é grave ameaça e impede a substituição.
+- Tema 1.205 do STJ: restituição não basta para a insignificância.
+- Tema 1.227 do STJ (cancelado): violência contra a coisa no roubo.
+- Tema 1.120 do STF: validade da Lei 13.654/2018 (matéria *interna corporis*).
+- ProAfR no REsp 2.222.524 (Info 877): afetação sobre apreensão e perícia da arma de fogo.
+- HC 180.966 AgR (STF, 1ª Turma): repouso noturno no furto qualificado.
+- HC 97.261 (STF, 2ª Turma): sinal de TV a cabo não é energia.
+- HC 110.425 (STF, 1ª Turma): inimputável conta para a majorante do concurso.
+- HC 553.872 (STJ, Info 665): insignificância excepcional no furto qualificado.
+- REsp 2.204.445 (STJ, Info 897): rompimento de obstáculo provado sem laudo.
+- AgRg no AREsp 2.703.772 (STJ, Info 843): escalada testemunhada dispensa perícia.
+- AgRg no HC 876.671 (STJ): chave falsa apreendida dispensa perícia.
+- AgRg no REsp 2.098.118 (STJ, Info 873): "logo depois" do roubo impróprio.
+- AREsp 2.589.697 (STJ, Info 842): cabo de vassoura como arma branca.
+- EREsp 961.863 (STJ, Terceira Seção): arma de fogo sem apreensão e perícia.
+- EAREsp 2.819.893 (STJ, Terceira Seção, Info 895): tentativa de extorsão.
+- AgRg no HC 1.066.889 (STJ, Info 904): exigir pagamento pela carteira é estelionato.
+- Jurisprudência em Teses do STJ: ed. 47 (teses 2, 3, 4, 6, 7, 8, 9, 11, 12, 13 e 15), ed. 51 (teses 3, 4, 6, 7, 8, 9, 10, 12, 13, 15 e 16), ed. 57 (tese 21), ed. 87 (teses 2, 3, 4 e 5) e ed. 221 (tese 2).
+
+Remissões: Súmula 567 e Tema 924 do STJ, AgRg no AgRg no AREsp 3.063.890, AgRg no REsp 2.255.737 e RHC 101.299 (Cap. 8); Súmula 711 do STF, HC 961.560 e HC 179.927 (Cap. 3); HC 916.770 (Cap. 7); AgRg no AREsp 2.712.504 (Cap. 11); Súmula 443 do STJ (Cap. 15); Tema 1.192 do STJ e HC 435.792 (Cap. 16); Tema 1.110 do STJ, AgRg no AREsp 2.603.711 e julgados de pena-base no roubo (Cap. 13); Súmulas 718 e 719 do STF e 440 do STJ (Cap. 17); teoria da insignificância e Súmula 599 do STJ (Cap. 2); colaboração premiada e Lei 15.358/2026 (Cap. 46); art. 244-B do ECA (Cap. 42); Lei 9.605/1998 (Cap. 49).
+
+# CAPÍTULO 30 — CRIMES CONTRA O PATRIMÔNIO II: APROPRIAÇÃO INDÉBITA, ESTELIONATO E FRAUDES ELETRÔNICAS, RECEPTAÇÃO E IMUNIDADES PATRIMONIAIS
+
+## 30.8 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Distinção básica | furto: agente tira; estelionato: vítima entrega enganada (dolo anterior); apropriação: posse lícita e dolo posterior; art. 169: coisa chega por erro espontâneo | manter em erro com afirmação falsa = estelionato | arts. 155, 168, 169, 171 |
+| Apropriação indébita | 1 a 4 anos; consuma-se com a inversão da posse | restituição: art. 16 ou atenuante, não extingue | art. 168 |
+| Majorante do § 1º | + 1/3: depósito necessário; tutor, curador, inventariante, depositário judicial etc.; ofício, emprego ou profissão | sócio nomeado depositário judicial: majorada | REsp 2.215.933 |
+| Art. 169 | detenção 1 mês a 1 ano ou multa; coisa achada: 15 dias para restituir | coisa esquecida em local conhecido = furto | art. 169; art. 170 (privilégio) |
+| Art. 168-A | omissivo próprio, dolo genérico, MATERIAL: só com o crédito definitivo | denúncia antes do lançamento: falta justa causa | JT ed. 87, tese 6 |
+| Pagamento no 168-A | antes da ação fiscal: extinção (§ 2º); depois e antes da denúncia: perdão ou multa (§ 3º); pagamento integral a qualquer tempo extingue | parcelamento antes do recebimento da denúncia suspende; reincidente não tem o § 3º | Lei 10.684/2003; Lei 9.430/1996, art. 83 |
+| Estelionato | 1 a 5 anos; fraude, erro, disposição, vantagem com prejuízo | torpeza bilateral não exclui; meio grosseiro = crime impossível | art. 171 |
+| Privilégio | primário + pequeno PREJUÍZO (até 1 salário mínimo) | mede o prejuízo, não a coisa | § 1º |
+| Cheque sem fundos | exige fraude; pré-datado ou dívida anterior não configura | pagamento antes da denúncia extingue (Súmula 554 — Cap. 8) | Súmula 246 do STF |
+| Conta laranja | ceder conta para trânsito de recursos do crime: 1 a 5 anos | só fatos desde 4/5/2026 | § 2º, VII |
+| Fraude eletrônica | qualificadora: 4 a 8 anos; vítima ou terceiro FORNECE dados ou transfere, enganado por meio eletrônico | sem entrega pela vítima: furto do art. 155, § 4º-B; servidor no exterior: + 1/3 a 2/3 | §§ 2º-A, 2º-B |
+| Entidade de direito público | + 1/3 | INSS: Súmula 24 do STJ; empresa pública e SEM: controvertido | § 3º |
+| Idoso ou vulnerável | + 1/3 ao dobro conforme o resultado gravoso | afasta a agravante do art. 61, II, "h" | § 4º |
+| Estelionato previdenciário | beneficiário: permanente; terceiro: instantâneo de efeitos permanentes | devolução: art. 16; sem fraude não há vantagem ilícita | JT ed. 84, teses 4 a 7; Info 878 |
+| Ação penal | data do fato: até 3/5/2026 condicionada (com exceções); depois, incondicionada | revogação do § 5º não retroage | Cap. 20 |
+| Competência | depósito, cheque sem fundos ou transferência: domicílio da vítima | cheque falsificado: Súmula 48; guias falsas sem lesão ao INSS: Súmula 107 | art. 70, § 4º, CPP |
+| Outras fraudes | duplicata simulada formal; art. 176 condicionada e com perdão; art. 179 ação PRIVADA | art. 179 com exequente público: pública | arts. 172 a 179 |
+| Receptação | 2 a 6 anos (fatos desde 4/5/2026); dolo direto; autor do antecedente não é receptador | ajuste prévio = participação no antecedente | art. 180 |
+| Autonomia | punível ainda que desconhecido ou isento o autor do antecedente | extinção da punibilidade do antecedente não se estende | § 4º; art. 108 |
+| Qualificada | comerciante ou industrial, inclusive clandestino; "deve saber" abrange dolo direto e eventual: 3 a 8 anos | comunica-se a corréus | § 1º; RE 443.388 |
+| Culposa | tipo fechado: natureza, preço, condição de quem oferece | perdão judicial e privilégio REVOGADOS (fatos desde 25/3/2026) | § 3º; Lei 15.358/2026 |
+| Majorantes | bem público: dobro do caput; infraestrutura: dobro do caput ou do § 1º; facção: + 2/3 | § 6º não incide na qualificada | §§ 6º a 8º |
+| Receptação de animal | semovente de produção ou animal DOMÉSTICO, fim de produção ou comércio, sabe ou deve saber: 3 a 8 anos | especial em relação ao art. 180, § 1º | art. 180-A |
+| Imunidade absoluta | isento: cônjuge na constância, ascendente, descendente | não vale: violência ou grave ameaça, roubo, extorsão, estranho, vítima 60+ | arts. 181 e 183 |
+| Imunidade relativa | representação: separado judicialmente, irmão, tio ou sobrinho com coabitação | sem coabitação: incondicionada | art. 182 |
+| Violência doméstica | STJ tradicional: escusa subsiste; FGV 2026: afastada por convencionalidade | ADPFs 1.185 e 1.241 pendentes | Q3996905 |
+
+## 30.9 Artigos de lei incidentes
+
+- Código Penal: arts. 155, § 2º (por remissão), 168, 168-A (inclusive §§ 5º e 6º, LC 225/2026), 169, 170, 171 (caput, §§ 1º a 4º; § 5º revogado), 172 a 179, 180 (caput, §§ 1º a 4º, 6º a 8º; § 5º revogado), 180-A, 181, 182, 183, 183-A; arts. 16, 17, 61, II, "h", 65, III, "b" e 108 (por remissão).
+- Código de Processo Penal: art. 24, § 2º; art. 70, caput e § 4º; arts. 383, 384, 387, IV, 395, III, e 397, IV (por remissão).
+- Leis especiais: Lei 10.684/2003, art. 9º; Lei 9.430/1996, art. 83 (redação da Lei 12.382/2011); Lei 11.941/2009, arts. 68 e 69; Lei 7.492/1986, art. 19 (remissão); Lei 10.741/2003 (Estatuto da Pessoa Idosa), arts. 102 e 106 (remissão); Lei 11.340/2006, art. 7º, IV.
+- Leis de alteração: Lei 13.330/2016; Lei 13.531/2017; Lei 13.606/2018; Lei 13.964/2019; Lei 14.155/2021; Lei 15.181/2025; Lei 15.358/2026; Lei 15.397/2026.
+- Constituição e tratados: art. 5º, XL, e art. 109, I e IV, da CF; Convenção de Belém do Pará (Decreto 1.973/1996).
+
+## 30.10 Julgados, temas e súmulas do capítulo
+
+- Súmula 246 do STF: sem fraude, não há crime de cheque sem fundos.
+- Súmula 521 do STF e Súmula 244 do STJ: foro do local da recusa do cheque — superadas pelo art. 70, § 4º, do CPP.
+- Súmula 24 do STJ: majorante do § 3º no estelionato contra o INSS.
+- Súmula 48 do STJ: cheque falsificado — foro da obtenção da vantagem.
+- Súmula 107 do STJ: guias previdenciárias falsas sem lesão ao INSS — Justiça Estadual.
+- JT ed. 84, teses 2, 4 a 9 e 11 (STJ): estelionato contra a Administração sem insignificância; teoria binária do estelionato previdenciário; continuidade do saque após a morte; devolução e art. 16; reparação só extingue no cheque; consumação; cheque pré-datado.
+- JT ed. 87, teses 6, 12 a 16 (STJ): art. 168-A material; receptação permanente; ônus da defesa; talonário; receptação e porte de arma; razão da pena do § 1º.
+- STJ, REsp 2.215.933-SC (Info 861): sócio depositário judicial — apropriação indébita majorada.
+- STJ, AgRg no REsp 2.230.017-PB (Info 878): benefício sem fraude não é vantagem ilícita do § 3º.
+- STF, RE 443.388, e STJ, EREsp 772.086: constitucionalidade do art. 180, § 1º ("deve saber").
+- STJ, CC 180.832: aplicação imediata do art. 70, § 4º, do CPP.
+- STJ, RHC 42.918: art. 181 subsiste na violência doméstica (posição tradicional).
+- STF, ADPFs 1.185 e 1.241: escusa do art. 181 e violência patrimonial contra a mulher (pendentes).
+
+Remissões: Súmula 17 do STJ e HC 179.927 (Cap. 3); Súmula 73 do STJ (Cap. 34); Tema 1.353 do STJ (Cap. 16); Súmula 554 do STF e HC 452.163 (Cap. 8); Súmula 711 do STF (Cap. 3); Súmula 443 do STJ (Cap. 15); HC 1.066.889 (Cap. 29); AgRg no AREsp 2.712.504 (Cap. 11); Súmula Vinculante 24 (Cap. 45); escusas absolutórias e ação penal do estelionato (Cap. 20); estelionato previdenciário e prescrição (Cap. 22).
+
+# CAPÍTULO 31 — CRIMES CONTRA A DIGNIDADE SEXUAL
+
+## 31.15 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Estupro: número de crimes | tipo misto alternativo: crime único na mesma vítima e contexto | contextos diversos: continuidade; atos extras na pena-base | JT 151, teses 4 a 6 |
+| Estupro: dissenso | não se exige reação enérgica; dissenso superveniente com força = estupro | dolo dispensa fim lascivo | Infos 822, 862 e 890 |
+| Estupro qualificado | lesão grave, vítima de 14 a 18 anos (8 a 12); morte (12 a 30) | vítima com menos de 14: art. 217-A | art. 213, §§ 1º e 2º |
+| Fraude (215) | vontade enganada ou diminuída | vontade anulada: 217-A, § 1º | art. 215 |
+| Importunação (215-A) | ato libidinoso contra alguém, sem anuência, com fim lascivo; dispensa contato | subsidiária; não se aplica a vulnerável nem a quem dorme | Tema 1.121; Info 859 |
+| Assédio (216-A) | superior ou ascendência; ato único basta; promessa ou ameaça não são elementares | inverso (subordinado) não é assédio; professor-aluno é | Inq 1.802; REsp 1.759.135 |
+| 216-B x 218-C | registrar ou montar x divulgar | criança ou adolescente: ECA | RHC 175.947 (ação incondicionada) |
+| 218-C, § 2º | publicação jornalística, científica, cultural ou acadêmica sem identificação | é exclusão de ILICITUDE | art. 218-C, § 2º |
+| Vulnerabilidade etária | menos de 14 anos; presunção absoluta | *distinguishing* só para fatos anteriores a 8/3/2026 | Súmula 593; Tema 918; § 4º-A; Info 897 |
+| Vulnerabilidade do § 1º | sem discernimento ou sem possibilidade de resistir (sono, embriaguez completa) | prova concreta; laudo não vincula | JT 151, teses 9 e 10 |
+| Consumação do 217-A | qualquer ato libidinoso; sem tentativa (STJ) | lesão leve não absorvida (concurso) | Tema 1.121; REsp 2.172.883 (Cap. 8) |
+| Erro sobre a idade | erro de tipo afasta o 217-A | subsiste o tipo compatível com a idade suposta | art. 20 do CP |
+| Coautoria e omissão | quem contribui com vínculo subjetivo é coautor; garante omisso responde | estupro coletivo: art. 226, IV, a | art. 29; art. 13, § 2º |
+| Art. 226 | I: 1/4; II: 1/2; IV: 1/3 a 2/3 (coletivo, corretivo) | duas majorantes: art. 68, parágrafo único | art. 226 |
+| Tema 1.215 | agravante 61, II, f + majorante 226, II: cabem juntas | só autoridade: apenas a majorante | Tema 1.215 |
+| Art. 61, II, h | não incide no 217-A | tenra idade pode ir à pena-base | JT 152, teses 8 e 11 |
+| Art. 234-A | gravidez: 1/2 a 2/3; DST, idosa ou pessoa com deficiência: 1/3 a 2/3 | aplica-se a todo o Título | art. 234-A |
+| 218-B | cliente de adolescente de 14 a 18 responde; ato único basta | menos de 14 anos: 217-A | Infos 690, 754, 825 e 830 |
+| Lenocínio | pune quem explora prostituição alheia; prostituição de adulto é lícita | casa de prostituição exige exploração | arts. 227 a 230; REsp 1.683.375 |
+| Leis novas | Lei 15.280/2025: penas maiores (8/12/2025); Lei 15.353/2026: § 4º-A e § 5º (8/3/2026) | irretroatividade | art. 5º, XL, CF |
+| Prova | palavra da vítima com especial relevância, se coerente com o conjunto | vedado explorar vida sexual pregressa | JT 151, tese 2; art. 400-A CPP |
+
+## 31.16 Artigos de lei incidentes
+
+- Código Penal: arts. 13, § 2º; 20; 29; 61, II, f, g e h; 68, parágrafo único; 92, II; 100; 111, V; 115; 128, II; 130; 213; 215; 215-A; 216-A; 216-B; 217-A (com §§ 4º-A e 5º); 218; 218-A; 218-B; 218-C; 225; 226; 227 a 230; 232-A; 233; 234; 234-A; 234-B; 338-A; 149-A.
+- Lei 12.015/2009; Lei 13.718/2018; Lei 13.772/2018; Lei 15.280/2025; Lei 15.353/2026.
+- Lei 8.072/1990: art. 1º, V, VI e VIII.
+- Código de Processo Penal: arts. 28-A; 158 e 167; 400-A; 474-A.
+- Lei 13.431/2017; Lei 13.146/2015, art. 6º; ECA, arts. 240 a 241-E e 244-B.
+- Lei 9.099/1995: arts. 61, 76 e 89; Lei 11.340/2006, art. 41.
+
+## 31.17 Julgados, temas e súmulas do capítulo
+
+- Súmula 593 do STJ e Tema 918 do STJ (REsp 1.480.881/PI): consentimento, experiência e namoro irrelevantes.
+- Tema 1.121 do STJ (REsp 1.959.697/SC): vedada a desclassificação para importunação.
+- Tema 1.215 do STJ (REsp 2.038.833/MG): agravante do art. 61, II, f, com o art. 226, II, salvo só autoridade.
+- Tema 581 do STJ (REsp 1.110.520/SP): estupro simples anterior a 2009 é hediondo.
+- Jurisprudência em Teses do STJ, eds. 151 e 152: crime único, continuidade normativa, sono, laudo, beijo, contemplação lasciva, professor, *bis in idem*.
+- STJ, Info 897 (9/6/2026): *distinguishing* só para fatos anteriores à Lei 15.353/2026; HC 860.538/PE (Info 876), REsp 2.144.411/AL e AgRg no REsp 2.015.310/MG: casos de *distinguishing*; AgRg no HC 849.912/MG: família não exclui o crime.
+- STJ, Infos 822, 862 e 890: estupro sem reação enérgica; dolo sem fim lascivo; dissenso superveniente.
+- STJ, Info 859 e REsp 1.775.136/AC: vítima dormindo ou embriagada é vulnerável.
+- STJ, AgRg no AREsp 2.470.205/AL e Informativo Edição Extraordinária 33: importunação entre adultos; por meio tecnológico.
+- STJ, Inq 1.802-DF (Info 893) e REsp 1.759.135/SP: assédio sem promessa explícita; professor-aluno.
+- STJ, RHC 175.947/SP (Info 772) e Info 851: ação incondicionada no 216-B e no 217-A após a maioridade.
+- STJ, AgRg no HC 562.153/MS e HC 478.310 (Info 685): coautoria sem ato libidinoso.
+- STJ, REsp 2.107.993/BA (Info 874): presença virtual no 218-A.
+- STJ, EREsp 1.530.637/SP, REsp 1.963.590/SP, AREsp 2.529.631-RJ e AgRg no AREsp 2.618.243-RS: cliente punível, ato único, relação "*sugar*", adolescente prostituída (218-B).
+- STJ, AREsp 2.593.050-RS e STF, RHC 138.717/PR: motorista de van escolar e bisavô no art. 226, II.
+- STF, RHC 133.121/DF e HC 134.591/SP: carícias e beijo lascivo em criança são estupro de vulnerável.
+- STJ, REsp 1.683.375/SP: casa de prostituição sem exploração é atípica.
+
+Remissões a outros capítulos: Súmula 608 do STF, Súmula 670 do STJ e art. 225 (Cap. 20); REsp 2.172.883 (Cap. 8); HC 603.195 (Cap. 6); AgRg no AREsp 2.389.611 (Cap. 10); AgRg no AREsp 1.834.993 e ADPF 1.107 (Cap. 13); Súmula 74 do STJ (Cap. 14); Tema 1.202, HC 232.709 e AgRg no AREsp 2.165.385 (Cap. 16); art. 111, V, e Lei 15.160/2025 (Cap. 22); Súmula 500 do STJ e ECA (Cap. 42); Súmulas 536 e 600 do STJ (Caps. 25 e 38).
+
+# CAPÍTULO 32 — PROPRIEDADE IMATERIAL (CP, LEI 9.279/1996 E LEI 9.609/1998), ORGANIZAÇÃO DO TRABALHO, SENTIMENTO RELIGIOSO, RESPEITO AOS MORTOS E CRIMES CONTRA A FAMÍLIA
+
+## 32.5 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Direito autoral | caput: violar; §§ 1º a 3º: reproduzir, comercializar ou oferecer sob demanda com intuito de lucro | § 4º: limitações e cópia única privada; ação: queixa (caput), incondicionada (§§ 1º e 2º, ente público), representação (§ 3º) | CP, arts. 184 e 186; Súmulas 502 e 574 do STJ |
+| Software e propriedade industrial | Lei 9.609: queixa, salvo ente público ou reflexo tributário; LPI: todos IMPO, queixa | LPI, art. 191: ação pública; art. 205: nulidade como defesa | Lei 9.609/1998, art. 12; Lei 9.279/1996, arts. 183 a 205 |
+| Organização do trabalho | ação pública incondicionada; pena da violência somada | Justiça Federal só se atingidos trabalhadores coletivamente ou a organização geral do trabalho | CF, art. 109, VI; Súmula 115 do TFR |
+| Greve e frustração de direitos | greve pacífica é lícita; art. 200 exige violência e 3 empregados; art. 203 exige fraude ou violência | art. 203, § 2º: +1/6 a 1/3 (gestante, idosa, indígena etc.); art. 205: decisão administrativa | CP, arts. 197 a 207 |
+| Religião e mortos | art. 208: três condutas; arts. 209 a 212 | cadáver não é objeto de furto, salvo se de instituição científica; homicídio + ocultação: concurso material | CP, arts. 208 a 212 |
+| Casamento | bigamia: 2 a 6 a (casado) e 1 a 3 a (solteiro ciente) | anulação apaga o crime, divórcio não; união estável não conta; art. 236: privada personalíssima | CP, arts. 235 a 239; art. 111, IV |
+| Filiação | 241: nascimento inexistente; 242: parto suposto, adoção à brasileira | reconhecida nobreza: pena menor e perdão (só no 242) | CP, arts. 241 a 243 |
+| Abandono material | omitir subsistência, pensão JUDICIAL ou socorro, sem justa causa e com dolo | rol fechado de vítimas (idoso: mais de 60 anos); agravante "f" aplicável; prisão civil é independente | CP, art. 244; Inf. 856 do STJ; CPC, art. 532 |
+| Incapazes | 245 a 249 | lucro ou exterior: ECA; pai destituído responde; restituição sem maus-tratos: perdão | CP, arts. 245 a 249 |
+
+## 32.6 Artigos de lei incidentes
+
+- Constituição Federal: art. 5º, VI, XXVII a XXIX e LXVII; art. 9º; art. 109, VI; art. 208, I; art. 226, § 2º.
+- Código Penal: arts. 61, II, "e" e "f"; 107, IX; 111, III e IV; 120; 146; 149 e 149-A (remissão); 155 e 180 (remissão); 184 e 186; 197 a 207; 208 a 212; 235 a 239; 241 a 249.
+- Código de Processo Penal: art. 92; arts. 524 a 530-I.
+- Lei 9.279/1996: arts. 183 a 206 e art. 244.
+- Lei 9.609/1998: arts. 2º, 12, 13 e 14.
+- Lei 9.610/1998: art. 46 (limitações) e arts. 89 e seguintes (direitos conexos).
+- Lei 7.783/1989: arts. 6º, 9º a 15.
+- Lei 7.716/1989: art. 20, § 2º-B (incluído pela Lei 14.532/2023).
+- Código Civil: arts. 1.515, 1.521, 1.535, 1.548, 1.556, 1.557 e 1.604.
+- Código de Processo Civil: arts. 528, 532 e 911.
+- Lei 5.478/1968: art. 22.
+- Lei 8.069/1990 (ECA): arts. 19-A, 237, 238 e 239 (remissão).
+- Lei 9.434/1997 (remissão); Lei 11.340/2006, arts. 7º, IV, e 41 (remissão); Lei 7.209/1984, art. 2º.
+
+## 32.7 Julgados, temas e súmulas do capítulo
+
+- Súmula 502 do STJ — expor à venda CDs e DVDs piratas é típico (art. 184, § 2º).
+- Súmula 574 do STJ — materialidade do art. 184 por perícia por amostragem, sem identificar titulares.
+- Tema 926 do STJ (REsp 1.456.239/MG, Terceira Seção, 2015) — perícia por amostragem nos aspectos externos basta para o art. 184, § 2º.
+- STJ, Jurisprudência em Teses, ed. 269, teses 8 e 9 — sem insignificância no direito autoral; crime permanente e ingresso em domicílio em flagrância.
+- STJ, Informativo 856 (Quinta Turma, j. 10/6/2025) — agravante do art. 61, II, "f", no abandono material em contexto doméstico e de coabitação.
+- Súmula 115 do extinto TFR — Justiça Federal só nos crimes contra a organização geral do trabalho ou direitos coletivos.
+- STF, RHC 67.300 — prazo do art. 529 do CPP tratado como decadencial (criticado).
+- STF, Tema 1.369 (ARE 1.501.674) — anistia e ocultação de cadáver como crime permanente (pendente na última conferência).
+- STF, Tema 622 e Tema 822 — multiparentalidade e ensino domiciliar (pontes cíveis).
+
+Remissões: Tema 593 do STJ, adequação social e insignificância (Cap. 2); Súmula 62 do STJ (Cap. 34); RE 398.041 e art. 149 (Cap. 28); Súmula 18 do STJ e perdão judicial (Cap. 21); art. 111, IV, e prescrição (Cap. 22); art. 236 e ação privada personalíssima (Cap. 20); Súmulas 723 do STF, 243 e 536 do STJ (Cap. 25); Q2515589, concurso material (Cap. 16); Q2507052, CTPS (Cap. 34); Q2386988, maus-tratos (Cap. 28); Q3880833, art. 154-A (Cap. 47).
+
+# CAPÍTULO 33 — CRIMES CONTRA A INCOLUMIDADE PÚBLICA E CONTRA A PAZ PÚBLICA
+
+## 33.6 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Perigo concreto x abstrato | "Expondo a perigo" = concreto, provado no processo | Abstrato: 253, 257, 268, 270, 272, 273, 286 a 288-A | Arts. 250 a 256 |
+| Incêndio | 3 a 6; crime comum (inclusive o dono) | + 1/3 por lucro ou lugar sensível; sem perigo comum, dano qualificado | Arts. 250 e 163, p. ú., II |
+| Resultado agravador | Doloso: lesão grave + 1/2, morte em dobro; culposo: lesão + 1/2, morte = homicídio culposo + 1/3 | 3ª fase; com outra majorante, art. 68, p. ú. | Arts. 258, 263 e 285 |
+| Serviços públicos | 265: 1 a 5, + 1/3 a 1/2 por subtração | 266: reclusão 2 a 4, dobro em calamidade ou por dano a equipamento de telecom | Lei 15.397/2026 |
+| Saúde pública | Epidemia 10 a 15 (hedionda só com morte); 268 norma em branco, perigo abstrato; 272: 4 a 8 | 269 só o médico; 270 não é hediondo | Arts. 267 a 280 |
+| Art. 273 | 10 a 15; hediondo | § 1º-B, I: 1 a 3 (repristinação, não pena do tráfico); incisos II a VI: divergência; venda pela internet: 273 | Tema 1.003; Info 887 |
+| Exercício ilegal, charlatanismo, curandeirismo | 282 e 284 habituais; 283 anuncia cura secreta ou infalível | 282 inclui veterinário e cúmulo com lesão, homicídio ou maus-tratos | Lei 15.425/2026 |
+| Incitação x apologia | Crime futuro x crime passado ou autor; publicidade | Contravenção: atípico; marcha da maconha: atípica | Arts. 286 e 287; ADPF 187 |
+| Associação criminosa | 3 ou mais, estáveis, fim de crimes; formal e permanente | Até + 1/2 (arma, criança ou adolescente); § 2º: contratar crime a integrante | Art. 288 |
+| Milícia privada | 4 a 8; crimes do CP; estabilidade | Forma especial de organização criminosa | Art. 288-A; Info 885; Lei 15.358/2026 |
+
+## 33.7 Artigos de lei incidentes
+
+- Código Penal: arts. 3º; 13, § 2º; 19; 29; 61, II, "j"; 68, parágrafo único; 69; 70; 111, III; 121, § 2º, III, e § 6º; 129, § 7º; 155, §§ 4º-A e 8º; 163, parágrafo único, II; 171, § 2º, V; 250 a 259; 260 a 266; 267 a 285; 286 a 288-A; 330.
+- Lei 8.072/1990: art. 1º, VII e VII-B; art. 8º e parágrafo único.
+- Lei 15.245/2025 (art. 288, §§ 1º e 2º); Lei 15.397/2026 (art. 266); Lei 15.425/2026 (art. 282); Lei 15.358/2026: arts. 2º, 3º e 4º, parágrafo único.
+- Lei 12.850/2013: arts. 1º, § 1º, e 2º (comparação). Lei 11.343/2006: arts. 33, § 2º, e 35 (comparação). Lei 10.826/2003: art. 16, § 1º, III. Lei 9.605/1998: arts. 32, 41, 54 e 61. Lei 8.137/1990: art. 7º, IX. Lei 12.720/2012. Lei 14.197/2021.
+- CPP: arts. 71, 158, 173 e 303; art. 28-A. Lei 9.099/1995: arts. 61, 76 e 89. CF: art. 5º, IV, VI, IX, XVI e XL; art. 109, IV, V e IX.
+
+## 33.8 Julgados, temas e súmulas do capítulo
+
+- STF, Tema 1.003 (RE 979.962, 2021; embargos de 2023) — art. 273, § 1º-B, I: inconstitucional a pena de 10 a 15 anos; repristina-se a de 1 a 3 anos.
+- STJ, Corte Especial, AI no HC 239.363 (Info 559) — § 1º-B, V: pena do art. 33 da Lei de Drogas (solução anterior, não adotada pelo STF).
+- STF, 1ª Turma, RE 1.116.972 AgR, e RE 1.553.774 (decisão monocrática, 4/6/2025) — Tema 1.003 limitado ao inciso I.
+- STJ, AgRg no AgRg no REsp 1.835.395-RS (Info 887) — venda de medicamentos pela internet: art. 273, § 1º-B, por especialidade.
+- STJ, AgRg no HC 922.420-RJ (Info 885) — milícia privada: estabilidade deduzível da narrativa fática.
+- STF, ADPF 187 — marcha da maconha não é apologia (art. 287).
+
+Remissões a outros capítulos: Tema 1.246 do STF (art. 268, complemento por entes federados — Cap. 3); REsp 2.088.056-PR (conhecimento prévio da falsificação no art. 273, § 1º — Cap. 7); insignificância e medicamentos, Jurisprudência em Teses ed. 221 (Cap. 2); ADI 4.274 (Cap. 37); Súmula 711 do STF (Cap. 3); Súmula 443 do STJ e art. 68, parágrafo único (Cap. 15); Súmulas 243 do STJ e 723 do STF (Cap. 25); Q3049371, incêndio tentado e majorado (Cap. 15); Q4083750, art. 288, § 2º (Cap. 27 e Cap. 11); Lei 15.358/2026 (Cap. 46).
+
+# CAPÍTULO 34 — CRIMES CONTRA A FÉ PÚBLICA E FRAUDES EM CERTAMES DE INTERESSE PÚBLICO
+
+## 34.8 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Bem jurídico | Fé pública (confiança coletiva); sujeito passivo primário: Estado e coletividade | Consentimento irrelevante; insignificância inaplicável à moeda falsa; arrependimento posterior incabível na moeda falsa | Título X do CP; Caps. 2 e 8 |
+| Requisitos do falso | *Imitatio veri*, dano potencial, relevância jurídica, dolo | Falso grosseiro: crime impossível quanto ao falso; se enganou e gerou vantagem, estelionato | Art. 17; Súmula 73 STJ |
+| Documento | Escrito, autor determinado, relevância jurídica, valor probatório próprio | Não são documento: anônimo, currículo, declaração de pobreza, cópia não autenticada | HC 67.519; HC 261.074; Q4012631 |
+| Material x ideológica | Material: forma forjada ou alterada por quem não emite; ideológica: forma autêntica, conteúdo falso | Requerimento que instrui procedimento público foi tratado como documento (Q2457303) | Arts. 297 a 299 |
+| Moeda falsa | Fabricar ou alterar; circular (§ 1º): 3 a 12 anos; moeda estrangeira incluída | Boa-fé + repasse após saber: § 2º (6 meses a 2 anos); grosseira: estelionato estadual | Art. 289; Súmula 73 STJ |
+| Competência da moeda falsa | Federal | Grosseira: Estadual | Art. 109, IV, CF |
+| Petrechos | Crime-obstáculo; objeto especialmente destinado | Absorvido se o agente falsifica | Arts. 291 e 294 |
+| Papéis públicos | Fabricar ou alterar selo fiscal, guia de arrecadação etc.: 2 a 8 anos | Crime comum, formal, doloso, admite tentativa | Art. 293 (Q3947204) |
+| Documento público | 2 a 6 anos; funcionário prevalecendo-se do cargo: + 1/6 | Equiparados: paraestatal, título ao portador ou endossável, ações, livros mercantis, testamento particular | Art. 297, §§ 1º e 2º |
+| Falsos previdenciários | Inserir dados falsos ou OMITIR dados na CTPS e documentos previdenciários = art. 297 | Competência: STJ federal (CC 145.567); Súmula 62 STJ para falsa anotação que lesa só o empregado | Art. 297, §§ 3º e 4º |
+| Documento particular | 1 a 5 anos | Cartão de crédito ou débito equiparado; nota fiscal é particular | Art. 298, parágrafo único; HC 183.640 STF |
+| Falsidade ideológica | Omitir, inserir, fazer inserir + fim especial; 1 a 5 (público) ou 1 a 3 (particular) | + 1/6 se funcionário ou registro civil (este, mesmo particular); formal | Art. 299 |
+| "Qualificada" | Arts. 297, 298 e 299 não têm qualificadora | Funcionário: majorante de 1/6 (3ª fase) | Q2449094; Q3673875 |
+| Atestados | 301: funcionário atesta fato para vantagem PÚBLICA; 301, § 1º: falso material de atestado; 302: médico | Paciente que altera atestado: 297 ou 298 conforme o emissor | Arts. 301 e 302 |
+| Uso de documento falso | Pena do falso usado; apresentação, ainda que a pedido; formal | Mero porte não é uso (Info 834); conferência imediata não gera crime impossível (Info 864); perícia dispensável se provado por outros meios | Art. 304 |
+| Falsificador que usa | Um só crime | Divergência: falso absorve uso x uso absorve falso (Info 815); bancas recentes: "uso" | Q3954631; Q2387539 |
+| Competência do uso | Órgão a quem foi apresentado | Passaporte: lugar da consumação; diploma particular: Estadual; CIR e CHA: Federal | Súmulas 546, 200, 104 STJ; SV 36 |
+| Supressão de documento | Destruir, suprimir ou ocultar documento verdadeiro de que não podia dispor | Prevalece sobre o art. 314 | Art. 305 |
+| Falsa identidade | Atribuir-se identidade falsa para vantagem; subsidiário; menor potencial ofensivo | Autodefesa NÃO exclui; crime formal | Súmula 522 e Tema 646 STJ; Tema 478 STF; Tema 1.255 STJ |
+| 304 x 307 x 308 | Documento falso x só palavras x documento verdadeiro de outro | — | Arts. 304, 307, 308 |
+| Sinal identificador | Adulterar, remarcar ou suprimir sinal de veículo (inclusive reboque e semirreboque): 3 a 6 anos | § 2º, III, só alcança sinal "adulterado ou remarcado" (ausência de placa: não); fita na placa configura | Art. 311 (Lei 14.562/2023); Q3531588 |
+| Certames | Usar ou divulgar conteúdo sigiloso de concurso, exame, vestibular: 1 a 4 anos; dano à Administração: 2 a 6; funcionário: + 1/3 | Cola eletrônica anterior a 2011: atípica (Inq 1.145 STF) | Art. 311-A (Lei 12.550/2011) |
+| Folha de respostas do Exame de Ordem | Documento público para fins penais | — | Info 877 STJ |
+| Concurso com crime-fim | Falso exaurido é absorvido | Falso com potencialidade residual: concurso | Súmula 17 STJ (Cap. 3) |
+
+## 34.9 Artigos de lei incidentes
+
+- Constituição Federal: arts. 5º, LXIII; 9º; 21, VII; 109, IV, V e X; 164.
+- Código Penal: arts. 17; 47, V; 61, II, "g"; 171; 180; 289 a 311-A; 313-A; 314; 327; 333; 347; 356.
+- Código de Processo Penal: arts. 28-A; 158; 564, III, "b".
+- Lei 9.099/1995: arts. 61 e 89.
+- Lei 9.983/2000 (arts. 297, §§ 3º e 4º, do CP); Lei 11.035/2004 (art. 293, I); Lei 12.550/2011 (art. 311-A e art. 47, V); Lei 12.737/2012 (art. 298, parágrafo único); Lei 14.562/2023 (art. 311).
+- Lei 6.538/1978: art. 39 (selo e peça filatélica).
+- Lei 9.503/1997 (CTB): art. 133.
+
+## 34.10 Julgados, temas e súmulas do capítulo
+
+- Súmula 73 do STJ — papel-moeda grosseiramente falsificado: estelionato, Justiça Estadual.
+- Súmula 546 do STJ — competência do uso: órgão a quem o documento foi apresentado.
+- Súmula 522 do STJ e Tema 646 do STJ (REsp 1.362.524) — falsa identidade perante a polícia é típica, mesmo em autodefesa.
+- STF, Tema 478 (RE 640.139) — autodefesa não alcança a falsa identidade para ocultar antecedentes.
+- STJ, Tema 1.255 (REsp 2.083.968, Info 850) — falsa identidade é crime formal.
+- Súmula 200 do STJ — uso de passaporte falso: juízo federal do lugar da consumação.
+- Súmula 104 do STJ — falso relativo a estabelecimento particular de ensino: Justiça Estadual.
+- Súmula 62 do STJ — falsa anotação na CTPS atribuída a empresa privada: Justiça Estadual.
+- Súmula Vinculante 36 — CIR e CHA da Marinha: Justiça Federal comum.
+- STJ, CC 145.567 (3ª Seção) e STF, AgR na Pet 5.084 (1ª Turma) — divergência sobre a competência do art. 297, § 4º.
+- STJ, REsp 2.175.887 (Info 834) — mero porte de CRLV falso não é uso.
+- STJ, AgRg no REsp 2.196.872 (Info 864) — conferência da autenticidade não afasta o uso.
+- STJ, HC 307.586 (Info 553) — uso de documento falso dispensa perícia se provado por outros meios.
+- STJ, AgRg no REsp 1.977.628 (Info 877) — folha de respostas do Exame de Ordem é documento público (só esta tese).
+- STJ, HC 67.519 (Info 409) — escrito anônimo não é documento.
+- STJ, HC 342.703 — endereço da mãe no registro do veículo: sem relevância jurídica.
+- STJ, AgRg no RHC 97.300 — falsidade ideológica exige o fim especial.
+- STJ, HC 261.074 (Info 546) — declaração de pobreza falsa não é documento.
+- STF, HC 183.640 — nota fiscal é documento particular.
+- STJ, RHC 98.058 (Info 657) — placa de semirreboque era atípica antes da Lei 14.562/2023.
+- STF, Inq 1.145 — cola eletrônica atípica antes da Lei 12.550/2011.
+
+Remissões: Súmula 107 do STJ (Cap. 30); Súmula 17 do STJ, AgRg no AgRg no AREsp 2.077.019 (Info 815) e tese da consunção do Info 877 (Cap. 3); insignificância na moeda falsa (Cap. 2); arrependimento posterior e crime impossível (Cap. 8); critérios de 1/6 e 1/8 (Cap. 13); empregado da OAB como funcionário público e art. 313-A (Cap. 35); falsos tributários (Cap. 45); falsidade eleitoral (Cap. 48); ANPP e Lei 9.099/1995 (Cap. 25).
+
+# CAPÍTULO 35 — CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA I: CRIMES FUNCIONAIS E CRIMES CONTRA AS FINANÇAS PÚBLICAS
+
+## 35.10 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Funcionário público | Exercício de cargo, emprego ou função pública, ainda que transitório ou gratuito | Equiparados: paraestatais e contratadas/conveniadas para atividade TÍPICA; não são: depositário judicial, tutor, curador, advogado particular | art. 327 e § 1º |
+| Majorante do art. 327, § 2º | +1/3 para comissionados e funções de direção ou assessoramento | Não alcança autarquias; agente político só com comando hierárquico; não se comunica ao particular | art. 327, § 2º |
+| Funcional próprio x impróprio | Próprio: sem a qualidade, atípico; impróprio: vira crime comum | Particular responde pelo funcional se conhece a qualidade do comparsa | art. 30 (Cap. 11) |
+| Peculato | Apropriação ou desvio (posse em razão do cargo); furto (facilidade do cargo); culposo | Bem público ou particular; peculato de uso atípico (salvo prefeito e bens fungíveis) | art. 312 |
+| Reparação no peculato | Culposo: antes do trânsito extingue; depois, reduz metade | Doloso: só art. 16 ou art. 65, III, b; condição para progredir | art. 312, § 3º; art. 33, § 4º |
+| Peculato por erro de outrem | Apropriar-se do que recebeu por erro espontâneo | Erro provocado: estelionato ou concussão | art. 313 |
+| Peculato eletrônico | 313-A: funcionário autorizado, dados, fim especial; 313-B: qualquer funcionário, sistema | 313-A formal | arts. 313-A e 313-B |
+| Emprego irregular de verbas | Destinação pública diversa da legal | Proveito particular = peculato | art. 315 |
+| Concussão | EXIGIR vantagem indevida em razão da função | Formal; entrega posterior não é flagrante; com violência ou grave ameaça = extorsão; pena 2 a 12 desde 2020 | art. 316 |
+| Excesso de exação | Exigir tributo que sabe ou deveria saber indevido; meio vexatório | Desvio do recebido: § 2º; fiscal que quer vantagem para não lançar: Lei 8.137, art. 3º, II | art. 316, §§ 1º e 2º |
+| Corrupção passiva | Solicitar, receber ou aceitar promessa de vantagem em razão da função | Formal; autônoma da ativa; § 1º +1/3 se ato violado; § 2º privilegiada (pedido de outrem) | art. 317 |
+| Facilitação de contrabando | Funcionário com dever de reprimir que facilita | Exceção pluralista; ICMS não é descaminho | art. 318 |
+| Prevaricação | Retardar, omitir ou praticar ato contra lei expressa por interesse ou sentimento pessoal | Denúncia deve descrever o interesse; desídia não basta | art. 319 |
+| Prevaricação imprópria | Omitir o dever de vedar celular ao preso | Sem fim especial; quem leva o aparelho: art. 349-A | art. 319-A |
+| Condescendência e advocacia administrativa | Indulgência com subordinado; patrocínio de interesse privado | Interesse ilegítimo qualifica o 321; tipos especiais fiscais e licitatórios | arts. 320 e 321 |
+| Arts. 322 a 326 | Violência arbitrária (cumula com a violência); abandono; exercício antecipado ou prolongado; sigilo funcional; sigilo de proposta | 326 tacitamente revogado (337-J) | arts. 322 a 326 |
+| Insignificância | Inaplicável (STJ) | Descaminho; casos excepcionais; STF caso a caso | Súmula 599 (Cap. 2) |
+| Dosimetria | Não incide art. 61, II, g; cargo elevado e prejuízo podem elevar a base | "Cobiça" é elementar; expediente burocrático regular não exaspera | JT ed. 57; Info 608 e 895 |
+| Defesa preliminar | 15 dias antes do recebimento | Dispensada com inquérito (Súmula 330); nulidade relativa; não para ex-servidor | arts. 513 a 518 do CPP |
+| Finanças públicas | Crimes próprios do ordenador, dolosos, formais | 359-C: dois últimos quadrimestres; 359-G: 180 dias; 359-F omissivo | arts. 359-A a 359-H |
+
+## 35.11 Artigos de lei incidentes
+
+- Código Penal: arts. 11; 16; 22; 29; 30; 33, §§ 2º, 3º e 4º; 59; 61, II, g; 65, III, b; 68, parágrafo único; 92, I, a; 155; 158; 168; 169; 299; 305; 312 a 327; 328; 333; 334; 334-A; 337; 337-G; 337-J; 349-A; 351; 359-A a 359-H.
+- Código de Processo Penal: arts. 28-A; 302; 387, IV; 396-A; 445; 513 a 518.
+- Lei 8.137/1990: art. 3º, II e III. Decreto-Lei 201/1967: art. 1º, II, III, IV e XVI a XXIII. Lei Complementar 101/2000 (LRF): arts. 21 e 42. Lei 10.028/2000. Lei 9.983/2000. Lei 10.763/2003. Lei 11.466/2007. Lei 13.964/2019 (art. 316). Lei 9.099/1995: arts. 61, 76 e 89. LEP: art. 50, VII. Constituição: art. 109, IV.
+
+## 35.12 Julgados, temas e súmulas do capítulo
+
+- Súmula 330 do STJ — defesa preliminar do art. 514 do CPP dispensada quando há inquérito.
+- STJ, Jurisprudência em Teses, ed. 57, teses 1 a 8 e 10 a 21 — crimes contra a Administração Pública (funcionário, peculato, corrupção, concussão, dosimetria, competência).
+- STF, HC 138.484 (Info 915) — dirigente de organização social é funcionário por equiparação.
+- STJ, AgRg no HC 750.133 (Info 815) — empregados da OAB são equiparados.
+- STJ, HC 402.949 (Info 623) — depositário judicial particular não é funcionário; venda do bem não é peculato.
+- STJ, REsp 1.303.748 e AREsp 679.651 — estagiário e lotérico são funcionários para fins penais.
+- STF, AO 2.093 (Info 950) — art. 327, § 2º não se aplica a dirigente de autarquia.
+- STF, Inq 2.606 (Info 757) — art. 327, § 2º aplica-se a chefe do Executivo com funções administrativas.
+- STJ, REsp 1.776.680 (Info 666) — governador que usa recursos de estatais na campanha: peculato-desvio (posse jurídica).
+- STJ, AgRg no AREsp 2.073.825 (Info 746) — receber salário sem trabalhar não é peculato.
+- STF, AP 504 (Info 834) — secretária parlamentar que presta serviços privados residuais: absolvição por peculato.
+- STJ, AgRg no RHC 160.947 (Info 752) — "furar fila" da vacinação: atipicidade.
+- STF, HC 108.433 AgR (Info 712) — peculato de uso atípico.
+- STJ, HC 266.460 (Info 564) — concussão formal; entrega posterior não gera flagrante.
+- STJ, EDv nos EREsp 1.196.136 (Info 608) — cobiça e lucro fácil são elementares da concussão e da corrupção passiva.
+- STJ, REsp 1.943.262 (Info 712) — interpretação equivocada de norma tributária não é excesso de exação.
+- STJ, EDcl no AgRg no RHC 123.419 — "fora da função" não alcança quem foi definitivamente desligado.
+- STF, Inq 4.506 — corrupção passiva: basta o nexo entre a vantagem e as atribuições do cargo.
+- STJ, RHC 52.465 (Info 551) — inépcia quanto ao corruptor não tranca a ação quanto ao corrompido.
+- STJ, APn 1.076 (Info 894) — sem *bis in idem* entre peculato-desvio, fraude licitatória e corrupção passiva individualizados.
+- STJ, AgRg nos EAREsp 1.478.373 (Info 895) — expediente burocrático regular não exaspera a pena-base no peculato.
+- STJ, CC 210.869 (Info 27, edição extraordinária) — facilitar sonegação de ICMS não é o art. 318; competência estadual.
+- STF, HC 85.779 — divergência sobre a Súmula 330 (defesa preliminar mesmo com inquérito).
+- STF, EP 22 ProgReg-AgR — constitucionalidade do art. 33, § 4º.
+
+Remissões a outros capítulos: Súmula 599 do STJ, Tema 157 do STJ e insignificância (Cap. 2); JT ed. 57, tese 9, e AgRg no REsp 1.789.273 — comunicabilidade da elementar e da majorante do art. 327, § 2º (Cap. 11); AgRg no AREsp 2.693.820 — dolo específico da prevaricação (Cap. 7); REsp 2.270.023 — rachadinha e crime continuado (Cap. 16); Súmula 145 do STF (Cap. 8); frações da pena-base (Cap. 13); art. 68, parágrafo único (Cap. 15); perda do cargo (Cap. 18); ANPP e Lei 9.099 (Cap. 25); corrupção ativa, descaminho, contrabando, art. 349-A e Súmula 151 do STJ (Cap. 36); Lei 8.137/1990, art. 3º (Cap. 45); licitações e DL 201/1967, Súmulas 208 e 209 do STJ (Cap. 48).
+
+# CAPÍTULO 36 — CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA II: CRIMES DE PARTICULAR, CONTRA A ADMINISTRAÇÃO DA JUSTIÇA E CONTRA A ADMINISTRAÇÃO PÚBLICA ESTRANGEIRA; CRIMES CONTRA O ESTADO DEMOCRÁTICO DE DIREITO
+
+## 36.13 Resumo para revisão pré-prova
+
+| Instituto | Regra-chave | Pegadinha |
+|---|---|---|
+| Resistência x desobediência x desacato | Violência/ameaça contra execução de ato legal x descumprimento pacífico de ordem com notificação pessoal x ofensa na presença | Ato não executado qualifica a resistência; desobediência some se há sanção extrapenal sem ressalva (Tema 1.060: parada em policiamento ostensivo é crime); desacato constitucional (ADPF 496) |
+| Tráfico de influência x exploração de prestígio | Venda de influência sobre funcionário em geral x sobre o rol do 357 | Majorante 1/2 (332) x 1/3 (357); comprador não é autor |
+| Corrupção ativa | Oferecer ou prometer para ato de ofício | Recusa irrelevante; "dar" após solicitação é atípico; +1/3 se o funcionário cede |
+| Descaminho x contrabando | Mercadoria permitida x proibida | Descaminho formal, pagamento não extingue; dobra só aéreo, marítimo, fluvial; Súmula 151 e CC 203.031 |
+| Art. 337-A | Fraude na apuração da contribuição | Material; sem insignificância; extinção por confissão antes da ação fiscal |
+| Arts. 337-B a 337-D | 337-B inclui "dar" | Comissionado de estatal estrangeira é equiparação, não majorante |
+| Denunciação x comunicação falsa x autoacusação | Inocente determinado x fato sem autor x acusar-se | Anonimato +1/6; contravenção −1/2; autoacusação só de crime |
+| Falso testemunho | Mão própria; calar basta; inquérito e juízo arbitral incluídos | Retratação até a sentença do processo de origem; Súmula 165 |
+| Coação, exercício arbitrário, fraude processual | Violência no processo; pretensão legítima à força; inovar para enganar juiz ou perito | +1/3 a 1/2 (crime sexual); queixa sem violência; dobro no penal, mesmo não iniciado |
+| Favorecimentos e 349-A | Pessoal (o autor) x real (o proveito) | Escusa só no pessoal; chip é atípico; flagrado na revista = tentativa |
+| Fuga | Promover ou facilitar fuga de outrem | Fuga própria sem violência é atípica; art. 352 é crime de atentado |
+| Estado Democrático de Direito | 359-L (regime) x 359-M (governo), crimes de atentado | 359-T; concurso formal próprio e redução de 1/3 a 2/3 na multidão (Lei 15.402/2026) |
+
+## 36.14 Artigos de lei incidentes
+
+- Código Penal: arts. 2º, parágrafo único; 7º, II, e § 2º; 14, parágrafo único; 29; 30; 47; 68; 69; 70; 92; 107, VI; 141, II; 147; 163, parágrafo único; 168-A; 180; 286, parágrafo único; 288, parágrafo único; 307; 314; 317; 318; 319-A; 324; 327; 328 a 337-A; 337-B a 337-D; 338, 338-A a 349-A; 350 (revogado); 351 a 359; 359-I a 359-T (vetados 359-O, 359-Q, 359-S e 359-U); 359-M-A e 359-M-B.
+- Código de Processo Penal: arts. 28-A; 93; 211; 218 e 219; 282, § 4º; 319.
+- Código de Processo Civil: art. 536, § 3º. Código Civil: art. 1.210, § 1º.
+- Lei 11.340/2006: art. 24-A. Lei 12.016/2009: art. 26. Lei 13.445/2017 (expulsão). Lei 1.579/1952: art. 4º, II. Lei 9.605/1998: art. 62. Lei 12.846/2013. Lei 10.684/2003: art. 9º. Lei 9.430/1996: art. 83. Lei 10.522/2002: art. 20. CTB: arts. 195, 278-A e 307. LEP: arts. 50, II e VII; 66, I. Lei 9.099/1995: arts. 61, 76 e 89. Lei 8.906/1994: art. 7º, § 2º.
+- Leis de alteração: 13.008/2014; 14.110/2020; 14.197/2021; 14.245/2021; 13.869/2019 (revogou o art. 350); 14.994/2024 (art. 24-A da Lei Maria da Penha); 15.280/2025 (art. 338-A); LC 225/2026 (art. 337-A, §§ 5º e 6º); 15.402/2026.
+- Constituição: arts. 5º, XLIV; 102, II, b; 109, IV, V e X.
+
+## 36.15 Julgados, temas e súmulas do capítulo
+
+- Súmula 151 do STJ e CC 203.031 (j. 20/6/2024): prevenção do local da apreensão; exceção do remetente conhecido.
+- Súmula 165 do STJ: falso testemunho trabalhista na Justiça Federal.
+- STJ, Tema 933 (REsp 1.378.053): falso exaurido no descaminho é absorvido.
+- STJ, Tema 1.060 (REsp 1.859.933): ordem de parada em policiamento ostensivo — desobediência.
+- STF, ADPF 496; STJ, HC 379.269; STF, HC 141.949: desacato válido. STJ, AgRg no RHC 136.918 (vários agentes, um desacato) e HC 104.921 (funcionário como autor); STF, ADI 1.127 (advogado sem imunidade).
+- STJ, HC 226.512 e HC 348.265: notificação pessoal; ordem de agente de trânsito é infração administrativa.
+- STJ, RHC 55.940: comprador do prestígio não é sujeito ativo.
+- STJ, AREsp 2.007.599 (Info 735): propina para evitar o termo do art. 28 é corrupção ativa.
+- STJ, Informativo 24 (edição extraordinária) e Jurisprudência em Teses, ed. 57, teses 16 e 19: corrupção ativa formal, sem bilateralidade.
+- STJ, Jurisprudência em Teses, ed. 81 (teses 2 a 6, 8, 10, 11, 13 e 14) e ed. 220, tese 5: contrabando, descaminho e art. 337-A.
+- STF, HC 121.798 (Info 904): descaminho formal. STJ, REsp 1.413.829 (Info 552): anulação do auto de infração como prejudicial externa. STJ, AgRg no AREsp 2.197.959 (Info 765): dobra no transporte aéreo.
+- STJ, REsp 1.860.791 (Info 685) e HC 211.888 (Info 584): exercício arbitrário formal; cordão do cliente inadimplente.
+- STJ, AgRg no AREsp 603.029: falso testemunho formal. STF, RHC 81.327 e HC 75.037; STJ, REsp 402.783: advogado que instrui a testemunha.
+- STJ, HC 619.776 (Info 693) e AREsp 2.104.638: chip é atípico; flagrado na revista, tentativa.
+- STF, AP 2.668: núcleo de planejamento da tentativa de golpe.
+
+Remissões: Súmula 599 do STJ, Temas 157, 1.143 e 1.218 do STJ, AgRg no RHC 185.605 e REsp 2.184.785 (insignificância — Cap. 2); Súmula 17 do STJ, Súmula Vinculante 24, Súmula 611 do STF e continuidade normativo-típica (Cap. 3); Súmula 147 do STJ (Cap. 27); Tema 1.353 do STJ (Cap. 16); Tema 1.166 do STJ e art. 168-A (Cap. 30); Súmula 522 do STJ (Cap. 34); corrupção passiva, art. 318, art. 319-A e JT ed. 57 (Cap. 35); Súmulas 243 do STJ e 723 do STF e ANPP (Cap. 25); frações de progressão da Lei 15.402/2026 (Cap. 24); art. 24-A da Lei Maria da Penha (Cap. 38); licitações (Cap. 48); abuso de autoridade (Cap. 44); crimes tributários e extinção pelo pagamento (Cap. 45).
+
+# CAPÍTULO 37 — LEI DE DROGAS (LEI 11.343/2006)
+
+## 37.11 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Conceito de droga | Norma penal em branco heterogênea: listas do Executivo da União | Portaria SVS/MS 344/1998; retirada da lista gera *abolitio* | Arts. 1º, parágrafo único, e 66 |
+| Insignificância | Inaplicável ao art. 28 e ao art. 33 | Perigo abstrato; pureza irrelevante | Jurisprudência em Teses, ed. 131, teses 5, 15 e 44 |
+| Art. 28 | Crime despenalizado: advertência, prestação de serviços, curso | Não gera reincidência nem maus antecedentes; prescrição em 2 anos; JECrim estadual | Arts. 28 a 30 e 48; REsp 1.672.654 |
+| Tema 506 (cannabis) | Porte para consumo não é infração penal; ilícito extrapenal | Até 40 g ou 6 plantas-fêmeas: presunção RELATIVA de uso; sem prestação de serviços; não alcança fornecer a terceiro | RE 635.659 |
+| Tráfico (caput) | 18 verbos; tipo misto alternativo; 5 a 15 anos | Lucro dispensável; consumação com qualquer verbo (adquirir com o ajuste) | Art. 33; HC 650.712 |
+| Materialidade | Exige apreensão e laudo | Associação dispensa apreensão em poder do agente | HC 686.312; ed. 131, tese 27 |
+| Agente disfarçado | Venda a policial disfarçado é crime se houver conduta criminal preexistente | Flagrante preparado não afasta verbos anteriores | Art. 33, § 1º, IV; Súmula 145 do STF (Cap. 8) |
+| § 3º | Oferta eventual, sem lucro, a pessoa do relacionamento, para consumo conjunto | Requisitos cumulativos; doar para uso alheio é caput | Art. 33, § 3º |
+| Privilegiado (§ 4º) | Redução de 1/6 a 2/3; requisitos cumulativos | Ações em curso não afastam; mula não afasta por si; art. 35 afasta; quantidade só se incompatível com pequeno traficante ou com outros elementos | Temas 1.139 e 1.154 do STJ |
+| Privilegiado: natureza | Não hediondo | Progressão e livramento comuns; indulto possível | SV 63; Tema 600; art. 112, § 5º, da LEP |
+| Privilegiado: regime | Aberto e substituição obrigatórios se não houver vetor negativo na 1ª fase | Requisitos dos arts. 33, § 2º, c, e 44 do CP | SV 59 |
+| Art. 34 | Maquinário: 3 a 10 anos | Não hediondo; consunção pelo caput no mesmo contexto | Informativo 882; ed. 131, tese 18 |
+| Art. 35 | 2 ou mais, com estabilidade | Não hediondo; livramento com 2/3; concorre com tráfico e, havendo outros crimes, com organização criminosa | Ed. 131, teses 26 e 28; Tema 1.355 |
+| Art. 36 x art. 40, VII | Só financia: art. 36 | Trafica e financia: art. 33 + art. 40, VII | Ed. 131, teses 17 e 30 |
+| Art. 37 | Informante eventual, sem vínculo | Integrado: art. 35; vigia da venda: art. 33 | Ed. 131, tese 31; Informativo 892 |
+| Arts. 38 e 39 | Prescrição culposa; condução de embarcação ou aeronave | Veículo terrestre: CTB | Arts. 38 e 39 |
+| Art. 40, I e V | Basta a destinação; cumuláveis | Intermunicipal não majora | Súmulas 607 e 587 do STJ |
+| Art. 40, III | Objetiva; rol exemplificativo | Afastável sem aglomeração; transporte público só como meio não majora | Ed. 131, teses 39 a 42 |
+| Art. 40, IV e arma | Até 24/3/2026: nexo = absorção + majorante; sem nexo = concurso material | A partir de 25/3/2026: concurso material com o Estatuto (+2/3 se ligada ao tráfico) | Tema 1.259; arts. 21-A do Estatuto e 40-A da Lei de Drogas |
+| Art. 40-A | Pena em dobro para integrante de organização ultraviolenta, paramilitar ou milícia | Concurso material com arma, independentemente do nexo | Lei 15.358/2026 |
+| Fração do art. 40 | De 1/6 a 2/3, fundamentada | Número de incisos não basta | Ed. 131, tese 43 |
+| Art. 42 | Natureza, quantidade, personalidade e conduta social preponderam | Quantidade ínfima não eleva a pena-base | Tema 1.262 do STJ |
+| Tema 712 | Natureza e quantidade em UMA fase só | Podem modular o § 4º se não usadas na pena-base | ARE 666.334; HC 725.534 |
+| Art. 41 | Redução de 1/3 a 2/3 | Identificação dos coautores E recuperação do produto (predomina a cumulatividade) | Art. 41; ed. 193, tese 8 |
+| Art. 43 | Dia-multa de 1/30 a 5 salários mínimos | Multas cumulativas; até o décuplo | Art. 43 |
+| Arts. 45 e 46 | Dependência ou efeito fortuito: isenção (inteira incapacidade) ou redução de 1/3 a 2/3 (parcial) | Uso voluntário não isenta | Arts. 45 a 47 |
+| Art. 44 | Inafiançável; sem graça, indulto e anistia; livramento com 2/3 | Inconstitucionais: vedação de liberdade provisória, de substituição e regime fechado obrigatório | HC 104.339; HC 97.256; HC 111.840 |
+| Procedimento | Defesa prévia antes do recebimento: 10 dias, 5 testemunhas | Interrogatório ao final; nulidade relativa se recebida antes | Arts. 54 a 58; HC 127.900 |
+| Laudos | Constatação para flagrante e denúncia; definitivo para condenar | Constatação supre excepcionalmente; falta de assinatura é irregularidade | Art. 50; EREsp 1.544.057; Tema 1.206 |
+| Competência | Estadual, salvo transnacionalidade (federal) | Correio: juízo do destino; art. 28 sempre JECrim estadual | Súmula 522 do STF; art. 70; CC 177.882 |
+| Bens | Perdimento de todo bem apreendido em decorrência do tráfico, sem habitualidade | Funad; alienação antecipada; leilão por 50% | Art. 243 da CF; Tema 647; arts. 60 a 63-F |
+
+## 37.12 Artigos de lei incidentes
+
+- Constituição Federal: art. 5º, XLIII; art. 109, V; art. 243.
+- Lei 11.343/2006: arts. 1º, 2º, 27 a 30, 33 a 47, 48, 50, 50-A, 51, 54 a 59, 60 a 63-F, 66 e 70.
+- Lei 15.358/2026: arts. 36 (inclui o art. 40-A na Lei de Drogas), 37 (inclui o art. 21-A no Estatuto do Desarmamento) e 44 (vigência).
+- Lei 10.826/2003: arts. 12, 14, 16 e 21-A.
+- Lei 8.072/1990: art. 2º.
+- Lei 7.210/1984 (LEP): arts. 52 e 112, § 5º.
+- Código Penal: arts. 11, 29, 33, §§ 2º e 3º, 44, 59, 68, parágrafo único, 77, 83, 92, III, 273, § 1º-B, e 282.
+- Código de Processo Penal: arts. 385, 387, § 1º, e 400.
+- Lei 9.099/1995: arts. 60, 76 e 89.
+- Portaria SVS/MS 344/1998.
+
+## 37.13 Julgados, temas e súmulas do capítulo
+
+- Súmula Vinculante 59: privilegiado sem vetor negativo — regime aberto e substituição obrigatórios.
+- Súmula Vinculante 63: tráfico privilegiado não é hediondo.
+- Súmula 522 do STF: competência estadual, salvo tráfico para o exterior.
+- Súmula 347 do STJ: apelação independe de prisão (art. 59 da lei não recepcionado).
+- Súmula 607 do STJ: transnacionalidade sem transpor a fronteira.
+- Súmula 587 do STJ: interestadualidade sem transpor a divisa.
+- Súmula 528 do STJ (cancelada; CC 177.882): correio — juízo do destino.
+- Súmula 512 do STJ (cancelada): privilegiado hediondo — superada.
+- STF, Tema 506 (RE 635.659): maconha para consumo — ilícito extrapenal, 40 g ou 6 plantas, presunção relativa.
+- STF, Tema 712 (ARE 666.334): natureza e quantidade em uma só fase.
+- STF, Tema 647 (RE 638.491): confisco de qualquer bem do tráfico sem habitualidade.
+- STF, Tema 1.178 (RE 1.347.158): multa mínima do art. 33 é constitucional.
+- STF, Tema 1.400 (RE 1.542.482): indulto ao privilegiado é constitucional.
+- STF, HC 118.533: privilegiado não é hediondo.
+- STF, HC 104.339: liberdade provisória no tráfico.
+- STF, HC 127.900: interrogatório ao final nos ritos especiais.
+- STF, ADI 4.274: § 2º não alcança manifestações pela legalização.
+- STJ, Tema 600: privilegiado não é equiparado a hediondo.
+- STJ, Tema 1.052: prova da idade para o art. 40, VI.
+- STJ, Tema 1.139: inquéritos e ações em curso não afastam o § 4º.
+- STJ, Temas 1.154 e 1.241: quantidade expressiva incompatível com pequeno traficante afasta o § 4º.
+- STJ, Tema 1.206: falta de assinatura do perito é irregularidade.
+- STJ, Tema 1.259: arma com nexo finalístico — absorção e art. 40, IV.
+- STJ, Tema 1.262: quantidade ínfima não eleva a pena-base.
+- STJ, Tema 1.336: Decreto 11.846/2023 não indulta tráfico não privilegiado, nem a multa.
+- STJ, Tema 1.355: art. 35 — livramento com 2/3.
+- STJ, Temas 1.337, 1.381 e 1.431 (pendentes): danos morais coletivos; destino interestadual e § 4º; solicitação de droga no presídio.
+- STJ, HC 686.312: tráfico exige apreensão e laudo.
+- STJ, HC 725.534: quantidade na pena-base ou na fração do § 4º, nunca nas duas.
+- STJ, EREsp 1.544.057: laudo de constatação supre o definitivo excepcionalmente.
+- STJ, EREsp 1.916.596: atos infracionais e dedicação a atividades criminosas.
+- STJ, REsp 1.672.654: art. 28 não gera reincidência.
+- STJ, HC 650.712: "adquirir" consuma com o ajuste.
+- STJ, HC 663.265 e Informativo 868: art. 41 — requisitos alternativos ou cumulativos.
+- STJ, Informativos 770 e 899 e Edição Extraordinária 27: droga no presídio.
+- STJ, Informativos 842 e 873: salvo-conduto para cannabis medicinal.
+- STJ, Informativo 846: prints sem apreensão não condenam.
+- STJ, Informativo 857: art. 40, II e VI, sem *bis in idem*.
+- STJ, Informativo 868 (propriedade rural): expropriação e boa-fé de terceiros.
+- STJ, Informativo 882: art. 34 não é hediondo.
+- STJ, Informativo 887: medicamento pela internet — art. 273, § 1º-B, do CP.
+- STJ, Informativo 892: olheiro integrado responde pelo art. 33.
+- STJ, Jurisprudência em Teses, edições 45, 60, 123, 131 e 144 (teses citadas no texto).
+
+Remissões: HC 97.256 e HC 111.840 (substituição e regime no tráfico — Cap. 17); Súmula 501 do STJ e Tema 169 do STF (combinação de leis — Cap. 3); Súmula 145 do STF (Cap. 8); Súmula 444 do STJ e Tema 150 do STF (Cap. 13); Súmula 630 do STJ e Tema 1.194 do STJ (confissão — Cap. 14); Súmula 443 do STJ e art. 68, parágrafo único (Cap. 15); regime e substituição em geral (Cap. 17); confisco alargado do art. 63-F (Cap. 18); Súmula 492 e Súmula 500 do STJ (Cap. 42); falta grave por posse de droga no presídio (Cap. 23); progressão e livramento (Cap. 24); ANPP no tráfico privilegiado (Cap. 25); Estatuto do Desarmamento (Cap. 39); hediondos (Cap. 40); Lei 15.358/2026 e organizações criminosas (Cap. 46).
+
+# CAPÍTULO 38 — VIOLÊNCIA DOMÉSTICA E FAMILIAR CONTRA A MULHER (LEI 11.340/2006) E CONTRA A CRIANÇA E O ADOLESCENTE (LEI 14.344/2022)
+
+## 38.11 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Âmbitos | unidade doméstica, família ou relação íntima de afeto (alternativos) | sem coabitação; relação encerrada ou virtual; independe de orientação sexual | art. 5º; Súmula 600 STJ |
+| Gênero | presumido nos âmbitos do art. 5º | motivação (dívida, herança) irrelevante | art. 40-A (Lei 14.550/2023) |
+| Sujeitos | vítima mulher (inclusive trans e criança); agressor qualquer pessoa | homem nunca é vítima da LMP (sobra o art. 129, § 9º) | art. 5º, parágrafo único; Tema 1.186 STJ |
+| Fora do lar | MPUs para violência de gênero sem relação doméstica | não estende as vedações penais | STF, Tema 1.412 |
+| Formas | física, psicológica, sexual, patrimonial, moral, vicária | rol exemplificativo | art. 7º (VI: Lei 15.384/2026) |
+| MPUs | tutela inibitória; independem de crime, inquérito, BO, processo | prazo indeterminado; revogação com contraditório; 48 h | art. 19, §§ 4º a 6º; Tema 1.249 STJ |
+| Novas MPUs | monitoração eletrônica prioritária; cíveis são título executivo | não aplicar a monitoração exige fundamentação | art. 22, VIII, §§ 6º a 10 (Leis 15.383 e 15.412/2026) |
+| Afastamento sem juiz | delegado (sem comarca) ou policial (sem delegado) | juiz decide em 24 h; risco ampliado (sexual, moral, patrimonial) | art. 12-C (Lei 15.411/2026) |
+| Preventiva | para garantir MPU, sem limite de pena | não de ofício; proporcionalidade | art. 20 LMP; art. 313, III, e 311 CPP |
+| Art. 24-A | reclusão, 2 a 5 anos, e multa | + 1/3 a 1/2 se viola área monitorada ou o dispositivo; fiança só pelo juiz; ação incondicionada | Leis 14.994/2024 e 15.383/2026 |
+| 24-A x outros crimes | concurso com ameaça | consentimento não exclui com intimidação; absorvido no feminicídio majorado | HC 616.070; AgRg HC 860.073 |
+| Lei 9.099 | inaplicável, independentemente da pena | inclui contravenções | art. 41; ADC 19; Súmula 536 (Cap. 25) |
+| ANPP | vedado | também violência doméstica contra homem e crime de gênero fora do lar | art. 28-A, § 2º, IV, CPP |
+| Penas | sem cesta básica, prestação pecuniária, multa isolada | multa isolada vedada até na ameaça; *sursis* cabível | art. 17; Tema 1.189; Súmula 588 (Cap. 17) |
+| Ação penal | lesão, vias de fato, ameaça (desde 10/10/2024), 147-B, 24-A: incondicionadas | perseguição condicionada; honra privada | Súmula 542; art. 147, § 2º; Cap. 20 |
+| Retratação | só perante o juiz, em audiência, até o RECEBIMENTO da denúncia | audiência só se a vítima pedir; não de ofício | art. 16 e parágrafo único (Lei 15.380/2026); Tema 1.167 |
+| Decadência | 12 meses da ciência da autoria | só fatos desde 19/6/2026 | art. 16-A LMP; art. 103, parágrafo único, CP (Lei 15.438/2026) |
+| Agravante "f" | incide no § 9º e nas contravenções | não incide no § 13, nas vias de fato do § 2º, no feminicídio do § 1º, I, nos tipos de gênero | Temas 1.197 e 1.333 (Cap. 14) |
+| Prova | palavra da vítima relevante; laudo suprível | perspectiva de gênero | APn 1.079; AREsp 3.057.385 |
+| Dano moral | valor mínimo na sentença, *in re ipsa* | exige pedido expresso, sem quantia | Tema 983 STJ; art. 387, IV, CPP |
+| Competência | JVDFM cível e criminal | divórcio sim, partilha não; varas criminais acumulam | arts. 14, 14-A e 33 |
+| Lei 14.344 | violência doméstica contra criança e adolescente, sem cláusula de gênero | MPU em 24 h; proteção do noticiante | arts. 2º, 14, 15, 20 e 21 |
+| Art. 25 (14.344) | detenção, 3 meses a 2 anos | especialidade em face do art. 338-A do CP | Lei 14.344; Lei 15.280/2025 |
+| Art. 26 (14.344) | omissão de comunicar: detenção, 6 meses a 3 anos | + 1/2 lesão grave; triplo morte; dobro parentes; garantidor responde pelo resultado | art. 26; art. 13, § 2º, CP |
+
+## 38.12 Artigos de lei incidentes
+
+- Constituição Federal: arts. 226, § 8º, e 227.
+- Lei 11.340/2006: arts. 5º, 7º, 9º, § 2º, 12, § 3º, 12-C, 12-D, 14, 14-A, 16, 16-A, 17, 18, 19, 20, 21, 22, 23, 24, 24-A, 33, 38-A, 40-A e 41.
+- Lei 14.344/2022: arts. 2º, 14, 15, 17, 20, 21, 25 e 26.
+- Código Penal: arts. 13, § 2º, 44, 61, II, "f", 68, parágrafo único, 77, 79, 103, parágrafo único, 111, V, 121, § 2º, IX, 121-A, 121-B, 129, §§ 9º e 13, 147, §§ 1º e 2º, 147-A, 147-B, 181 e 338-A.
+- Código de Processo Penal: arts. 28-A, § 2º, IV, 38, § 2º, 158, 167, 311, 312, 313, III, 350-A, 385, 387, IV, e 394-A.
+- Lei 9.099/1995: arts. 76, 88 e 89 (afastados pelo art. 41 da LMP).
+- Decreto-Lei 3.688/1941 (LCP): arts. 17 e 21, § 2º.
+- ECA: art. 226, §§ 1º e 2º. Lei 13.431/2017: art. 4º. LEP: arts. 41, § 2º, e 152, parágrafo único. Lei 8.072/1990: art. 1º, I.
+- Leis de alteração a conhecer: 13.641/2018, 13.772/2018, 13.894/2019, 13.984/2020, 14.188/2021, 14.550/2023, 14.674/2023, 14.857/2024, 14.994/2024, 15.280/2025, 15.380/2026, 15.383/2026, 15.384/2026, 15.411/2026, 15.412/2026 e 15.438/2026.
+
+## 38.13 Julgados, temas e súmulas do capítulo
+
+- Súmula 600 do STJ — violência doméstica não exige coabitação.
+- STJ, Tema 1.186 (REsp 2.015.598) — idade da vítima irrelevante; LMP prevalece sobre o ECA.
+- STJ, REsp 2.236.141-SC — relação entre mulheres: LMP e art. 129, § 13.
+- STF, Tema 1.412 (ARE 1.537.713) — MPUs para violência de gênero fora do contexto doméstico.
+- STF, Tema 1.370 — afastamento do trabalho (art. 9º, § 2º, II): pagamento pelo INSS ou benefício assistencial.
+- STJ, Tema 1.249 — MPU é tutela inibitória, sem prazo, revogação com contraditório.
+- STJ, REsp 2.036.072-MG — antecedente do Tema 1.249 sobre reavaliação das MPUs.
+- STJ, AgRg no HC 860.073-SC — consentimento da vítima não afasta o art. 24-A quando há intimidação.
+- STJ, REsp 2.224.804-PR — não comparecer para instalar a tornozeleira pode configurar o art. 24-A.
+- STJ, HC 616.070/MG — art. 24-A e ameaça em concurso, sem consunção.
+- STJ, Informativo 846 (Sexta Turma, 12/3/2025) — invasão de domicílio e lesão em concurso.
+- STF, ADC 19 — constitucionalidade dos arts. 1º, 33 e 41 da LMP.
+- STJ, Tema 1.189 (REsp 2.049.327) — vedada a multa isolada, inclusive na ameaça.
+- STJ, Informativo 891 (Quinta Turma, 12/5/2026) — grupo reflexivo como condição do *sursis*.
+- STJ, Tema 1.167 (REsp 1.977.547) — audiência do art. 16 só a pedido da vítima, para confirmar a retratação.
+- STJ, APn 1.079-DF — palavra da vítima e dano moral *in re ipsa*.
+- STJ, AREsp 3.057.385-DF — corpo de delito suprível por outras provas.
+- STJ, Tema 983 (REsp 1.643.051) — valor mínimo de dano moral com pedido expresso, sem instrução.
+
+Remissões a outros capítulos: Súmula 589 do STJ (Cap. 2); REsp 1.977.124 e ADPF 779 (Cap. 27); Súmulas 542 do STJ e ADI 4.424 (Cap. 20); Súmula 588 e Súmula 269 do STJ (Cap. 17); Súmula 536 do STJ (Cap. 25); Temas 1.197 e 1.333 do STJ (Cap. 14); escusas absolutórias e ADPF 1.185 (Cap. 30).
+
+# CAPÍTULO 39 — ESTATUTO DO DESARMAMENTO (LEI 10.826/2003)
+
+## 39.14 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Natureza dos crimes | Perigo abstrato e mera conduta; bem jurídico: segurança pública | Arma inapta por laudo: atípico (crime impossível) | Ed. 102 e 108 |
+| Classificação | Permitido, restrito ou proibido, pelo Decreto 11.615/2023 (curta até 407 J = permitida) | Reclassificação benéfica retroage; gravosa não | Art. 23; art. 5º, XL, da CF |
+| Arma desmuniciada | Crime | — | STF, HC 95.073 |
+| Munição isolada | Crime | Insignificância só em quantidade ínfima, sem arma apta e sem outro crime | Ed. 219, teses 8 a 10; EREsp 1.856.980 |
+| Posse (art. 12) | Residência, dependência ou local de trabalho de quem é titular ou responsável legal; detenção 1 a 3 | Empregado no trabalho, veículo e caminhão: porte | REsp 1.219.901 |
+| Registro vencido | Atípico para o proprietário que registrou (posse) | Crime no porte, no art. 16 e para o herdeiro | APn 686; AgRg no AREsp 885.281; REsp 2.201.660 |
+| Porte (art. 14) | Fora da residência ou do estabelecimento; reclusão 2 a 4 | Inafiançabilidade do parágrafo único: inconstitucional | ADI 3.112 |
+| Omissão de cautela (art. 13) | Único culposo; próprio; omissivo próprio; sem tentativa | Parágrafo único: empresa de segurança, 24 horas, Polícia Federal | Art. 13 |
+| Disparo (art. 15) | Lugar habitado ou via pública; doloso; subsidiário | Absorvido se meio de crime mais grave; porte só para disparar é absorvido | Ed. 102, teses 4 e 10 |
+| Uso restrito (art. 16) | Posse ou porte, 3 a 6 anos | § 2º, uso proibido: 4 a 12, hediondo | Lei 13.964/2019 |
+| Numeração raspada | Art. 16, § 1º, IV, mesmo arma permitida | Não é hedionda; não qualifica o homicídio | Súmula 668; ed. 108, tese 4 |
+| Comércio ilegal (art. 17) | 6 a 12; atividade comercial ou industrial, inclusive clandestina em residência | Agente disfarçado (§ 2º); nunca teve *abolitio* | Ed. 108, teses 5 e 6 |
+| Tráfico internacional (art. 18) | 8 a 16; Justiça Federal | Exige internacionalidade da ação; especial em relação ao contrabando | Ed. 108, teses 7 a 10; ed. 102, tese 12 |
+| Majorantes | Art. 19 (1/2: 17 e 18, restrita/proibida); art. 20 (1/2: 14 a 18, agente público ou reincidente específico); art. 21-A (2/3: 12, 14 e 16, tráfico) | 21-A só para fatos a partir de 25/3/2026 | Lei 15.358/2026 |
+| Concurso | Mesmo tipo, mesmo contexto: crime único; tipos diferentes: concurso formal | Receptação e porte: concurso material | Ed. 23, tese 5; ed. 87, tese 15 |
+| *Abolitio* temporária | Posse atípica de 23/12/2003 a 23/10/2005 (arts. 12 e 16) e até 31/12/2009 (art. 12, arma registrável) | Nunca o porte nem o comércio; raspada só até 23/10/2005 | Súmula 513; Tema 596 |
+| Entrega espontânea (art. 32) | Extingue a punibilidade da posse irregular, a qualquer tempo | Não alcança o porte | Art. 32 |
+| Hediondez | Só art. 16, § 2º, art. 17 e art. 18 | Uso restrito deixou de ser hediondo (retroage) | Art. 1º, p. ú., II a IV, da Lei 8.072 |
+| Liberdade provisória | Cabível em todos | Vedação do art. 21: inconstitucional | ADI 3.112 |
+
+## 39.15 Artigos de lei incidentes
+
+- Lei 10.826/2003: arts. 4º, 5º (§ 5º), 6º, 12 a 21-A, 23, 25, 26, 30 a 32.
+- Lei 15.358/2026: art. 37 (inclui o art. 21-A no Estatuto); inclusão do inciso VIII no art. 1º, parágrafo único, da Lei 8.072/1990.
+- Lei 8.072/1990: art. 1º, parágrafo único, II, III e IV; art. 2º.
+- Decreto 11.615/2023: arts. 11, 12 e 14 (com o Decreto 12.345/2024).
+- Lei 11.343/2006: arts. 33, 40, IV, e 40-A (remissão).
+- Código Penal: arts. 2º, parágrafo único, 17, 25, 44, § 3º, 61, I, 68, parágrafo único, 69, 70 e 91, II, "a".
+- CPP: arts. 28-A, 303, 322 e 383.
+- Constituição: art. 5º, XL e XLIII; art. 109, V.
+- Lei 8.069/1990: art. 242 (remissão).
+
+## 39.16 Julgados, temas e súmulas do capítulo
+
+- Súmula 513 do STJ: *abolitio* temporária e arma raspada só até 23/10/2005.
+- Súmula 668 do STJ: uso permitido com numeração raspada não é hediondo.
+- Tema 596 do STJ (REsp 1.311.408): posse de arma raspada após 23/10/2005 é típica.
+- STF, ADI 3.112: inconstitucionais a inafiançabilidade dos arts. 14 e 15 e a vedação de liberdade provisória do art. 21.
+- STF, HC 95.073: porte de arma desmuniciada é crime.
+- STF, RHC 143.449: insignificância excepcional em munição isolada.
+- STJ, EREsp 1.856.980-SC: sem insignificância para munição apreendida no contexto de tráfico.
+- STJ, APn 686-AP: registro vencido na posse é irregularidade administrativa.
+- STJ, AgRg no AREsp 885.281-ES: registro vencido não beneficia o porte nem o art. 16.
+- STJ, REsp 2.201.660-RS (Info 890): herdeiro com arma do falecido, registro vencido, responde pelo art. 12.
+- STJ, RHC 70.141-RJ: policial com registro só estadual comete crime.
+- STJ, APn 657-PB: conselheiro de Tribunal de Contas tem porte por equiparação à magistratura.
+- STJ, REsp 1.219.901-MG: caminhão não é local de trabalho; porte.
+- STJ, REsp 1.627.028-SP: granada de gás lacrimogêneo não é artefato explosivo.
+- STF, RC 1.472: granada para roubo a banco é art. 16, não crime político.
+- STJ, HC 525.249-RS: figuras do parágrafo único do art. 16 não eram hediondas sob a Lei 13.497/2017.
+- STJ, AgRg no REsp 1.619.960-MG: armas permitida e restrita no mesmo contexto, concurso formal.
+- STJ, AgRg no AREsp 2.512.800-SP (Info 857): tráfico internacional exige prova segura da transposição da fronteira.
+- STJ, REsp 1.887.992-PR (Info 721): porte na modalidade transportar admite participação.
+- Jurisprudência em Teses do STJ: ed. 102 (teses 1 a 5, 7, 8, 10 a 12), ed. 108 (teses 1 a 10), ed. 219 (teses 8 a 10), ed. 23 (tese 5), ed. 87 (tese 15).
+
+Remissões a outros capítulos: HC 104.410 do STF e constitucionalidade do perigo abstrato (Cap. 2); AgRg no REsp 2.104.061 (arma raspada e homicídio), Súmulas 611 e 711 do STF e retroatividade do complemento (Cap. 3); Súmula 145 do STF e agente disfarçado (Cap. 8); Súmula 241 do STJ (Cap. 14); Súmula 443 do STJ e art. 68, parágrafo único (Cap. 15); Súmula 269 do STJ (Cap. 17); Súmula 723 do STF, Súmula 243 do STJ e ANPP (Cap. 25); arma no roubo e Jurisprudência em Teses ed. 51 (Cap. 29); Tema 1.259 do STJ e art. 40-A da Lei de Drogas (Cap. 37); hediondez e progressão (Caps. 40 e 24); Lei 15.358/2026 e domínio social estruturado (Cap. 46); Tema 857 do STF, porte de arma branca (Cap. 50).
+
+# CAPÍTULO 40 — CRIMES HEDIONDOS E EQUIPARADOS, TORTURA, TERRORISMO E GENOCÍDIO
+
+## 40.9 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Sistema | legal, rol taxativo; consumado ou tentado | juiz não amplia nem retira | Lei 8.072, art. 1º |
+| Equiparados | tortura, tráfico, terrorismo | privilegiado, art. 34, art. 35 e tortura-omissão: não | CF, art. 5º, XLIII; SV 63; Inf. 882 |
+| Homicídio | qualificado; simples só por grupo de extermínio | privilegiado e híbrido: não | art. 1º, I |
+| Lesão (I-A) | só gravíssima ou seguida de morte, contra agentes e autoridades listados (parentes até 3º grau) ou na escola | lesão grave NUNCA; afinidade só na alínea "b" | Lei 15.159/2025 |
+| Roubo, extorsão, furto | roubo: restrição de liberdade, arma de fogo, lesão grave ou morte; extorsão do § 3º; art. 159 inteiro; furto com explosivo | arma branca, concurso de pessoas: não | art. 1º, II a IV e IX |
+| Crianças e adolescentes | art. 122 digital; sequestro e tráfico de pessoas contra vítima com menos de 18 anos; ECA 240, § 1º, e 241-B | vítima adulta: não | Lei 14.811/2024 |
+| Armas e orcrim | arma de uso proibido, comércio ilegal, tráfico internacional; orcrim direcionada a hediondo | uso restrito, numeração raspada de arma permitida: não | par. ún.; Súmula 668 do STJ |
+| Vedações | anistia, graça, indulto, comutação e fiança | liberdade provisória sem fiança; *sursis* e livramento não vedados | art. 2º |
+| Regime e progressão | regime inicial pelo art. 33 do CP; progressão pela data do fato (70% a 85% desde 25/3/2026) | § 1º do art. 2º e § 7º da Lei 9.455 afastados | HC 111.840; HC 286.925; LEP, art. 112 |
+| Livramento | mais de 2/3 | vedado: reincidente específico, morte, comando de orcrim, feminicídio | CP, art. 83, V |
+| Temporária | 30 + 30 dias | regra geral 5 + 5 | art. 2º, § 4º |
+| Arts. 8º e 9º | associação para hediondos 3 a 6 anos, delação 1/3 a 2/3; art. 9º revogado | decote retroativo do art. 9º | HC 100.181 |
+| Tortura | crime comum; sofrimento (I) ou intenso sofrimento (II, III) | próprios: II, § 1º, § 2º; III exige reiteração | Lei 9.455, art. 1º |
+| Omissão | detenção 1 a 4 anos; exceção pluralista | fora do fechado; prevalece não equiparada | §§ 2º e 7º |
+| Resultado e majorantes | 4 a 10 / 8 a 16 (preterdolo); +1/6 a 1/3 | querer matar: art. 121, § 2º, III; agente público incide no § 1º | §§ 3º e 4º; Inf. 904 |
+| Efeitos | perda do cargo automática; interdição pelo dobro | CP, art. 92: motivação | § 5º |
+| Espaço e prescrição | extraterritorialidade (vítima brasileira ou agente sob jurisdição); prescritível | competência estadual, em regra | art. 2º; CC 107.397 |
+| Terrorismo | ato + motivação discriminatória + finalidade de terror; 12 a 30 anos | motivação política e manifestações: não; uma pessoa basta | Lei 13.260, art. 2º |
+| Preparação e financiamento | art. 5º: consumado − 1/4 a 1/2; art. 6º: 15 a 30 | art. 10: desistência antes da execução; Justiça Federal | HC 537.118; art. 11 |
+| Genocídio | intenção de destruir grupo nacional, étnico, racial ou religioso | tentativa com 2/3 da pena; concurso formal com homicídios; Júri se conexos | Lei 2.889; RE 351.487 |
+| IDC | PGR, no STJ: grave violação + risco internacional + ineficácia estadual | excepcional | CF, art. 109, § 5º |
+
+## 40.10 Artigos de lei incidentes
+
+- Constituição Federal: art. 5º, III, XL, XLII, XLIII e XLIV; art. 109, IV, V, XI e § 5º; art. 144.
+- Lei 8.072/1990: arts. 1º (incisos I a XII e parágrafo único, I a VIII), 2º, 3º, 8º e 9º.
+- Lei 9.455/1997: arts. 1º (incisos I a III e §§ 1º a 7º), 2º e 4º.
+- Lei 13.260/2016: arts. 2º, 3º, 5º, 6º, 7º, 10, 11, 12, 16, 17 e 18.
+- Lei 2.889/1956: arts. 1º a 6º.
+- Código Penal: arts. 7º, I, "d"; 13, § 2º; 14; 15; 29; 33; 44, I; 61, II, "e", "g" e "h"; 70; 83, V; 92, I; 109; 121, § 2º, III; 129, §§ 1º a 3º; 136; 146; 148, § 1º, IV; 155, § 4º-A; 157, §§ 2º, V, 2º-A, I, 2º-B e 3º; 158, § 3º; 159; 218-B; 228; 288.
+- Lei 7.210/1984: art. 112, V a VIII e § 5º.
+- Lei 7.960/1989: arts. 1º, III, e 2º.
+- CPP: arts. 167, 312, 313, 323, II, e 387, § 1º.
+- Lei 10.826/2003: arts. 16, 17 e 18. Lei 11.343/2006: arts. 33, 34 e 35. Lei 12.850/2013: art. 1º, § 2º, II, e art. 2º.
+- Leis de alteração a conhecer: 8.930/1994, 11.464/2007, 12.015/2009, 13.142/2015, 13.497/2017, 13.964/2019, 14.688/2023, 14.811/2024, 14.994/2024, 15.159/2025, 15.358/2026, 15.384/2026 e 15.410/2026.
+
+## 40.11 Julgados, temas e súmulas do capítulo
+
+- STJ, HC 1.005.146-SP (Informativo 882, 2026): art. 34 da Lei de Drogas não é hediondo.
+- STF, HC 100.181 (Informativo 947): art. 9º da Lei 8.072 tacitamente revogado; decote retroativo.
+- STJ, Jurisprudência em Teses, ed. 131, tese 29: art. 8º da Lei 8.072 aplicado ao art. 14 da Lei 6.368/1976.
+- STF, ADIs 3.360 e 4.109: requisitos da prisão temporária.
+- STJ, REsp 1.299.787/PR: tortura como crime comum é compatível com a Convenção da ONU.
+- STJ, REsp 1.580.470/PA: tortura-prova dispensa intenso sofrimento e prevalece sobre a lesão.
+- STJ, REsp 1.738.264-DF (Informativo 633): tortura-castigo é crime próprio.
+- STJ, Informativo de Jurisprudência n. 27, edição extraordinária (j. 1º/4/2025): sem posição de garante, não há tortura-castigo.
+- STJ, REsp 2.096.542/MG (Informativo 799): agravante de parentesco na tortura-castigo sem *bis in idem*.
+- STJ, Informativo 904 (j. 9/9/2026): majorante de agente público incide na tortura do preso.
+- STJ, AgRg no Ag 1.388.953/SP: perda do cargo na tortura é automática.
+- STJ, HC 286.925/RR (Informativo 540): regime inicial na tortura segue o art. 33 do CP.
+- STJ, HC 459.851/SC: tortura com violência não admite substituição.
+- STJ, CC 107.397/DF (Informativo 549): tortura contra brasileiro no exterior: Justiça Estadual.
+- STF, HC 88.878: corpo de delito indireto na tortura.
+- STF, Ext 1.362: imprescritibilidade de crimes contra a humanidade não aplicada sem lei interna.
+- STJ, Súmula 647: imprescritibilidade das indenizações por perseguição política no regime militar.
+- STJ, HC 537.118-RJ (Informativo 663): atos preparatórios de terrorismo exigem a motivação do art. 2º.
+- STF, RE 351.487/RR (Haximu): genocídio, concurso formal com homicídios e competência.
+- STJ, IDC 1, IDC 2 e IDC 5: requisitos e casos de deslocamento de competência.
+
+Remissões: Súmula 668 do STJ (arma permitida raspada não é hedionda — Cap. 39); Súmula Vinculante 26, HC 111.840 e Tema 972 do STF (regime inicial — Cap. 17); HC 82.959 (Cap. 24); Súmula 471 do STJ, Tema 1.084 do STJ e Tema 1.169 do STF (progressão — Cap. 24 e Cap. 2); Jurisprudência em Teses, ed. 139, tese 11, e Tema 1.400 do STF (indulto e comutação — Cap. 21); ADPF 153 (Cap. 21); Súmula Vinculante 63, Tema 600 do STJ e HC 118.533 (tráfico privilegiado — Cap. 37); AgRg no AREsp 1.886.886 (homicídio qualificado pela tortura — Cap. 27); homicídio qualificado-privilegiado e § 2º-D (Cap. 27); Súmula 443 do STJ (Cap. 15); ADO 26 (Cap. 41).
+
+# CAPÍTULO 41 — RACISMO, INJÚRIA RACIAL, DISCRIMINAÇÃO E PRECONCEITO, CRIMES DE ÓDIO E PROTEÇÃO PENAL ANTIDISCRIMINATÓRIA
+
+## 41.14 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções / detalhes | Fundamento |
+|---|---|---|---|
+| Mandado constitucional | racismo: inafiançável, imprescritível, reclusão | liberdade provisória sem fiança é possível | art. 5º, XLI e XLII, CF; art. 323, I, CPP |
+| Conceito de raça | social, não biológico | judeus, indígenas, estrangeiros, LGBTI+ | HC 82.424; ADO 26 |
+| Injúria racial | art. 2º-A: 2 a 5 anos; +1/2 por concurso de pessoas | incondicionada; imprescritível (já antes de 2023) | Lei 14.532/2023; HC 154.248 |
+| Fatos anteriores a 2023 | continuidade normativo-típica | pena antiga (1 a 3); representação (ver nota) | REsp 2.135.321 (Cap. 3) |
+| Racismo reverso | não há injúria racial contra branco por ser branco | pode haver injúria comum | HC 929.002; art. 20-C |
+| Art. 140, § 3º, CP | religião, pessoa idosa ou com deficiência | condicionada; prescritível; triplo na rede social | arts. 140, 141, § 2º, 145 CP |
+| Homotransfobia | enquadra-se na Lei 7.716; ofensa pessoal = injúria racial | homicídio: motivo torpe; liberdade religiosa salvo discurso de ódio | ADO 26; MI 4.733 e ED (2023) |
+| Religião | proselitismo é lícito; incitar ódio contra outra fé é racismo | racismo religioso: § 2º-B, com cúmulo da violência | RHC 134.682; RHC 146.303 |
+| Segregação | arts. 3º a 14, motivação discriminatória implícita | anúncio com exigência de aparência: só multa e PSC | art. 1º e 4º, § 2º |
+| Art. 20 | 1 a 3; qualificadoras §§ 1º, 2º, 2º-A (2 a 5) | suástica só para divulgar nazismo; cautelares antes do inquérito | art. 20, §§ 1º a 4º |
+| Majorantes | 20-A (recreativo, todos os crimes); 20-B (funcionário, só 2º-A e 20) | 1/3 até 1/2; cuidado com *bis in idem* com art. 61, II, "g" | arts. 20-A e 20-B |
+| ANPP | vedado nos crimes raciais e homofóbicos | precedentes de Turma | RHC 222.599; AREsp 2.607.962 |
+| Competência | estadual | federal: tratado + potencial transnacional na internet | CC 163.420; art. 109, V, CF |
+| Efeitos | perda do cargo; suspensão do estabelecimento até 3 meses | não automáticos; independem do quantum | arts. 16 e 18 |
+| Assistência à vítima | advogado ou defensor em todos os atos | cíveis e criminais | art. 20-D |
+| Lei 9.029 | exigir atestado de gravidez ou esterilização; induzir esterilização; controle de natalidade | crime próprio; detenção 1 a 2 (JECrim) | arts. 2º a 4º |
+| Lei 12.984 | 6 condutas contra pessoa com HIV/aids; reclusão 1 a 4 | não é racismo; prescritível | art. 1º |
+| Crimes de ódio | sem categoria legal própria | motivo torpe, tortura-discriminação, terrorismo, genocídio | Caps. 27 e 40 |
+| Perspectiva racial | Protocolo obrigatório | não cria crime; orienta prova e fundamentação | Resolução CNJ 598/2024 |
+
+## 41.15 Artigos de lei incidentes
+
+- Constituição Federal: art. 5º, XLI, XLII e § 3º; art. 109, IV, V e IX.
+- Lei 7.716/1989: arts. 1º, 2º-A, 3º a 14, 16, 18, 20 (§§ 1º, 2º, 2º-A, 2º-B, 3º e 4º), 20-A, 20-B, 20-C e 20-D.
+- Lei 14.532/2023; Lei 9.459/1997; Lei 12.033/2009.
+- Código Penal: arts. 28, 33, § 2º, 44, 61, II, "g", 68, parágrafo único, 92, I, 140, § 3º, 141, § 2º, 143, 145, parágrafo único, 208.
+- Código de Processo Penal: arts. 28-A, 310, 321, 323, I, 387, IV.
+- Lei 9.029/1995: arts. 1º a 4º.
+- Lei 12.984/2014: art. 1º.
+- Lei 9.099/1995: arts. 61, 76 e 89.
+- Decreto 65.810/1969 (Convenção sobre a Eliminação de Todas as Formas de Discriminação Racial); Decreto 10.932/2022 (Convenção Interamericana contra o Racismo).
+- Resolução CNJ 598/2024.
+
+## 41.16 Julgados, temas e súmulas do capítulo
+
+- STF, HC 82.424 (caso Ellwanger, 2003): raça é conceito social; antissemitismo é racismo.
+- STF, ADO 26 e MI 4.733 (2019): homotransfobia enquadra-se na Lei 7.716; motivo torpe; liberdade religiosa salvo discurso de ódio.
+- STF, ED no MI 4.733 (2023): ofensa homotransfóbica a pessoa determinada é injúria racial.
+- STF, HC 154.248 (2021): injúria racial é espécie de racismo, imprescritível.
+- STJ, AgRg no REsp 1.849.696 (2020): injúria racial imprescritível (antecedente do HC 154.248).
+- STJ, HC 929.002 (2025): não há injúria racial contra pessoa branca por essa condição.
+- STF, RHC 134.682 (2016): proselitismo comparativo não é racismo.
+- STF, RHC 146.303 (2018): incitação ao ódio contra outras religiões é racismo.
+- STF, Inq 4.694 (2018): manifestação política de parlamentar sem fim de inferiorização não é racismo.
+- STF, RHC 222.599 (2023) e STJ, AREsp 2.607.962 (2024): ANPP incabível em crimes raciais e homofóbicos.
+- STJ, CC 163.420 (2020): racismo em rede social aberta é de competência federal pelo potencial transnacional.
+- STJ, CC 102.454 (2009): racismo na internet consuma-se onde partiram as mensagens.
+- STF, ADPF 973 (2025): racismo estrutural reconhecido, sem estado de coisas inconstitucional.
+
+Remissões a outros capítulos: REsp 2.135.321 — continuidade normativo-típica (Cap. 3); AREsp 2.835.056 — embriaguez e dolo na injúria racial (Cap. 10); HC 96.007 e legalidade na ADO 26 (Cap. 2); Tema 393 do STF e Súmula 147 do STJ (Cap. 47); Resolução CNJ 598/2024 e HC 208.240 (Cap. 1); art. 68, parágrafo único, e aumentos sucessivos (Cap. 15); ANPP em geral (Cap. 25).
+
+# CAPÍTULO 42 — PROTEÇÃO PENAL DE VULNERÁVEIS E OUTRAS LEIS PROTETIVAS: ECA, PESSOA IDOSA, PESSOA COM DEFICIÊNCIA, ESTATUTO DO ÍNDIO, LEI 13.431/2017, PLANEJAMENTO FAMILIAR E TRANSPLANTES
+
+## 42.12 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Lei 9.099 e criança ou adolescente | não se aplica aos crimes contra eles | leitura restritiva (violência doméstica) na doutrina; art. 230 com vedação expressa | ECA, arts. 226, § 1º, e 230, § 2º |
+| Lei 9.099 e pessoa idosa | afastada nos crimes do Estatuto e nos crimes com violência contra pessoa idosa (fatos desde 4/7/2025) | antes: só o rito, sem despenalizadores | art. 94 (Lei 15.163/2025); ADI 3.096 |
+| Imunidades patrimoniais | afastadas se a vítima tem 60 anos ou mais no dia do fato | com 59 anos, o art. 181 incide | Lei 10.741, art. 95; CP, art. 183, III |
+| Conteúdo de violência sexual | real ou fictício, inclusive IA; nudez com fim sexual ou pose com conotação sexual | antes de 7/8/2026: "cena de sexo explícito ou pornográfica" (lida amplamente pelo STJ) | ECA, art. 241-E |
+| Penas (fatos desde 7/8/2026) | 240, 241, 241-A: 4 a 10 a; 241-B: 3 a 6 a (− 1/6 a 1/3); 241-C e 241-D: 3 a 5 a | antes: 4 a 8; 4 a 8; 3 a 6; 1 a 4 (− 1/3 a 2/3); 1 a 3; 1 a 3 | Lei 15.487/2026 |
+| Hediondez | 240, 241, 241-A, 241-B (*caput*), 241-D, 244-A | fora: 241-B, § 4º, 241-C, 244-B; antes, só 240, § 1º, e 241-B | Lei 8.072, art. 1º, parágrafo único, VII |
+| Concurso | entre artigos diversos e com o estupro de vulnerável: material | verbos do mesmo artigo no mesmo contexto: crime único; consunção só se provada | Tema 1.168 do STJ |
+| Competência | estadual; federal com acesso transnacional pela internet | canal fechado: estadual | Tema 393 do STF |
+| Aliciamento | vítima menor de 14 (antes, criança); "por qualquer meio" desde 7/8/2026 | presencial não configurava na redação antiga ("meio de comunicação"); adulto fingindo ser criança: crime impossível | Info 860 do STJ; CP, art. 17; Lei 15.487/2026 |
+| Bebida a criança ou adolescente | crime do art. 243 desde 17/3/2015 | antes, contravenção | Súmula 669 do STJ |
+| Corrupção de menores | formal; dolo abrange a idade | erro sobre a idade exclui; tráfico: art. 40, VI; um crime por adolescente; concurso formal | Súmula 500; Tema 221; REsp 1.680.114 |
+| Depoimento especial | uma vez, em antecipação de prova | obrigatória: menos de 7 anos e violência sexual | Lei 13.431, art. 11 |
+| Art. 24 da Lei 13.431 | depoimento assistido por estranho sem autorização judicial E sem consentimento | 1 a 4 a | Lei 13.431, art. 24 |
+| Apropriação de rendimentos | art. 102 (pessoa idosa) e art. 89 (deficiência), especiais | bancário com cartão da idosa: art. 102 | REsp 1.358.865 |
+| Maus-tratos e abandono | art. 99 do Estatuto da Pessoa Idosa e art. 90 da Lei 13.146: 2 a 5 a | art. 98 do Estatuto da Pessoa Idosa ficou em 6 m a 3 a | Lei 15.163/2025 |
+| Discriminação de pessoa com deficiência | 1 a 3 a; por meios de comunicação, 2 a 5 a | *animus jocandi* afasta o dolo | Lei 13.146, art. 88 |
+| Indígena autor | atenuante (2ª fase) e semiliberdade | STJ: só não integrado; crítica pela autodeclaração | Lei 6.001, art. 56 |
+| Indígena vítima | + 1/3 (3ª fase); crimes do art. 58 | competência federal só com disputa sobre direitos indígenas | Lei 6.001, arts. 58 e 59; CF, art. 109, XI |
+| Esterilização ilegal | fora do art. 10 (21 anos ou 2 filhos; 60 dias; sem consentimento do cônjuge): 2 a 8 a | induzir contra a coletividade: genocídio | Lei 9.263, arts. 10, 15 e 17 |
+| Órgãos | remoção com morte: preterdoloso, juízo singular; comércio: 3 a 8 a | dolo de matar: Júri | Lei 9.434, arts. 14 e 15; RE 1.313.494 |
+
+## 42.13 Artigos de lei incidentes
+
+- Constituição Federal: arts. 5º, XL; 109, V e XI; 227, § 4º; 230; 231.
+- Código Penal: arts. 17, 20, 70, 92, § 2º, 111, V, 133, 136, 155, § 4º, 181 a 183, 216-B, 217-A, 218, 218-B, 242, 249.
+- Código de Processo Penal: arts. 313, VI, e 563.
+- ECA (Lei 8.069/1990): arts. 190-A, 190-F, 225 a 227-C, 228 a 244-C.
+- Lei 13.431/2017: arts. 3º, 4º, 7º, 8º, 11, 12 e 24.
+- Estatuto da Pessoa Idosa (Lei 10.741/2003): arts. 1º, 93 a 108.
+- Estatuto da Pessoa com Deficiência (Lei 13.146/2015): arts. 88 a 91.
+- Estatuto do Índio (Lei 6.001/1973): arts. 56 a 59.
+- Lei 9.263/1996: arts. 10 e 15 a 21. Lei 9.434/1997: arts. 3º, 9º e 14 a 20.
+- Lei 8.072/1990, art. 1º, parágrafo único, VII; Lei 11.343/2006, art. 40, VI; Lei 10.826/2003, art. 16, § 1º, V.
+- Leis alteradoras: 13.106/2015, 14.344/2022, 14.443/2022, 14.811/2024, 14.858/2024, 15.163/2025, 15.487/2026.
+
+## 42.14 Julgados, temas e súmulas do capítulo
+
+- STJ, Súmula 500 e Tema 221: corrupção de menores é crime formal.
+- STJ, Tema 1.168: arts. 241-A e 241-B autônomos, concurso material.
+- STJ, Súmula 669: bebida a criança ou adolescente é o art. 243.
+- STF, Tema 393 (RE 628.624): Justiça Federal se o acesso é transnacional.
+- STJ, AREsp 3.032.889 (Informativo 876): culpabilidade nos arts. 240 e 241-A.
+- STJ, Informativo 860: art. 241-D (redação anterior à Lei 15.487/2026) não abrange conversa presencial.
+- STJ, Informativo 840 e REsp 1.543.267 (Informativo 577): conceito amplo de pornografia infantil.
+- STJ, REsp 1.579.578 (Informativo 666): pena-base do art. 241-A; consunção excepcional.
+- STJ, PExt no HC 438.080 (Informativo 655): art. 240, crime único com vários verbos.
+- STJ, CC 103.011 (Informativo 520): armazenamento sem transnacionalidade, Justiça Estadual.
+- STJ, REsp 1.680.114: dois adolescentes, dois crimes do art. 244-B.
+- STJ, REsp 1.622.781 (Informativo 595): tráfico com adolescente, art. 40, VI.
+- STJ, Jurisprudência em Teses, ed. 221, tese 4: sem insignificância no furto com corrupção do filho.
+- STF, ADI 3.096: só o rito da Lei 9.099 no Estatuto da Pessoa Idosa (fatos anteriores a 4/7/2025).
+- STJ, REsp 1.358.865 (Informativo 547): cartão da idosa, art. 102.
+- STJ, AgRg no RHC 193.928 (Informativo 832): *animus jocandi* e art. 88 da Lei 13.146.
+- STJ, AgRg no REsp 1.970.494, AgRg no HC 621.553 e HC 888.914; TJSC, AEP 8000321-14.2025.8.24.0054: art. 56 do Estatuto do Índio só para o não integrado.
+- STF, RE 1.313.494 (Informativo 1030) e STJ, AgRg no REsp 1.656.165: art. 14, § 4º, da Lei 9.434, juízo singular.
+- STJ, Tema 1.361 (afetado em 6/5/2025, pendente): prescrição executória de medida socioeducativa; matéria infracional, só monitorar.
+
+Remissões a outros capítulos: Súmula 711 do STF (Cap. 3); Súmulas 74 e 231 do STJ (Cap. 14); Tema 1.052 do STJ (Cap. 37); Súmula 140 do STJ (Cap. 27); arts. 181 a 183 do CP (Cap. 20); frações do concurso formal (Cap. 16); art. 111, V, do CP (Cap. 22); Resolução CNJ 287/2019 (Cap. 1); efeitos da hediondez (Cap. 40).
+
+# CAPÍTULO 43 — CRIMES DE TRÂNSITO (CÓDIGO DE TRÂNSITO BRASILEIRO)
+
+## 43.14 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções/detalhes | Fundamento |
+|---|---|---|---|
+| Aplicação subsidiária | CP, CPP e Lei 9.099 no que couber | pena-base com atenção a culpabilidade, circunstâncias e consequências | art. 291, caput e § 4º |
+| Lesão culposa: ação | condicionada; composição e transação | incondicionada e inquérito se embriaguez, racha ou +50 km/h; *sursis* processual não é afastado | art. 291, §§ 1º e 2º |
+| Suspensão/proibição da habilitação | pena principal cumulativa (302, 303, 306, 308; nova imposição no 307); 2 meses a 5 anos | reincidente em crime do CTB: sempre (art. 296); não corre durante a prisão; entrega da CNH em 48h | arts. 292, 293, 296; Tema 486 STF |
+| Cautelar de suspensão | qualquer fase, para garantia da ordem pública | RESE sem efeito suspensivo | art. 294 |
+| Multa reparatória | dia-multa, só prejuízo material, até o prejuízo provado | descontada na indenização civil | art. 297 |
+| Agravantes | sete hipóteses; valem para os culposos | não incidem quando o dado já é elementar ou majorante | art. 298 |
+| Flagrante | não há flagrante nem fiança para quem presta pronto e integral socorro | não alcança outro crime autônomo (306) | art. 301 |
+| Homicídio culposo | detenção 2 a 4 anos; tipo especial em relação ao CP | perdão judicial cabível; arrependimento posterior não | art. 302 |
+| Majorantes (302 e 303) | + 1/3 a 1/2: sem habilitação, faixa ou calçada, omissão de socorro, transporte de passageiros | CNH vencida não; morte instantânea não afasta o III; um só aumento | arts. 302, § 1º, e 303, § 1º |
+| Embriaguez qualificando | 302, § 3º (5 a 8, reclusão); 303, § 2º (2 a 5, reclusão, só lesão grave ou gravíssima) | 306 absorvido; sem substituição | arts. 302, § 3º, 303, § 2º, 312-B |
+| Dolo eventual | Júri; exige circunstâncias além da embriaguez | racha com morte sem aceitação: 308, § 2º | Cap. 7; JT 114, tese 1 |
+| Omissão de socorro | 304 só para o condutor envolvido sem culpa | causador: majorante; terceiro: art. 135 CP; morte instantânea não exclui | art. 304 |
+| Fuga do local | constitucional; exige fim de fugir à responsabilidade | concurso com o crime culposo | art. 305; Tema 907 STF |
+| Embriaguez ao volante | perigo abstrato; 0,3 mg/L ou 6 dg/L, ou sinais; qualquer prova | recusa: sanção só administrativa (Tema 1.079 STF); fatos de 2008 a 2012 exigem exame | art. 306 |
+| Violação da suspensão | só suspensão ou proibição judicial | administrativa: atípico | art. 307 |
+| Racha | via pública, sem autorização, situação de risco | §§ 1º e 2º preterdolosos | art. 308 |
+| Sem habilitação | perigo concreto, via pública | CNH vencida, categoria diversa, suspensão administrativa: não | art. 309; Súmula 720 STF |
+| Entrega da direção | perigo abstrato | inclui suspenso e embriagado | art. 310; Súmula 575 e Tema 901 STJ |
+| Velocidade incompatível | perigo concreto, locais do tipo | prova objetiva da velocidade | art. 311 |
+| Fraude processual | sinistro com vítima; formal | antes mesmo do inquérito | art. 312 |
+| Restritivas | PSC nas atividades ligadas a vítimas de trânsito | troca da modalidade em recurso da defesa não é *reformatio* | art. 312-A |
+| Vedação da substituição | 302, § 3º, e 303, § 2º | só afasta o art. 44, I | art. 312-B |
+| Concurso | 306 + 309 e 306 + 303 caput: concurso | 309 absorvido por 302/303; 306 absorvido pelas formas qualificadas | Súmula 664 STJ |
+
+## 43.15 Artigos de lei incidentes
+
+- Código de Trânsito Brasileiro (Lei 9.503/1997): arts. 162, 165, 165-A, 173, 174, 195 (por remissão); arts. 291 a 312-B; Anexo I (conceitos de veículo automotor e de sinistro).
+- Código Penal: arts. 11, 33, 44, 47, III, 49, 59, 61, 65, III, "d", 107, IV, 121, §§ 3º e 5º, 129, § 6º, 135, 330, 347.
+- Código de Processo Penal: arts. 28-A, 38, 41, 313, 322, 387, IV.
+- Lei 9.099/1995: arts. 61, 74, 76, 88 e 89.
+- Decreto-Lei 3.688/1941 (LCP): art. 32.
+- Leis alteradoras citadas: 11.705/2008, 12.760/2012, 12.971/2014, 13.281/2016, 13.546/2017, 14.071/2020 e 14.599/2023.
+
+## 43.16 Julgados, temas e súmulas do capítulo
+
+- Súmula 720 do STF: art. 309 exige perigo concreto e derrogou o art. 32 da LCP nas vias terrestres.
+- Súmula 575 do STJ e Tema 901 do STJ (REsp 1.485.830-MG): entrega da direção a inapto é crime de perigo abstrato.
+- Súmula 664 do STJ: sem consunção entre embriaguez ao volante e direção sem habilitação.
+- Temas 446 e 447 do STJ (REsp 1.111.566-DF): na redação de 2008, índice de 6 dg/L elementar e prova técnica; Tema 1.216 do STJ cancelado.
+- Tema 486 do STF (RE 607.107-MG): suspensão da habilitação de motorista profissional é constitucional.
+- Tema 907 do STF (RE 971.959-RS) e ADC 35: art. 305 constitucional.
+- Tema 1.079 do STF (RE 1.224.374): sanções administrativas pela recusa ao teste são constitucionais.
+- STF, HC 128.921-RJ (Info 796): falta de representação na lesão culposa alcança o art. 309 absorvido.
+- STF, HC 124.687-MS (Info 904): álcool e contramão indicam dolo eventual.
+- STF, HC 195.497 AgR: majorante da omissão de socorro mesmo com morte instantânea.
+- STJ, HC 226.128-TO (Info 581): CNH vencida não atrai a majorante do art. 302, § 1º, I.
+- STJ, AgRg nos EDcl no REsp 1.499.912-SP (Info 668): majorante da calçada.
+- STJ, AgRg no REsp 1.255.562-RS (Info 537): majorante do transporte de passageiros sem passageiros a bordo.
+- STJ, HC 305.194-PB (Info 553): denúncia de homicídio culposo deve descrever a culpa.
+- STJ, HC 427.472-SP (Info 641): art. 307 só para suspensão judicial.
+- STJ, AgRg no AREsp 2.391.112-SP: agravante do art. 298, I, nos crimes culposos.
+- STJ, RHC 132.611-GO: preventiva no art. 306 só com reincidência e risco concreto.
+- STJ, AgRg no REsp 2.204.178-MG (Info 885): adequação ao art. 312-A em recurso da defesa sem *reformatio in pejus*.
+- STJ, AgRg no AREsp 2.943.421-BA (Info 884): auto de infração não é condição de procedibilidade do art. 306.
+- STJ, AgRg no AREsp 2.295.304-DF (Info 897): art. 311 exige prova objetiva da velocidade.
+- STJ, Jurisprudência em Teses, ed. 114 (crimes de trânsito): teses 1 a 12.
+
+Remissões a outros capítulos: REsp 1.444.699-RS (Cap. 21); REsp 1.561.276-BA (Cap. 8); REsp 2.198.744-MG e AgRg no HC 749.440-SC (Cap. 16); REsp 1.689.173-SC, AgRg no AREsp 2.519.852-SC, AgRg no AREsp 2.795.012-SP, HC 101.698 e HC 107.801 (Cap. 7); Súmula 443 do STJ (Cap. 15); Súmula 6 do STJ e Lei 13.491/2017 (Cap. 51); Tema 1.060 do STJ (Cap. 36); interdição temporária do art. 47, III, do CP (Cap. 12); ANPP e Lei 9.099 (Cap. 25).
+
+# CAPÍTULO 44 — ABUSO DE AUTORIDADE (LEI 13.869/2019)
+
+## 44.10 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Sujeito ativo | qualquer agente público, servidor ou não, de qualquer Poder e ente, inclusive transitório e sem remuneração, no exercício da função ou a pretexto de exercê-la | rol EXEMPLIFICATIVO ("mas não se limitando a"); inclui militares, juízes, MP, tribunais de contas, estagiário voluntário; particular só em concurso (art. 30 do CP) | arts. 1º e 2º |
+| Elemento subjetivo | dolo + finalidade de prejudicar, beneficiar a si ou a terceiro, ou mero capricho ou satisfação pessoal, em TODOS os tipos | sem forma culposa; divergência de interpretação ou de valoração da prova não é crime ("crime de hermenêutica") | art. 1º, §§ 1º e 2º |
+| Ação penal | pública incondicionada | subsidiária se o MP não agir no prazo legal; 6 meses contados do fim do prazo da denúncia; MP pode aditar, repudiar, oferecer denúncia substitutiva e retomar | art. 3º |
+| Efeitos da condenação | obrigação de indenizar, com valor mínimo a requerimento do ofendido | inabilitação (1 a 5 anos) e perda do cargo, mandato ou função só na REINCIDÊNCIA EM ABUSO e com motivação; não automáticos; afasta o art. 92, I, do CP (prevalece) | art. 4º; art. 227-A do ECA |
+| Restritivas | prestação de serviços; suspensão do cargo por 1 a 6 meses com perda dos vencimentos | aplicáveis autônoma ou cumulativamente; requisitos do art. 44 do CP | art. 5º |
+| Instâncias | independentes | inexistência do fato e autoria decididas no crime vinculam cível e administrativo; excludentes de ilicitude fazem coisa julgada no cível E no disciplinar; falta residual pode ser punida | arts. 6º a 8º; Súmula 18 do STF |
+| Prisão (art. 9º) | decretar privação de liberdade em manifesta desconformidade: 1 a 4 anos | caput: qualquer agente (majoritário); par. único: só o juiz (não relaxar, não substituir, não conceder HC manifestamente cabível) | art. 9º |
+| Condução coercitiva | manifestamente descabida ou sem prévia intimação: 1 a 4 anos | condução de investigado para interrogatório é incompatível com a CF | art. 10; ADPFs 395 e 444 |
+| Comunicações da prisão | omissões nas comunicações, na nota de culpa e na soltura: 6 meses a 2 anos | prazos no quadro DICA de 44.7.1 | art. 12 |
+| Preso | constranger (violência, grave ameaça ou redução da resistência) a exibir-se, a situação vexatória ou a produzir prova: 1 a 4 anos + pena da violência | algemas: tipo vetado (SV 11); sofrimento intenso com finalidade = tortura | art. 13 |
+| Sigilo e interrogatório | constranger a depor, sob ameaça de prisão, quem deve guardar sigilo; prosseguir interrogatório de quem invocou silêncio ou pediu advogado: 1 a 4 anos | jornalista e sigilo da fonte | art. 15 |
+| Violência institucional | revitimização de vítima de qualquer infração ou testemunha de crime violento: 3 meses a 1 ano | + 2/3 se permite que terceiro intimide; dobro se o próprio agente intimida | art. 15-A (Lei 14.321/2022) |
+| Pleito do preso | impedir ou retardar o envio ao juiz: 1 a 4 anos | magistrado que não sana ou não remete: MESMA pena | art. 19 |
+| Domicílio | invadir, adentrar ou permanecer sem ordem judicial ou fora das condições legais: 1 a 4 anos | mandado cumprido após 21h ou antes de 5h; não há crime em socorro, flagrante ou desastre com fundados indícios | art. 22; STJ, RHC 196.496 |
+| Prova ilícita | obter em investigação ou FISCALIZAÇÃO por meio manifestamente ilícito, ou usá-la sabendo da ilicitude: 1 a 4 anos | interceptação ilegal é o art. 10 da Lei 9.296/1996 (sem autorização JUDICIAL) | art. 25; art. 41 |
+| Persecução abusiva | instaurar sem qualquer indício (6 meses a 2 anos); persecução sem justa causa ou contra inocente (1 a 4 anos) | sindicância ou investigação preliminar justificada não é crime | arts. 27 e 30 |
+| Acesso aos autos | negar acesso ou cópias de procedimento penal, civil ou administrativo: 6 meses a 2 anos | ressalvadas diligências em curso cujo sigilo seja imprescindível | art. 32; SV 14 |
+| Atos do juiz | indisponibilidade exacerbada + não correção após demonstração (1 a 4 anos); vista procrastinatória em colegiado (6 meses a 2 anos) | — | arts. 36 e 37 |
+| Exigência sem amparo legal | 6 meses a 2 anos; "carteirada" no par. único | tributo indevido = excesso de exação | art. 33 |
+| Antecipar culpa | responsável pelas investigações, em comunicação ou rede social, antes da acusação: 6 meses a 2 anos | — | art. 38 |
+| Prerrogativas do advogado | violar direitos dos incisos II a V do art. 7º do EAOAB: 2 a 4 anos | pena elevada pela Lei 14.365/2022 | art. 7º-B do EAOAB |
+| Militar | crime militar se em serviço ou em razão da função | Súmula 172 do STJ superada (Lei 13.491/2017) | art. 9º, II, do CPM |
+| Revogações | Lei 4.898/1965; art. 150, § 2º, e art. 350 do CP | art. 322 do CP não revogado expressamente | art. 44 |
+
+## 44.11 Artigos de lei incidentes
+
+- Lei 13.869/2019: arts. 1º a 10, 12, 13, 15, 15-A, 16, 18 a 25, 27 a 33, 36 a 45 (vetados: arts. 5º, III, 11, 14, 17, 22, § 1º, II, 26, 29, parágrafo único, 34 e 35).
+- Lei 14.321/2022 (art. 15-A).
+- Lei 8.906/1994 (EAOAB): art. 7º, II a V, e art. 7º-B (redação da Lei 14.365/2022).
+- Lei 9.296/1996: art. 10 (redação do art. 41 da Lei 13.869/2019).
+- Lei 7.960/1989: art. 2º, §§ 4º-A, 7º e 8º.
+- Lei 8.069/1990 (ECA): art. 227-A.
+- Constituição Federal: art. 5º, XI, XIV, LIX, LXII, LXIII e LXIV; art. 37, § 6º; art. 109, IV.
+- Código Penal: arts. 30, 44, 61, II, "g", 92, I, 109, 150, 316, 319, 322, 339, 344, 347 e 350 (revogado).
+- Código de Processo Penal: arts. 29, 46, 65 a 67, 218, 245, 306, 394, 513 a 518.
+- Código Civil: arts. 188, 929, 930 e 935.
+- Lei 9.099/1995: arts. 61, 76 e 89; CPP, art. 28-A.
+- Código Penal Militar: art. 9º, II (redação da Lei 13.491/2017).
+
+## 44.12 Julgados, temas e súmulas do capítulo
+
+- STF, ADPFs 395 e 444 (j. 14/6/2018): condução coercitiva de investigado ou réu para interrogatório é incompatível com a CF.
+- STF, ADIs 6.234, 6.236, 6.238, 6.239, 6.266 e 6.302: questionam a lei; cautelar indeferida, mérito pendente.
+- STF, Súmula Vinculante 11: algemas só com justificativa escrita (o tipo do art. 17 foi vetado).
+- STF, Súmula Vinculante 14: acesso do defensor aos elementos já documentados (base do art. 32).
+- STJ, Súmula 172: abuso de autoridade de militar na Justiça Comum — SUPERADA pela Lei 13.491/2017.
+- STJ, Corte Especial, APn 858/DF (j. 24/10/2018): vícios da decisão judicial não bastam; exige-se demonstração mínima de má-fé (vedação ao "crime de hermenêutica").
+- STJ, Terceira Seção, RHC 196.496/RN (j. 10/12/2025): busca domiciliar válida entre 5h e 21h (critério cronológico do art. 22, § 1º, III).
+
+Remissões: Súmula 18 do STF (falta residual — Cap. 18); continuidade normativo-típica e *abolitio criminis* (Cap. 3); dolo e elemento subjetivo especial (Cap. 7); comunicabilidade do art. 30 do CP (Cap. 11); critérios de 1/6 e 1/8 na pena-base (Cap. 13); agravante do art. 61, II, "g" (Cap. 14); regime e substituição (Cap. 17); efeitos da condenação do art. 92 do CP e independência das instâncias no cível (Cap. 18); ação privada subsidiária (Cap. 20); prescrição (Cap. 22); Juizado, transação, *sursis* processual e ANPP (Cap. 25); conceito de funcionário público, excesso de exação, concussão, prevaricação, violência arbitrária e Súmula 330 do STJ (Cap. 35); coação no curso do processo, fraude processual e denunciação caluniosa (Cap. 36); ingresso domiciliar no tráfico (Cap. 37); tortura (Cap. 40); Lei 13.431/2017 (Cap. 42); interceptação ilegal (Cap. 49); Justiça Militar (Cap. 51).
+
+# CAPÍTULO 45 — CRIMES CONTRA A ORDEM TRIBUTÁRIA, ECONÔMICA E AS RELAÇÕES DE CONSUMO; ECONOMIA POPULAR (LEIS 8.137/1990, 8.176/1991, 1.521/1951 E CDC)
+
+## 45.13 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Natureza dos crimes tributários | art. 1º, I a IV, material; art. 1º, V, parágrafo único e art. 2º, formais | apropriação previdenciária (168-A) é material | SV 24; JT 90, tese 10; JT 174, tese 3 |
+| SV 24 | sem lançamento definitivo não há crime material | inquérito pode começar antes; aplica-se a fatos anteriores | SV 24; Info 825; JT 90, tese 6 |
+| Consumação, prescrição e foro | todos no lançamento definitivo | art. 2º, I: prescrição da data da fraude | JT 90, teses 8 e 11; Info 568 |
+| Instâncias | ação cível, garantia ou compensação não suspendem a ação penal | anulação do lançamento com trânsito torna atípico; suspensão pelo art. 93 do CPP | JT 90, tese 13; AgRg no REsp 1.966.379 |
+| Apropriação indébita tributária | ICMS próprio ou ST, declarado e não recolhido, com contumácia e dolo de apropriação | um mês ou meses esparsos: atípico; crise comprovada exclui culpabilidade | RHC 163.334; Súmula 658 do STJ; Infos 679, 718 e 753 |
+| Prisão por dívida | não há | crime pune fraude ou apropriação | Tema 937 do STF |
+| Crimes funcionais | art. 3º, I e II: 3 a 8 anos; III: 1 a 4 anos (reclusão) | especiais frente aos arts. 314, 316, 317 e 321 do CP; art. 12 não incide | Lei 8.137, art. 3º |
+| Autoria | quem concorre, inclusive por meio de PJ, na medida da culpabilidade | ser sócio não basta; administrador de fato responde | art. 11; JT 176, teses 1 a 4 |
+| Majorantes | 1/3 até a metade: grave dano, servidor no exercício, bens essenciais, bens imunes (desde 1/1/2026) | grave dano = critério de crédito prioritário (1.000.000 (um milhão) de reais na esfera federal), com juros e multa; sem *bis in idem* com o art. 59; cumula com continuidade | art. 12; REsp 1.849.120; JT 176, teses 9 e 10 |
+| Multa e delação | 10 a 360 dias-multa; juiz reduz a 1/10 ou eleva ao décuplo; delação reduz 1/3 a 2/3 | delação exige quadrilha ou coautoria e toda a trama | arts. 8º, 10 e 16 |
+| Pagamento | integral, com acessórios, extingue a punibilidade a qualquer tempo | não para devedor contumaz (LC 225/2026); garantia não equivale | Lei 10.684, art. 9º, § 2º; HC 362.478 |
+| Parcelamento | suspende pretensão punitiva e prescrição se pedido antes do recebimento da denúncia | créditos anteriores à Lei 12.382/2011: a qualquer tempo; devedor contumaz: não | Lei 9.430, art. 83, §§ 2º, 3º e 5º |
+| Representação fiscal | só após decisão administrativa final | não é condição de procedibilidade | art. 83; ADI 4.980 |
+| Ordem econômica | cartel e abuso: 2 a 5 anos e multa; exige domínio de mercado | leniência impede denúncia e extingue punibilidade | art. 4º; art. 87 da Lei 12.529; JT 174, tese 8 |
+| Combustíveis | art. 1º da Lei 8.176 exige dolo; receptação de combustível (arts. 1º-A e 1º-B, 2026) | GLP só "fins automotivos" (Lei 15.348/2026) | Info 845; Leis 15.348 e 15.517/2026 |
+| Usurpação mineral | art. 2º da Lei 8.176 + art. 55 da Lei 9.605 em concurso formal | Justiça Federal | bens jurídicos distintos |
+| Art. 7º, IX | mercadoria imprópria: perícia indispensável | Tema 1.358 pendente | JT 99, tese 9 |
+| CDC | crimes de menor potencial ofensivo; ação pública incondicionada | agravantes do art. 76 (essenciais; menos de 18 ou mais de 60 anos); multa em dias pela duração da pena | arts. 61 a 80 |
+| Economia popular | pirâmide (art. 2º, IX) e usura (art. 4º): 6 meses a 2 anos | competência estadual; sem júri; recurso de ofício do art. 7º | Súmula 498 do STF; CC 146.153 |
+
+## 45.14 Artigos de lei incidentes
+
+- Lei 8.137/1990: arts. 1º a 4º, 7º a 12, 15 e 16.
+- Lei 8.176/1991: arts. 1º, 1º-A a 1º-D e 2º.
+- Lei 8.078/1990 (CDC): arts. 18, § 6º, 39, XIV, e 61 a 80.
+- Lei 1.521/1951: arts. 2º, 3º, 4º, 7º, 10 e 12 a 30.
+- Lei 9.430/1996: art. 83. Lei 10.684/2003: art. 9º. Lei 11.941/2009: arts. 68 e 69. Lei 9.249/1995: art. 34. LC 225/2026 (devedor contumaz). LC 224/2025 (art. 12, IV, da Lei 8.137).
+- Lei 12.529/2011: art. 87. Lei 15.348/2026 e Lei 15.517/2026.
+- Código Penal: arts. 11, 13, § 2º, 20, 29, 49, 71, 109, 111, 116, I, 168-A, 316, 317, 321, 327, 333 e 337-A. CPP: arts. 93 e 386.
+- Constituição: arts. 5º, LXVII, 20, IX, 109, IV e VI, e 150, VI. CTN: arts. 116, parágrafo único, e 142.
+
+## 45.15 Julgados, temas e súmulas do capítulo
+
+- Súmula Vinculante 24: crime material só com lançamento definitivo.
+- Súmulas 609 e 498 do STF: ação pública na sonegação; economia popular na Justiça Estadual.
+- Súmula 658 do STJ: apropriação indébita tributária em operação própria e na ST.
+- Tema 937 do STF: crimes da Lei 8.137 não são prisão por dívida.
+- STF, RHC 163.334: ICMS declarado e não recolhido, contumácia e dolo de apropriação.
+- STF, ADI 4.980: representação fiscal só após o PAF.
+- STJ, HC 399.109; HC 675.289 (Info 718); AgRg no REsp 1.867.109 (Info 679); HC 569.856 (Info 753): alcance e dolo do art. 2º, II.
+- STJ, REsp 1.849.120 (Info 668): grave dano pelo critério do crédito prioritário.
+- STJ, RHC 209.207 (Info 865): SV 24 não alcança o art. 1º, V.
+- STJ, AgRg no RHC 182.363 (Info 825); RHC 94.288 (Info 627); AREsp 3.111.920 (Info 880): inquérito antes do lançamento; prova do lançamento; fraude provada no processo penal.
+- STJ, AgRg no REsp 1.966.379 e AgRg no AREsp 2.667.847: anulação cível do lançamento; suspensão pelo art. 93 do CPP.
+- STJ, RHC 36.024 (Info 568): art. 2º, I, prescrição da data da fraude.
+- STJ, HC 362.478 (Info 611); AgRg no RHC 200.315; REsp 1.630.109 (Info 598); RHC 95.557 (Info 631): pagamento e parcelamento.
+- STJ, AgRg no AgRg no AREsp 2.310.819 (Info 845): dolo no art. 1º da Lei 8.176.
+- STJ, Tema 1.358 (afetado): laudo no art. 7º, IX.
+- STJ, CC 146.153, CC 170.392, HC 464.608 e RHC 132.655: pirâmide financeira.
+- STJ, Jurisprudência em Teses, eds. 90, 99, 174 e 176 (teses citadas no texto).
+
+Remissões a outros capítulos: Temas 157 e 1.218 do STJ e AgRg nos HCs 920.735 e 863.522 (Caps. 2 e 3); SV 24 e fatos anteriores (Cap. 3); natureza do lançamento (Cap. 20); JT ed. 176, tese 12 (Cap. 10); REsp 1.854.893 e HC 224.728 (Cap. 11); frações da pena-base (Cap. 13); Súmula 231 do STJ (Cap. 14); Súmula 497 do STF (Caps. 16 e 22); ANPP (Cap. 25); arts. 168-A e 337-A (Caps. 30 e 36); excesso de exação, Q3157921, Q3593802 e Q3049085 (Cap. 35); Lei 7.492/1986 (Cap. 47); art. 55 da Lei 9.605/1998 (Cap. 49); Lei 15.517/2026, furto e roubo (Cap. 29).
+
+# CAPÍTULO 46 — LAVAGEM DE CAPITAIS, ORGANIZAÇÕES CRIMINOSAS, MILÍCIAS E FACÇÕES (LEIS 9.613/1998, 12.850/2013, 12.694/2012 E 15.358/2026)
+
+## 46.16 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Lavagem: antecedente | qualquer infração penal, inclusive contravenção (3ª geração) | antes de 10/7/2012, só o rol; organização criminosa como antecedente só após a Lei 12.850/2013 | Lei 12.683/2012; JT 166.4, 167.6 |
+| Lavagem: condutas | ocultar ou dissimular; basta um verbo, em qualquer fase | mero usufruto (gastar, depositar em conta própria) não é lavagem | art. 1º; APn 923 e APn 458 do STJ |
+| Lavagem: permanência | ocultar é permanente | prescrição corre da cessação; Súmula 711 | AP 863 do STF; JT 166.8 |
+| Lavagem: dolo | dolo direto ou eventual; cegueira deliberada admitida com cautela | sem forma culposa | AP 470; STJ |
+| Autonomia | indícios suficientes do antecedente; irrelevantes autor desconhecido, isento, morto, prescrição | inexistência do antecedente afasta a lavagem | art. 2º, II e § 1º; JT 167.4 |
+| Autolavagem | possível com atos autônomos | recebimento indireto de propina é corrupção (AP 470 EI) | JT 166.7 |
+| Pena | 3 a 10 anos e multa; § 4º + 1/3 a 2/3; § 5º − 1/3 a 2/3, aberto ou semiaberto, perdão, substituição | continuidade + § 4º = *bis in idem* | arts. 1º, §§ 4º e 5º; JT 167.9 |
+| Processo | rito comum; sem art. 366 do CPP; federal se sistema financeiro, interesse da União ou antecedente federal | juiz da lavagem decide sobre unidade de processos | art. 2º |
+| Medidas assecuratórias | sobre bens do investigado ou de interpostas pessoas, inclusive PJ não investigada | liberação mantém o necessário a danos, prestações, multas e custas; comparecimento pessoal | art. 4º; JT 167.14 |
+| Alienação antecipada | autos apartados; leilão por no mínimo 75% da avaliação | recursos só devolutivos; bens do tráfico seguem lei específica | art. 4º-A, §§ 3º, 9º e 13 |
+| Efeitos | perda (União, ou Estado/DF na Justiça Estadual); interdição pelo dobro da pena | automáticos | art. 7º (Lei 15.358/2026) |
+| Pessoas obrigadas | identificar, registrar (5 anos), comunicar ao COAF em 24 h sem avisar o cliente | multa: dobro da operação, dobro do lucro ou 20 milhões; inabilitação até 10 anos | arts. 9º a 12 |
+| RIF | compartilhamento sem autorização judicial (Tema 990) | RIF por encomenda: requisitos da liminar no Tema 1.404 (27/3/2026), efeitos *ex nunc* | STF |
+| Organização criminosa | 4+, estrutura, divisão de tarefas, pena máxima acima de 4 anos ou transnacional | pena 3 a 8 + concurso material com crimes-fim | Lei 12.850, arts. 1º e 2º |
+| Art. 2º: aumentos | arma: até 1/2; § 4º: 1/6 a 2/3; comando: AGRAVANTE | perda do cargo automática + 8 anos de interdição | §§ 2º a 6º |
+| Embaraço | material; abrange inquérito e ação; subsidiário | violência contra agentes: arts. 21-A e 21-B (4 a 12 anos, presídio federal) | § 1º; Lei 15.245/2025 |
+| Colaboração | negócio jurídico processual e meio de obtenção de prova; voluntária e efetiva | perdão, até 2/3, substituição; não denúncia (não líder, primeiro, fato desconhecido); pós-sentença até 1/2 ou progressão | arts. 3º-A e 4º |
+| Homologação | regularidade, legalidade, adequação, voluntariedade | juiz não negocia; nulas cláusulas sobre regime | § 7º |
+| Corroboração | nada de cautelar, recebimento de denúncia ou condenação só com a palavra do colaborador | delatado fala por último | §§ 10-A e 16 |
+| Lei 12.694 | colegiado para atos (juiz + 2 sorteados); Varas Colegiadas para organizações armadas e milícia | sem voto divergente publicado | arts. 1º e 1º-A |
+| Facção | 3+, violência ou coação para controle territorial ou social | não exige estrutura nem pena mínima dos crimes visados | Lei 15.358, art. 2º, § 2º |
+| Domínio social estruturado | 20 a 40 anos; + 2/3 ao dobro | atos preparatórios: − 1/3 a 1/2; sem fiança, graça, indulto, anistia, livramento | art. 2º |
+| Favorecimento | 12 a 20 anos e multa; inclui o falso faccionado | crime comum | art. 3º |
+| Hediondez | arts. 2º e 3º da Lei 15.358 são hediondos | lavagem e organização comum não são (salvo § ún., V) | art. 4º; Lei 8.072, art. 1º, § ún., VIII |
+| Vigência | fatos desde 25/3/2026 | lei mais grave não retroage | art. 44 |
+
+## 46.17 Artigos de lei incidentes
+
+- Lei 9.613/1998: arts. 1º (caput, §§ 1º a 6º), 2º, 4º, 4º-A, 4º-B, 5º, 6º, 7º, 8º, 9º, 10, 10-A, 11, 11-A, 12, 12-A, 14, 15, 17-A a 17-E.
+- Lei 12.850/2013: arts. 1º, 2º (§§ 1º a 9º), 3º, 3º-A a 3º-C, 4º a 7º, 8º a 14, 15, 18 a 21-B, 22.
+- Lei 12.694/2012: arts. 1º, 1º-A e 2º.
+- Lei 15.358/2026: arts. 1º a 13, 17, 29, 30, 32 a 39 e 44.
+- Código Penal: arts. 14, parágrafo único; 31; 68, parágrafo único; 69; 71; 75; 91, §§ 1º e 2º; 91-A; 107, I e IX; 111, III; 121, § 2º-D; 129, §§ 3º-A e 8º-A; 147-C; 148, § 3º; 155, § 9º; 157, §§ 4º e 5º; 158, § 4º; 159, § 5º; 180, § 8º; 288; 288-A; 317.
+- Código de Processo Penal: arts. 3º-A, 78, I, 310, 312, 313, V, 366, 593, II.
+- Lei 8.072/1990: art. 1º, parágrafo único, V e VIII; art. 8º.
+- Lei 11.343/2006: arts. 35 e 40-A. Lei 10.826/2003: art. 21-A. Lei 9.807/1999: arts. 13 e 14. Lei 13.260/2016: art. 5º. LEP: arts. 52, 112.
+- Constituição: art. 5º, XXXVIII, "d", XL, XLIII e XLIV; art. 15, III.
+- Leis de alteração a conhecer: 12.683/2012; 13.964/2019; 13.974/2020; 14.478/2022; 15.245/2025; 15.358/2026.
+
+## 46.18 Julgados, temas e súmulas do capítulo
+
+- STF, Tema 990 (RE 1.055.941): RIF compartilhado sem autorização judicial.
+- STF, Tema 1.404 (RE 1.537.165): requisitos do RIF por encomenda (liminar de 27/3/2026).
+- STF, AP 863: lavagem por ocultação é permanente.
+- STF, AP 470 e embargos infringentes: dolo eventual; recebimento indireto integra a corrupção.
+- STF, Inq 3.515: dinheiro escondido no corpo não é lavagem.
+- STF, HC 165.036: propina via *offshore* é lavagem autônoma.
+- STF, ADI 4.906 e ADI 4.911: art. 17-B constitucional; art. 17-D inconstitucional.
+- STF, ADI 5.567: §§ 1º, 6º e 7º do art. 2º da Lei 12.850 válidos; § 14 do art. 4º conforme.
+- STF, HC 127.483: colaboração como negócio jurídico processual personalíssimo.
+- STF, ADI 5.508 e Pet 8.482 AgR: acordo pelo delegado; anuência do MP.
+- STF, Pet 7.074: limites da homologação.
+- STF, MS 35.693 AgR: sem direito subjetivo ao acordo.
+- STF, HC 166.373: delatado fala por último.
+- STF, AP 1.003: corroboração cruzada insuficiente.
+- STF, RHC 242.673 AgR: organização criminosa e associação para o tráfico sem *bis in idem*.
+- STJ, Jurisprudência em Teses, eds. 166 e 167 (lavagem) e 193 (colaboração premiada).
+- STJ, APn 989: autolavagem.
+- STJ, APn 1.076 (Info 894): coincidência temporal não gera crime único.
+- STJ, RHC 161.701 (Info 805): tributo pago e insubsistência da lavagem.
+- STJ, AgRg no REsp 1.793.377: requisitos da cegueira deliberada.
+- STJ, REsp 1.817.416 e HC 487.962: embaraço material, também na ação penal.
+- STJ, AgRg no AREsp 1.619.918: denúncia cessa a permanência da organização.
+- STJ, AgRg no REsp 2.219.963 (Info 880): sequestro no crime formal de organização.
+- STJ, REsp 1.954.842 (Info 814): delatado impugna ilegalidade do acordo.
+- STJ, AgRg na Pet 12.673 (Info 798): sanções premiais atípicas.
+- STJ, Info 839: multa compensatória e progressão.
+- STJ, HC 582.678 e HC 750.946: colaboração fora de organização; vítima não colabora.
+
+Remissões a outros capítulos: Súmula 711 do STF (Cap. 3); HC 96.007 do STF (Cap. 2); Tema 1.374 do STJ (Cap. 24); Tema 1.259 do STJ (Caps. 37 e 39); Tema 1.422 do STJ (Cap. 15); Súmula 18 do STJ (Cap. 21); art. 91-A do CP (Cap. 18); art. 288-A do CP (Cap. 33); Lei 8.072/1990 (Cap. 40); arts. 121, § 2º-D, e 157, §§ 4º e 5º, do CP (Caps. 27 e 29).
+
+# CAPÍTULO 47 — CRIMES FEDERAIS E TRANSNACIONAIS: SISTEMA FINANCEIRO E MERCADO DE CAPITAIS, TELECOMUNICAÇÕES E SERVIÇO POSTAL, CRIMES CIBERNÉTICOS, TRÁFICO DE PESSOAS E DE MIGRANTES, DIREITO PENAL INTERNACIONAL E TRIBUNAL PENAL INTERNACIONAL
+
+## 47.8 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Competência federal | art. 109, IV, V, V-A e VI da CF | inciso V: tratado + internacionalidade (cumulativos); VI: só nos casos previstos em lei | CF, art. 109 |
+| Instituição financeira | própria ou equiparada (seguros, câmbio, consórcio, capitalização, poupança, ativos virtuais, pessoa natural eventual) | sem instituição financeira, em regra não há crime da lei | Lei 7.492, art. 1º |
+| Sujeitos e delação | controlador, diretores, gerentes, interventor, liquidante, síndico; PJ não responde | terceiro participa se provada a ciência; delação: −1 a 2/3, personalíssima | art. 25 e § 2º; art. 30 CP |
+| Gestão fraudulenta x temerária | fraude x risco excessivo; formais; só dolo | um ato basta; arts. 6º, 9º e 10 como meio são absorvidos | art. 4º |
+| Financiamento | destinação vinculada (veículo, imóvel, leasing): art. 19, federal | empréstimo pessoal: estelionato, estadual; consuma-se com a assinatura | art. 19; Info 771 |
+| Desvio de financiamento oficial | aplicar em finalidade diversa | denúncia deve indicar a destinação; sem arrependimento posterior | art. 20; Info 865; Info 958 STF |
+| Evasão de divisas | câmbio não autorizado (com fim especial), saída sem autorização, depósito não declarado | dólar-cabo é evasão; data-base 31/12; várias contas = um crime; imóveis e ingresso não são evasão; autônoma da lavagem | art. 22; AP 470 |
+| Ação penal na Lei 7.492 | MPF, Justiça Federal, sempre | assistência da CVM ou do Banco Central; multa até o décuplo; sem insignificância | arts. 26 e 33; JT 220 |
+| Pirâmide | economia popular, estadual | oferta pública de investimento coletivo: arts. 7º e 16, federal | Súmula 498 STF; Lei 1.521, art. 2º, IX |
+| Mercado de capitais | manipulação (1–8 a); insider (1–5 a; comum desde 2017; +1/3 com dever de sigilo); exercício irregular (6 m–2 a) | multa até 3 vezes a vantagem | Lei 6.385, arts. 27-C a 27-F |
+| Telecomunicação clandestina | D 2–4 a; perigo abstrato; federal | sem insignificância; x art. 70 da Lei 4.117 (autorizado em desacordo) | Lei 9.472, art. 183; Súmula 606 STJ |
+| Serviço postal | violação de correspondência (art. 40) substituiu o art. 151, caput, CP; privilégio postal (art. 42) | monopólio só para carta, cartão-postal e correspondência agrupada | Lei 6.538; ADPF 46 |
+| Crimes cibernéticos | próprios x impróprios; § 1º do 154-A pune quem vende o programa | ação condicionada (154-B), salvo Administração | CP, arts. 154-A e 154-B |
+| Internet e competência | internet não federaliza | pornografia infantojuvenil em ambiente aberto: federal; conversa privada: estadual | Tema 393 STF |
+| Tráfico de pessoas | formal; meio exigido para adulto; 5 finalidades | +1/3 a 1/2 (§ 1º); −1/3 a 2/3 (§ 2º); hediondo só contra criança ou adolescente; federal se transnacional | art. 149-A; Lei 13.344/2016 |
+| Migração ilegal | fim de vantagem econômica; migrante não é punido | +1/6 a 1/3 com violência ou condição degradante; concurso material com conexos | art. 232-A |
+| Tratados penais | supralegais (direitos humanos) ou leis ordinárias | não criam crime; mandados de criminalização | RE 466.343; HC 96.007 |
+| Controle de convencionalidade | todo juiz, de ofício | Gomes Lund x ADPF 153 (duplo controle); Plácido de Sá Carvalho: pena em dobro todo o período | CADH, art. 68; Info 852 STJ |
+| Imprescritibilidade | só racismo e ação de grupos armados na CF | crimes contra a humanidade sem lei interna: prescrevem para o STF | Ext 1.362 |
+| TPI | complementar; 4 crimes; pessoas físicas maiores de 18; fatos posteriores a 2002 | entrega não é extradição; perpétua revisável; imprescritível | Estatuto de Roma; CF, art. 5º, § 4º |
+
+## 47.9 Artigos de lei incidentes
+
+- Constituição Federal: arts. 5º, XLII, XLIV, XLVII, "b", LI, §§ 2º, 3º e 4º; 21, X, XI e XII; 49, I; 109, IV, V, V-A, VI, XI e § 5º; 173, § 5º.
+- Código Penal: arts. 30; 83, V; 149-A; 151; 154-A; 154-B; 171, § 2º-A; 171-A; 232-A.
+- Código de Processo Penal: arts. 13-A; 13-B; 70, § 4º (remissão); 268.
+- Lei 7.492/1986: arts. 1º, 4º, 5º, 6º, 9º, 10, 16, 19, 20, 21, 22, 25, 26, 28 a 31 e 33.
+- Lei 6.385/1976: arts. 2º, IX; 27-C a 27-F.
+- Lei 9.472/1997: arts. 183 e 184. Lei 4.117/1962: art. 70.
+- Lei 6.538/1978: arts. 40 e 42.
+- Lei 13.344/2016: arts. 1º, 2º, 4º a 6º e 8º. Lei 13.445/2017: arts. 3º, III, e 30. Lei 8.072/1990: art. 1º, XII.
+- Lei 1.521/1951: art. 2º, IX (remissão). Lei 14.478/2022 (ativos virtuais). Lei 12.965/2014: arts. 13, 15 e 22.
+- Tratados: Decretos 678/1992, 4.388/2002, 4.463/2002, 5.015/2004, 5.016/2004, 5.017/2004, 5.687/2006, 11.491/2023; Estatuto de Roma, arts. 1º, 5º a 8 *bis*, 11, 13 a 17, 20, 25 a 29, 77, 102, 110 e 120.
+
+## 47.10 Julgados, temas e súmulas do capítulo
+
+- STJ, Jurisprudência em Teses, ed. 220, tese 6: sem insignificância nos crimes da Lei 7.492/1986.
+- STJ, REsp 2.116.936-BA (Info 804): terceiro na gestão fraudulenta só com prova da ciência.
+- STF, RHC 124.192: delação do art. 25, § 2º, é personalíssima; vulto do prejuízo nas consequências.
+- STJ, HC 444.389: gestão temerária, vários atos, um só crime.
+- STJ, REsp 1.434.625-CE (Info 647): agência de turismo com câmbio é equiparada a instituição financeira.
+- STJ, HC 530.563-RS: oferta pública de investimento coletivo com criptoativos, Lei 7.492, federal.
+- STJ, CC 170.392-SP: pirâmide com criptomoedas, economia popular, estadual.
+- STJ, CC 114.030-SP: leasing é financiamento (art. 19).
+- STJ, AgRg no CC 151.973-MG e AgRg no CC 159.142-DF: financiamento x empréstimo.
+- STJ, AgRg no REsp 2.002.450-SE (Info 771): art. 19 consuma-se com a assinatura do contrato.
+- STJ, AgRg no AREsp 2.830.889-PA (Info 865): denúncia do art. 20 deve descrever a destinação diversa.
+- STF, RvC 5.475 (Info 958): art. 20 sem arrependimento posterior.
+- STF, AP 470: dólar-cabo é evasão de divisas.
+- STJ, AREsp 774.523-SP (Info 648): fundo de investimento no exterior não declarado é depósito.
+- STJ, REsp 1.569.171-SP: *insider trading* (caso Sadia/Perdigão).
+- STF, ADPF 46: privilégio postal e interpretação conforme do art. 42 da Lei 6.538/1978.
+- STF, RE 466.343 e Súmula Vinculante 25: supralegalidade dos tratados de direitos humanos.
+- STF, Ext 1.362: crimes contra a humanidade sem lei interna não são imprescritíveis.
+- STJ, AgRg no HC 930.249-RJ (Info 852): pena em dobro no Plácido de Sá Carvalho por todo o período degradante.
+- Corte IDH: Gomes Lund, Fazenda Brasil Verde, Favela Nova Brasília, Herzog e Barbosa de Souza.
+
+Remissões: Tema 393 do STF, RE 628.624 (pornografia infantojuvenil na internet — Cap. 42); Súmula 498 do STF (economia popular — Cap. 45); Súmula 606 do STJ e HC 96.007 do STF (Cap. 2); continuidade normativo-típica (Cap. 3); extradição, Súmula 421 do STF e entrega (Cap. 4); arts. 154-A e 154-B, Q3520330 e Q3085848 (Cap. 28); HC 97.261 do STF, sinal de TV (Cap. 29); fraude eletrônica e art. 70, § 4º, do CPP (Cap. 30); ADPF 153 (Cap. 21); Plácido de Sá Carvalho, AgRg no RHC 136.961, e regras da ONU na LEP (Cap. 23); HC coletivo das gestantes (Cap. 24); Q3179522 (Cap. 35); desacato e convencionalidade (Cap. 36); Súmula 522 do STF (Cap. 37); hediondez do tráfico de pessoas e genocídio (Cap. 40); racismo na internet (Cap. 41); ECA digital (Cap. 42); economia popular e Lei 8.137/1990 (Cap. 45); evasão e lavagem, Jurisprudência em Teses ed. 167 (Cap. 46).
+
+# CAPÍTULO 48 — CRIMES EM LICITAÇÕES, DE PREFEITOS E VEREADORES, FALIMENTARES, ELEITORAIS E DA LEI GERAL DO ESPORTE
+
+## 48.6 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Sucessão Lei 8.666 x CP | conduta reproduzida: continuidade; pena antiga se mais branda | abolitio da parte final do antigo art. 89 (formalidades); 337-O e serviços no 337-L são novos | arts. 2º e 337-E a 337-O, CP; Informativo 883 do STJ |
+| Crimes licitatórios: elemento subjetivo | todos dolosos; NÃO há culpa | 337-E exige dolo de lesar e prejuízo (jurisprudência); 337-F com fim de vantagem | art. 18, parágrafo único, CP |
+| Consumação | 337-F formal; 337-L exige prejuízo; 337-K atentado; 337-G exige invalidação judicial | | Súmula 645 do STJ |
+| Contratação inidônea | admitir/participar: 1 a 3; contratar/celebrar: 3 a 6 | punível o agente público E o próprio inidôneo | art. 337-M |
+| Multa licitatória | dias-multa do CP com piso de 2% do contrato | sem teto específico | art. 337-P |
+| DL 201, art. 1º | crimes comuns, julgados pelo Judiciário sem depender da Câmara | I e II: reclusão 2 a 12; demais: detenção 3 meses a 3 anos | art. 1º, § 1º |
+| DL 201, efeitos | perda do cargo e inabilitação por 5 anos, qualquer que seja a pena | sanções autônomas, prescrição própria | art. 1º, § 2º; Informativo 884 |
+| DL 201, art. 4º | infrações político-administrativas: Câmara, 2/3, cassação | prazo de 90 dias; legislação privativa da União | arts. 4º e 5º; SV 46 |
+| Vereador | não há crime no DL 201; responde pelo CP, sem foro | só cassação (art. 7º) | arts. 7º e 8º |
+| Competência do prefeito | TJ; TRF se competência federal; TRE se eleitoral | verba federal fiscalizada pela União: federal; incorporada ao município: estadual | art. 29, X, CF; Súmula 702 do STF; Súmulas 208 e 209 do STJ |
+| Fim do mandato | não impede o processo | foro subsiste para crimes no cargo e em razão dele (HC 232.627, 2025) | Súmula 703 do STF; Súmula 164 do STJ |
+| Condição objetiva falimentar | sentença de falência, concessão da RJ ou da RE | não integra o dolo | art. 180 da Lei 11.101 |
+| Prescrição falimentar | regras do CP; termo inicial na decretação da falência ou concessão da recuperação | falência interrompe a prescrição iniciada na RJ | art. 182 |
+| Efeitos falimentares | inabilitação etc., NÃO automáticos; até 5 anos após a extinção da punibilidade | cessam com reabilitação | art. 181 |
+| Fraude a credores | crime de perigo; aumento de 1/6 a 1/3 e de 1/3 a 1/2 (caixa dois) | ME/EPP: redução de 1/3 a 2/3 ou substituição | art. 168 |
+| Regras penais eleitorais | mínimo omitido: 15 dias (detenção) ou 1 ano (reclusão); agravação sem quantum: 1/5 a 1/3 | dia-multa entre SM diário e SM mensal | arts. 284 a 286 do CE |
+| Ação penal eleitoral | sempre pública incondicionada, inclusive honra | privada subsidiária | art. 355 do CE |
+| Corrupção eleitoral | ativa e passiva no mesmo tipo; formal | não confundir com art. 41-A da Lei 9.504 (não penal) | art. 299 do CE |
+| Competência eleitoral | Justiça Eleitoral, inclusive para crimes comuns conexos | ela decide sobre a conexão; JF comum nunca julga crime eleitoral | Inq 4.435; art. 109, IV, CF |
+| Estatuto do Torcedor | revogado; tipos migraram para a LGE com as mesmas penas | corrupção privada (165) e marketing de emboscada são novos | art. 217, III, LGE |
+| Art. 201 da LGE | conversão obrigatória em pena impeditiva (3 meses a 3 anos) para primário | organizador: +1/3 a 1/2 sem conversão; dobro em racismo ou contra mulheres | art. 201, §§ 2º a 7º |
+
+## 48.7 Artigos de lei incidentes
+
+- Código Penal: arts. 2º; 18, parágrafo único; 29; 30; 33, § 4º; 49; 60; 68, parágrafo único; 92, I; 312; 315; 321; 326; 327; 337-E a 337-P; 358; 359-A a 359-H; 359-P.
+- Lei 8.666/1993 (revogada na parte penal): arts. 89 a 99. Lei 14.133/2021: arts. 72 a 75, 87, 141, 156, 193 e 194.
+- Decreto-Lei 201/1967: arts. 1º a 8º. CF: arts. 15, III; 29, X; 109, IV.
+- Lei 8.038/1990 e Lei 8.658/1993 (rito nos tribunais).
+- Lei 11.101/2005: arts. 6º-A; 168 a 188 (com a Lei 14.112/2020).
+- Código Eleitoral (Lei 4.737/1965): arts. 5º, IV, e 71, VI (Lei 15.358/2026); 35, II; 283 a 288; 289; 299; 301; 302; 323 a 327; 350; 354-A; 355 a 364.
+- Lei 9.504/1997: arts. 33, § 4º; 34, §§ 2º e 3º; 39, § 5º; 39-A; 40; 41-A; 57-H, §§ 1º e 2º; 72; 87, § 4º; 90; 91, parágrafo único. Lei 6.091/1974: arts. 5º, 10 e 11.
+- Lei 14.597/2023 (Lei Geral do Esporte): arts. 165 a 172; 178, § 5º; 180; 183, § 2º; 198 a 201; 203; 217, III. Lei 10.671/2003 (revogada): arts. 41-B a 41-G.
+- CPP: arts. 46; 78, IV; 386, III; 387, IV; 394; 531 a 540. Lei 9.099/1995: arts. 61, 76 e 89. Lei 8.429/1992.
+
+## 48.8 Julgados, temas e súmulas do capítulo
+
+- Súmula 645 do STJ: fraude à licitação (antigo art. 90, hoje 337-F) é crime formal.
+- STJ, AgRg no AREsp 2.079.040-SP (Informativo 883): abolitio da parte final do antigo art. 89.
+- STJ, AgRg no HC 669.347-SP (Informativo 723): 337-E exige dolo de lesar o erário e prejuízo.
+- STJ, RHC 163.470-DF: Sistema S fora dos crimes licitatórios e funcionais.
+- Súmula Vinculante 46: crimes de responsabilidade e seu processo são de lei federal.
+- Súmula 702 do STF: TJ só para crimes da Justiça Estadual; demais, tribunal de segundo grau respectivo.
+- Súmula 703 do STF e Súmula 164 do STJ: fim do mandato não impede o processo do art. 1º do DL 201.
+- Súmulas 208 e 209 do STJ: verba federal sujeita a prestação de contas federal x verba incorporada ao município.
+- STF, HC 232.627 (11/3/2025): foro subsiste após o afastamento para crimes no cargo e em razão dele.
+- STF, Inq 4.435 AgR-quarto: Justiça Eleitoral julga crimes comuns conexos aos eleitorais.
+- Súmula 147 do STF: termo inicial da prescrição falimentar na lei antiga (superada pelo art. 182).
+
+Remissões a outros capítulos: Súmula 592 do STF e Informativo 884 do STJ, AgRg no AREsp 2.130.713 (Cap. 22); HC 127.900 do STF (Cap. 37); art. 33, § 4º, do CP e art. 327 (Cap. 35); continuidade normativo-típica (Cap. 3); condições objetivas de punibilidade (Cap. 20); art. 68, parágrafo único (Cap. 15); concurso material em fraudes licitatórias, Q3742366 (Cap. 16); benefícios consensuais (Cap. 25).
+
+# CAPÍTULO 49 — CRIMES AMBIENTAIS, CONTRA O PATRIMÔNIO CULTURAL, DE BIOSSEGURANÇA E DE INTERCEPTAÇÃO ILEGAL (VISÃO PENAL)
+
+## 49.8 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Parte geral ambiental | omissão do dirigente que sabia e podia agir; PJ sem dupla imputação (Cap. 5) | arts. 6º, 14 e 15 somam-se ao CP, sem *bis in idem* | Lei 9.605, arts. 2º a 15 |
+| Substituição e sursis | culposo ou pena INFERIOR a 4 anos, mesma duração; sursis até 3 anos | sem cláusula de violência; sursis especial com laudo | arts. 7º, 16 e 17 |
+| Ação e benefícios | pública incondicionada; transação só após composição do dano | extinção na suspensão do processo depende de laudo; prorrogação até o máximo + 1 ano | arts. 26 a 28 |
+| Prova | perícia indispensável, se possível, nos crimes que deixam vestígios | art. 54, primeira parte: formal, dispensa perícia | art. 158 CPP; Tema 1.377 |
+| Fauna | art. 29: + 1/2 (§ 4º), até o triplo (caça profissional); maus-tratos de cão ou gato: 2 a 5 anos | perdão judicial na guarda de espécie não ameaçada; Leis 15.150/2025, 15.355/2026 e 15.475/2026 | arts. 29 e 32 |
+| Flora e licenciamento | "floresta" não abrange vereda; arts. 48 e 60 permanentes | Lei 15.190/2025: art. 60 mais grave; art. 67 só doloso | arts. 38, 48, 60 e 67 |
+| Insignificância | cabe excepcionalmente | afastada no defeso com petrecho proibido | JT ed. 218, tese 6 |
+| Competência | Estadual, em regra | Federal: interesse direto da União, lista nacional de ameaçadas, transnacionalidade | art. 109, IV e V, CF; Tema 648 |
+| Patrimônio cultural | arts. 62 a 64; só o 62 tem forma culposa | art. 64 absorve arts. 40 e 48 | arts. 62 a 64 |
+| Pichação | detenção de 3 meses a 1 ano (tombado: 6 meses a 1 ano) | grafite consentido ou autorizado é atípico; prevalece sobre o art. 163 do CP | art. 65 |
+| Biossegurança | arts. 24 a 29; tipos em branco (art. 5º e CTNBio) | clonagem em qualquer finalidade; aumentos por resultado no art. 27 | Lei 11.105; ADI 3.510 |
+| Interceptação e captação ilegais | reclusão de 2 a 4 anos; juiz que ordena com objetivo ilegal responde | interlocutor que grava não comete crime; pena em dobro ao funcionário que viola o sigilo da captação | Lei 9.296, arts. 10 e 10-A |
+| Gravação por interlocutor | prova lícita em regra | ilícita se viola sigilo específico ou é armadilha estatal | Tema 237 do STF |
+
+## 49.9 Artigos de lei incidentes
+
+- Constituição Federal: arts. 5º, XII; 20, III e IX; 109, IV e V; 216; 225, § 1º, VII, e § 3º.
+- Lei 9.605/1998: arts. 2º, 3º, 6º a 20, 26 a 29, 32, 34, 37, 38, 38-A, 40, 41, 48 a 50-A, 53 a 56, 58, 60, 62 a 67, 69, 69-A e 79.
+- Lei 15.150/2025; Lei 15.190/2025 (art. 26, § 5º, promulgado após a derrubada do veto, e art. 62, que alterou os arts. 60 e 67 da Lei 9.605); Lei 15.299/2025; Lei 15.355/2026; Lei 15.475/2026; Lei 14.944/2024.
+- Lei 11.105/2005: arts. 3º, 5º, 6º e 24 a 29.
+- Lei 9.296/1996: arts. 1º, 2º, 8º-A, 10 e 10-A.
+- Lei 9.099/1995: arts. 74, 76 e 89. Código Penal: arts. 11, 111, III, 163. CPP: arts. 157 e 158.
+
+## 49.10 Julgados, temas e súmulas do capítulo
+
+- STJ, Tema 1.377: art. 54, primeira parte, é formal; dispensa dano e perícia.
+- STJ, REsp 2.249.961 (Info 896): "floresta" não abrange vereda.
+- STJ, AgRg no REsp 2.200.357: art. 60 ("fazer funcionar") é permanente.
+- STJ, AgRg no AREsp 2.710.097 (Info 839): art. 50-A na Amazônia Legal; denúncia apta.
+- STJ, AREsp 3.011.219 (Info 877): perícia indispensável no art. 38-A, se possível.
+- STJ, JT ed. 23, tese 3: concurso formal entre art. 55 da Lei 9.605 e art. 2º da Lei 8.176.
+- STJ, JT ed. 218, tese 6; STF, Inq 3.788 e HC 163.907 AgR: insignificância ambiental excepcional.
+- STJ, REsp 1.639.723, REsp 1.925.717 e RHC 130.332: art. 64 absorve arts. 48 e 40.
+- STF, Tema 648; STJ, AgRg no CC 206.862 (Info 848), AgRg no CC 208.449 e AgRg no CC 170.310: competência federal x estadual.
+- STF, ADI 3.510: pesquisa com células-tronco embrionárias constitucional.
+- STF, Tema 237; STJ, HC 512.290, RHC 102.808 e HC 662.690 (Info 737): gravação por interlocutor lícita e atípica.
+- STF, HC 80.949: ilícita a "conversa informal" gravada por policiais.
+- STJ, CC 98.890: art. 10 da Lei 9.296 é da Justiça Estadual, em regra.
+
+Remissões a outros capítulos: RE 548.181, RMS 39.173, REsp 1.977.172 e Q3425288 (Cap. 5); REsp 2.215.385 (Cap. 3); Súmula 231 do STJ (Cap. 14); critérios de 1/6 e 1/8 na pena-base (Cap. 13); majorantes sobejantes e art. 68 (Cap. 15); teoria da insignificância (Cap. 2); ANPP e Lei 9.099/1995 (Cap. 25); art. 41 da Lei 13.869/2019 (Cap. 44); Lei 8.176/1991 (Cap. 45); art. 15 da Lei 9.434/1997 (Cap. 42); art. 163 do CP (Cap. 29); contravenção do art. 42 da LCP (Cap. 50).
+
+# CAPÍTULO 50 — CONTRAVENÇÕES PENAIS (DECRETO-LEI 3.688/1941)
+
+## 50.6 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Aplicação do CP | Regras gerais do CP, salvo disposição diversa da LCP | Agravante "f" incide, salvo regra própria (vias de fato, § 2º) | LCP, art. 1º; CP, art. 12; Tema 1.333 |
+| Elemento subjetivo | Basta a voluntariedade | Sem responsabilidade objetiva; dolo e culpa punidos indistintamente; tipo pode exigir ciência ("sabe") | LCP, art. 3º |
+| Tentativa | Não punível | Verbos "tenta introduzir" (arts. 51 a 53): consumação | LCP, art. 4º |
+| Prisão simples | Semiaberto ou aberto, sem rigor penitenciário, separado de condenados por crime | Nunca fechado; trabalho facultativo até 15 dias | LCP, art. 6º |
+| Multa | Sistema de dias-multa do CP | Valores em réis cancelados; § 2º do art. 50 em reais; sem conversão em prisão | Lei 7.209/1984, art. 2º; CP, art. 51 |
+| Limite de cumprimento | 5 anos | CP: 40 anos | LCP, art. 10 |
+| *Sursis* | Período de prova de 1 a 3 anos | Requisitos do CP | LCP, art. 11 |
+| Reincidência | Contravenção após condenação por crime (Brasil ou exterior) ou por contravenção (Brasil) | Contravenção anterior + crime posterior: primário com maus antecedentes | LCP, art. 7º; CP, art. 63 |
+| Erro de direito | Ignorância ou errada compreensão escusável da lei: pode deixar de aplicar a pena | No CP, só atenua | LCP, art. 8º |
+| Ação penal | Pública incondicionada | Vias de fato não dependem de representação | LCP, art. 17 |
+| Competência | Justiça Estadual, mesmo contra a União | Conexão com crime federal não atrai; foro por prerrogativa prevalece | CF, art. 109, IV; Súmula 38 STJ |
+| Rito e benefícios | Menor potencial ofensivo: TCO, transação, suspensão | Composição civil não extingue a punibilidade; violência doméstica: nada da Lei 9.099 | Lei 9.099, arts. 61, 74, 76, 89; LMP, art. 41 |
+| Prescrição | Regras do CP | Máximo inferior a 1 ano: 3 anos; igual a 1 ano: 4 anos; multa isolada: 2 anos | CP, arts. 109 e 114 |
+| Porte de arma branca | Art. 19 válido | Potencialidade lesiva e intenção aferidas no caso; arma de fogo é Estatuto | Tema 857 STF |
+| Vias de fato | Agressão sem lesão; subsidiária | + 1/3 a 1/2 (maior de 60); triplo (mulher, razões de gênero, desde 10/10/2024), sem agravante "f" | LCP, art. 21; Lei 14.994/2024 |
+| Jogo de azar | Explorar em lugar acessível ao público; apostador só multa | Recepção em julgamento (Tema 924); bets proibidas pela MP 1.394/2026 | LCP, art. 50 |
+| Jogo do bicho | Banqueiro e intermediários: DL 6.259/1944 | Intermediário punido sem identificar banqueiro ou apostador; antecedente de lavagem | Súmula 51 STJ; Lei 9.613, art. 1º |
+| Perturbação do sossego | Barulho que perturba trabalho ou sossego alheios | Exige coletividade; art. 65 revogado (art. 147-A) | LCP, art. 42 |
+
+## 50.7 Artigos de lei incidentes
+
+- Decreto-Lei 3.688/1941 (LCP): arts. 1º a 17 (parte geral); arts. 18, 19, 20, 21, 25, 28, 31, 32, 42, 45, 46, 47, 50 a 58, 59, 60, 61, 62, 63, 64, 65, 68 e 70.
+- Decreto-Lei 6.259/1944: art. 58 (jogo do bicho).
+- Decreto-Lei 3.914/1941 (LICP): art. 1º.
+- Código Penal: arts. 5º, 6º, 7º, 12, 18, 21, 51, 61, II, "f", 63, 65, II, 68, parágrafo único, 75, 77, 81, 109, 114, 115, 121-A, § 1º, 129, 140, § 2º, 147-A, 215-A, 282, 307, 328 e 339, § 2º.
+- Constituição Federal: art. 5º, LXIII; art. 15, III; art. 62, § 1º, I, "b"; art. 108, I, "a"; art. 109, IV.
+- Lei 9.099/1995: arts. 61, 69, 74, 76, 88 e 89.
+- Lei 11.340/2006: arts. 17 e 41. Lei 14.994/2024 (art. 21, § 2º, da LCP).
+- Lei 10.826/2003: arts. 13, 14, 15, 16 e 17. Lei 9.605/1998: arts. 32 e 54. ECA: arts. 242 e 243.
+- Lei 7.209/1984: art. 2º. Lei 13.155/2015 (art. 50, § 2º). Lei 13.756/2018: art. 29. Lei 14.790/2023. Medida Provisória 1.394/2026.
+- CPP: arts. 28-A, § 2º, I, 78, IV, 313 e 383.
+
+## 50.8 Julgados, temas e súmulas do capítulo
+
+- STF, Tema 857 (ARE 901.623-SP, j. 7/10/2024): art. 19 da LCP vale para arma branca, com aferição concreta da potencialidade lesiva.
+- STF, Tema 924 (RE 966.177): recepção do art. 50 da LCP (jogo de azar), julgamento suspenso por vista em 6/8/2026.
+- STJ, Súmula 38: contravenção é sempre da Justiça Estadual, mesmo contra interesse da União.
+- STJ, Súmula 51: intermediário do jogo do bicho é punido sem identificação do apostador ou do banqueiro.
+- STJ, AgRg no HC 713.415-SC (j. 22/2/2022): vias de fato no contexto doméstico dispensam representação.
+- STF, RE 511.961: exigência de diploma de jornalista não recepcionada (reflexo no art. 47).
+
+Remissões a outros capítulos: Tema 113 do STF e RE 583.523, art. 25 da LCP (Cap. 5); Tema 1.333 do STJ, agravante "f" nas contravenções (Cap. 14); Súmula 589 do STJ (Cap. 2); Súmula 588 do STJ (Cap. 17); Súmula 536 do STJ (Cap. 25); Súmula 720 do STF (Cap. 43); Súmula 522 do STJ (Cap. 34); revogação do art. 65 e continuidade no art. 147-A (Cap. 3); Lei 13.718/2018 e art. 215-A (Caps. 3 e 31); lavagem com antecedente contravencional (Cap. 46); denunciação caluniosa de contravenção, art. 339, § 2º (Cap. 36).
+
+# CAPÍTULO 51 — DIREITO PENAL MILITAR
+
+## 51.15 Resumo para revisão pré-prova
+
+| Instituto | Regra | Exceções e detalhes | Fundamento |
+|---|---|---|---|
+| Crime militar | o que os arts. 9º e 10 do CPM definem | próprio, impróprio e por extensão (lei comum + art. 9º, II) | art. 124 CF; Lei 13.491/2017 |
+| Militar da ativa de folga | crime militar só se atingido bem ligado ao serviço ou à instituição | fora de lugar militar e sem relação com a função: crime comum | STJ, HC 764.059 e HC 550.998 |
+| Justiça Militar estadual | só militares dos Estados; civil nunca | doloso contra a vida de civil: júri; contra civil: juiz singular; demais: Conselho | art. 125, §§ 4º e 5º, CF; Súmulas 53, 78 e 90 STJ |
+| JMU | julga também civis; doloso contra a vida de civil nas missões do art. 9º, § 2º | feminicídio por militar: júri | CC 218.865 |
+| Espaço | extraterritorialidade incondicionada | cômputo da pena cumprida no estrangeiro | arts. 7º e 8º CPM |
+| Tentativa | 1/3 a 2/3 | excepcional gravidade: pena do consumado | art. 30 CPM |
+| Erro de direito | atenua ou substitui; nunca isenta | inaplicável a crime contra o dever militar | art. 35 CPM |
+| Estado de necessidade | justificante (art. 43) e exculpante (art. 39) | CP: teoria unitária | |
+| Coação e obediência | coação física só, no dever militar; ordem direta em serviço exclui a culpabilidade | ato manifestamente criminoso: o inferior também responde | arts. 38 e 40 CPM |
+| Penas | morte (guerra), reclusão, detenção, prisão, impedimento | sem multa e sem restritivas; até 2 anos a militar: prisão | arts. 55, 58, 59 e 61 CPM |
+| Dosimetria | trifásica; agravantes e atenuantes de 1/5 a 1/3 | confissão só com autoria ignorada ou imputada a outrem | arts. 69, 73, 77 CPM; HC 115.189 |
+| Concurso | como no CP | limite de 30/15 anos; redução facultativa de 1/6 a 1/4 | arts. 79 a 81 CPM |
+| *Sursis* | pena até 2 anos; prova 3 a 5 (reclusão) ou 2 a 4 (detenção) | vedado na guerra, deserção, insubordinação, violência contra superior | arts. 84 e 88 CPM |
+| Livramento | 1/2 (primário) ou 2/3 (reincidente) | 2/3 nos crimes do art. 97; vedado na guerra | arts. 89, 96 e 97 CPM |
+| Perda do cargo | oficial federal: tribunal militar; praça federal: acessória automática | militares estaduais: TJM ou TJ | art. 142, § 3º, e art. 125, § 4º, CF; Tema 1.200 |
+| Ação penal | pública incondicionada; privada subsidiária | requisição nos arts. 136 a 141 | arts. 121 e 122 CPM |
+| Despenalizadores | Lei 9.099 não se aplica | ANPP admitido por STF e STJ, contra a Súmula 18 do STM | art. 90-A Lei 9.099 |
+| Insignificância | em regra não | infração disciplinar nos arts. 209, § 6º, 240, § 1º, e 260 | HC 103.684; HC 137.741 |
+| Prescrição | prazos do CP + 30 anos (morte) | falsidade: do conhecimento; maior de 70 ao tempo do crime; insubmissão: 30 anos; deserção: 45/60 anos | arts. 125 a 133 CPM |
+| Deserção | ausência por mais de 8 dias; permanente | status de militar como condição de procedibilidade | art. 187 CPM; Súmula 12 STM |
+| Patrimônio | furto até 6 anos; noturno é qualificadora; furto de uso é crime; roubo 4 a 15; latrocínio 15 a 30 | furto atenuado: infração disciplinar | arts. 240 a 242 CPM |
+| Drogas | art. 290, inclusive uso próprio; tráfico 5 a 15 | Lei 11.343 não se aplica na JMU | Súmula 14 STM |
+| Estupro de vulnerável | regime integral do art. 217-A do CP | presunção relativa do art. 236 não recepcionada | ADI 7.555 |
+| Tempo de guerra | morte no grau máximo (= 30 anos para graduar) | crimes de paz em guerra: + 1/3 | arts. 20, 81 e 355 a 408 CPM |
+
+## 51.16 Artigos de lei incidentes
+
+- Constituição Federal: art. 5º, XLVII, LIX e LXI; arts. 42, 122 a 125 e 142, § 3º, VI e VII.
+- Código Penal Militar (Decreto-Lei 1.001/1969, com a Lei 14.688/2023): arts. 1º a 135 (parte geral); 136 a 354 (tempo de paz, com destaque para 149, 152, 157 a 166, 174 a 176, 183, 187 a 196, 202, 203, 205, 208, 209, 223, 232, 235, 236, 240 a 242, 251, 290, 298 a 309, 319 e 340 a 354); 355 a 408 (tempo de guerra).
+- CPPM: arts. 102, 451 a 457 e 617, II, "a". CP: arts. 12 e 64, II. CPP: arts. 28-A e 79, I. Lei 9.099/1995: art. 90-A.
+- Leis 9.299/1996, 13.491/2017 e 14.688/2023.
+
+## 51.17 Julgados, temas e súmulas do capítulo
+
+- STF, Tema 1.200 (ARE 1.320.744): perda do posto, da patente e da graduação de militares estaduais pelo TJM ou TJ.
+- STF, RE 447.859: exclusão da praça é acessória automática; oficial exige julgamento próprio.
+- STF, ADI 7.555: estupro de vulnerável por militar segue integralmente o art. 217-A do CP.
+- STF, ADPF 475: constitucionalidade do art. 166 do CPM.
+- STF, HC 119.567: vedações de *sursis* do art. 88 constitucionais; tratamento processual mais rigoroso.
+- STF, HC 115.189: confissão no CPM exige autoria ignorada ou imputada a outrem.
+- STF, HC 109.545: vetores do art. 69 do CPM equivalem a culpabilidade e consequências.
+- STF, HC 104.923: vedada a combinação dos regimes comum e militar.
+- STF, HC 112.005: idade-limite da prescrição na deserção é constitucional.
+- STF, HC 90.838: perda do status de militar impede o prosseguimento na deserção.
+- STF, RHC 125.112: deserção absorve o abandono de posto no mesmo contexto.
+- STF, HC 137.741: sem insignificância na violência contra inferior.
+- STF, HC 106.808: panfleto reivindicatório não é incitamento nem crítica indevida.
+- STF, HC 125.777: sem prescrição virtual no crime militar.
+- STF, HC 132.847 e HC 135.019: data do fato define a condição de militar; entre militares, exige-se vínculo com a atividade.
+- STF, HC 232.254, e STJ, HC 993.294 (Informativo 857): ANPP na Justiça Militar.
+- STJ, CC 218.865 (Informativo 884): feminicídio por militar vai ao júri; conexos castrenses na JMU.
+- STJ, AREsp 3.046.912 (Informativo 886): sem corpo de delito, não se reconhece a lesão do art. 157, § 3º, do CPM.
+- STJ, CC 161.898: aplicação imediata da Lei 13.491/2017 com a lei material mais benéfica.
+- STJ, HC 764.059 e HC 550.998: critério subjetivo somado ao objetivo para o militar de folga.
+- STJ, CC 145.721: furto por civil de bem sob administração militar na Justiça Militar.
+- STJ, AgRg no HC 916.829: art. 90-A da Lei 9.099/1995 constitucional.
+- STJ, REsp 1.301.155: falta à patrulha que deveria comandar é descumprimento de missão.
+- STJ, Súmulas 6, 53, 75, 78 e 90; Súmula 47 (sem base desde a Lei 9.299/1996).
+- STM, Súmulas 3, 8, 12, 14, 16 e 18.
+
+Remissões: Súmula 172 do STJ, superada (Cap. 44); HC 1.037.843 (Cap. 22); HC 103.684 (Cap. 2); Súmula 192 do STJ (Cap. 23); Súmula 231 do STJ (Cap. 14).
