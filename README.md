@@ -16,8 +16,20 @@ Atenção: no plano gratuito, o GitHub Pages exige repositório público, e o co
 - Navegação: índice lateral por apostila, capítulos e seções; setas ← e → trocam de capítulo; remissões "Cap. N" viram links; o progresso (capítulos lidos e último capítulo aberto) fica salvo.
 - Busca: digite na caixa do topo e tecle Enter. Aparecem os títulos e as seções; o botão "Buscar no texto" percorre o texto completo de uma apostila ou de todas.
 - Edição: ative o modo ✎ (ou tecle E). Passe o mouse sobre um trecho para Editar, Inserir abaixo, Ocultar ou Restaurar o original. O texto usa a marcação das apostilas: um parágrafo por linha, `- ` para lista, `## ` para título, `:::DICA título` … `:::` para caixa e `*itálico*`.
-- Comentários: selecione um trecho e clique em "Comentar trecho" ou "Destacar", ou use 💬 ao lado do parágrafo. O painel 💬 (ou a tecla C) lista os comentários do capítulo, da apostila ou de todas, com as opções Ir, Editar, Resolver e Excluir.
+- Comentários: selecione um trecho e clique em "💬 Comentar", ou use 💬 ao lado do parágrafo. O painel 💬 (ou a tecla C) lista os comentários do capítulo, da apostila ou de todas, com as opções Ir, Editar, Resolver e Excluir.
 - "Baixar .md", no fim de cada capítulo, gera o capítulo já com as suas edições.
+- Marca-texto: selecione um trecho e escolha uma das 6 cores (amarelo, verde, azul, rosa, laranja, lilás). Clique no trecho marcado para trocar a cor, acrescentar um comentário ou excluir. No painel 💬, o filtro de cor mostra, por exemplo, só os trechos em amarelo.
+- Percentual de leitura: no alto da tela, "Arquivo" mostra quanto da apostila aberta já foi lido e "Pasta" mostra o total da pasta. Os dois sobem à medida que você rola o texto até 100%. Cada capítulo pesa conforme o seu tamanho, e "Marcar como lido" conta o capítulo inteiro.
+
+## Importar PDF (conversor embutido)
+
+Na tela inicial, "Importar PDF" converte um ou vários arquivos PDF em apostila, no mesmo formato das demais: capítulos, índice de seções, tabelas, caixas coloridas, selos, destaques, notas de rodapé e imagens. Use "+ Nova pasta" para separar os materiais; cada apostila importada pode ser renomeada, movida de pasta ou excluída pelo botão ⋯ do cartão.
+
+- A conversão acontece no próprio navegador, com o leitor de PDF do Firefox (PDF.js, incluído na pasta `vendor/`). Nada é enviado para a internet nem para o GitHub, e funciona também sem internet.
+- O resultado fica guardado só neste navegador. Para levar a outro aparelho, use ⚙ › Biblioteca › Exportar e, no outro, Importar.
+- Materiais da Jusconc (Linha Essencial) são reconhecidos automaticamente, inclusive os selos (JÁ CAIU!, PEGADINHA etc.). Se aparecer um selo novo, o site pede o nome uma vez e passa a reconhecê-lo.
+- Outros materiais usam o modo genérico: capítulos pelos marcadores do PDF (ou pelos títulos maiores), seções pelos títulos, tabelas com bordas, listas, negritos e itálicos. Cabeçalhos e rodapés repetidos e o sumário são descartados.
+- PDF escaneado (página em imagem, sem texto selecionável) não é convertido.
 
 ## Onde ficam as edições e os comentários
 

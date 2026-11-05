@@ -15,6 +15,7 @@
   <button class="iconbtn" id="btnMenu" aria-label="Abrir índice" title="Índice">☰</button>
   <a class="brand" href="#/">Apostilas</a>
   <div class="crumbs" id="crumbs"></div>
+  <div class="readstat" id="readstat" hidden><span class="rs"><span class="rl">Arquivo</span><span class="rv" id="rsA">0%</span><span class="rb"><i id="rbA"></i></span></span><span class="rs"><span class="rl">Pasta</span><span class="rv" id="rsP">0%</span><span class="rb"><i id="rbP"></i></span></span></div>
   <div class="searchwrap">
     <input id="q" type="search" placeholder="Buscar títulos e texto…" autocomplete="off" aria-label="Buscar">
   </div>
@@ -39,12 +40,13 @@
   <div class="drawer-head">
     <span>Comentários</span>
     <select id="cScope"><option value="ch">deste capítulo</option><option value="apo">desta apostila</option><option value="all">de todas</option></select>
+    <select id="cColor" title="Filtrar por cor"><option value="">todas as cores</option><option value="1">amarelo</option><option value="2">verde</option><option value="3">azul</option><option value="4">rosa</option><option value="5">laranja</option><option value="6">lilás</option><option value="n">só comentários</option></select>
     <button class="iconbtn" id="btnCloseDrawer" aria-label="Fechar">✕</button>
   </div>
   <div id="cList"></div>
 </aside>
 
-<div class="selpop" id="selpop" hidden><button id="btnSelComment">💬 Comentar trecho</button><button id="btnSelMark">🖍 Destacar</button></div>
+<div class="selpop" id="selpop" hidden><button id="btnSelComment">💬 Comentar</button><span class="hcs" title="Marca-texto"><button class="hc c1" data-hc="1" title="Amarelo" aria-label="Destacar em amarelo"></button><button class="hc c2" data-hc="2" title="Verde" aria-label="Destacar em verde"></button><button class="hc c3" data-hc="3" title="Azul" aria-label="Destacar em azul"></button><button class="hc c4" data-hc="4" title="Rosa" aria-label="Destacar em rosa"></button><button class="hc c5" data-hc="5" title="Laranja" aria-label="Destacar em laranja"></button><button class="hc c6" data-hc="6" title="Lilás" aria-label="Destacar em lilás"></button></span></div>
 
 <dialog id="dlg"><form method="dialog" id="dlgForm"></form></dialog>
 
