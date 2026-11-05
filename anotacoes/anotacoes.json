@@ -1,7 +1,7 @@
 {
  "app": "apostilas",
  "v": 1,
- "exported": "2026-11-05T19:40:47.553Z",
+ "exported": "2026-11-05T19:41:49.739Z",
  "edits": {},
  "added": {
   "mw0yw457c2jia": {
@@ -53,6 +53,45 @@
    "color": 2,
    "created": 1793907644647,
    "at": 1793907644647
+  },
+  "mw3yarvsgts4f": {
+   "apo": "civil",
+   "ch": "ch01",
+   "bid": "b65",
+   "h": "1rr0btf",
+   "quote": "a lei nova não alcança suas cláusulas nem seus efeitos futuros (ato jurídico perfeito",
+   "pos": 44,
+   "note": "",
+   "kind": "h",
+   "color": 1,
+   "created": 1793907653032,
+   "at": 1793907653032
+  },
+  "mw3ybcq4kcgma": {
+   "apo": "civil",
+   "ch": "ch01",
+   "bid": "b65",
+   "h": "1rr0btf",
+   "quote": "Situações de natureza estatutária ou institucional (regime legal da moeda, de reajustes impostos por lei, estatuto do servidor, regime de bens fixado por lei, normas de ordem pública sobre os efeitos de situações continuadas)",
+   "pos": 526,
+   "note": "",
+   "kind": "h",
+   "color": 2,
+   "created": 1793907680044,
+   "at": 1793907680044
+  },
+  "mw3ybnsm9rx15": {
+   "apo": "civil",
+   "ch": "ch01",
+   "bid": "b65",
+   "h": "1rr0btf",
+   "quote": "a lei nova incide sobre os efeitos futuros, porque não há direito adquirido a regime jurídico. É a base dos gabaritos que aceitam aplicação imediata a \"reajustes futuros\"",
+   "pos": 753,
+   "note": "",
+   "kind": "h",
+   "color": 1,
+   "created": 1793907694390,
+   "at": 1793907694390
   }
  },
  "progress": {
