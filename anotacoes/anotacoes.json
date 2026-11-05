@@ -1,7 +1,7 @@
 {
  "app": "apostilas",
  "v": 1,
- "exported": "2026-11-05T19:41:49.739Z",
+ "exported": "2026-11-05T19:45:46.631Z",
  "edits": {},
  "added": {
   "mw0yw457c2jia": {
@@ -92,6 +92,32 @@
    "color": 1,
    "created": 1793907694390,
    "at": 1793907694390
+  },
+  "mw3yclb20whci": {
+   "apo": "civil",
+   "ch": "ch01",
+   "bid": "b66",
+   "h": "1b2gdky",
+   "quote": "O art. 2.035 do CC é a regra de transição que materializa a distinção entre planos: a validade dos negócios anteriores a 11/1/2003 segue a lei anterior; os efeitos produzidos após a vigência do Código a ele se subordinam, \"salvo se houver sido prevista pelas partes determinada forma de execução",
+   "pos": 0,
+   "note": "",
+   "kind": "h",
+   "color": 1,
+   "created": 1793907737822,
+   "at": 1793907737822
+  },
+  "mw3yglh2zxvds": {
+   "apo": "civil",
+   "ch": "ch01",
+   "bid": "b68",
+   "h": "1f4ltw2",
+   "quote": "fato passado tomado como pressuposto de efeito futuro não ofende o art. 6º se não houver direito já incorporado.",
+   "pos": 1001,
+   "note": "",
+   "kind": "h",
+   "color": 4,
+   "created": 1793907924662,
+   "at": 1793907924662
   }
  },
  "progress": {
