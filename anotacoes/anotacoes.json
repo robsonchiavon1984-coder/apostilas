@@ -1,0 +1,238 @@
+{
+ "app": "apostilas",
+ "v": 1,
+ "exported": "2026-11-05T18:52:20.637Z",
+ "edits": {},
+ "added": {},
+ "comments": {},
+ "progress": {
+  "jcs01": {
+   "done": {
+    "front": true
+   },
+   "last": "ch01",
+   "at": 1793821707602
+  },
+  "jcs02": {
+   "done": {
+    "ch01": true
+   },
+   "last": "ch01",
+   "at": 1793821553622
+  },
+  "jcs03": {
+   "done": {},
+   "last": "ch06",
+   "at": 1793821644652
+  },
+  "jcs04": {
+   "done": {},
+   "last": "ch05",
+   "at": 1793821669336
+  },
+  "umw2mijoev89kh": {
+   "done": {},
+   "last": "ch01",
+   "at": 1793827394161,
+   "read": {
+    "ch01": 0.3184690369829118
+   }
+  },
+  "umw2mv55l11hlh": {
+   "done": {},
+   "last": "ch01",
+   "at": 1793827981852,
+   "read": {
+    "ch01": 0.014568145208163807
+   }
+  },
+  "umw2mx0juk9fm1": {
+   "done": {},
+   "last": "ch01",
+   "at": 1793828069340,
+   "read": {
+    "ch01": 0.012728341144208587
+   }
+  },
+  "umw2n1xv82dua7": {
+   "done": {},
+   "last": "ch01",
+   "at": 1793828574555,
+   "read": {
+    "ch01": 0.7268019884009942
+   }
+  },
+  "umw2n2z61hzmtn": {
+   "done": {
+    "front": true
+   },
+   "last": "front",
+   "at": 1793828564427,
+   "read": {
+    "front": 1
+   }
+  },
+  "umw2n8h0ecifit": {
+   "done": {},
+   "last": "front",
+   "at": 1793828603780,
+   "read": {
+    "front": 1
+   }
+  },
+  "umw2n8z942f4ff": {
+   "done": {},
+   "last": "front",
+   "at": 1793828627483,
+   "read": {
+    "front": 0.9166666666666666
+   }
+  },
+  "umw2n9f9dsz69z": {
+   "done": {},
+   "last": "front",
+   "at": 1793828648243,
+   "read": {
+    "front": 0.9166666666666666
+   }
+  },
+  "umw2n9r215vi3b": {
+   "done": {},
+   "last": "front",
+   "at": 1793828663462,
+   "read": {
+    "front": 0.9166666666666666
+   }
+  },
+  "umw2na1xq0nhwb": {
+   "done": {},
+   "last": "front",
+   "at": 1793828677543,
+   "read": {
+    "front": 0.9166666666666666
+   }
+  },
+  "umw2nahfo5288i": {
+   "done": {},
+   "last": "front",
+   "at": 1793828697769,
+   "read": {
+    "front": 0.9166666666666666
+   }
+  },
+  "umw2nay50h3nvo": {
+   "done": {},
+   "last": "front",
+   "at": 1793828719287,
+   "read": {
+    "front": 0.9166666666666666
+   }
+  },
+  "umw2nbcu42129c": {
+   "done": {},
+   "last": "front",
+   "at": 1793828738382,
+   "read": {
+    "front": 0.9166666666666666
+   }
+  },
+  "umw2nbszaxt7ii": {
+   "done": {},
+   "last": "front",
+   "at": 1793828759335,
+   "read": {
+    "front": 0.9166666666666666
+   }
+  },
+  "umw2nc95m5x308": {
+   "done": {},
+   "last": "front",
+   "at": 1793828780287,
+   "read": {
+    "front": 0.9166666666666666
+   }
+  },
+  "umw2ncnszr19d9": {
+   "done": {},
+   "last": "front",
+   "at": 1793828799197,
+   "read": {
+    "front": 0.9166666666666666
+   }
+  },
+  "umw2nd63e8qljx": {
+   "done": {},
+   "last": "ch01",
+   "at": 1793828822837,
+   "read": {
+    "ch01": 0.34551004332414337
+   }
+  },
+  "umw2ndsdgclgzk": {
+   "done": {},
+   "last": "ch01",
+   "at": 1793828852053,
+   "read": {
+    "ch01": 1
+   }
+  },
+  "umw2nej3m1wgfi": {
+   "done": {},
+   "last": "front",
+   "at": 1793828886503,
+   "read": {
+    "front": 0.9166666666666666
+   }
+  },
+  "umw2nffai8ifyl": {
+   "done": {
+    "ch01": true
+   },
+   "last": "ch01",
+   "at": 1793828935113,
+   "read": {
+    "ch01": 1
+   }
+  },
+  "umw2ni4wguji5m": {
+   "done": {},
+   "last": "ch01",
+   "at": 1793829054661,
+   "read": {
+    "ch01": 0.0023022698583077235
+   }
+  },
+  "umw2nj6yywp2qf": {
+   "done": {},
+   "last": "front",
+   "at": 1793829103919,
+   "read": {
+    "front": 0.46244069583552977
+   }
+  },
+  "umw2nmcugx53gh": {
+   "done": {},
+   "last": "ch01",
+   "at": 1793829251514,
+   "read": {
+    "ch01": 0.03833464429295578
+   }
+  },
+  "umw2npqixg1oh8": {
+   "done": {},
+   "last": "ch01",
+   "at": 1793829409310,
+   "read": {
+    "ch01": 0.013588977012206457
+   }
+  },
+  "umw2o9f34yiafc": {
+   "done": {},
+   "last": "ch01",
+   "at": 1793830327751,
+   "read": {
+    "ch01": 0.02797888626650507
+   }
+  }
+ }
+}
