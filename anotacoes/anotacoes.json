@@ -1,7 +1,7 @@
 {
  "app": "apostilas",
  "v": 1,
- "exported": "2026-11-05T19:45:46.631Z",
+ "exported": "2026-11-05T19:53:27.501Z",
  "edits": {},
  "added": {
   "mw0yw457c2jia": {
@@ -118,15 +118,30 @@
    "color": 4,
    "created": 1793907924662,
    "at": 1793907924662
+  },
+  "mw3yhjxprgeyg": {
+   "apo": "civil",
+   "ch": "ch01",
+   "bid": "b69",
+   "h": "f8tqk2",
+   "quote": "o direito sob condição suspensiva é considerado adquirido perante a lei nova (art. 6º, § 2º, da LINDB), mas não no que tange aos efeitos do negócio jurídico (art. 125 do CC: enquanto a condição não se verificar, \"não se terá adquirido o direito, a que ele visa\").",
+   "pos": 88,
+   "note": "",
+   "kind": "h",
+   "color": 1,
+   "created": 1793907969325,
+   "at": 1793907969325
   }
  },
  "progress": {
   "civil": {
-   "done": {},
+   "done": {
+    "ch01": true
+   },
    "last": "ch01",
-   "at": 1793906957882,
+   "at": 1793908392111,
    "read": {
-    "ch01": 0.4709561573706111
+    "ch01": 1
    }
   },
   "jcs01": {
