@@ -1,11 +1,69 @@
 {
  "app": "apostilas",
  "v": 1,
- "exported": "2026-11-05T19:19:35.956Z",
+ "exported": "2026-11-05T19:40:47.553Z",
  "edits": {},
- "added": {},
- "comments": {},
+ "added": {
+  "mw0yw457c2jia": {
+   "apo": "civil",
+   "ch": "ch01",
+   "after": "b37",
+   "src": "A diferença central entre os dois dispositivos está no objetivo de quem invoca o desconhecimento da norma: enquanto o art. 3º da LINDB impede que a ignorância da lei seja usada como desculpa para descumpri-la, o art. 139, III, do Código Civil permite que o equívoco sobre uma norma anule um negócio jurídico quando viciar a formação da vontade, justamente para restaurar a aplicação correta do direito.\n\nPlano de atuação:\nart. 3, LINDB (Eficácia e imperatividade do ordenamento jurídico.\nart. 139, III (Plano da validade do negócio jurídico - vício de consentimento).\n\nExemplo prático: Um empresário abre um restaurante e é autuado pela vigilância sanitária por não possuir determinada licença específica exigida por lei estadual em vigor há dois anos. Em sua defesa, ele alega boa-fé e diz que desconhecia a existência daquela lei, pedindo o cancelamento da multa.\n\nSolução jurídica: A defesa é afastada com base no art. 3º da LINDB. A obrigatoriedade da lei decorre de sua vigência e necessidade social, não dependendo da ciência efetiva do cidadão. O empresário pretende, na prática, recusar a aplicação da norma ao seu caso.\n\nExemplo prático (Restrição administrativa/zoneamento): João compra um terreno exclusivamente para construir um posto de combustíveis, fazendo constar na escritura ou nas tratativas que essa é a finalidade da aquisição. Após a compra, ao pedir o alvará na prefeitura, descobre que uma lei municipal de zoneamento (anterior ao contrato) proíbe expressamente a instalação de postos de gasolina naquela região.\n\nAnálise: João não está pedindo ao juiz para ignorar a lei municipal e construir o posto à força (o que violaria o art. 3º da LINDB). Ele respeita a proibição legal, mas pede a anulação da compra e venda (art. 139, III, do CC), pois sua vontade de comprar o imóvel fundou-se exclusivamente na suposição equivocada de que a legislação permitia aquela atividade.",
+   "created": 1793727250171,
+   "at": 1793727250171,
+   "h": "1afb055"
+  }
+ },
+ "comments": {
+  "mw0y1nmck84ra": {
+   "apo": "civil",
+   "ch": "ch01",
+   "bid": "b1",
+   "h": "k7ng3d",
+   "quote": "retroatividade mínima",
+   "pos": 303,
+   "whole": false,
+   "note": "GRAUS DE RETROATIVIDADE DAS NORMAS CONSTITUCIONAIS (MÍNIMA, MÉDIA E MÁXIMA).\n\n1) Retroatividade máxima ou restitutória: a lei ataca fatos consumados. Verifica-se “quando a lei nova prejudica a coisa julgada (sentença irrecorrível) ou os fatos jurídicos já consumados”. Como exemplo, lembramos o art. 96, parágrafo único, da Carta de 1937, que permitia ao Parlamento rever a decisão do STF que declarara a inconstitucionalidade de uma lei;\n\n2) Retroatividade média: “a lei nova atinge os efeitos pendentes de atos jurídicos verificados antes dela”. Ou seja, a lei nova atinge as prestações vencidas, mas ainda não adimplidas. Como exemplo o autor cita uma “lei que 100 diminuísse a taxa de juros e se aplicasse aos já vencidos mas não pagos” (prestação vencida mas ainda não adimplida);\n\n3) Retroatividade mínima, temperada ou mitigada: “... a lei nova atinge apenas os efeitos dos fatos anteriores, verificados após a data em que ela entra em vigor”. Trata-se de prestações futuras de negócios firmados antes do advento da nova lei. O STF vem se posicionando no sentido de que as normas constitucionais fruto da manifestação do poder constituinte originário têm, por regra geral, retroatividade mínima, ou seja, aplicam-se a fatos que venham a acontecer após a sua promulgação, referentes a negócios passados. Podemos mencionar o art. 7o , IV, que, ao vedar a vinculação do salário mínimo para qualquer fim, significou que a nova regra deverá valer para fatos e prestações futuras de negócios celebrados antes de sua vigência (prestações periódicas).",
+   "kind": "c",
+   "created": 1793725829076,
+   "at": 1793725829076
+  },
+  "mw3ya6qpib7zr": {
+   "apo": "civil",
+   "ch": "ch01",
+   "bid": "b64",
+   "h": "78c168",
+   "quote": "aplicar a lei nova às prestações futuras de contrato anterior é retroatividade mínima e, portanto, vedada quando atinge o ato jurídico perfeito",
+   "pos": 90,
+   "note": "",
+   "kind": "h",
+   "color": 1,
+   "created": 1793907625633,
+   "at": 1793907625633
+  },
+  "mw3yalev89nlu": {
+   "apo": "civil",
+   "ch": "ch01",
+   "bid": "b65",
+   "h": "1rr0btf",
+   "quote": "Contratos celebrados por livre estipulação",
+   "pos": 0,
+   "note": "",
+   "kind": "h",
+   "color": 2,
+   "created": 1793907644647,
+   "at": 1793907644647
+  }
+ },
  "progress": {
+  "civil": {
+   "done": {},
+   "last": "ch01",
+   "at": 1793906957882,
+   "read": {
+    "ch01": 0.4709561573706111
+   }
+  },
   "jcs01": {
    "done": {
     "front": true
@@ -45,9 +103,9 @@
   "umw2mv55l11hlh": {
    "done": {},
    "last": "ch01",
-   "at": 1793827981852,
+   "at": 1793906417376,
    "read": {
-    "ch01": 0.014568145208163807
+    "ch01": 0.9593713596172944
    }
   },
   "umw2mx0juk9fm1": {
