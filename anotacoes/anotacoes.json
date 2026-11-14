@@ -1,7 +1,7 @@
 {
  "app": "apostilas",
  "v": 1,
- "exported": "2026-11-05T20:09:35.436Z",
+ "exported": "2026-11-14T19:24:34.415Z",
  "edits": {},
  "added": {
   "mw0yw457c2jia": {
@@ -131,250 +131,487 @@
    "color": 1,
    "created": 1793907969325,
    "at": 1793907969325
+  },
+  "mw5bbuohxnh1x": {
+   "apo": "civil",
+   "ch": "ch01",
+   "bid": "b107",
+   "h": "1h1hpqg",
+   "quote": "Responde pessoalmente por decisões ou opiniões técnicas em caso de DOLO ou ERRO GROSSEIRO",
+   "pos": 3384,
+   "whole": false,
+   "note": "STF, ADI 6421: \"... improcedência do pedido de declaração de inconstitucionalidade do art. 28 da LINDB e dos arts. 12 e 14 do Decreto nº 9.830/2019. Fixação da seguinte tese de julgamento: \n\n“1. Compete ao legislador ordinário dimensionar o conceito de culpa previsto no art. 37, § 6º, da CF, respeitado o princípio da proporcionalidade, em especial na sua vertente de vedação à proteção insuficiente. \n2. Estão abrangidas pela ideia de erro grosseiro as noções de imprudência, negligência e imperícia, quando efetivamente graves.”",
+   "kind": "c",
+   "created": 1793990004498,
+   "at": 1793990004498
+  },
+  "mw5bovmpm972e": {
+   "apo": "civil",
+   "ch": "ch01",
+   "bid": "b92",
+   "h": "1s26s0b",
+   "quote": "art. 1.787 do CC",
+   "pos": 548,
+   "whole": false,
+   "note": "Art. 1.787. Regula a sucessão e a legitimação para suceder a lei vigente ao tempo da abertura daquela.",
+   "kind": "c",
+   "created": 1793990612257,
+   "at": 1793996249661
+  },
+  "mw5e93rh7bdz2": {
+   "apo": "civil",
+   "ch": "ch01",
+   "bid": "b65",
+   "h": "1rr0btf",
+   "quote": "Contratos celebrados por livre estipulação",
+   "pos": 0,
+   "note": "",
+   "kind": "h",
+   "color": 2,
+   "created": 1793994915149,
+   "at": 1793994915149
+  },
+  "mw5ea84tj35bj": {
+   "apo": "civil",
+   "ch": "ch01",
+   "bid": "b65",
+   "h": "1rr0btf",
+   "quote": "Situações de natureza estatutária ou institucional",
+   "pos": 526,
+   "note": "",
+   "kind": "h",
+   "color": 2,
+   "created": 1793994967469,
+   "at": 1793994967469
+  },
+  "mw5eap3xp9iq2": {
+   "apo": "civil",
+   "ch": "ch01",
+   "bid": "b65",
+   "h": "1rr0btf",
+   "quote": "a lei nova incide sobre os efeitos futuros, porque não há direito adquirido a regime jurídico",
+   "pos": 753,
+   "note": "",
+   "kind": "h",
+   "color": 1,
+   "created": 1793994989469,
+   "at": 1793994989469
+  },
+  "mw5eatqljf25a": {
+   "apo": "civil",
+   "ch": "ch01",
+   "bid": "b65",
+   "h": "1rr0btf",
+   "quote": "a lei nova não alcança suas cláusulas nem seus efeitos futuros (ato jurídico perfeito)",
+   "pos": 44,
+   "note": "",
+   "kind": "h",
+   "color": 1,
+   "created": 1793994995470,
+   "at": 1793994995470
+  },
+  "mw5emryfx09x5": {
+   "apo": "civil",
+   "ch": "ch01",
+   "bid": "b126",
+   "h": "cfy5pg",
+   "quote": "Constituição Federal",
+   "pos": 46,
+   "whole": false,
+   "note": "Art. 5º, incisos XXXI, XXXVI e XL\nXXXI - a sucessão de bens de estrangeiros situados no País será regulada pela lei brasileira em benefício do cônjuge ou dos filhos brasileiros, sempre que não lhes seja mais favorável a lei pessoal do de cujus;\nXXXVI - a lei não prejudicará o direito adquirido, o ato jurídico perfeito e a coisa julgada;\nXL - a lei penal não retroagirá, salvo para beneficiar o réu;\nArt. 37, § 6º\n§ 6º As pessoas jurídicas de direito público e as de direito privado prestadoras de serviços públicos responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros, assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa.\nArt. 105, inciso I, alínea “i”\nArt. 105. Compete ao Superior Tribunal de Justiça:\nI - processar e julgar, originariamente:\ni) a homologação de sentenças estrangeiras e a concessão de exequatur às cartas rogatórias;\nArt. 109, inciso X\nArt. 109. Aos juízes federais compete processar e julgar:\nX - os crimes de ingresso ou permanência irregular de estrangeiro, a execução de carta rogatória, após o “exequatur”, e de sentença estrangeira, após a homologação, as causas referentes à nacionalidade, inclusive a respectiva opção, e à naturalização;\nArt. 226, § 5º\n§ 5º Os direitos e deveres referentes à sociedade conjugal são exercidos igualmente pelo homem e pela mulher.",
+   "kind": "c",
+   "created": 1793995553031,
+   "at": 1793995558455
+  },
+  "mw5enfim2u2f7": {
+   "apo": "civil",
+   "ch": "ch01",
+   "bid": "b126",
+   "h": "cfy5pg",
+   "quote": "Lei Complementar",
+   "pos": 156,
+   "whole": false,
+   "note": "Art. 8º\nArt. 8º A vigência da lei será indicada de forma expressa e de modo a contemplar prazo razoável para que dela se tenha amplo conhecimento, reservada a cláusula “entra em vigor na data de sua publicação” para as leis de pequena repercussão.\n§ 1º A contagem do prazo para entrada em vigor das leis que estabeleçam período de vacância far-se-á com a inclusão da data da publicação e do último dia do prazo, entrando em vigor no dia subsequente à sua consumação integral.\n§ 2º As leis que estabeleçam período de vacância deverão utilizar a cláusula “esta lei entra em vigor após decorridos (o número de) dias de sua publicação oficial”.\nArt. 9º\nArt. 9º A cláusula de revogação deverá enumerar, expressamente, as leis ou disposições legais revogadas.\nParágrafo único. (VETADO).",
+   "kind": "c",
+   "created": 1793995583566,
+   "at": 1793995583566
+  },
+  "mw5eoj5ybfbxu": {
+   "apo": "civil",
+   "ch": "ch01",
+   "bid": "b126",
+   "h": "cfy5pg",
+   "quote": "Decreto-Lei 4.657/1942 (LINDB): arts. 1º a 30.Constituição Federal: art. 5º, XXXI, XXXVI e XL; art. 37, § 6º; art. 105, I, \"i\"; art. 109, X; art. 226, § 5º.Lei ",
+   "pos": -1,
+   "whole": true,
+   "note": "Art. 125\nArt. 125. Subordinando-se a eficácia do negócio jurídico à condição suspensiva, enquanto esta se não verificar, não se terá adquirido o direito, a que ele visa.\nArt. 130\nArt. 130. Ao titular do direito eventual, nos casos de condição suspensiva ou resolutiva, é permitido praticar os atos destinados a conservá-lo.\nArt. 131\nArt. 131. O termo inicial suspende o exercício, mas não a aquisição do direito.\nArt. 132\nArt. 132. Salvo disposição legal ou convencional em contrário, computam-se os prazos, excluído o dia do começo, e incluído o do vencimento.\n§ 1º Se o dia do vencimento cair em feriado, considerar-se-á prorrogado o prazo até o seguinte dia útil.\n§ 2º Meado considera-se, em qualquer mês, o seu décimo quinto dia.\n§ 3º Os prazos de meses e anos expiram no dia de igual número do de início, ou no imediato, se faltar exata correspondência.\n§ 4º Os prazos fixados por hora contar-se-ão de minuto a minuto.\nArt. 139, inciso III\nArt. 139. O erro é substancial quando:\nIII - sendo de direito e não implicando recusa à aplicação da lei, for o motivo único ou principal do negócio jurídico.\nArt. 435\nArt. 435. Reputar-se-á celebrado o contrato no lugar em que foi proposto.\nArt. 662\nArt. 662. Os atos praticados por quem não tenha mandato, ou o tenha sem poderes suficientes, são ineficazes em relação àquele em cujo nome foram praticados, salvo se este os ratificar.\nParágrafo único. A ratificação há de ser expressa, ou resultar de ato inequívoco, e retroagirá à data do ato.\nArt. 686\nArt. 686. A revogação do mandato, notificada somente ao mandatário, não se pode opor aos terceiros que, ignorando-a, de boa-fé com ele trataram; mas ficam salvas ao constituinte as ações que no caso lhe possam caber contra o procurador.\nParágrafo único. É irrevogável o mandato que contenha poderes de cumprimento ou confirmação de negócios encetados, aos quais se ache vinculado.\nArt. 814\nArt. 814. As dívidas de jogo ou de aposta não obrigam a pagamento; mas não se pode recobrar a quantia, que voluntariamente se pagou, salvo se foi ganha por dolo, ou se o perdente é menor ou interdito.\n§ 1º Estende-se esta disposição a qualquer contrato que encubra ou envolva reconhecimento, novação ou fiança de dívida de jogo; mas a nulidade resultante não pode ser oposta ao terceiro de boa-fé.\n§ 2º O preceito contido neste artigo tem aplicação, ainda que se trate de jogo não proibido, só se excetuando os jogos e apostas legalmente permitidos.\n§ 3º Excetuam-se, igualmente, os prêmios oferecidos ou prometidos para o vencedor em competição de natureza esportiva, intelectual ou artística, desde que os interessados se submetam às prescrições legais e regulamentares.\nArt. 1.639, § 2º\n§ 2º É admissível alteração do regime de bens, mediante autorização judicial em pedido motivado de ambos os cônjuges, apurada a procedência das razões invocadas e ressalvados os direitos de terceiros.\nArt. 1.787\nArt. 1.787. Regula a sucessão e a legitimação para suceder a lei vigente ao tempo da abertura daquela.\nArt. 1.846\nArt. 1.846. Pertence aos herdeiros necessários, de pleno direito, a metade dos bens da herança, constituindo a legítima.\nArt. 2.028\nArt. 2.028. Serão os da lei anterior os prazos, quando reduzidos por este Código, e se, na data de sua entrada em vigor, já houver transcorrido mais da metade do tempo estabelecido na lei revogada.\nArt. 2.035\nArt. 2.035. A validade dos negócios e demais atos jurídicos, constituídos antes da entrada em vigor deste Código, obedece ao disposto nas leis anteriores, referidas no art. 2.045, mas os seus efeitos, produzidos após a vigência deste Código, aos preceitos dele se subordinam, salvo se houver sido prevista pelas partes determinada forma de execução.\nParágrafo único. Nenhuma convenção prevalecerá se contrariar preceitos de ordem pública, tais como os estabelecidos por este Código para assegurar a função social da propriedade e dos contratos.\nArt. 2.036\nArt. 2.036. A locação de prédio urbano, que esteja sujeita à lei especial, por esta continua a ser regida.\nArt. 2.039\nArt. 2.039. O regime de bens nos casamentos celebrados na vigência do Código Civil anterior, Lei nº 3.071, de 1º de janeiro de 1916, é o por ele estabelecido.\nArt. 2.041\nArt. 2.041. As disposições deste Código relativas à ordem da vocação hereditária (arts. 1.829 a 1.844) não se aplicam à sucessão aberta antes de sua vigência, prevalecendo o disposto na lei anterior (Lei nº 3.071, de 1º de janeiro de 1916).\nArt. 2.043\nArt. 2.043. Até que por outra forma se disciplinem, continuam em vigor as disposições de natureza processual, administrativa ou penal, constantes de leis cujos preceitos de natureza civil hajam sido incorporados a este Código.\nArt. 2.044\nArt. 2.044. Este Código entrará em vigor 1 (um) ano após a sua publicação.\nArt. 2.045\nArt. 2.045. Revogam-se a Lei nº 3.071, de 1º de janeiro de 1916 — Código Civil e a Parte Primeira do Código Comercial, Lei nº 556, de 25 de junho de 1850.",
+   "kind": "c",
+   "created": 1793995634950,
+   "at": 1793995659573,
+   "deleted": true
+  },
+  "mw5ep6m6vq62l": {
+   "apo": "civil",
+   "ch": "ch01",
+   "bid": "b126",
+   "h": "cfy5pg",
+   "quote": "Código Civil:",
+   "pos": 196,
+   "whole": false,
+   "note": "Art. 125\nArt. 125. Subordinando-se a eficácia do negócio jurídico à condição suspensiva, enquanto esta se não verificar, não se terá adquirido o direito, a que ele visa.\nArt. 130\nArt. 130. Ao titular do direito eventual, nos casos de condição suspensiva ou resolutiva, é permitido praticar os atos destinados a conservá-lo.\nArt. 131\nArt. 131. O termo inicial suspende o exercício, mas não a aquisição do direito.\nArt. 132\nArt. 132. Salvo disposição legal ou convencional em contrário, computam-se os prazos, excluído o dia do começo, e incluído o do vencimento.\n§ 1º Se o dia do vencimento cair em feriado, considerar-se-á prorrogado o prazo até o seguinte dia útil.\n§ 2º Meado considera-se, em qualquer mês, o seu décimo quinto dia.\n§ 3º Os prazos de meses e anos expiram no dia de igual número do de início, ou no imediato, se faltar exata correspondência.\n§ 4º Os prazos fixados por hora contar-se-ão de minuto a minuto.\nArt. 139, inciso III\nArt. 139. O erro é substancial quando:\nIII - sendo de direito e não implicando recusa à aplicação da lei, for o motivo único ou principal do negócio jurídico.\nArt. 435\nArt. 435. Reputar-se-á celebrado o contrato no lugar em que foi proposto.\nArt. 662\nArt. 662. Os atos praticados por quem não tenha mandato, ou o tenha sem poderes suficientes, são ineficazes em relação àquele em cujo nome foram praticados, salvo se este os ratificar.\nParágrafo único. A ratificação há de ser expressa, ou resultar de ato inequívoco, e retroagirá à data do ato.\nArt. 686\nArt. 686. A revogação do mandato, notificada somente ao mandatário, não se pode opor aos terceiros que, ignorando-a, de boa-fé com ele trataram; mas ficam salvas ao constituinte as ações que no caso lhe possam caber contra o procurador.\nParágrafo único. É irrevogável o mandato que contenha poderes de cumprimento ou confirmação de negócios encetados, aos quais se ache vinculado.\nArt. 814\nArt. 814. As dívidas de jogo ou de aposta não obrigam a pagamento; mas não se pode recobrar a quantia, que voluntariamente se pagou, salvo se foi ganha por dolo, ou se o perdente é menor ou interdito.\n§ 1º Estende-se esta disposição a qualquer contrato que encubra ou envolva reconhecimento, novação ou fiança de dívida de jogo; mas a nulidade resultante não pode ser oposta ao terceiro de boa-fé.\n§ 2º O preceito contido neste artigo tem aplicação, ainda que se trate de jogo não proibido, só se excetuando os jogos e apostas legalmente permitidos.\n§ 3º Excetuam-se, igualmente, os prêmios oferecidos ou prometidos para o vencedor em competição de natureza esportiva, intelectual ou artística, desde que os interessados se submetam às prescrições legais e regulamentares.\nArt. 1.639, § 2º\n§ 2º É admissível alteração do regime de bens, mediante autorização judicial em pedido motivado de ambos os cônjuges, apurada a procedência das razões invocadas e ressalvados os direitos de terceiros.\nArt. 1.787\nArt. 1.787. Regula a sucessão e a legitimação para suceder a lei vigente ao tempo da abertura daquela.\nArt. 1.846\nArt. 1.846. Pertence aos herdeiros necessários, de pleno direito, a metade dos bens da herança, constituindo a legítima.\nArt. 2.028\nArt. 2.028. Serão os da lei anterior os prazos, quando reduzidos por este Código, e se, na data de sua entrada em vigor, já houver transcorrido mais da metade do tempo estabelecido na lei revogada.\nArt. 2.035\nArt. 2.035. A validade dos negócios e demais atos jurídicos, constituídos antes da entrada em vigor deste Código, obedece ao disposto nas leis anteriores, referidas no art. 2.045, mas os seus efeitos, produzidos após a vigência deste Código, aos preceitos dele se subordinam, salvo se houver sido prevista pelas partes determinada forma de execução.\nParágrafo único. Nenhuma convenção prevalecerá se contrariar preceitos de ordem pública, tais como os estabelecidos por este Código para assegurar a função social da propriedade e dos contratos.\nArt. 2.036\nArt. 2.036. A locação de prédio urbano, que esteja sujeita à lei especial, por esta continua a ser regida.\nArt. 2.039\nArt. 2.039. O regime de bens nos casamentos celebrados na vigência do Código Civil anterior, Lei nº 3.071, de 1º de janeiro de 1916, é o por ele estabelecido.\nArt. 2.041\nArt. 2.041. As disposições deste Código relativas à ordem da vocação hereditária (arts. 1.829 a 1.844) não se aplicam à sucessão aberta antes de sua vigência, prevalecendo o disposto na lei anterior (Lei nº 3.071, de 1º de janeiro de 1916).\nArt. 2.043\nArt. 2.043. Até que por outra forma se disciplinem, continuam em vigor as disposições de natureza processual, administrativa ou penal, constantes de leis cujos preceitos de natureza civil hajam sido incorporados a este Código.\nArt. 2.044\nArt. 2.044. Este Código entrará em vigor 1 (um) ano após a sua publicação.\nArt. 2.045\nArt. 2.045. Revogam-se a Lei nº 3.071, de 1º de janeiro de 1916 — Código Civil e a Parte Primeira do Código Comercial, Lei nº 556, de 25 de junho de 1850.",
+   "kind": "c",
+   "created": 1793995665342,
+   "at": 1793995665342
+  },
+  "mw5epmfhdaw8l": {
+   "apo": "civil",
+   "ch": "ch01",
+   "bid": "b126",
+   "h": "cfy5pg",
+   "quote": "Código de Processo Civil",
+   "pos": 349,
+   "whole": false,
+   "note": "Art. 8º\nArt. 8º Ao aplicar o ordenamento jurídico, o juiz atenderá aos fins sociais e às exigências do bem comum, resguardando e promovendo a dignidade da pessoa humana e observando a proporcionalidade, a razoabilidade, a legalidade, a publicidade e a eficiência.\nArt. 21\nArt. 21. Compete à autoridade judiciária brasileira processar e julgar as ações em que:\nI - o réu, qualquer que seja a sua nacionalidade, estiver domiciliado no Brasil;\nII - no Brasil tiver de ser cumprida a obrigação;\nIII - o fundamento seja fato ocorrido ou ato praticado no Brasil.\nParágrafo único. Para o fim do disposto no inciso I, considera-se domiciliada no Brasil a pessoa jurídica estrangeira que nele tiver agência, filial ou sucursal.\nArt. 22\nArt. 22. Compete, ainda, à autoridade judiciária brasileira processar e julgar as ações:\nI - de alimentos, quando:\na) o credor tiver domicílio ou residência no Brasil;\nb) o réu mantiver vínculos no Brasil, tais como posse ou propriedade de bens, recebimento de renda ou obtenção de benefícios econômicos;\nII - decorrentes de relações de consumo, quando o consumidor tiver domicílio ou residência no Brasil;\nIII - em que as partes, expressa ou tacitamente, se submeterem à jurisdição nacional.\nArt. 23\nArt. 23. Compete à autoridade judiciária brasileira, com exclusão de qualquer outra:\nI - conhecer de ações relativas a imóveis situados no Brasil;\nII - em matéria de sucessão hereditária, proceder à confirmação de testamento particular e ao inventário e à partilha de bens situados no Brasil, ainda que o autor da herança seja de nacionalidade estrangeira ou tenha domicílio fora do território nacional;\nIII - em divórcio, separação judicial ou dissolução de união estável, proceder à partilha de bens situados no Brasil, ainda que o titular seja de nacionalidade estrangeira ou tenha domicílio fora do território nacional.\nArt. 24\nArt. 24. A ação proposta perante tribunal estrangeiro não induz litispendência e não obsta a que a autoridade judiciária brasileira conheça da mesma causa e das que lhe são conexas, ressalvadas as disposições em contrário de tratados internacionais e acordos bilaterais em vigor no Brasil.\nParágrafo único. A pendência de causa perante a jurisdição brasileira não impede a homologação de sentença judicial estrangeira quando exigida para produzir efeitos no Brasil.\nArt. 140\nArt. 140. O juiz não se exime de decidir sob a alegação de lacuna ou obscuridade do ordenamento jurídico.\nParágrafo único. O juiz só decidirá por equidade nos casos previstos em lei.\nArt. 376\nArt. 376. A parte que alegar direito municipal, estadual, estrangeiro ou consuetudinário provar-lhe-á o teor e a vigência, se assim o juiz determinar.\nArt. 502\nArt. 502. Denomina-se coisa julgada material a autoridade que torna imutável e indiscutível a decisão de mérito não mais sujeita a recurso.\nArt. 515, inciso VIII\nArt. 515. São títulos executivos judiciais, cujo cumprimento dar-se-á de acordo com os artigos previstos neste Título:\nVIII - a sentença estrangeira homologada pelo Superior Tribunal de Justiça;\nArt. 960\nArt. 960. A homologação de decisão estrangeira será requerida por ação de homologação de decisão estrangeira, salvo disposição especial em sentido contrário prevista em tratado.\n§ 1º A decisão interlocutória estrangeira poderá ser executada no Brasil por meio de carta rogatória.\n§ 2º A homologação obedecerá ao que dispuserem os tratados em vigor no Brasil e o Regimento Interno do Superior Tribunal de Justiça.\n§ 3º A homologação de decisão arbitral estrangeira obedecerá ao disposto em tratado e em lei, aplicando-se, subsidiariamente, as disposições deste Capítulo.\nArt. 961\nArt. 961. A decisão estrangeira somente terá eficácia no Brasil após a homologação de sentença estrangeira ou a concessão do exequatur às cartas rogatórias, salvo disposição em sentido contrário de lei ou tratado.\n§ 1º É passível de homologação a decisão judicial definitiva, bem como a decisão não judicial que, pela lei brasileira, teria natureza jurisdicional.\n§ 2º A decisão estrangeira poderá ser homologada parcialmente.\n§ 3º A autoridade judiciária brasileira poderá deferir pedidos de urgência e realizar atos de execução provisória no processo de homologação de decisão estrangeira.\n§ 4º Haverá homologação de decisão estrangeira para fins de execução fiscal quando prevista em tratado ou em promessa de reciprocidade apresentada à autoridade brasileira.\n§ 5º A sentença estrangeira de divórcio consensual produz efeitos no Brasil, independentemente de homologação pelo Superior Tribunal de Justiça.\n§ 6º Na hipótese do § 5º, competirá a qualquer juiz examinar a validade da decisão, em caráter principal ou incidental, quando essa questão for suscitada em processo de sua competência.\nArt. 962\nArt. 962. É passível de execução a decisão estrangeira concessiva de medida de urgência.\n§ 1º A execução no Brasil de decisão interlocutória estrangeira concessiva de medida de urgência dar-se-á por carta rogatória.\n§ 2º A medida de urgência concedida sem audiência do réu poderá ser executada, desde que garantido o contraditório em momento posterior.\n§ 3º O juízo sobre a urgência da medida compete exclusivamente à autoridade jurisdicional prolatora da decisão estrangeira.\n§ 4º Quando dispensada a homologação para que a sentença estrangeira produza efeitos no Brasil, a decisão concessiva de medida de urgência dependerá, para produzir efeitos, de ter sua validade expressamente reconhecida pelo juiz competente para dar-lhe cumprimento, dispensada a homologação pelo Superior Tribunal de Justiça.\nArt. 963\nArt. 963. Constituem requisitos indispensáveis à homologação da decisão:\nI - ser proferida por autoridade competente;\nII - ser precedida de citação regular, ainda que verificada a revelia;\nIII - ser eficaz no país em que foi proferida;\nIV - não ofender a coisa julgada brasileira;\nV - estar acompanhada de tradução oficial, salvo disposição que a dispense prevista em tratado;\nVI - não conter manifesta ofensa à ordem pública.\nParágrafo único. Para a concessão do exequatur às cartas rogatórias, observar-se-ão os pressupostos previstos no caput deste artigo e no art. 962, § 2º.\nArt. 964\nArt. 964. Não será homologada a decisão estrangeira na hipótese de competência exclusiva da autoridade judiciária brasileira.\nParágrafo único. O dispositivo também se aplica à concessão do exequatur à carta rogatória.\nArt. 965\nArt. 965. O cumprimento de decisão estrangeira far-se-á perante o juízo federal competente, a requerimento da parte, conforme as normas estabelecidas para o cumprimento de decisão nacional.\nParágrafo único. O pedido de execução deverá ser instruído com cópia autenticada da decisão homologatória ou do exequatur, conforme o caso.",
+   "kind": "c",
+   "created": 1793995685837,
+   "at": 1793995685837
+  },
+  "mw5eptqe674kg": {
+   "apo": "civil",
+   "ch": "ch01",
+   "bid": "b126",
+   "h": "cfy5pg",
+   "quote": "Lei 9.868/1999",
+   "pos": 430,
+   "whole": false,
+   "note": "Art. 11, § 2º\n§ 2º A concessão da medida cautelar torna aplicável a legislação anterior acaso existente, salvo expressa manifestação em sentido contrário.",
+   "kind": "c",
+   "created": 1793995695302,
+   "at": 1793995695302
+  },
+  "mw5eq5jhh7ipq": {
+   "apo": "civil",
+   "ch": "ch01",
+   "bid": "b126",
+   "h": "cfy5pg",
+   "quote": "Lei 13.655/2018",
+   "pos": 460,
+   "whole": false,
+   "note": "Art. 20\nArt. 20. Nas esferas administrativa, controladora e judicial, não se decidirá com base em valores jurídicos abstratos sem que sejam consideradas as consequências práticas da decisão.\nParágrafo único. A motivação demonstrará a necessidade e a adequação da medida imposta ou da invalidação de ato, contrato, ajuste, processo ou norma administrativa, inclusive em face das possíveis alternativas.\nArt. 21\nArt. 21. A decisão que, nas esferas administrativa, controladora ou judicial, decretar a invalidação de ato, contrato, ajuste, processo ou norma administrativa deverá indicar de modo expresso suas consequências jurídicas e administrativas.\nParágrafo único. A decisão a que se refere o caput deste artigo deverá, quando for o caso, indicar as condições para que a regularização ocorra de modo proporcional e equânime e sem prejuízo aos interesses gerais, não se podendo impor aos sujeitos atingidos ônus ou perdas que, em função das peculiaridades do caso, sejam anormais ou excessivos.\nArt. 22\nArt. 22. Na interpretação de normas sobre gestão pública, serão considerados os obstáculos e as dificuldades reais do gestor e as exigências das políticas públicas a seu cargo, sem prejuízo dos direitos dos administrados.\n§ 1º Em decisão sobre regularidade de conduta ou validade de ato, contrato, ajuste, processo ou norma administrativa, serão consideradas as circunstâncias práticas que houverem imposto, limitado ou condicionado a ação do agente.\n§ 2º Na aplicação de sanções, serão consideradas a natureza e a gravidade da infração cometida, os danos que dela provierem para a administração pública, as circunstâncias agravantes ou atenuantes e os antecedentes do agente.\n§ 3º As sanções aplicadas ao agente serão levadas em conta na dosimetria das demais sanções de mesma natureza e relativas ao mesmo fato.\nArt. 23\nArt. 23. A decisão administrativa, controladora ou judicial que estabelecer interpretação ou orientação nova sobre norma de conteúdo indeterminado, impondo novo dever ou novo condicionamento de direito, deverá prever regime de transição quando indispensável para que o novo dever ou condicionamento de direito seja cumprido de modo proporcional, equânime e eficiente e sem prejuízo aos interesses gerais.\nParágrafo único. (VETADO).\nArt. 24\nArt. 24. A revisão, nas esferas administrativa, controladora ou judicial, quanto à validade de ato, contrato, ajuste, processo ou norma administrativa cuja produção já se houver completado levará em conta as orientações gerais da época, sendo vedado que, com base em mudança posterior de orientação geral, se declarem inválidas situações plenamente constituídas.\nParágrafo único. Consideram-se orientações gerais as interpretações e especificações contidas em atos públicos de caráter geral ou em jurisprudência judicial ou administrativa majoritária, e ainda as adotadas por prática administrativa reiterada e de amplo conhecimento público.\nArt. 25\nArt. 25. (VETADO).\nArt. 26\nArt. 26. Para eliminar irregularidade, incerteza jurídica ou situação contenciosa na aplicação do direito público, inclusive no caso de expedição de licença, a autoridade administrativa poderá, após oitiva do órgão jurídico e, quando for o caso, após realização de consulta pública, e presentes razões de relevante interesse geral, celebrar compromisso com os interessados, observada a legislação aplicável, o qual só produzirá efeitos a partir de sua publicação oficial.\n§ 1º O compromisso referido no caput deste artigo:\nI - buscará solução jurídica proporcional, equânime, eficiente e compatível com os interesses gerais;\nII - (VETADO);\nIII - não poderá conferir desoneração permanente de dever ou condicionamento de direito reconhecidos por orientação geral;\nIV - deverá prever com clareza as obrigações das partes, o prazo para seu cumprimento e as sanções aplicáveis em caso de descumprimento.\n§ 2º (VETADO).\nArt. 27\nArt. 27. A decisão do processo, nas esferas administrativa, controladora ou judicial, poderá impor compensação por benefícios indevidos ou prejuízos anormais ou injustos resultantes do processo ou da conduta dos envolvidos.\n§ 1º A decisão sobre a compensação será motivada, ouvidas previamente as partes sobre seu cabimento, sua forma e, se for o caso, seu valor.\n§ 2º Para prevenir ou regular a compensação, poderá ser celebrado compromisso processual entre os envolvidos.\nArt. 28\nArt. 28. O agente público responderá pessoalmente por suas decisões ou opiniões técnicas em caso de dolo ou erro grosseiro.\n§ 1º (VETADO).\n§ 2º (VETADO).\n§ 3º (VETADO).\nArt. 29\nArt. 29. Em qualquer órgão ou Poder, a edição de atos normativos por autoridade administrativa, salvo os de mera organização interna, poderá ser precedida de consulta pública para manifestação de interessados, preferencialmente por meio eletrônico, a qual será considerada na decisão.\n§ 1º A convocação conterá a minuta do ato normativo e fixará o prazo e demais condições da consulta pública, observadas as normas legais e regulamentares específicas, se houver.\n§ 2º (VETADO).\nArt. 30\nArt. 30. As autoridades públicas devem atuar para aumentar a segurança jurídica na aplicação das normas, inclusive por meio de regulamentos, súmulas administrativas e respostas a consultas.\nParágrafo único. Os instrumentos previstos no caput deste artigo terão caráter vinculante em relação ao órgão ou entidade a que se destinam, até ulterior revisão.",
+   "kind": "c",
+   "created": 1793995710605,
+   "at": 1793995710605
+  },
+  "mw5eqfsepuimi": {
+   "apo": "civil",
+   "ch": "ch01",
+   "bid": "b126",
+   "h": "cfy5pg",
+   "quote": "Decreto 9.830/2019",
+   "pos": 516,
+   "whole": false,
+   "note": "Art. 2º\nArt. 2º A decisão será motivada com a contextualização dos fatos, quando cabível, e com a indicação dos fundamentos de mérito e jurídicos.\n§ 1º A motivação da decisão conterá os seus fundamentos e apresentará a congruência entre as normas e os fatos que a embasaram, de forma argumentativa.\n§ 2º A motivação indicará as normas, a interpretação jurídica, a jurisprudência ou a doutrina que a embasaram.\n§ 3º A motivação poderá ser constituída por declaração de concordância com o conteúdo de notas técnicas, pareceres, informações, decisões ou propostas que precederam a decisão.\nArt. 3º\nArt. 3º A decisão que se basear exclusivamente em valores jurídicos abstratos observará o disposto no art. 2º e as consequências práticas da decisão.\n§ 1º Para fins do disposto neste Decreto, consideram-se valores jurídicos abstratos aqueles previstos em normas jurídicas com alto grau de indeterminação e abstração.\n§ 2º Na indicação das consequências práticas da decisão, o decisor apresentará apenas aquelas consequências práticas que, no exercício diligente de sua atuação, consiga vislumbrar diante dos fatos e fundamentos de mérito e jurídicos.\n§ 3º A motivação demonstrará a necessidade e a adequação da medida imposta, inclusive consideradas as possíveis alternativas e observados os critérios de adequação, proporcionalidade e de razoabilidade.\nArt. 4º\nArt. 4º A decisão que decretar invalidação de atos, contratos, ajustes, processos ou normas administrativos observará o disposto no art. 2º e indicará, de modo expresso, as suas consequências jurídicas e administrativas.\n§ 1º A consideração das consequências jurídicas e administrativas é limitada aos fatos e fundamentos de mérito e jurídicos que se espera do decisor no exercício diligente de sua atuação.\n§ 2º A motivação demonstrará a necessidade e a adequação da medida imposta, consideradas as possíveis alternativas e observados os critérios de proporcionalidade e de razoabilidade.\n§ 3º Quando cabível, a decisão a que se refere o caput indicará, na modulação de seus efeitos, as condições para que a regularização ocorra de forma proporcional e equânime e sem prejuízo aos interesses gerais.\n§ 4º Na declaração de invalidade de atos, contratos, ajustes, processos ou normas administrativos, o decisor poderá, consideradas as consequências jurídicas e administrativas da decisão para a administração pública e para o administrado:\nI - restringir os efeitos da declaração; ou\nII - decidir que sua eficácia se iniciará em momento posteriormente definido.\n§ 5º A modulação dos efeitos da decisão buscará a mitigação dos ônus ou das perdas dos administrados ou da administração pública que sejam anormais ou excessivos em função das peculiaridades do caso.\nArt. 5º\nArt. 5º A decisão que determinar a revisão quanto à validade de atos, contratos, ajustes, processos ou normas administrativos cuja produção de efeitos esteja em curso ou que tenha sido concluída levará em consideração as orientações gerais da época.\n§ 1º É vedado declarar inválida situação plenamente constituída devido à mudança posterior de orientação geral.\n§ 2º O disposto no § 1º não exclui a possibilidade de suspensão de efeitos futuros de relação em curso.\n§ 3º Para fins do disposto neste artigo, consideram-se orientações gerais as interpretações e as especificações contidas em atos públicos de caráter geral ou em jurisprudência judicial ou administrativa majoritária e as adotadas por prática administrativa reiterada e de amplo conhecimento público.\n§ 4º A decisão a que se refere o caput será motivada na forma do disposto nos art. 2º, art. 3º ou art. 4º.\nArt. 6º\nArt. 6º A decisão administrativa que estabelecer interpretação ou orientação nova sobre norma de conteúdo indeterminado e impuser novo dever ou novo condicionamento de direito, preverá regime de transição, quando indispensável para que o novo dever ou o novo condicionamento de direito seja cumprido de modo proporcional, equânime e eficiente e sem prejuízo aos interesses gerais.\n§ 1º A instituição do regime de transição será motivada na forma do disposto nos art. 2º, art. 3º ou art. 4º.\n§ 2º A motivação considerará as condições e o tempo necessário para o cumprimento proporcional, equânime e eficiente do novo dever ou do novo condicionamento de direito e os eventuais prejuízos aos interesses gerais.\n§ 3º Considera-se nova interpretação ou nova orientação aquela que altera o entendimento anterior consolidado.\nArt. 12\nArt. 12. O agente público somente poderá ser responsabilizado por suas decisões ou opiniões técnicas se agir ou se omitir com dolo, direto ou eventual, ou cometer erro grosseiro, no desempenho de suas funções.\n§ 1º Considera-se erro grosseiro aquele manifesto, evidente e inescusável praticado com culpa grave, caracterizado por ação ou omissão com elevado grau de negligência, imprudência ou imperícia.\n§ 2º Não será configurado dolo ou erro grosseiro do agente público se não restar comprovada, nos autos do processo de responsabilização, situação ou circunstância fática capaz de caracterizar o dolo ou o erro grosseiro.\n§ 3º O mero nexo de causalidade entre a conduta e o resultado danoso não implica responsabilização, exceto se comprovado o dolo ou o erro grosseiro do agente público.\n§ 4º A complexidade da matéria e das atribuições exercidas pelo agente público serão consideradas em eventual responsabilização do agente público.\n§ 5º O montante do dano ao erário, ainda que expressivo, não poderá, por si só, ser elemento para caracterizar o erro grosseiro ou o dolo.\n§ 6º A responsabilização pela opinião técnica não se estende de forma automática ao decisor que a adotou como fundamento de decidir e somente se configurará se estiverem presentes elementos suficientes para o decisor aferir o dolo ou o erro grosseiro da opinião técnica ou se houver conluio entre os agentes.\n§ 7º No exercício do poder hierárquico, só responderá por culpa in vigilando aquele cuja omissão caracterizar erro grosseiro ou dolo.\n§ 8º O disposto neste artigo não exime o agente público de atuar de forma diligente e eficiente no cumprimento dos seus deveres constitucionais e legais.\nArt. 14\nArt. 14. No âmbito do Poder Executivo federal, o direito de regresso previsto no § 6º do art. 37 da Constituição somente será exercido na hipótese de o agente público ter agido com dolo ou erro grosseiro em suas decisões ou opiniões técnicas, nos termos do disposto no art. 28 do Decreto-Lei nº 4.657, de 1942, e com observância aos princípios constitucionais da proporcionalidade e da razoabilidade.\nArt. 17\nArt. 17. O disposto no art. 12 não afasta a possibilidade de aplicação de sanções previstas em normas disciplinares, inclusive nos casos de ação ou de omissão culposas de natureza leve.",
+   "kind": "c",
+   "created": 1793995723886,
+   "at": 1793995741518
+  },
+  "mw5er4xyaa0ks": {
+   "apo": "civil",
+   "ch": "ch01",
+   "bid": "b126",
+   "h": "cfy5pg",
+   "quote": "Lei 8.245/1991",
+   "pos": 564,
+   "whole": false,
+   "note": "Art. 39. Salvo disposição contratual em contrário, qualquer das garantias da locação se estende até a efetiva devolução do imóvel, ainda que prorrogada a locação por prazo indeterminado, por força desta Lei.",
+   "kind": "c",
+   "created": 1793995756486,
+   "at": 1793995756486
+  },
+  "mw5ex2n1czbb7": {
+   "apo": "civil",
+   "ch": "ch01",
+   "bid": "b127",
+   "h": "1bwh3mv",
+   "quote": "01.13 Julgados, temas e súmulas do capítulo",
+   "pos": 0,
+   "whole": false,
+   "note": "1. STF, ADI 493 (Rel. Min. Moreira Alves, DJ 4/9/1992). O art. 5º, XXXVI, da Constituição Federal (CF) vale para toda lei infraconstitucional, inclusive a de ordem pública, sem distinção entre direito público e privado. Por isso, a lei nova não pode alcançar os efeitos futuros de contratos celebrados antes dela. Isso seria retroatividade mínima, que também é vedada. No caso, o STF declarou inconstitucional a substituição dos índices de reajuste pela TR em contratos do SFH já em curso.\n\n2. STF, Tema 41 da Repercussão Geral (RE 563.965, Rel. Min. Cármen Lúcia, j. 11/2/2009). O servidor público não tem direito adquirido à manutenção do regime jurídico, nem da fórmula de composição da remuneração. A lei pode alterar esse regime, desde que preserve a irredutibilidade do valor nominal dos vencimentos.\n\n3. STF, ADI 3.735/MS (Rel. Min. Teori Zavascki, j. 8/9/2016, Info 838). Em regra, a declaração de inconstitucionalidade restaura a norma que a lei invalidada havia revogado. Esse efeito repristinatório, porém, não ocorre quando a norma anterior tem o mesmo vício de inconstitucionalidade. Admitir o contrário restabeleceria no ordenamento uma regra igualmente incompatível com a Constituição. No caso, tratava-se de lei estadual que invadia a competência da União para editar normas gerais de licitação. Confira no inteiro teor a identificação exata das leis envolvidas.\n\n4. STF, ADI 6.421 e outras, medida cautelar (Rel. Min. Roberto Barroso, j. 21/5/2020, Info 978). O STF deu interpretação conforme à MP 966/2020, sem suspendê-la. Fixou que configura erro grosseiro o ato administrativo que viole os direitos à vida, à saúde ou ao meio ambiente equilibrado por não observar normas e critérios científicos e técnicos, nem os princípios da precaução e da prevenção. A autoridade também deve exigir que as opiniões técnicas em que se apoia tratem expressamente desses critérios. Se não o fizer, responde pelo ato. A limitação de responsabilidade do art. 28 da LINDB, portanto, não protege decisões tomadas contra a ciência.\n\n5. STJ, AgInt no AREsp 1.932.867/RJ (j. 21/3/2022). O direito adquirido, o ato jurídico perfeito e a coisa julgada, previstos no art. 6º da LINDB, são institutos de natureza essencialmente constitucional (art. 5º, XXXVI, da CF). Por isso, não cabe ao STJ examiná-los em recurso especial, sob pena de usurpar a competência do STF.\n\n6. STJ, REsp 1.362.400/SP (Rel. Min. Marco Aurélio Bellizze, j. 28/4/2015). No direito sucessório brasileiro vale o princípio da pluralidade dos juízos sucessórios. O juiz brasileiro só tem jurisdição sobre os bens situados no Brasil (art. 23 do CPC). Por isso, os bens deixados no exterior não podem entrar no inventário aqui. Também não podem ser computados indiretamente para compensar ou equalizar quinhões, nem para recompor a legítima, porque isso seria dispor por via oblíqua sobre patrimônio sujeito a outra soberania.\n\n7. STJ, REsp 275.985/SP (Rel. Min. Sálvio de Figueiredo Teixeira). Na partilha de bens decorrente da dissolução da sociedade conjugal, o juiz brasileiro não pode dispor sobre os bens situados no exterior. Pode, porém, considerar o seu valor para equalizar a meação, compensando a diferença com os bens localizados no Brasil. A diferença em relação ao item anterior está na natureza da partilha: aqui se trata de meação entre cônjuges, e não de sucessão causa mortis.\n\n8. STJ, REsp 1.326.557 (Rel. Min. Luis Felipe Salomão). A Lei 12.112/2009 deu nova redação ao art. 39 da Lei 8.245/1991 e estendeu legalmente a fiança até a efetiva devolução do imóvel. Essa extensão só se aplica aos contratos celebrados depois da vigência da lei, porque a fiança é contrato benéfico e deve ser interpretada restritivamente (art. 819 do CC). Nos contratos anteriores, a garantia só vai além do prazo ajustado se houver cláusula expressa. Confira a sigla do estado no número do recurso.\n\n9. STJ, REsp 517.789/AL. A declaração de inconstitucionalidade com efeitos ex tunc restaura a lei que a norma invalidada havia revogado. Isso não se confunde com a repristinação vedada pelo art. 2º, § 3º, da LINDB. A lei inconstitucional é nula e nunca teve aptidão para revogar validamente a norma anterior. Já o art. 2º, § 3º, trata da revogação válida de uma lei revogadora, cujo efeito restaurador depende de previsão expressa.\n\n10. STJ, AgInt no AREsp 1.417.538/BA (j. 24/9/2019). O Código Civil de 2002 entrou em vigor em 11/1/2003, depois da vacatio legis de um ano contada da publicação (art. 2.044 do CC). Esse é o marco para aplicar as regras de transição, em especial o art. 2.028 do CC, sobre os prazos prescricionais reduzidos.\n\n11. Enunciado 408 do CJF (V Jornada). Nos casos de Direito de Família, o \"domicílio\" do art. 7º da LINDB deve ser interpretado como residência habitual, em harmonia com as convenções internacionais, como a Convenção da Haia sobre sequestro internacional de crianças. Quando há criança envolvida, prevalece o critério fático da sua residência habitual.\n\nRemissões\n\nREsp 1.628.974/SP e REsp 1.891.844/SP. Uma dívida de jogo contraída licitamente no exterior pode ser cobrada no Brasil. A exigência não ofende a ordem pública (art. 17 da LINDB), porque o jogo também é tolerado no ordenamento brasileiro, e prevalece a vedação ao enriquecimento sem causa. A lei aplicável é a do local em que a obrigação se constituiu (art. 9º da LINDB). Confira a relatoria e a data do segundo recurso.\n\nREsp 1.723.519/SP e Tema 1.002 do STJ. A Lei 13.786/2018 (Lei dos Distratos) não se aplica aos contratos celebrados antes da sua vigência, em respeito ao ato jurídico perfeito. Esses contratos seguem a disciplina jurisprudencial anterior. Confira no inteiro teor a tese do tema e a do REsp 1.723.519/SP, porque costumam ser citados juntos sem serem idênticos.\n\nTema 1.053 do STF. Depois da EC 66/2010, a separação judicial deixou de ser requisito para o divórcio e não subsiste mais como figura autônoma. Mesmo assim, o estado civil de quem já estava separado se preserva, por se tratar de ato jurídico perfeito.\n\nSúmula 214 do STJ. O fiador na locação não responde por obrigações resultantes de aditamento ao qual não anuiu.\n\nLei 14.905/2024 e juros no tempo. As novas regras sobre juros e correção monetária seguem o princípio tempus regit actum. Aplicam-se aos períodos posteriores à vigência da lei. Os períodos anteriores continuam regidos pela disciplina então vigente.\n\nSúmula 370 do STJ. A apresentação antecipada de cheque pré-datado gera dano moral.\n\nSúmula 473 do STF. A Administração pode anular seus atos ilegais, dos quais não se originam direitos, e revogá-los por conveniência ou oportunidade, respeitados os direitos adquiridos e ressalvada a apreciação judicial.\n\nDiálogo das fontes e art. 2.035, parágrafo único, do CC. Nenhuma convenção prevalece se contrariar preceitos de ordem pública, como os que asseguram a função social da propriedade e dos contratos. Assim, mesmo nos negócios celebrados antes do CC/2002, esses princípios se aplicam aos efeitos produzidos depois da vigência do código. As fontes normativas devem ser aplicadas de forma coordenada, e não por exclusão automática de uma pela outra.",
+   "kind": "c",
+   "created": 1793996033437,
+   "at": 1793996033437
   }
  },
  "progress": {
+  "trib": {
+   "done": {},
+   "last": "ch01",
+   "at": 1794684131200,
+   "read": {
+    "front": 0.08663687748243203,
+    "ch01": 0.08549672134816373
+   }
+  },
   "civil": {
    "done": {
-    "ch01": true
+    "ch01": true,
+    "front": true
+   },
+   "read": {
+    "ch01": 1,
+    "front": 1
    },
    "last": "ch01",
-   "at": 1793909360054,
-   "read": {
-    "ch01": 1
-   }
+   "at": 1793994540063
   },
   "jcs01": {
    "done": {
     "front": true
    },
+   "read": {},
    "last": "ch01",
-   "at": 1793821707602,
-   "read": {}
+   "at": 1793821707602
   },
   "jcs02": {
    "done": {
     "ch01": true
    },
+   "read": {},
    "last": "ch01",
-   "at": 1793821553622,
-   "read": {}
+   "at": 1793821553622
   },
   "jcs03": {
    "done": {},
+   "read": {},
    "last": "ch06",
-   "at": 1793821644652,
-   "read": {}
+   "at": 1793821644652
   },
   "jcs04": {
    "done": {},
+   "read": {},
    "last": "ch05",
-   "at": 1793821669336,
-   "read": {}
+   "at": 1793821669336
   },
   "umw2mijoev89kh": {
    "done": {},
-   "last": "ch01",
-   "at": 1793827394161,
    "read": {
     "ch01": 0.3184690369829118
-   }
+   },
+   "last": "ch01",
+   "at": 1793827394161
   },
   "umw2mv55l11hlh": {
    "done": {},
-   "last": "ch01",
-   "at": 1793906417376,
    "read": {
     "ch01": 0.9593713596172944
-   }
+   },
+   "last": "ch01",
+   "at": 1793906417376
   },
   "umw2mx0juk9fm1": {
    "done": {},
-   "last": "ch01",
-   "at": 1793828069340,
    "read": {
     "ch01": 0.012728341144208587
-   }
+   },
+   "last": "ch01",
+   "at": 1793828069340
   },
   "umw2n1xv82dua7": {
    "done": {},
-   "last": "ch01",
-   "at": 1793828574555,
    "read": {
     "ch01": 0.7268019884009942
-   }
+   },
+   "last": "ch01",
+   "at": 1793828574555
   },
   "umw2n2z61hzmtn": {
    "done": {
     "front": true
    },
-   "last": "front",
-   "at": 1793828564427,
    "read": {
     "front": 1
-   }
+   },
+   "last": "front",
+   "at": 1793828564427
   },
   "umw2n8h0ecifit": {
    "done": {},
-   "last": "front",
-   "at": 1793828603780,
    "read": {
     "front": 1
-   }
+   },
+   "last": "front",
+   "at": 1793828603780
   },
   "umw2n8z942f4ff": {
    "done": {},
-   "last": "front",
-   "at": 1793828627483,
    "read": {
     "front": 0.9166666666666666
-   }
+   },
+   "last": "front",
+   "at": 1793828627483
   },
   "umw2n9f9dsz69z": {
    "done": {},
-   "last": "front",
-   "at": 1793828648243,
    "read": {
     "front": 0.9166666666666666
-   }
+   },
+   "last": "front",
+   "at": 1793828648243
   },
   "umw2n9r215vi3b": {
    "done": {},
-   "last": "front",
-   "at": 1793828663462,
    "read": {
     "front": 0.9166666666666666
-   }
+   },
+   "last": "front",
+   "at": 1793828663462
   },
   "umw2na1xq0nhwb": {
    "done": {},
-   "last": "front",
-   "at": 1793828677543,
    "read": {
     "front": 0.9166666666666666
-   }
+   },
+   "last": "front",
+   "at": 1793828677543
   },
   "umw2nahfo5288i": {
    "done": {},
-   "last": "front",
-   "at": 1793828697769,
    "read": {
     "front": 0.9166666666666666
-   }
+   },
+   "last": "front",
+   "at": 1793828697769
   },
   "umw2nay50h3nvo": {
    "done": {},
-   "last": "front",
-   "at": 1793828719287,
    "read": {
     "front": 0.9166666666666666
-   }
+   },
+   "last": "front",
+   "at": 1793828719287
   },
   "umw2nbcu42129c": {
    "done": {},
-   "last": "front",
-   "at": 1793828738382,
    "read": {
     "front": 0.9166666666666666
-   }
+   },
+   "last": "front",
+   "at": 1793828738382
   },
   "umw2nbszaxt7ii": {
    "done": {},
-   "last": "front",
-   "at": 1793828759335,
    "read": {
     "front": 0.9166666666666666
-   }
+   },
+   "last": "front",
+   "at": 1793828759335
   },
   "umw2nc95m5x308": {
    "done": {},
-   "last": "front",
-   "at": 1793828780287,
    "read": {
     "front": 0.9166666666666666
-   }
+   },
+   "last": "front",
+   "at": 1793828780287
   },
   "umw2ncnszr19d9": {
    "done": {},
-   "last": "front",
-   "at": 1793828799197,
    "read": {
     "front": 0.9166666666666666
-   }
+   },
+   "last": "front",
+   "at": 1793828799197
   },
   "umw2nd63e8qljx": {
    "done": {},
-   "last": "ch01",
-   "at": 1793828822837,
    "read": {
     "ch01": 0.34551004332414337
-   }
+   },
+   "last": "ch01",
+   "at": 1793828822837
   },
   "umw2ndsdgclgzk": {
    "done": {},
-   "last": "ch01",
-   "at": 1793828852053,
    "read": {
     "ch01": 1
-   }
+   },
+   "last": "ch01",
+   "at": 1793828852053
   },
   "umw2nej3m1wgfi": {
    "done": {},
-   "last": "front",
-   "at": 1793828886503,
    "read": {
     "front": 0.9166666666666666
-   }
+   },
+   "last": "front",
+   "at": 1793828886503
   },
   "umw2nffai8ifyl": {
    "done": {
     "ch01": true
    },
-   "last": "ch01",
-   "at": 1793828935113,
    "read": {
     "ch01": 1
-   }
+   },
+   "last": "ch01",
+   "at": 1793828935113
   },
   "umw2ni4wguji5m": {
    "done": {},
-   "last": "ch01",
-   "at": 1793829054661,
    "read": {
     "ch01": 0.0023022698583077235
-   }
+   },
+   "last": "ch01",
+   "at": 1793829054661
   },
   "umw2nj6yywp2qf": {
    "done": {},
-   "last": "front",
-   "at": 1793829103919,
    "read": {
     "front": 0.46244069583552977
-   }
+   },
+   "last": "front",
+   "at": 1793829103919
   },
   "umw2nmcugx53gh": {
    "done": {},
-   "last": "ch01",
-   "at": 1793829251514,
    "read": {
     "ch01": 0.03833464429295578
-   }
+   },
+   "last": "ch01",
+   "at": 1793829251514
   },
   "umw2npqixg1oh8": {
    "done": {},
-   "last": "ch01",
-   "at": 1793829409310,
    "read": {
     "ch01": 0.013588977012206457
-   }
+   },
+   "last": "ch01",
+   "at": 1793829409310
   },
   "umw2o9f34yiafc": {
    "done": {},
-   "last": "ch01",
-   "at": 1793830327751,
    "read": {
     "ch01": 0.02797888626650507
-   }
+   },
+   "last": "ch01",
+   "at": 1793830327751
+  },
+  "cg": {
+   "done": {
+    "front": true,
+    "ch01": true
+   },
+   "read": {},
+   "last": "ch01",
+   "at": 1793758538074
+  },
+  "umw5dbqaiecsxy": {
+   "done": {},
+   "read": {
+    "front": 1
+   },
+   "last": "front",
+   "at": 1793993358369
   }
  }
 }
