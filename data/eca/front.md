@@ -1,0 +1,58 @@
+# APRESENTAÇÃO E MAPA DOS EDITAIS
+
+## Para quem é esta apostila
+
+A apostila cobre o Direito da Criança e do Adolescente de dois editais da magistratura estadual: Juiz de Direito Substituto do TJRS (4 pontos: o ECA, a Lei 14.344/2022, o Estatuto Digital da Criança e do Adolescente e o abandono afetivo à luz da Lei 15.240/2025) e Juiz de Direito Substituto do TJSC (13 pontos, com forte peso de legislação extravagante, normativa internacional e atos do CNJ, do CONANDA e do CNAS). Os pontos dos dois editais foram fundidos num só plano de 26 capítulos; a tabela ao final indica, para cada capítulo, os pontos atendidos em cada edital.
+
+O texto pressupõe um leitor magistrado, com prática forense: dispensa o didatismo básico e concentra-se na letra da lei (prazos, idades, róis), nas distinções finas, na jurisprudência do STF e do STJ (inclusive a de 2024 a 2026, com as teses da Jurisprudência em Teses) e no modo como as bancas FGV e FCC cobram cada ponto. Onde o tema já está desenvolvido em outra apostila da coleção (Civil, Penal, Processo Penal, Previdenciário, Processo Civil), o capítulo cuida só do ângulo estatutário e faz remissão.
+
+## Como usar
+
+Cada capítulo traz: a incidência (pontos dos editais, nível e número de questões do lote); o mapa de cobrança; as seções de teoria, com quadros comparativos e esquemas; o resumo tabelado para revisão pré-prova; os artigos de lei incidentes; os julgados, temas e súmulas desenvolvidos; e a nota de verificação, que registra o que foi conferido na fonte primária (Planalto, portais do STF, do STJ, do CNJ, do CONANDA e do CNAS) e o que ainda deve ser conferido antes da prova. Boxes usados: TEXTO DE LEI, JURISPRUDÊNCIA, COMO A BANCA COBROU, DICA, PEGADINHA, ATENÇÃO, DOUTRINA, ESQUEMA, NA SENTENÇA (como o tema aparece na decisão do juiz), PASSO A PASSO e PRATIQUE (exercícios próprios, identificados como tais).
+
+Convenções: valores em dinheiro em algarismos com o valor por extenso no texto corrido, sem símbolo de moeda; datas no formato dia/mês/ano; "criança" e "adolescente", nunca "menor" como substantivo (salvo em transcrição literal). Cada julgado, tema ou súmula é desenvolvido em um único capítulo; nos demais há remissão ("v. Cap. X"), válida para os dois volumes, que têm numeração contínua.
+
+## Questões
+
+As questões foram coletadas no QConcursos em 6/11/2026: bancas FGV e FCC, nível superior, 2024 a 2026, excluídas as anuladas e as desatualizadas, na disciplina Direito da Criança e do Adolescente e, por palavras-chave, em outras disciplinas (SINASE, escuta especializada, depoimento especial, primeira infância, alienação parental, Convenção sobre os Direitos da Criança, Estatuto Digital e outras). O gabarito de cada questão foi colhido na mesma página do enunciado e conferido por amostragem. Das 399 questões aproveitadas (FGV 330 e FCC 69), 399 são citadas nesta apostila (FGV 330 e FCC 69) e 334 estão comentadas em box próprio (FGV 275 e FCC 59). Os enunciados são parafraseados e identificados pelo número Q. Gabaritos superados por lei ou julgamento posterior e gabaritos discutíveis estão apontados no box e na nota de verificação.
+
+## Atualização
+
+Legislação e jurisprudência conferidas até 7/11/2026 e atualizadas em 13/11/2026 (Leis 15.383 e 15.384/2026, violência vicária e vicaricídio; Leis 15.243/2025, 15.413/2026 e 15.450/2026, novos arts. 11-A, 14, § 6º, e 14-A do ECA; Resolução CNJ 679/2026), incluídas, entre outras: a Lei 15.512/2026 (nova redação do caput do art. 4º do ECA), a Lei 15.487/2026 (reforma dos crimes dos arts. 240 a 241-E e novos arts. 226-A, 227-B e 227-C), a Lei 15.426/2026 (conselhos de direitos — arts. 89, 89-A e 260-I), a Lei 15.479/2026 (transferência automática da pensão alimentícia, com vacância de um ano), a Lei 15.240/2025 (abandono afetivo e assistência afetiva), a Lei 15.211/2025 (Estatuto Digital da Criança e do Adolescente), as Leis 15.234/2025, 15.268/2025 e 15.280/2025, a Lei 14.826/2024 e os atos do CNJ e do CONANDA em vigor (entre eles as Resoluções CNJ 289/2019, 295/2019, 299/2019, 485/2023 e 687/2026 e a Resolução CONANDA 231/2022). Pontos ainda sem texto oficial disponível ou pendentes de julgamento estão sinalizados no capítulo e na nota de verificação.
+
+## Os dois volumes
+
+Volume I — Caps. 1 a 13 — Fundamentos e normativa internacional; direitos fundamentais (vida, saúde, liberdade, respeito e dignidade; convivência familiar e comunitária; família substituta, guarda, tutela e adoção; filiação, alimentos, alienação parental e abandono afetivo; educação e trabalho); prevenção e autorização de viagem; Estatuto Digital; política de atendimento; Conselho Tutelar; medidas de proteção. Volume II — Caps. 14 a 26 — Ato infracional, medidas socioeducativas, procedimento de apuração e SINASE; Justiça da Infância e da Juventude, recursos, Ministério Público e proteção judicial dos interesses coletivos; crimes e infrações administrativas; Leis 13.431/2017 e 14.344/2022; primeira infância; assistência social; saúde mental e atos do CNJ. Há ainda um caderno de Revisão de Véspera com os resumos, os artigos e os julgados de todos os capítulos.
+
+## Correspondência entre capítulos e pontos
+
+| Cap. | Título | TJRS | TJSC | Nível | Questões em box |
+|---|---|---|---|---|---|
+| 1 | Fundamentos | 1 | 1, 2 | A+ | 12 |
+| 2 | Normativa internacional | — | 6 | A | 8 |
+| 3 | Direitos fundamentais I | 1 | — | A+ | 13 |
+| 4 | Direito à convivência familiar e comunitária I | 1 | 2 | A+ | 29 |
+| 5 | Família substituta I | 1 | 2 | A | 18 |
+| 6 | Família substituta II | 1 | 2, 6 | A+ | 27 |
+| 7 | Filiação, alimentos e responsabilidade nas relações familiares | 4 | — | A+ | 16 |
+| 8 | Direito à educação, à cultura, ao esporte e ao lazer (arts. 53 a 59 | 1 | — | A | 18 |
+| 9 | Prevenção | 1 | 3 | A+ | 22 |
+| 10 | Estatuto Digital da Criança e do Adolescente (Lei 15.211/2025, com suas alterações) | 3 | — | A | 5 |
+| 11 | Política de atendimento e Sistema de Garantia dos Direitos | — | 4, 8 | A+ | 12 |
+| 12 | Conselho Tutelar | — | 13 | A+ | 13 |
+| 13 | Medidas de proteção (arts. 98 a 102) | 1 | 2 | A+ | 18 |
+| 14 | Prática de ato infracional I | 1 | 2 | A+ | 14 |
+| 15 | Medidas socioeducativas (arts. 112 a 125) | 1 | 2 | A+ | 23 |
+| 16 | Procedimento de apuração de ato infracional (arts. 171 a 190) | 1 | 2 | A+ | 10 |
+| 17 | SINASE (Lei 12.594/2012) | — | 2, 5 | A+ | 27 |
+| 18 | Justiça da Infância e da Juventude I | 1 | 2 | A+ | 7 |
+| 19 | Justiça da Infância e da Juventude II | 1 | 2 | A+ | 5 |
+| 20 | Proteção judicial dos interesses individuais, difusos e coletivos (arts. 208 a 224) | 1 | 2 | A | 3 |
+| 21 | Crimes e infrações administrativas do ECA (arts. 225 a 258-C) | 1 | 2 | A+ | 14 |
+| 22 | Lei 13.431/2017 e Decreto 9.603/2018 | — | 10 | A+ | 32 |
+| 23 | Lei 14.344/2022 (Lei Henry Borel) | 2 | 11 | A+ | 11 |
+| 24 | Marco Legal da Primeira Infância (Lei 13.257/2016) | — | 12 | A | 6 |
+| 25 | Assistência social e criança e adolescente | — | 7 | A | 5 |
+| 26 | Saúde mental de crianças e adolescentes (Lei 10.216/2001 | — | 5, 9 | A | 3 |
+
+Nível: A+ (tema central, cobrado em todas as provas), A (cobrança frequente).

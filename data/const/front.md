@@ -1,0 +1,70 @@
+# APRESENTAÇÃO E MAPA DOS EDITAIS
+
+## Para quem é esta apostila
+
+A apostila cobre o Direito Constitucional de três editais da magistratura: Juiz Federal Substituto do TRF5 (18 pontos), Juiz de Direito Substituto do TJRS (12 pontos) e Juiz de Direito Substituto do TJSC (18 pontos). Os pontos dos três editais foram fundidos num só plano de 38 capítulos, que segue a ordem da Constituição depois de uma parte de teoria; a tabela ao final indica, para cada capítulo, os pontos atendidos em cada edital. O controle de constitucionalidade estadual (Constituições do RS e de SC) tem capítulo próprio.
+
+O texto pressupõe um leitor magistrado, com prática forense: dispensa o didatismo básico e concentra-se na letra da Constituição (quóruns, prazos, legitimados, competências), nas distinções finas, na jurisprudência do STF (e do STJ, quando pertinente), inclusive a de 2024 a 2026, e no modo como as bancas FGV e FCC cobram cada ponto. Onde o tema já está desenvolvido em outra apostila da coleção (Administrativo, Tributário, Previdenciário, Ambiental, Penal, Processo Penal, Processo Civil, Civil, Criança e Adolescente), o capítulo cuida do ângulo constitucional e faz remissão.
+
+## Como usar
+
+Cada capítulo traz: a incidência (pontos dos editais, nível e número de questões do lote); o mapa de cobrança; as seções de teoria, com quadros comparativos e esquemas; o resumo tabelado para revisão pré-prova; os dispositivos incidentes; os julgados, temas e súmulas desenvolvidos; e a nota de verificação, que registra o que foi conferido na fonte primária (Planalto, portais do STF, do STJ e das Assembleias Legislativas) e o que ainda deve ser conferido antes da prova. Boxes usados: TEXTO DE LEI, JURISPRUDÊNCIA, COMO A BANCA COBROU, DICA, PEGADINHA, ATENÇÃO, DOUTRINA, ESQUEMA, NA SENTENÇA (como o tema aparece na decisão do juiz), PASSO A PASSO e PRATIQUE (exercícios próprios, identificados como tais).
+
+Convenções: valores em dinheiro em algarismos com o valor por extenso no texto corrido, sem símbolo de moeda; datas no formato dia/mês/ano; "criança" e "adolescente", nunca "menor" como substantivo (salvo em transcrição literal). Cada julgado, tema ou súmula é desenvolvido preferencialmente em um único capítulo; nos demais há remissão ("v. Cap. X"), válida para os dois volumes, que têm numeração contínua.
+
+## Questões
+
+As questões foram coletadas no QConcursos em 7/11/2026: bancas FGV e FCC, nível superior, 2024 a 2026, excluídas as anuladas e as desatualizadas, na disciplina Direito Constitucional. O gabarito de cada questão foi colhido na mesma página do enunciado. Das 1976 questões do lote (FGV 1520 e FCC 456), 1976 são citadas nesta apostila (FGV 1520 e FCC 456) e 1187 estão comentadas em box próprio (FGV 919 e FCC 268); as demais aparecem como "no mesmo sentido" dentro de boxes. Os enunciados são parafraseados e identificados pelo número Q. Gabaritos superados por emenda, lei ou julgamento posterior e gabaritos discutíveis estão apontados no box e na nota de verificação.
+
+## Atualização
+
+Constituição, legislação e jurisprudência pesquisadas até 12/11/2026, incluídas, entre outras: as Emendas Constitucionais 132/2023 (reforma tributária), 133/2024, 134/2024 (declarada inconstitucional na ADI 7.751, sessão virtual encerrada em 10/11/2026), 135/2024, 136/2025, 138/2025, 139/2026 (Tribunais de Contas), 140/2026 (agentes comunitários de saúde e de combate às endemias) e 141/2026 (jornada de 40 horas semanais); a LC 219/2025 (inelegibilidades); a LC 230/2026 (desmembramento municipal); a Lei 15.484/2026 (precedentes e reclamação no CPC); a Lei 14.701/2023 e o julgamento da ADC 87 (marco temporal); a Resolução CNJ 693/2026, que, na esteira da AO 2.870 AgR, retirou a aposentadoria compulsória do rol de penas disciplinares da Resolução 135/2011. Pontos pendentes de julgamento ou sem conferência na fonte primária estão sinalizados no capítulo e na nota de verificação.
+
+## Os dois volumes
+
+Volume I — Caps. 1 a 20 — Teoria da Constituição, poder constituinte, eficácia e hermenêutica; princípios fundamentais; direitos e garantias fundamentais (teoria geral, direitos individuais, tratados de direitos humanos, direitos sociais, nacionalidade e direitos políticos); remédios constitucionais; controle de constitucionalidade (difuso, ADI e ADC, ADPF, ADO, súmula vinculante, reclamação e controle estadual). Volume II — Caps. 21 a 38 — Organização do Estado, repartição de competências e intervenção; Administração Pública; Poderes Legislativo, Executivo e Judiciário; fiscalização e Tribunais de Contas; funções essenciais à Justiça; defesa do Estado; tributação e orçamento; ordem econômica e social; povos indígenas e comunidades quilombolas. Há ainda um caderno de Revisão de Véspera com os resumos, os dispositivos e os julgados de todos os capítulos.
+
+## Correspondência entre capítulos e pontos
+
+| Cap. | Título | TRF5 | TJRS | TJSC | Nível | Questões em box |
+|---|---|---|---|---|---|---|
+| 1 | Constitucionalismo e Estado | 1 | 1 | 2 | A | 8 |
+| 2 | Teoria da Constituição | 1 | 1, 2, 4 | 1 | A | 18 |
+| 3 | Poder constituinte | 1 | 2 | 6 | A+ | 24 |
+| 4 | Aplicabilidade e eficácia das normas constitucionais | 1 | 2 | 4 | A | 11 |
+| 5 | Hermenêutica constitucional | 2 | 2 | 3 | A+ | 34 |
+| 6 | Princípios fundamentais da República (arts. 1º a 4º) | — | 4 | 2 | A | 23 |
+| 7 | Teoria geral dos direitos fundamentais | 3 | 4 | 12 | A+ | 35 |
+| 8 | Direitos individuais I | 4 | — | 13 | A+ | 18 |
+| 9 | Direitos individuais II | 4 | — | 13 | A+ | 38 |
+| 10 | Direitos individuais III | 4 | — | 13 | A+ | 26 |
+| 11 | Tratados internacionais de direitos humanos | 5 | 4 | 17 | A+ | 18 |
+| 12 | Direitos sociais (art. 6º) e direitos dos trabalhadores individuais e coletivos (arts. 7º a 11) | — | 4 | 14 | A | 34 |
+| 13 | Nacionalidade | — | 4 | 15 | A | 20 |
+| 14 | Direitos políticos | — | 4 | 15 | A+ | 41 |
+| 15 | Remédios constitucionais I | 10 | — | 16 | A | 37 |
+| 16 | Remédios constitucionais II e tutela coletiva constitucional | 10 | — | 16 | A | 38 |
+| 17 | Controle de constitucionalidade I | 10 | 3 | 5 | A+ | 18 |
+| 18 | Controle de constitucionalidade II | 10 | 3 | 5 | A+ | 42 |
+| 19 | Controle de constitucionalidade III | 10 | 3 | 5, 8 | A+ | 34 |
+| 20 | Controle de constitucionalidade IV | 10 | 3 | 5, 6 | A+ | 27 |
+| 21 | Organização do Estado I | 6 | 5 | 11 | A+ | 45 |
+| 22 | Organização do Estado II | 6 | 5 | 11 | A+ | 102 |
+| 23 | Intervenção federal e estadual (arts. 34 a 36) | 6 | 5 | — | A | 22 |
+| 24 | Administração Pública na Constituição (arts. 37 a 43) | 12 | 6 | 10 | A+ | 27 |
+| 25 | Poder Legislativo I | 7 | 7 | 7 | A+ | 40 |
+| 26 | Poder Legislativo II | 7 | 7 | 7, 10 | A+ | 63 |
+| 27 | Fiscalização contábil, financeira, orçamentária, operacional e patrimonial (arts. 70 a 75) | 7 | — | 7 | A | 29 |
+| 28 | Poder Executivo | 8 | 5, 6 | 10 | A+ | 30 |
+| 29 | Poder Judiciário I | 9, 13 | 8 | 8 | A+ | 32 |
+| 30 | Poder Judiciário II | 9 | 8 | 8 | A+ | 39 |
+| 31 | Funções essenciais à Justiça | 11 | — | 9 | A+ | 32 |
+| 32 | Defesa do Estado e das instituições democráticas | 8 | 9 | — | A | 23 |
+| 33 | Tributação e orçamento na Constituição | — | 10 | — | A | 63 |
+| 34 | Ordem econômica e financeira | 13, 18 | 11 | — | A+ | 26 |
+| 35 | Ordem social I | — | 12 | 14 | A+ | 42 |
+| 36 | Ordem social II | 14, 17 | 12 | 14 | A | 29 |
+| 37 | Ordem social III | 15, 17 | 12 | 14 | A | 15 |
+| 38 | Povos indígenas, comunidades quilombolas e comunidades tradicionais | 16 | 12 | 18 | A+ | 17 |
+
+Nível: A+ (tema central, cobrado em todas as provas), A (cobrança frequente), B (cobrança eventual).

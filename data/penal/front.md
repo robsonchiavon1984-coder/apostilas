@@ -8,6 +8,7 @@ Cada capítulo traz ainda: a incidência (referência aos pontos e nível de cob
 Questões: QConcursos, disciplina Direito Penal (inclui legislação penal especial e execução penal), bancas FGV e FCC, nível superior, área Direito, 2024 a 2026, excluídas as desatualizadas (806 questões: FGV 681 e FCC 125, todas com gabarito oficial), parafraseadas e identificadas pelo número Q.
 Cada julgado, tema ou súmula é desenvolvido em um único capítulo; nos demais há só remissão. Convenções: latim e estrangeirismos em itálico; ênfases em CAIXA ALTA; datas d/m/aaaa.
 
+Atualização de 13/11/2026: Lei 15.402/2026 (arts. 359-M-A e 359-M-B do CP e art. 112 da LEP) reconferida; Leis 15.383, 15.384 (violência vicária e vicaricídio, CP, art. 121-B), 15.411 e 15.455/2026 (Lei Maria da Penha); PL 896/2023 (misoginia), ainda projeto.
 Esta apostila tem dois volumes, com numeração contínua de capítulos (as remissões "ver Cap. X" valem para os dois): Volume I — Caps. 1 a 26 — Parte geral, aplicação da pena, execução, justiça consensual e sentença penal; Volume II — Caps. 27 a 51 — Parte especial e legislação penal especial.
 
 ## Correspondência entre capítulos e pontos

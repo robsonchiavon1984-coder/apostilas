@@ -27,6 +27,7 @@ Este caderno reúne, de cada um dos 51 capítulos da Apostila de Direito Penal, 
 | Crimes culturalmente motivados | soluções na tipicidade, culpabilidade (erro culturalmente condicionado) ou pena | limite: direitos humanos das vítimas vulneráveis | 01.11.2 |
 | Gênero e raça | protocolos do CNJ; gênero obrigatório | busca pessoal não pode basear-se em raça (HC 208.240) | Res. CNJ 492/2023 e 598/2024 |
 
+
 ## 01.13 Artigos de lei incidentes
 
 - Constituição Federal: arts. 5º (garantias penais), 22, I e parágrafo único, 109, XI, e 231.
@@ -37,6 +38,7 @@ Este caderno reúne, de cada um dos 51 capítulos da Apostila de Direito Penal, 
 - Lei 14.245/2021 (proteção da vítima no processo).
 - Decreto-Lei 3.688/1941 (LCP): art. 59 (vadiagem) e art. 60 (mendicância, revogado pela Lei 11.983/2009).
 - Atos normativos do CNJ: Resoluções 225/2016 (justiça restaurativa), 253/2018 (vítimas), 287/2019 (indígenas), 492/2023 (perspectiva de gênero) e 598/2024 (perspectiva racial).
+
 
 ## 01.14 Julgados, temas e súmulas do capítulo
 
@@ -80,6 +82,7 @@ Remissões a outros capítulos: Tema 593 e Súmula 502 do STJ, adequação socia
 | Insignificância: processo | arquivamento, rejeição (395, III), absolvição sumária (397, III), absolvição (386, III) | prevalece que o delegado não a reconhece | CPP |
 | Bagatela imprópria | fato típico, mas pena desnecessária no caso concreto | rejeitada na violência doméstica; aceitação restrita | art. 59, CP |
 
+
 ## 02.14 Artigos de lei incidentes
 
 - Constituição Federal: art. 1º, III; art. 5º, XXXIX, XL, XLI, XLII, XLIII, XLIV, XLV, XLVI, XLVII, XLIX; art. 7º, X; art. 22, I e parágrafo único; art. 62, § 1º, I, "b"; art. 68, § 1º, II; art. 225, § 3º; art. 227, § 4º.
@@ -90,6 +93,7 @@ Remissões a outros capítulos: Tema 593 e Súmula 502 do STJ, adequação socia
 - Lei 7.210/1984 (LEP): arts. 39, V, 45, 112.
 - LINDB: art. 2º.
 - Convenção Americana de Direitos Humanos: art. 8.4.
+
 
 ## 02.15 Julgados, temas e súmulas do capítulo
 
@@ -142,6 +146,7 @@ Remissões: Súmulas 711 e 611 do STF e 501 do STJ (Cap. 3); Súmula 444 do STJ 
 | Prazo penal | inclui o dia do começo; calendário comum; improrrogável | prazo misto segue a regra penal | art. 10 CP |
 | Leis especiais | Parte Geral se aplica, salvo disposição diversa | LCP, art. 4º; Lei 9.605; CPM | art. 12 CP |
 
+
 ## 03.9 Artigos de lei incidentes
 
 - Constituição Federal: art. 5º, XXXIX e XL; art. 22, I, e parágrafo único; art. 62, § 1º, I, "b".
@@ -150,6 +155,7 @@ Remissões: Súmulas 711 e 611 do STF e 501 do STJ (Cap. 3); Súmula 444 do STJ 
 - LINDB: arts. 2º e 4º.
 - LEP: art. 66, I.
 - Leis especiais: Lei 11.343/2006, arts. 33, § 4º, 42 e 44; Lei 6.368/1976, art. 12; Lei 7.716/1989, art. 2º-A; Lei 9.099/1995, art. 90; Lei 9.605/1998, art. 34; Lei 15.397/2026; Decreto-Lei 3.688/1941 (LCP), art. 4º.
+
 
 ## 03.10 Julgados, temas e súmulas do capítulo
 
@@ -199,6 +205,7 @@ Remissões: Tema 1.169 do STF, HC 96.007, AgRg no HC 920.735 e AgRg no HC 863.52
 | Deportação, expulsão, repatriação | irregularidade migratória; condenação com impedimento de reingresso; impedimento na entrada | expulsão vedada com filho brasileiro sob guarda, cônjuge, ingresso até 12 anos, mais de 70 anos com 10 de residência | Lei 13.445/2017, arts. 49, 50, 54 e 55; Tema 373 STF; CP, art. 338 |
 | Entrega ao TPI | entrega a tribunal, não a Estado | admitida para brasileiro nato (majoritário) | CF, art. 5º, § 4º; Estatuto de Roma, art. 102 |
 
+
 ## 04.10 Artigos de lei incidentes
 
 - Código Penal: arts. 5º, 6º, 7º, 8º e 9º; art. 4º e art. 12 (por remissão ao Cap. 3); art. 42 (detração, por remissão); art. 63 (reincidência por condenação estrangeira); art. 142 (por remissão); art. 338 (reingresso de estrangeiro expulso).
@@ -209,6 +216,7 @@ Remissões: Tema 1.169 do STF, HC 96.007, AgRg no HC 920.735 e AgRg no HC 863.52
 - Decreto-Lei 3.688/1941 (LCP): art. 2º.
 - Lei 9.455/1997 (Tortura): art. 2º. Lei 9.474/1997 (Refúgio). Lei 9.099/1995: art. 63. Lei 8.906/1994: art. 7º, § 2º.
 - Convenção de Viena sobre Relações Diplomáticas (Decreto 56.435/1965): arts. 9º, 29, 31, 32 e 37. Convenção de Viena sobre Relações Consulares (Decreto 61.078/1967): arts. 41 e 43. Estatuto de Roma (Decreto 4.388/2002): art. 102.
+
 
 ## 04.11 Julgados, temas e súmulas do capítulo
 
@@ -257,6 +265,7 @@ Remissões a outros capítulos: Súmula 611 do STF, Tema 191 e Súmula 501 do ST
 | Penas da PJ | Multa, restritivas (suspensão, interdição, proibição de contratar até 10 anos), prestação de serviços, liquidação forçada | Sem pena privativa nem regime | Lei 9.605, arts. 18, 21 a 24 |
 | Incorporação da PJ | Extingue a punibilidade (analogia ao art. 107, I); não transmite a pena à incorporadora | Efeitos civis e reparação transmitem-se | REsp 1.977.172 STJ; CF, art. 5º, XLV |
 
+
 ## 05.8 Artigos de lei incidentes
 
 - Constituição Federal: arts. 5º, XLV e XLVI; 20, III; 109, IV; 173, § 5º; 225, § 3º.
@@ -272,6 +281,7 @@ Remissões a outros capítulos: Súmula 611 do STF, Tema 191 e Súmula 501 do ST
 - Lei 4.737/1965 (Código Eleitoral): art. 309.
 - Lei 15.358/2026: arts. 10 e 11 (medidas contra a pessoa jurídica, por remissão).
 - Código Civil: art. 51.
+
 
 ## 05.9 Julgados, temas e súmulas do capítulo
 
@@ -302,6 +312,7 @@ Remissões a outros capítulos: Súmula 96 do STJ (Cap. 29); Súmula 500 do STJ 
 | Omissivo impróprio | Garantidor responde pelo resultado | Requisitos: situação típica, garantidor, poder agir, evitabilidade, dolo ou culpa; admite tentativa e culpa; pena igual à do comissivo | Art. 13, § 2º |
 | Garantidor | Lei (a), assunção (b), ingerência (c) | Parentesco entre irmãos não basta para a alínea a; assunção é fática; aumento do art. 226, II, para a mãe garantidora é *bis in idem* | HC 603.195/PR; HC 683.176 |
 
+
 ## 06.10 Artigos de lei incidentes
 
 - Código Penal: arts. 4º e 6º (tempo e lugar do crime, por remissão); art. 13, *caput*, §§ 1º e 2º; art. 14, II, e parágrafo único (tentativa, por remissão); art. 15 (desistência voluntária, por remissão); arts. 18, 19, 20 e 22 (dolo, culpa, preterdolo, erro de tipo e coação moral, por remissão); art. 24, § 1º; art. 121, § 3º; art. 121-A (feminicídio, Lei 14.994/2024); art. 129, § 3º; art. 135; art. 168-A; art. 169, parágrafo único, II; art. 217-A c/c art. 226, II; art. 244; art. 269.
@@ -309,6 +320,7 @@ Remissões a outros capítulos: Súmula 96 do STJ (Cap. 29); Súmula 500 do STJ 
 - Código Civil: art. 403 (causalidade no cível, para contraste); art. 1.566, III; art. 1.634.
 - ECA (Lei 8.069/1990): art. 22.
 - Código de Trânsito Brasileiro (Lei 9.503/1997): arts. 302 e 304 (por remissão).
+
 
 ## 06.11 Julgados, temas e súmulas do capítulo
 
@@ -346,6 +358,7 @@ Remissões: princípio da confiança na culpa e erro sobre o nexo causal (Cap. 7
 | Resultado diverso | Culpa pelo resultado diverso, se previsto | Ambos os resultados: concurso formal; pessoa → coisa: tentativa contra a pessoa | Art. 74 |
 | Erro sobre o nexo e dolo geral | Responde pelo crime doloso consumado | Qualificadora do meio depende do meio efetivo | Doutrina |
 
+
 ## 07.9 Artigos de lei incidentes
 
 - Código Penal: arts. 13, § 2º; 14, II, e parágrafo único; 17; 18; 19; 20, caput e §§ 1º a 3º; 21; 29; 61, II, "e"; 70; 73; 74; 121, § 2º, II e III, §§ 3º, 4º e 5º; 127; 129, §§ 3º, 3º-A, 6º e 9º; 155; 163, parágrafo único, III; 168-A; 180, caput e § 3º; 273, § 1º; 319.
@@ -353,6 +366,7 @@ Remissões: princípio da confiança na culpa e erro sobre o nexo causal (Cap. 7
 - Código de Trânsito Brasileiro: arts. 302, 303, 305, 308, § 2º, e 309.
 - Lei 6.766/1979: art. 50.
 - Lei 15.358/2026: inclusão do art. 129, § 3º-A, do CP.
+
 
 ## 07.10 Julgados, temas e súmulas do capítulo
 
@@ -397,6 +411,7 @@ Remissões: insignificância (Cap. 2); imputação objetiva e omissão, Info Ext
 | Delito putativo | Crime só na imaginação do agente | Por erro de proibição, de tipo ou por obra do agente provocador | Doutrina; Súmula 145 do STF |
 | Flagrante preparado | Indução + impossibilidade de consumação: não há crime | Esperado e diferido são válidos; forjado não é crime do preso; agente disfarçado é crime autônomo; crime permanente preexistente subsiste | Súmula 145 do STF; Lei 11.343, art. 33, § 1º, IV; Lei 12.850, art. 8º |
 
+
 ## 08.9 Artigos de lei incidentes
 
 - Código Penal: art. 11 (desprezo das frações de dia); 14 (consumação e tentativa); 15 (desistência voluntária e arrependimento eficaz); 16 (arrependimento posterior); 17 (crime impossível); 18, I (dolo eventual); 20, § 1º (culpa imprópria); 30 (comunicabilidade); 65, III, b (atenuante da reparação); 111, I a III (termo inicial da prescrição); 155, § 4º, I; 171, § 2º, VI, e § 5º; 288; 291; 312, § 3º; 317, § 1º; 352.
@@ -410,6 +425,7 @@ Remissões: insignificância (Cap. 2); imputação objetiva e omissão, Info Ext
 - Lei 13.260/2016: art. 5º.
 - Lei 9.099/1995: art. 74, parágrafo único.
 - Lei 10.684/2003: art. 9º.
+
 
 ## 08.10 Julgados, temas e súmulas do capítulo
 
@@ -461,6 +477,7 @@ Remissões a outros capítulos: Súmula 711 do STF (Cap. 3); Súmula 96 do STJ, 
 | Efeito civil | Coisa julgada no cível quanto à justificante real | Terceiro inocente e estado de necessidade agressivo: indenização; putativas, dúvida e quesito genérico: sem vinculação | Art. 65 CPP; arts. 188, 929 e 930 CC |
 | Medidas cautelares | Preventiva vedada; liberdade provisória no flagrante | | Arts. 310, § 1º, e 314 do CPP |
 
+
 ## 09.12 Artigos de lei incidentes
 
 - Código Penal: arts. 20, § 1º (remissão); 21 (remissão); 22 (remissão); 23; 24; 25; 73; 121, § 1º e § 3º; 122; 128; 129, § 1º e § 4º; 136; 142; 146, § 3º; 150, § 3º; 163; 329; 345.
@@ -470,6 +487,7 @@ Remissões a outros capítulos: Súmula 711 do STF (Cap. 3); Súmula 96 do STJ, 
 - Código Penal Militar: arts. 39; 43; 45, parágrafo único.
 - Constituição Federal: arts. 1º, III; 5º, caput; 144.
 - Leis especiais: Lei 13.060/2014, art. 2º, parágrafo único; Decreto 12.341/2024; Lei 9.434/1997, art. 9º; Lei 9.263/1996, art. 10 (Lei 14.443/2022); ECA, art. 18-A (Lei 13.010/2014); Lei 9.099/1995, art. 89; Lei 13.964/2019 (art. 25, parágrafo único, do CP).
+
 
 ## 09.13 Julgados, temas e súmulas do capítulo
 
@@ -509,6 +527,7 @@ Remissões a outros capítulos: Súmula 593 do STJ (Cap. 31); Súmula 542 do STJ
 | Supralegais | Admitidas: estado de necessidade exculpante, crise financeira comprovada em crimes tributários, cláusula de consciência, desobediência civil, excesso exculpante | Ônus da defesa; furto famélico é estado de necessidade | JT 176, tese 12; AgRg no AREsp 299.662 |
 | Dispositivo absolutório | Dirimentes e putativas: art. 386, VI, do CPP | Erro de tipo inevitável: art. 386, III; inimputável: + medida de segurança | CPP, art. 386 |
 
+
 ## 10.8 Artigos de lei incidentes
 
 - Constituição Federal: art. 228.
@@ -519,6 +538,7 @@ Remissões a outros capítulos: Súmula 593 do STJ (Cap. 31); Súmula 542 do STJ
 - Lei 8.137/1990: art. 2º, II (inexigibilidade por crise financeira).
 - Decreto-Lei 3.688/1941 (LCP): art. 8º.
 - Lei 8.069/1990 (ECA): arts. 103 e 104.
+
 
 ## 10.9 Julgados, temas e súmulas do capítulo
 
@@ -556,12 +576,14 @@ Remissões a outros capítulos: Súmula 74 do STJ (Cap. 14); Súmula 593 e Tema 
 | Comunicabilidade | Pessoais não se comunicam; elementares e objetivas sim, se conhecidas | Feminicídio: comunicação expressa; paga não se comunica automaticamente ao mandante; art. 327, § 2º não se comunica | Art. 30; art. 121-A, § 3º |
 | Contratar crime a associação criminosa | Crime autônomo além do crime contratado | Lei 15.245/2025 | Art. 288, § 2º |
 
+
 ## 11.11 Artigos de lei incidentes
 
 - Código Penal: arts. 13, § 2º; 19; 20, § 2º; 21; 22; 26; 29, caput, §§ 1º e 2º; 30; 31; 62; 65, III, c e e; 117, § 1º; 121, §§ 1º e 2º, I; 121-A, §§ 1º e 3º; 122; 123; 124; 126; 180, § 1º; 235, caput e § 1º; 286; 288, § 2º; 312; 317; 318; 327, § 2º; 333; 342; 343.
 - Código de Processo Penal: arts. 41; 77, I; 79; 80; 580.
 - Lei 9.455/1997: art. 1º, § 2º.
 - Lei 9.605/1998: art. 3º, parágrafo único.
+
 
 ## 11.12 Julgados, temas e súmulas do capítulo
 
@@ -613,6 +635,7 @@ Remissões a outros capítulos: Súmula 231 do STJ (Cap. 14); agravantes do art.
 | Multa no concurso | aplicada distinta e integralmente (soma) | crime continuado: Cap. 16 | art. 72 CP |
 | Inadimplemento e extinção | hipossuficiência não obsta extinção | Tema 931: basta alegar; ADI 7.032: comprovar impossibilidade, ainda que parcelada | Tema 931 STJ; ADI 7.032 |
 
+
 ## 12.9 Artigos de lei incidentes
 
 - Constituição Federal: art. 5º, XLV, XLVI, XLVII, XLVIII e L; art. 15, III.
@@ -623,6 +646,7 @@ Remissões a outros capítulos: Súmula 231 do STJ (Cap. 14); agravantes do art.
 - Lei 11.340/2006: art. 17.
 - Código de Processo Penal: art. 322.
 - Lei 9.268/1996 e Lei 13.964/2019 (redações do art. 51 do CP); Lei 9.714/1998 (restritivas de direitos); Lei 12.550/2011 (art. 47, V).
+
 
 ## 12.10 Julgados, temas e súmulas do capítulo
 
@@ -672,6 +696,7 @@ Remissões: Súmulas 718 e 719 do STF, Súmulas 269, 440 e 493 do STJ, Súmula 5
 | Frações de dia | Desprezam-se | — | Art. 11 CP |
 | Lei de Drogas | Natureza e quantidade da droga, personalidade e conduta social preponderam | Ver Cap. 37 | Art. 42 da Lei 11.343/2006 |
 
+
 ## 13.10 Artigos de lei incidentes
 
 - Constituição Federal: art. 5º, XLVI (individualização), XLVII, "b" (vedação de penas perpétuas, fundamento do "esquecimento" de antecedentes) e LVII (presunção de inocência); art. 93, IX (fundamentação).
@@ -681,6 +706,7 @@ Remissões: Súmulas 718 e 719 do STF, Súmulas 269, 440 e 493 do STJ, Súmula 5
 - Lei 11.343/2006: art. 42 (preponderância na fixação da pena — Cap. 37).
 - Lei 9.605/1998: art. 6º (critérios próprios — Cap. 49).
 - Lei 7.210/1984 (LEP): arts. 5º a 9º (individualização executória — Cap. 23).
+
 
 ## 13.11 Julgados, temas e súmulas do capítulo
 
@@ -743,6 +769,7 @@ Remissões a outros capítulos: Súmulas 231, 241, 545, 630 e 636 do STJ, Súmul
 | Reincidência x confissão | Compensação integral, específica ou não | Multirreincidência: compensação proporcional; STF tem precedentes pela prevalência da reincidência | Tema 585 STJ; JT ed. 29, teses 9 e 10 |
 | Fases distintas | Não se compensam | — | JT ed. 29, tese 2 |
 
+
 ## 14.11 Artigos de lei incidentes
 
 - Constituição Federal: art. 5º, XL (irretroatividade da lei mais gravosa), XLVI (individualização) e LVII (presunção de inocência); art. 227, § 6º (igualdade dos filhos, parentesco por adoção).
@@ -756,6 +783,7 @@ Remissões a outros capítulos: Súmulas 231, 241, 545, 630 e 636 do STJ, Súmul
 - Lei 15.159/2025 (alínea "m" do art. 61, II) e Lei 15.160/2025 (arts. 65, I, e 115).
 - Lei 9.605/1998: arts. 14 e 15 (atenuantes e agravantes próprias — Cap. 49); Lei 9.503/1997 (CTB): art. 298 (agravantes próprias — Cap. 43).
 - Lei 7.210/1984 (LEP): art. 112 (progressão e reincidência — Cap. 24).
+
 
 ## 14.12 Julgados, temas e súmulas do capítulo
 
@@ -813,11 +841,13 @@ Remissões a outros capítulos: Tema 190 do STJ, Tema 150 do STF, Súmula 444 do
 | Valor do dia-multa | Mínimo, salvo dado econômico concreto | Pobreza não isenta da multa | Art. 60 CP; ADI 7.032 (Cap. 12) |
 | Reflexos processuais | Majorante descrita na denúncia; no Júri, quesitada; fração pelo juiz | Prescrição em abstrato: aumento máximo, diminuição mínima | Arts. 41, 384 e 483 CPP; Cap. 22 |
 
+
 ## 15.10 Artigos de lei incidentes
 
 - Código Penal: art. 11 (frações de dia); art. 14, II e parágrafo único (tentativa); art. 16 (arrependimento posterior); art. 21 (erro de proibição evitável); art. 24, § 2º; art. 26, parágrafo único (semi-imputabilidade); art. 28, § 2º; art. 29, §§ 1º e 2º; arts. 49 e 58 a 60 (multa); arts. 61 e 65 (por remissão); art. 68, *caput* e parágrafo único; arts. 70 a 72 (por remissão); art. 121, §§ 1º, 2º e 4º; art. 155, §§ 1º, 2º e 4º; art. 157, §§ 2º, 2º-A e 2º-B; art. 171, § 3º; art. 226 e art. 327, § 2º (por remissão).
 - Código de Processo Penal: art. 41 (descrição das circunstâncias na denúncia); art. 384 (*mutatio libelli*); art. 387 (sentença condenatória); art. 483, IV e V (quesitos sobre causas de diminuição e de aumento no Júri); art. 28-A, § 1º (ANPP e causas de aumento e de diminuição).
 - Lei 11.343/2006: art. 33, *caput* e § 4º; art. 40; art. 41; art. 42; art. 43 (por remissão ao Cap. 37).
+
 
 ## 15.11 Julgados, temas e súmulas do capítulo
 
@@ -856,6 +886,7 @@ Remissões a outros capítulos: Tema 190 do STJ, Tema 1.318 do STJ, Tema 1.110 d
 | Nova unificação | Fato posterior ao início do cumprimento: despreza-se o cumprido | Fato anterior: entra na soma, sem reiniciar o teto | Art. 75, § 2º |
 | Benefícios da execução | Calculados sobre a pena total, não sobre a unificada | Vale para o limite atual de 40 anos | Súmula 715 do STF |
 
+
 ## 16.12 Artigos de lei incidentes
 
 - Código Penal: arts. 11 (frações de dia), 13, § 1º, 20, § 3º, 44, 69, 70, 71, 72, 73, 74, 75, 76, 109, 119, 129, § 6º, 155, 157, 168-A, 217-A, 337-A.
@@ -864,6 +895,7 @@ Remissões a outros capítulos: Tema 190 do STJ, Tema 1.318 do STJ, Tema 1.110 d
 - Lei 9.099/1995: arts. 61, 76 e 89 (por remissão).
 - Constituição Federal: art. 5º, XLVII, b.
 - Lei 13.964/2019 (nova redação do art. 75).
+
 
 ## 16.13 Julgados, temas e súmulas do capítulo
 
@@ -922,6 +954,7 @@ Remissões a outros capítulos: Súmula 711 do STF (Cap. 3); Súmula 444 do STJ 
 | *Sursis*: extinção | expirado o prazo sem revogação, extingue-se a pena | condenação subsiste; período de prova conta para o depurador | art. 82; art. 64, I |
 | *Sursis* x SCP | suspende a execução, gera reincidência | SCP suspende o processo e extingue a punibilidade | art. 77 CP; art. 89 Lei 9.099 |
 
+
 ## 17.9 Artigos de lei incidentes
 
 - Código Penal: arts. 33, 42, 44, 54, 59, III e IV, 64, I, 69, §§ 1º e 2º, 76, 77 a 82.
@@ -933,6 +966,7 @@ Remissões a outros capítulos: Súmula 711 do STF (Cap. 3); Súmula 444 do STJ 
 - Lei 9.455/1997: art. 1º, § 7º. Lei 12.850/2013: art. 2º, § 8º.
 - Lei 9.099/1995: art. 89 (comparação). Decreto-Lei 3.688/1941: art. 11. Lei 9.605/1998: arts. 16 e 17.
 - Constituição Federal: art. 5º, XLVI; art. 52, X.
+
 
 ## 17.10 Julgados, temas e súmulas do capítulo
 
@@ -976,6 +1010,7 @@ Remissões a outros capítulos: HC 123.108, 123.533 e 123.734 (Cap. 2); Súmulas
 | Reabilitação: efeitos | sigilo e suspensão dos efeitos do art. 92 | sem reintegração no cargo e no poder familiar sobre a vítima; não afasta reincidência | CP, art. 93; CPP, art. 748 |
 | Reabilitação: revogação e competência | de ofício ou a pedido do MP; juízo da condenação | condenação como reincidente a pena que não seja só multa; apelação | CP, art. 95; CPP, art. 743 |
 
+
 ## 18.12 Artigos de lei incidentes
 
 - Constituição Federal: arts. 5º, XLV; 15, III; 27, § 1º; 41, § 1º, I; 55, VI, e § 2º; 142, § 3º, VI e VII; 243, parágrafo único.
@@ -985,6 +1020,7 @@ Remissões a outros capítulos: HC 123.108, 123.533 e 123.734 (Cap. 2); Súmulas
 - Código de Processo Civil: arts. 315; 515, VI, e § 1º.
 - Lei de Execução Penal: art. 202.
 - Leis especiais: Lei 9.455/1997, art. 1º, § 5º; Lei 12.850/2013, art. 2º, § 6º; Lei 9.613/1998, art. 7º; Lei 7.716/1989, arts. 16 e 18; Lei 13.869/2019, art. 4º; Lei 11.101/2005, art. 181; Lei 11.343/2006, arts. 63 a 63-F; Lei 9.099/1995, art. 76; LC 64/1990, art. 1º, I, "e"; Lei 8.112/1990, arts. 126 e 134; Leis 13.964/2019, 14.994/2024, 15.358/2026 e 15.487/2026 (alterações).
+
 
 ## 18.13 Julgados, temas e súmulas do capítulo
 
@@ -1025,6 +1061,7 @@ Remissões a outros capítulos: Tema 983 do STJ (REsp 1.643.051) — dano moral 
 | Resolução CNJ 487/2023 | ambulatorial na RAPS, PTS, internação excepcional em leito de saúde; fechamento dos HCTPs | prazos de 9 e 15 meses (Res. 572/2024), prorrogáveis; ADIs 7.389, 7.454, 7.566 e ADPF 1.076 pendentes | Resolução CNJ 487/2023 |
 | Direitos do internado | direitos do preso no que couber; médico de confiança | divergência médica resolvida pelo juiz; sem regime disciplinar | arts. 3º, 42, 43 e 44 da LEP |
 
+
 ## 19.13 Artigos de lei incidentes
 
 - Constituição Federal: art. 5º, XXXIX, XL e XLVII, "b"; art. 5º, § 3º; art. 84, XII.
@@ -1034,6 +1071,7 @@ Remissões a outros capítulos: Tema 983 do STJ (REsp 1.643.051) — dano moral 
 - Lei 10.216/2001: arts. 2º, 4º, 5º, 6º, 8º e 9º.
 - Lei 13.146/2015 (Estatuto da Pessoa com Deficiência) e Convenção sobre os Direitos das Pessoas com Deficiência (Decreto 6.949/2009), art. 14.
 - Resolução CNJ 487/2023 (art. 18 e art. 18-A, este incluído pela Resolução CNJ 572/2024).
+
 
 ## 19.14 Julgados, temas e súmulas do capítulo
 
@@ -1078,12 +1116,14 @@ Remissões a outros capítulos: inimputabilidade, semi-imputabilidade, incidente
 | Condição de procedibilidade | condiciona apenas a ação | representação, requisição; art. 236, par. único | art. 395, II, CPP |
 | Escusa absolutória | causa pessoal de exclusão da pena, contemporânea ao fato | não se comunica; crime e dever de indenizar subsistem | arts. 181 e 348, § 2º; art. 183 |
 
+
 ## 20.15 Artigos de lei incidentes
 
 - Constituição Federal: art. 5º, XLV e LIX; art. 127, § 1º; art. 129, I; art. 226, § 3º.
 - Código Penal: arts. 7º, §§ 2º e 3º, 10, 100 a 107, 140, §§ 2º e 3º, 141, I, 145, 147, §§ 1º e 2º, 147-A, § 3º, 151, § 4º, 154-B, 156, § 1º, 161, § 3º, 167, 171 (§ 5º revogado), 179, parágrafo único, 181 a 183, 225, 236, 345, parágrafo único, 348, § 2º.
 - Código de Processo Penal: arts. 5º, § 4º, 24 a 62, 395, II, 520, 529, 569.
 - Leis especiais: Lei 9.099/1995, arts. 74, 75, 88; Lei 11.340/2006, arts. 7º, IV, 16, 16-A e 41; Lei 9.503/1997 (CTB), art. 291, § 1º; Lei 11.101/2005, arts. 180 e 182; Lei 8.137/1990, art. 1º; Lei 13.718/2018; Lei 14.994/2024; Lei 15.397/2026, art. 3º; Lei 15.438/2026 (art. 103, parágrafo único, do CP; art. 16-A da Lei 11.340/2006; art. 38, § 2º, do CPP).
+
 
 ## 20.16 Julgados, temas e súmulas do capítulo
 
@@ -1127,6 +1167,7 @@ Remissões a outros capítulos: retroatividade da representação no estelionato
 | Perdão judicial | só nos casos legais; sentença declaratória | sem reincidência, sem interrupção da prescrição, sem título civil; culposo exige vínculo afetivo ou dano físico | arts. 107, IX, 120 e 121, § 5º; Súmula 18 do STJ |
 | Casamento e outras causas | incisos VII e VIII revogados (ultratividade antes de 29/3/2005) | peculato culposo, tributo, *sursis*, livramento, ANPP; furto: reparação não extingue | Lei 11.106/2005; art. 312, § 3º |
 
+
 ## 21.12 Artigos de lei incidentes
 
 - Constituição Federal: art. 5º, XL, XLIII e XLV; art. 48, VIII; art. 84, XII e parágrafo único.
@@ -1143,6 +1184,7 @@ Remissões a outros capítulos: retroatividade da representação no estelionato
 - Lei 15.358/2026 (vedação de anistia, graça e indulto aos crimes que tipifica).
 - Lei 11.106/2005 (revogação dos incisos VII e VIII do art. 107).
 - Decretos de indulto: Decreto 12.338/2024 e Decreto 12.790/2025.
+
 
 ## 21.13 Julgados, temas e súmulas do capítulo
 
@@ -1187,6 +1229,7 @@ Remissões a outros capítulos: Tema 1.400 do STF (RE 1.542.482) — indulto ao 
 | Multa | 2 anos se única cominada ou aplicada; senão, o prazo da PPL | execução: prazo do CP, causas do CTN (art. 174) e da LEF | art. 114; art. 51; Tema 1.405 do STJ |
 | PRD | mesmos prazos da PPL substituída | sem prazo próprio para prestação pecuniária | art. 109, parágrafo único |
 
+
 ## 22.18 Artigos de lei incidentes
 
 - Constituição Federal: art. 5º, XL, XLII, XLIII, XLIV e LXXVIII; art. 53, § 5º.
@@ -1200,6 +1243,7 @@ Remissões a outros capítulos: Tema 1.400 do STF (RE 1.542.482) — indulto ao 
 - Lei 7.210/1984 (LEP): arts. 66, II, e 197.
 - Lei 6.830/1980 (LEF): art. 40; CTN: art. 174.
 - Leis de alteração: Lei 12.234/2010; Lei 12.650/2012; Lei 13.964/2019; Lei 14.344/2022; Lei 15.160/2025.
+
 
 ## 22.19 Julgados, temas e súmulas do capítulo
 
@@ -1248,6 +1292,7 @@ Remissões a outros capítulos: Súmula 497 do STF — prescrição no continuad
 | Órgãos | oito órgãos do art. 61 | só o juiz interdita; juiz e MP visitam mensalmente; Conselho Penitenciário opina em indulto e comutação | arts. 61 a 81-B |
 | Estabelecimentos | penitenciária (fechado), colônia (semiaberto), albergado (aberto e limitação de fim de semana), centro de observação, HCTP, cadeia (provisórios) | berçário até no mínimo 6 meses; creche de 6 meses a 7 anos; cela de 6 m² | arts. 82 a 104 |
 
+
 ## 23.13 Artigos de lei incidentes
 
 - Constituição Federal: art. 5º, XLV, XLVI, XLVII, XLVIII, XLIX e L; art. 15, III; art. 24, I.
@@ -1256,6 +1301,7 @@ Remissões a outros capítulos: Súmula 497 do STF — prescrição no continuad
 - Código de Processo Penal: art. 292, parágrafo único.
 - Lei 11.671/2008 (sistema penitenciário federal).
 - Leis de alteração: 13.964/2019; 14.843/2024; 14.994/2024; 15.295/2025; 15.358/2026; 15.407/2026; 15.410/2026.
+
 
 ## 23.14 Julgados, temas e súmulas do capítulo
 
@@ -1306,6 +1352,7 @@ Remissões a outros capítulos: Tema 1.383 do STJ — penhora de até 1/4 do pec
 | Excesso ou desvio | ato além da sentença, lei ou regulamento | MP, Conselho Penitenciário, sentenciado, demais órgãos | arts. 185 e 186 |
 | Agravo em execução | 5 dias, rito do RESE, sem efeito suspensivo | retratação; MS do MP não dá efeito suspensivo | art. 197; Súmula 700 do STF; Súmula 604 do STJ |
 
+
 ## 24.13 Artigos de lei incidentes
 
 - Lei 7.210/1984 (LEP): arts. 61, VIII; 65 e 66; 105 a 146-E (guia, regimes, progressão, regressão, aberto, saídas, remição, livramento, monitoração); 147 e 148; 179 a 197 (conversões, excesso ou desvio, anistia e indulto, procedimento e agravo).
@@ -1315,6 +1362,7 @@ Remissões a outros capítulos: Tema 1.383 do STJ — penhora de até 1/4 do pec
 - Leis de alteração da execução: 11.464/2007, 12.258/2010, 12.313/2010, 12.433/2011, 13.769/2018, 13.964/2019, 14.843/2024, 14.994/2024, 15.280/2025, 15.358/2026 e 15.402/2026.
 - Lei 11.343/2006: art. 33, § 4º, e art. 35 (reflexos na progressão). Lei 12.850/2013: art. 2º, § 9º.
 - Resolução CNJ 391/2021 (remição por práticas educativas, leitura e exames).
+
 
 ## 24.14 Julgados, temas e súmulas do capítulo
 
@@ -1391,6 +1439,7 @@ O quadro comparativo dos quatro institutos está em 25.1; a tabela abaixo cobre 
 | ANPP: efeitos | cumprido, extinção; sem antecedentes; prescrição suspensa | descumprido, rescisão com contraditório e denúncia | §§ 10 a 13; art. 116, IV, CP |
 | ANPP no tempo | retroage a processos em curso, até o trânsito em julgado, mesmo sem confissão anterior | processos novos: manifestação antes do recebimento da denúncia; JT 185, tese 1, superada | STF, HC 185.913; Tema 1.098 STJ |
 
+
 ## 25.9 Artigos de lei incidentes
 
 - Constituição Federal: art. 5º, XL; art. 98, I, e § 1º.
@@ -1404,6 +1453,7 @@ O quadro comparativo dos quatro institutos está em 25.1; a tabela abaixo cobre 
 - Lei 9.503/1997 (CTB): art. 291, §§ 1º e 2º; arts. 302 e 306.
 - Lei 9.605/1998: arts. 27 e 28.
 - Leis de alteração: Lei 11.313/2006; Lei 13.603/2018; Lei 13.964/2019; Lei 14.994/2024; Lei 15.163/2025 (art. 94 do Estatuto da Pessoa Idosa); Lei 15.397/2026 (penas do furto e do roubo usadas nos exemplos).
+
 
 ## 25.10 Julgados, temas e súmulas do capítulo
 
@@ -1462,6 +1512,7 @@ Remissões a outros capítulos: ADI 1.719 e Súmula 17 do STJ (Cap. 3); Súmula 
 | Direitos políticos | Suspensão automática; comunicar ao TRE | Inclui pena substituída | Art. 15, III, CF; Tema 370 do STF (Cap. 18) |
 | Prescrição retroativa | Não se declara na sentença condenatória | Determinar conclusão após o trânsito para a acusação | Art. 110, § 1º, CP (Cap. 22) |
 
+
 ## 26.15 Artigos de lei incidentes
 
 - Constituição Federal: art. 5º, XI, XLVI, LV e LVI; art. 15, III; art. 93, IX.
@@ -1470,6 +1521,7 @@ Remissões a outros capítulos: ADI 1.719 e Súmula 17 do STJ (Cap. 3); Súmula 
 - Leis especiais: Lei 12.850/2013, art. 4º, § 16; Lei 10.826/2003, art. 25; Lei 8.072/1990, art. 1º, II, "b"; Lei 13.869/2019, art. 4º, I; LEP, art. 105.
 - Código Civil: arts. 188, 928 a 930, 935 e 942; CPC: art. 98, § 3º.
 - Resolução CNJ 75/2009: arts. 48, 49, 51, 53 e 54; Resolução CNJ 484/2022.
+
 
 ## 26.16 Julgados, temas e súmulas do capítulo
 
@@ -1523,6 +1575,7 @@ Remissões a outros capítulos: Súmulas 231, 241, 545 e 74 e Temas 585 e 1.194 
 | Anencefalia | Fato atípico; sem autorização judicial | Não se estende a Síndrome de Edwards sem prova de inviabilidade | ADPF 54; HC 932.495 |
 | Sentença no Júri | Agravantes só se debatidas; execução imediata | Apelação contra absolvição genérica com limites | CPP, art. 492; Temas 1.068 e 1.087 do STF |
 
+
 ## 27.15 Artigos de lei incidentes
 
 - Constituição Federal: art. 5º, XXXVIII, "d" (Júri), e XL (irretroatividade); art. 109, IV, IX e XI.
@@ -1534,6 +1587,7 @@ Remissões a outros capítulos: Súmulas 231, 241, 545 e 74 e Temas 585 e 1.194 
 - Lei 15.358/2026: art. 2º, §§ 2º e 8º; Lei 12.694/2012, art. 1º-A.
 - Lei 9.099/1995: arts. 60, parágrafo único, 61 e 89.
 - Leis de alteração a conhecer: 13.104/2015, 13.142/2015, 13.964/2019, 13.968/2019, 14.344/2022, 14.811/2024, 14.994/2024, 15.134/2025, 15.159/2025, 15.358/2026 e 15.384/2026.
+
 
 ## 27.16 Julgados, temas e súmulas do capítulo
 
@@ -1581,6 +1635,7 @@ Remissões a outros capítulos: STF, ADPF 779 — legítima defesa da honra (Cap
 | Domicílio | casa = compartimento habitado ou não aberto ao público | diligência de dia; flagrante a qualquer hora | art. 150 |
 | Invasão de dispositivo | formal; com ou sem rede e senha | § 2º prejuízo econômico; § 3º qualificada; § 5º taxativo; condicionada, salvo Administração | arts. 154-A e 154-B |
 
+
 ## 28.7 Artigos de lei incidentes
 
 - Código Penal: arts. 129 a 154-B; correlatos: arts. 4º, 13, § 2º, 19, 25, 28, I, 61, II, "f", 62, IV, 68, parágrafo único, 71, 107, V e VI, 111, III, 121, §§ 4º a 6º, 121-A, § 1º, 159 e 168.
@@ -1590,6 +1645,7 @@ Remissões a outros capítulos: STF, ADPF 779 — legítima defesa da honra (Cap
 - Lei 8.906/1994: art. 7º, § 2º. Lei 6.538/1978: art. 40. Lei 9.296/1996: art. 10. CTB: arts. 302, § 1º, III, 303 e 304.
 - Constituição Federal: arts. 5º, XI, 27, § 1º, 53 e 109, VI.
 - Leis de alteração a conhecer: 12.653/2012, 12.737/2012, 13.142/2015, 13.344/2016, 13.964/2019, 14.132/2021, 14.155/2021, 14.188/2021, 14.344/2022, 14.532/2023, 14.811/2024, 14.994/2024, 15.123/2025, 15.134/2025, 15.163/2025 (arts. 133 e 136), 15.159/2025, 15.358/2026 e 15.455/2026.
+
 
 ## 28.8 Julgados, temas e súmulas do capítulo
 
@@ -1645,6 +1701,7 @@ Remissões a outros capítulos: Tema 1.197 e Tema 1.333 do STJ (Cap. 14); AgRg n
 | Ação penal no dano | Privada: simples, inciso IV e art. 164 | Incisos I a III: pública incondicionada | Art. 167 |
 | Facções (2026) | Furto § 9º; roubo §§ 4º e 5º; extorsão § 4º; art. 159, § 5º | Conceitos no Cap. 46 | Lei 15.358/2026 |
 
+
 ## 29.10 Artigos de lei incidentes
 
 - Código Penal: arts. 155 (caput, §§ 1º a 12), 156, 157 (caput, §§ 1º, 1º-A, 2º, 2º-A, 2º-B, 3º, 4º e 5º), 158 (§§ 1º a 4º), 159 (§§ 1º a 5º), 160, 161, 162, 163, 164, 165, 166 e 167; arts. 14, 24, 68, parágrafo único, 70 e 73 (remissões); art. 345 (exercício arbitrário).
@@ -1653,6 +1710,7 @@ Remissões a outros capítulos: Tema 1.197 e Tema 1.333 do STJ (Cap. 14); AgRg n
 - Código de Processo Penal: arts. 158 e 167 (perícia das qualificadoras), 28-A (ANPP), 303 (flagrante no crime permanente).
 - Lei 9.605/1998: arts. 62, 63 e 65 (dano a bens protegidos e pichação).
 - Lei 4.947/1966, art. 20; Lei 8.176/1991, art. 2º; Lei 1.521/1951, art. 4º (remissões).
+
 
 ## 29.11 Julgados, temas e súmulas do capítulo
 
@@ -1723,6 +1781,7 @@ Remissões: Súmula 567 e Tema 924 do STJ, AgRg no AgRg no AREsp 3.063.890, AgRg
 | Imunidade relativa | representação: separado judicialmente, irmão, tio ou sobrinho com coabitação | sem coabitação: incondicionada | art. 182 |
 | Violência doméstica | STJ tradicional: escusa subsiste; FGV 2026: afastada por convencionalidade | ADPFs 1.185 e 1.241 pendentes | Q3996905 |
 
+
 ## 30.9 Artigos de lei incidentes
 
 - Código Penal: arts. 155, § 2º (por remissão), 168, 168-A (inclusive §§ 5º e 6º, LC 225/2026), 169, 170, 171 (caput, §§ 1º a 4º; § 5º revogado), 172 a 179, 180 (caput, §§ 1º a 4º, 6º a 8º; § 5º revogado), 180-A, 181, 182, 183, 183-A; arts. 16, 17, 61, II, "h", 65, III, "b" e 108 (por remissão).
@@ -1730,6 +1789,7 @@ Remissões: Súmula 567 e Tema 924 do STJ, AgRg no AgRg no AREsp 3.063.890, AgRg
 - Leis especiais: Lei 10.684/2003, art. 9º; Lei 9.430/1996, art. 83 (redação da Lei 12.382/2011); Lei 11.941/2009, arts. 68 e 69; Lei 7.492/1986, art. 19 (remissão); Lei 10.741/2003 (Estatuto da Pessoa Idosa), arts. 102 e 106 (remissão); Lei 11.340/2006, art. 7º, IV.
 - Leis de alteração: Lei 13.330/2016; Lei 13.531/2017; Lei 13.606/2018; Lei 13.964/2019; Lei 14.155/2021; Lei 15.181/2025; Lei 15.358/2026; Lei 15.397/2026.
 - Constituição e tratados: art. 5º, XL, e art. 109, I e IV, da CF; Convenção de Belém do Pará (Decreto 1.973/1996).
+
 
 ## 30.10 Julgados, temas e súmulas do capítulo
 
@@ -1777,6 +1837,7 @@ Remissões: Súmula 17 do STJ e HC 179.927 (Cap. 3); Súmula 73 do STJ (Cap. 34)
 | Leis novas | Lei 15.280/2025: penas maiores (8/12/2025); Lei 15.353/2026: § 4º-A e § 5º (8/3/2026) | irretroatividade | art. 5º, XL, CF |
 | Prova | palavra da vítima com especial relevância, se coerente com o conjunto | vedado explorar vida sexual pregressa | JT 151, tese 2; art. 400-A CPP |
 
+
 ## 31.16 Artigos de lei incidentes
 
 - Código Penal: arts. 13, § 2º; 20; 29; 61, II, f, g e h; 68, parágrafo único; 92, II; 100; 111, V; 115; 128, II; 130; 213; 215; 215-A; 216-A; 216-B; 217-A (com §§ 4º-A e 5º); 218; 218-A; 218-B; 218-C; 225; 226; 227 a 230; 232-A; 233; 234; 234-A; 234-B; 338-A; 149-A.
@@ -1785,6 +1846,7 @@ Remissões: Súmula 17 do STJ e HC 179.927 (Cap. 3); Súmula 73 do STJ (Cap. 34)
 - Código de Processo Penal: arts. 28-A; 158 e 167; 400-A; 474-A.
 - Lei 13.431/2017; Lei 13.146/2015, art. 6º; ECA, arts. 240 a 241-E e 244-B.
 - Lei 9.099/1995: arts. 61, 76 e 89; Lei 11.340/2006, art. 41.
+
 
 ## 31.17 Julgados, temas e súmulas do capítulo
 
@@ -1824,6 +1886,7 @@ Remissões a outros capítulos: Súmula 608 do STF, Súmula 670 do STJ e art. 22
 | Abandono material | omitir subsistência, pensão JUDICIAL ou socorro, sem justa causa e com dolo | rol fechado de vítimas (idoso: mais de 60 anos); agravante "f" aplicável; prisão civil é independente | CP, art. 244; Inf. 856 do STJ; CPC, art. 532 |
 | Incapazes | 245 a 249 | lucro ou exterior: ECA; pai destituído responde; restituição sem maus-tratos: perdão | CP, arts. 245 a 249 |
 
+
 ## 32.6 Artigos de lei incidentes
 
 - Constituição Federal: art. 5º, VI, XXVII a XXIX e LXVII; art. 9º; art. 109, VI; art. 208, I; art. 226, § 2º.
@@ -1839,6 +1902,7 @@ Remissões a outros capítulos: Súmula 608 do STF, Súmula 670 do STJ e art. 22
 - Lei 5.478/1968: art. 22.
 - Lei 8.069/1990 (ECA): arts. 19-A, 237, 238 e 239 (remissão).
 - Lei 9.434/1997 (remissão); Lei 11.340/2006, arts. 7º, IV, e 41 (remissão); Lei 7.209/1984, art. 2º.
+
 
 ## 32.7 Julgados, temas e súmulas do capítulo
 
@@ -1871,6 +1935,7 @@ Remissões: Tema 593 do STJ, adequação social e insignificância (Cap. 2); Sú
 | Associação criminosa | 3 ou mais, estáveis, fim de crimes; formal e permanente | Até + 1/2 (arma, criança ou adolescente); § 2º: contratar crime a integrante | Art. 288 |
 | Milícia privada | 4 a 8; crimes do CP; estabilidade | Forma especial de organização criminosa | Art. 288-A; Info 885; Lei 15.358/2026 |
 
+
 ## 33.7 Artigos de lei incidentes
 
 - Código Penal: arts. 3º; 13, § 2º; 19; 29; 61, II, "j"; 68, parágrafo único; 69; 70; 111, III; 121, § 2º, III, e § 6º; 129, § 7º; 155, §§ 4º-A e 8º; 163, parágrafo único, II; 171, § 2º, V; 250 a 259; 260 a 266; 267 a 285; 286 a 288-A; 330.
@@ -1878,6 +1943,7 @@ Remissões: Tema 593 do STJ, adequação social e insignificância (Cap. 2); Sú
 - Lei 15.245/2025 (art. 288, §§ 1º e 2º); Lei 15.397/2026 (art. 266); Lei 15.425/2026 (art. 282); Lei 15.358/2026: arts. 2º, 3º e 4º, parágrafo único.
 - Lei 12.850/2013: arts. 1º, § 1º, e 2º (comparação). Lei 11.343/2006: arts. 33, § 2º, e 35 (comparação). Lei 10.826/2003: art. 16, § 1º, III. Lei 9.605/1998: arts. 32, 41, 54 e 61. Lei 8.137/1990: art. 7º, IX. Lei 12.720/2012. Lei 14.197/2021.
 - CPP: arts. 71, 158, 173 e 303; art. 28-A. Lei 9.099/1995: arts. 61, 76 e 89. CF: art. 5º, IV, VI, IX, XVI e XL; art. 109, IV, V e IX.
+
 
 ## 33.8 Julgados, temas e súmulas do capítulo
 
@@ -1921,6 +1987,7 @@ Remissões a outros capítulos: Tema 1.246 do STF (art. 268, complemento por ent
 | Folha de respostas do Exame de Ordem | Documento público para fins penais | — | Info 877 STJ |
 | Concurso com crime-fim | Falso exaurido é absorvido | Falso com potencialidade residual: concurso | Súmula 17 STJ (Cap. 3) |
 
+
 ## 34.9 Artigos de lei incidentes
 
 - Constituição Federal: arts. 5º, LXIII; 9º; 21, VII; 109, IV, V e X; 164.
@@ -1930,6 +1997,7 @@ Remissões a outros capítulos: Tema 1.246 do STF (art. 268, complemento por ent
 - Lei 9.983/2000 (arts. 297, §§ 3º e 4º, do CP); Lei 11.035/2004 (art. 293, I); Lei 12.550/2011 (art. 311-A e art. 47, V); Lei 12.737/2012 (art. 298, parágrafo único); Lei 14.562/2023 (art. 311).
 - Lei 6.538/1978: art. 39 (selo e peça filatélica).
 - Lei 9.503/1997 (CTB): art. 133.
+
 
 ## 34.10 Julgados, temas e súmulas do capítulo
 
@@ -1984,11 +2052,13 @@ Remissões: Súmula 107 do STJ (Cap. 30); Súmula 17 do STJ, AgRg no AgRg no ARE
 | Defesa preliminar | 15 dias antes do recebimento | Dispensada com inquérito (Súmula 330); nulidade relativa; não para ex-servidor | arts. 513 a 518 do CPP |
 | Finanças públicas | Crimes próprios do ordenador, dolosos, formais | 359-C: dois últimos quadrimestres; 359-G: 180 dias; 359-F omissivo | arts. 359-A a 359-H |
 
+
 ## 35.11 Artigos de lei incidentes
 
 - Código Penal: arts. 11; 16; 22; 29; 30; 33, §§ 2º, 3º e 4º; 59; 61, II, g; 65, III, b; 68, parágrafo único; 92, I, a; 155; 158; 168; 169; 299; 305; 312 a 327; 328; 333; 334; 334-A; 337; 337-G; 337-J; 349-A; 351; 359-A a 359-H.
 - Código de Processo Penal: arts. 28-A; 302; 387, IV; 396-A; 445; 513 a 518.
 - Lei 8.137/1990: art. 3º, II e III. Decreto-Lei 201/1967: art. 1º, II, III, IV e XVI a XXIII. Lei Complementar 101/2000 (LRF): arts. 21 e 42. Lei 10.028/2000. Lei 9.983/2000. Lei 10.763/2003. Lei 11.466/2007. Lei 13.964/2019 (art. 316). Lei 9.099/1995: arts. 61, 76 e 89. LEP: art. 50, VII. Constituição: art. 109, IV.
+
 
 ## 35.12 Julgados, temas e súmulas do capítulo
 
@@ -2038,6 +2108,7 @@ Remissões a outros capítulos: Súmula 599 do STJ, Tema 157 do STJ e insignific
 | Fuga | Promover ou facilitar fuga de outrem | Fuga própria sem violência é atípica; art. 352 é crime de atentado |
 | Estado Democrático de Direito | 359-L (regime) x 359-M (governo), crimes de atentado | 359-T; concurso formal próprio e redução de 1/3 a 2/3 na multidão (Lei 15.402/2026) |
 
+
 ## 36.14 Artigos de lei incidentes
 
 - Código Penal: arts. 2º, parágrafo único; 7º, II, e § 2º; 14, parágrafo único; 29; 30; 47; 68; 69; 70; 92; 107, VI; 141, II; 147; 163, parágrafo único; 168-A; 180; 286, parágrafo único; 288, parágrafo único; 307; 314; 317; 318; 319-A; 324; 327; 328 a 337-A; 337-B a 337-D; 338, 338-A a 349-A; 350 (revogado); 351 a 359; 359-I a 359-T (vetados 359-O, 359-Q, 359-S e 359-U); 359-M-A e 359-M-B.
@@ -2046,6 +2117,7 @@ Remissões a outros capítulos: Súmula 599 do STJ, Tema 157 do STJ e insignific
 - Lei 11.340/2006: art. 24-A. Lei 12.016/2009: art. 26. Lei 13.445/2017 (expulsão). Lei 1.579/1952: art. 4º, II. Lei 9.605/1998: art. 62. Lei 12.846/2013. Lei 10.684/2003: art. 9º. Lei 9.430/1996: art. 83. Lei 10.522/2002: art. 20. CTB: arts. 195, 278-A e 307. LEP: arts. 50, II e VII; 66, I. Lei 9.099/1995: arts. 61, 76 e 89. Lei 8.906/1994: art. 7º, § 2º.
 - Leis de alteração: 13.008/2014; 14.110/2020; 14.197/2021; 14.245/2021; 13.869/2019 (revogou o art. 350); 14.994/2024 (art. 24-A da Lei Maria da Penha); 15.280/2025 (art. 338-A); LC 225/2026 (art. 337-A, §§ 5º e 6º); 15.402/2026.
 - Constituição: arts. 5º, XLIV; 102, II, b; 109, IV, V e X.
+
 
 ## 36.15 Julgados, temas e súmulas do capítulo
 
@@ -2105,6 +2177,7 @@ Remissões: Súmula 599 do STJ, Temas 157, 1.143 e 1.218 do STJ, AgRg no RHC 185
 | Competência | Estadual, salvo transnacionalidade (federal) | Correio: juízo do destino; art. 28 sempre JECrim estadual | Súmula 522 do STF; art. 70; CC 177.882 |
 | Bens | Perdimento de todo bem apreendido em decorrência do tráfico, sem habitualidade | Funad; alienação antecipada; leilão por 50% | Art. 243 da CF; Tema 647; arts. 60 a 63-F |
 
+
 ## 37.12 Artigos de lei incidentes
 
 - Constituição Federal: art. 5º, XLIII; art. 109, V; art. 243.
@@ -2117,6 +2190,7 @@ Remissões: Súmula 599 do STJ, Temas 157, 1.143 e 1.218 do STJ, AgRg no RHC 185
 - Código de Processo Penal: arts. 385, 387, § 1º, e 400.
 - Lei 9.099/1995: arts. 60, 76 e 89.
 - Portaria SVS/MS 344/1998.
+
 
 ## 37.13 Julgados, temas e súmulas do capítulo
 
@@ -2197,17 +2271,19 @@ Remissões: HC 97.256 e HC 111.840 (substituição e regime no tráfico — Cap.
 | Art. 25 (14.344) | detenção, 3 meses a 2 anos | especialidade em face do art. 338-A do CP | Lei 14.344; Lei 15.280/2025 |
 | Art. 26 (14.344) | omissão de comunicar: detenção, 6 meses a 3 anos | + 1/2 lesão grave; triplo morte; dobro parentes; garantidor responde pelo resultado | art. 26; art. 13, § 2º, CP |
 
+
 ## 38.12 Artigos de lei incidentes
 
 - Constituição Federal: arts. 226, § 8º, e 227.
-- Lei 11.340/2006: arts. 5º, 7º, 9º, § 2º, 12, § 3º, 12-C, 12-D, 14, 14-A, 16, 16-A, 17, 18, 19, 20, 21, 22, 23, 24, 24-A, 33, 38-A, 40-A e 41.
+- Lei 11.340/2006: arts. 5º, 7º, 9º, § 2º, 11, parágrafo único, 12, § 3º, 12-C, 12-D, 14, 14-A, 16, 16-A, 17, 18, 19, 20, 21, 22, 23, 24, 24-A, 33, 38-A, 40-A e 41.
 - Lei 14.344/2022: arts. 2º, 14, 15, 17, 20, 21, 25 e 26.
 - Código Penal: arts. 13, § 2º, 44, 61, II, "f", 68, parágrafo único, 77, 79, 103, parágrafo único, 111, V, 121, § 2º, IX, 121-A, 121-B, 129, §§ 9º e 13, 147, §§ 1º e 2º, 147-A, 147-B, 181 e 338-A.
 - Código de Processo Penal: arts. 28-A, § 2º, IV, 38, § 2º, 158, 167, 311, 312, 313, III, 350-A, 385, 387, IV, e 394-A.
 - Lei 9.099/1995: arts. 76, 88 e 89 (afastados pelo art. 41 da LMP).
 - Decreto-Lei 3.688/1941 (LCP): arts. 17 e 21, § 2º.
 - ECA: art. 226, §§ 1º e 2º. Lei 13.431/2017: art. 4º. LEP: arts. 41, § 2º, e 152, parágrafo único. Lei 8.072/1990: art. 1º, I.
-- Leis de alteração a conhecer: 13.641/2018, 13.772/2018, 13.894/2019, 13.984/2020, 14.188/2021, 14.550/2023, 14.674/2023, 14.857/2024, 14.994/2024, 15.280/2025, 15.380/2026, 15.383/2026, 15.384/2026, 15.411/2026, 15.412/2026 e 15.438/2026.
+- Leis de alteração a conhecer: 13.641/2018, 13.772/2018, 13.894/2019, 13.984/2020, 14.188/2021, 14.550/2023, 14.674/2023, 14.857/2024, 14.994/2024, 15.280/2025, 15.380/2026, 15.383/2026, 15.384/2026, 15.411/2026, 15.412/2026, 15.438/2026 e 15.455/2026.
+
 
 ## 38.13 Julgados, temas e súmulas do capítulo
 
@@ -2258,6 +2334,7 @@ Remissões a outros capítulos: Súmula 589 do STJ (Cap. 2); REsp 1.977.124 e AD
 | Hediondez | Só art. 16, § 2º, art. 17 e art. 18 | Uso restrito deixou de ser hediondo (retroage) | Art. 1º, p. ú., II a IV, da Lei 8.072 |
 | Liberdade provisória | Cabível em todos | Vedação do art. 21: inconstitucional | ADI 3.112 |
 
+
 ## 39.15 Artigos de lei incidentes
 
 - Lei 10.826/2003: arts. 4º, 5º (§ 5º), 6º, 12 a 21-A, 23, 25, 26, 30 a 32.
@@ -2269,6 +2346,7 @@ Remissões a outros capítulos: Súmula 589 do STJ (Cap. 2); REsp 1.977.124 e AD
 - CPP: arts. 28-A, 303, 322 e 383.
 - Constituição: art. 5º, XL e XLIII; art. 109, V.
 - Lei 8.069/1990: art. 242 (remissão).
+
 
 ## 39.16 Julgados, temas e súmulas do capítulo
 
@@ -2323,6 +2401,7 @@ Remissões a outros capítulos: HC 104.410 do STF e constitucionalidade do perig
 | Genocídio | intenção de destruir grupo nacional, étnico, racial ou religioso | tentativa com 2/3 da pena; concurso formal com homicídios; Júri se conexos | Lei 2.889; RE 351.487 |
 | IDC | PGR, no STJ: grave violação + risco internacional + ineficácia estadual | excepcional | CF, art. 109, § 5º |
 
+
 ## 40.10 Artigos de lei incidentes
 
 - Constituição Federal: art. 5º, III, XL, XLII, XLIII e XLIV; art. 109, IV, V, XI e § 5º; art. 144.
@@ -2336,6 +2415,7 @@ Remissões a outros capítulos: HC 104.410 do STF e constitucionalidade do perig
 - CPP: arts. 167, 312, 313, 323, II, e 387, § 1º.
 - Lei 10.826/2003: arts. 16, 17 e 18. Lei 11.343/2006: arts. 33, 34 e 35. Lei 12.850/2013: art. 1º, § 2º, II, e art. 2º.
 - Leis de alteração a conhecer: 8.930/1994, 11.464/2007, 12.015/2009, 13.142/2015, 13.497/2017, 13.964/2019, 14.688/2023, 14.811/2024, 14.994/2024, 15.159/2025, 15.358/2026, 15.384/2026 e 15.410/2026.
+
 
 ## 40.11 Julgados, temas e súmulas do capítulo
 
@@ -2388,6 +2468,7 @@ Remissões: Súmula 668 do STJ (arma permitida raspada não é hedionda — Cap.
 | Crimes de ódio | sem categoria legal própria | motivo torpe, tortura-discriminação, terrorismo, genocídio | Caps. 27 e 40 |
 | Perspectiva racial | Protocolo obrigatório | não cria crime; orienta prova e fundamentação | Resolução CNJ 598/2024 |
 
+
 ## 41.15 Artigos de lei incidentes
 
 - Constituição Federal: art. 5º, XLI, XLII e § 3º; art. 109, IV, V e IX.
@@ -2400,6 +2481,7 @@ Remissões: Súmula 668 do STJ (arma permitida raspada não é hedionda — Cap.
 - Lei 9.099/1995: arts. 61, 76 e 89.
 - Decreto 65.810/1969 (Convenção sobre a Eliminação de Todas as Formas de Discriminação Racial); Decreto 10.932/2022 (Convenção Interamericana contra o Racismo).
 - Resolução CNJ 598/2024.
+
 
 ## 41.16 Julgados, temas e súmulas do capítulo
 
@@ -2446,6 +2528,7 @@ Remissões a outros capítulos: REsp 2.135.321 — continuidade normativo-típic
 | Esterilização ilegal | fora do art. 10 (21 anos ou 2 filhos; 60 dias; sem consentimento do cônjuge): 2 a 8 a | induzir contra a coletividade: genocídio | Lei 9.263, arts. 10, 15 e 17 |
 | Órgãos | remoção com morte: preterdoloso, juízo singular; comércio: 3 a 8 a | dolo de matar: Júri | Lei 9.434, arts. 14 e 15; RE 1.313.494 |
 
+
 ## 42.13 Artigos de lei incidentes
 
 - Constituição Federal: arts. 5º, XL; 109, V e XI; 227, § 4º; 230; 231.
@@ -2459,6 +2542,7 @@ Remissões a outros capítulos: REsp 2.135.321 — continuidade normativo-típic
 - Lei 9.263/1996: arts. 10 e 15 a 21. Lei 9.434/1997: arts. 3º, 9º e 14 a 20.
 - Lei 8.072/1990, art. 1º, parágrafo único, VII; Lei 11.343/2006, art. 40, VI; Lei 10.826/2003, art. 16, § 1º, V.
 - Leis alteradoras: 13.106/2015, 14.344/2022, 14.443/2022, 14.811/2024, 14.858/2024, 15.163/2025, 15.487/2026.
+
 
 ## 42.14 Julgados, temas e súmulas do capítulo
 
@@ -2514,6 +2598,7 @@ Remissões a outros capítulos: Súmula 711 do STF (Cap. 3); Súmulas 74 e 231 d
 | Vedação da substituição | 302, § 3º, e 303, § 2º | só afasta o art. 44, I | art. 312-B |
 | Concurso | 306 + 309 e 306 + 303 caput: concurso | 309 absorvido por 302/303; 306 absorvido pelas formas qualificadas | Súmula 664 STJ |
 
+
 ## 43.15 Artigos de lei incidentes
 
 - Código de Trânsito Brasileiro (Lei 9.503/1997): arts. 162, 165, 165-A, 173, 174, 195 (por remissão); arts. 291 a 312-B; Anexo I (conceitos de veículo automotor e de sinistro).
@@ -2522,6 +2607,7 @@ Remissões a outros capítulos: Súmula 711 do STF (Cap. 3); Súmulas 74 e 231 d
 - Lei 9.099/1995: arts. 61, 74, 76, 88 e 89.
 - Decreto-Lei 3.688/1941 (LCP): art. 32.
 - Leis alteradoras citadas: 11.705/2008, 12.760/2012, 12.971/2014, 13.281/2016, 13.546/2017, 14.071/2020 e 14.599/2023.
+
 
 ## 43.16 Julgados, temas e súmulas do capítulo
 
@@ -2579,6 +2665,7 @@ Remissões a outros capítulos: REsp 1.444.699-RS (Cap. 21); REsp 1.561.276-BA (
 | Militar | crime militar se em serviço ou em razão da função | Súmula 172 do STJ superada (Lei 13.491/2017) | art. 9º, II, do CPM |
 | Revogações | Lei 4.898/1965; art. 150, § 2º, e art. 350 do CP | art. 322 do CP não revogado expressamente | art. 44 |
 
+
 ## 44.11 Artigos de lei incidentes
 
 - Lei 13.869/2019: arts. 1º a 10, 12, 13, 15, 15-A, 16, 18 a 25, 27 a 33, 36 a 45 (vetados: arts. 5º, III, 11, 14, 17, 22, § 1º, II, 26, 29, parágrafo único, 34 e 35).
@@ -2593,6 +2680,7 @@ Remissões a outros capítulos: REsp 1.444.699-RS (Cap. 21); REsp 1.561.276-BA (
 - Código Civil: arts. 188, 929, 930 e 935.
 - Lei 9.099/1995: arts. 61, 76 e 89; CPP, art. 28-A.
 - Código Penal Militar: art. 9º, II (redação da Lei 13.491/2017).
+
 
 ## 44.12 Julgados, temas e súmulas do capítulo
 
@@ -2632,6 +2720,7 @@ Remissões: Súmula 18 do STF (falta residual — Cap. 18); continuidade normati
 | CDC | crimes de menor potencial ofensivo; ação pública incondicionada | agravantes do art. 76 (essenciais; menos de 18 ou mais de 60 anos); multa em dias pela duração da pena | arts. 61 a 80 |
 | Economia popular | pirâmide (art. 2º, IX) e usura (art. 4º): 6 meses a 2 anos | competência estadual; sem júri; recurso de ofício do art. 7º | Súmula 498 do STF; CC 146.153 |
 
+
 ## 45.14 Artigos de lei incidentes
 
 - Lei 8.137/1990: arts. 1º a 4º, 7º a 12, 15 e 16.
@@ -2642,6 +2731,7 @@ Remissões: Súmula 18 do STF (falta residual — Cap. 18); continuidade normati
 - Lei 12.529/2011: art. 87. Lei 15.348/2026 e Lei 15.517/2026.
 - Código Penal: arts. 11, 13, § 2º, 20, 29, 49, 71, 109, 111, 116, I, 168-A, 316, 317, 321, 327, 333 e 337-A. CPP: arts. 93 e 386.
 - Constituição: arts. 5º, LXVII, 20, IX, 109, IV e VI, e 150, VI. CTN: arts. 116, parágrafo único, e 142.
+
 
 ## 45.15 Julgados, temas e súmulas do capítulo
 
@@ -2697,6 +2787,7 @@ Remissões a outros capítulos: Temas 157 e 1.218 do STJ e AgRg nos HCs 920.735 
 | Hediondez | arts. 2º e 3º da Lei 15.358 são hediondos | lavagem e organização comum não são (salvo § ún., V) | art. 4º; Lei 8.072, art. 1º, § ún., VIII |
 | Vigência | fatos desde 25/3/2026 | lei mais grave não retroage | art. 44 |
 
+
 ## 46.17 Artigos de lei incidentes
 
 - Lei 9.613/1998: arts. 1º (caput, §§ 1º a 6º), 2º, 4º, 4º-A, 4º-B, 5º, 6º, 7º, 8º, 9º, 10, 10-A, 11, 11-A, 12, 12-A, 14, 15, 17-A a 17-E.
@@ -2709,6 +2800,7 @@ Remissões a outros capítulos: Temas 157 e 1.218 do STJ e AgRg nos HCs 920.735 
 - Lei 11.343/2006: arts. 35 e 40-A. Lei 10.826/2003: art. 21-A. Lei 9.807/1999: arts. 13 e 14. Lei 13.260/2016: art. 5º. LEP: arts. 52, 112.
 - Constituição: art. 5º, XXXVIII, "d", XL, XLIII e XLIV; art. 15, III.
 - Leis de alteração a conhecer: 12.683/2012; 13.964/2019; 13.974/2020; 14.478/2022; 15.245/2025; 15.358/2026.
+
 
 ## 46.18 Julgados, temas e súmulas do capítulo
 
@@ -2769,6 +2861,7 @@ Remissões a outros capítulos: Súmula 711 do STF (Cap. 3); HC 96.007 do STF (C
 | Imprescritibilidade | só racismo e ação de grupos armados na CF | crimes contra a humanidade sem lei interna: prescrevem para o STF | Ext 1.362 |
 | TPI | complementar; 4 crimes; pessoas físicas maiores de 18; fatos posteriores a 2002 | entrega não é extradição; perpétua revisável; imprescritível | Estatuto de Roma; CF, art. 5º, § 4º |
 
+
 ## 47.9 Artigos de lei incidentes
 
 - Constituição Federal: arts. 5º, XLII, XLIV, XLVII, "b", LI, §§ 2º, 3º e 4º; 21, X, XI e XII; 49, I; 109, IV, V, V-A, VI, XI e § 5º; 173, § 5º.
@@ -2781,6 +2874,7 @@ Remissões a outros capítulos: Súmula 711 do STF (Cap. 3); HC 96.007 do STF (C
 - Lei 13.344/2016: arts. 1º, 2º, 4º a 6º e 8º. Lei 13.445/2017: arts. 3º, III, e 30. Lei 8.072/1990: art. 1º, XII.
 - Lei 1.521/1951: art. 2º, IX (remissão). Lei 14.478/2022 (ativos virtuais). Lei 12.965/2014: arts. 13, 15 e 22.
 - Tratados: Decretos 678/1992, 4.388/2002, 4.463/2002, 5.015/2004, 5.016/2004, 5.017/2004, 5.687/2006, 11.491/2023; Estatuto de Roma, arts. 1º, 5º a 8 *bis*, 11, 13 a 17, 20, 25 a 29, 77, 102, 110 e 120.
+
 
 ## 47.10 Julgados, temas e súmulas do capítulo
 
@@ -2835,6 +2929,7 @@ Remissões: Tema 393 do STF, RE 628.624 (pornografia infantojuvenil na internet 
 | Estatuto do Torcedor | revogado; tipos migraram para a LGE com as mesmas penas | corrupção privada (165) e marketing de emboscada são novos | art. 217, III, LGE |
 | Art. 201 da LGE | conversão obrigatória em pena impeditiva (3 meses a 3 anos) para primário | organizador: +1/3 a 1/2 sem conversão; dobro em racismo ou contra mulheres | art. 201, §§ 2º a 7º |
 
+
 ## 48.7 Artigos de lei incidentes
 
 - Código Penal: arts. 2º; 18, parágrafo único; 29; 30; 33, § 4º; 49; 60; 68, parágrafo único; 92, I; 312; 315; 321; 326; 327; 337-E a 337-P; 358; 359-A a 359-H; 359-P.
@@ -2846,6 +2941,7 @@ Remissões: Tema 393 do STF, RE 628.624 (pornografia infantojuvenil na internet 
 - Lei 9.504/1997: arts. 33, § 4º; 34, §§ 2º e 3º; 39, § 5º; 39-A; 40; 41-A; 57-H, §§ 1º e 2º; 72; 87, § 4º; 90; 91, parágrafo único. Lei 6.091/1974: arts. 5º, 10 e 11.
 - Lei 14.597/2023 (Lei Geral do Esporte): arts. 165 a 172; 178, § 5º; 180; 183, § 2º; 198 a 201; 203; 217, III. Lei 10.671/2003 (revogada): arts. 41-B a 41-G.
 - CPP: arts. 46; 78, IV; 386, III; 387, IV; 394; 531 a 540. Lei 9.099/1995: arts. 61, 76 e 89. Lei 8.429/1992.
+
 
 ## 48.8 Julgados, temas e súmulas do capítulo
 
@@ -2883,6 +2979,7 @@ Remissões a outros capítulos: Súmula 592 do STF e Informativo 884 do STJ, AgR
 | Interceptação e captação ilegais | reclusão de 2 a 4 anos; juiz que ordena com objetivo ilegal responde | interlocutor que grava não comete crime; pena em dobro ao funcionário que viola o sigilo da captação | Lei 9.296, arts. 10 e 10-A |
 | Gravação por interlocutor | prova lícita em regra | ilícita se viola sigilo específico ou é armadilha estatal | Tema 237 do STF |
 
+
 ## 49.9 Artigos de lei incidentes
 
 - Constituição Federal: arts. 5º, XII; 20, III e IX; 109, IV e V; 216; 225, § 1º, VII, e § 3º.
@@ -2891,6 +2988,7 @@ Remissões a outros capítulos: Súmula 592 do STF e Informativo 884 do STJ, AgR
 - Lei 11.105/2005: arts. 3º, 5º, 6º e 24 a 29.
 - Lei 9.296/1996: arts. 1º, 2º, 8º-A, 10 e 10-A.
 - Lei 9.099/1995: arts. 74, 76 e 89. Código Penal: arts. 11, 111, III, 163. CPP: arts. 157 e 158.
+
 
 ## 49.10 Julgados, temas e súmulas do capítulo
 
@@ -2935,6 +3033,7 @@ Remissões a outros capítulos: RE 548.181, RMS 39.173, REsp 1.977.172 e Q342528
 | Jogo do bicho | Banqueiro e intermediários: DL 6.259/1944 | Intermediário punido sem identificar banqueiro ou apostador; antecedente de lavagem | Súmula 51 STJ; Lei 9.613, art. 1º |
 | Perturbação do sossego | Barulho que perturba trabalho ou sossego alheios | Exige coletividade; art. 65 revogado (art. 147-A) | LCP, art. 42 |
 
+
 ## 50.7 Artigos de lei incidentes
 
 - Decreto-Lei 3.688/1941 (LCP): arts. 1º a 17 (parte geral); arts. 18, 19, 20, 21, 25, 28, 31, 32, 42, 45, 46, 47, 50 a 58, 59, 60, 61, 62, 63, 64, 65, 68 e 70.
@@ -2947,6 +3046,7 @@ Remissões a outros capítulos: RE 548.181, RMS 39.173, REsp 1.977.172 e Q342528
 - Lei 10.826/2003: arts. 13, 14, 15, 16 e 17. Lei 9.605/1998: arts. 32 e 54. ECA: arts. 242 e 243.
 - Lei 7.209/1984: art. 2º. Lei 13.155/2015 (art. 50, § 2º). Lei 13.756/2018: art. 29. Lei 14.790/2023. Medida Provisória 1.394/2026.
 - CPP: arts. 28-A, § 2º, I, 78, IV, 313 e 383.
+
 
 ## 50.8 Julgados, temas e súmulas do capítulo
 
@@ -2990,12 +3090,14 @@ Remissões a outros capítulos: Tema 113 do STF e RE 583.523, art. 25 da LCP (Ca
 | Estupro de vulnerável | regime integral do art. 217-A do CP | presunção relativa do art. 236 não recepcionada | ADI 7.555 |
 | Tempo de guerra | morte no grau máximo (= 30 anos para graduar) | crimes de paz em guerra: + 1/3 | arts. 20, 81 e 355 a 408 CPM |
 
+
 ## 51.16 Artigos de lei incidentes
 
 - Constituição Federal: art. 5º, XLVII, LIX e LXI; arts. 42, 122 a 125 e 142, § 3º, VI e VII.
 - Código Penal Militar (Decreto-Lei 1.001/1969, com a Lei 14.688/2023): arts. 1º a 135 (parte geral); 136 a 354 (tempo de paz, com destaque para 149, 152, 157 a 166, 174 a 176, 183, 187 a 196, 202, 203, 205, 208, 209, 223, 232, 235, 236, 240 a 242, 251, 290, 298 a 309, 319 e 340 a 354); 355 a 408 (tempo de guerra).
 - CPPM: arts. 102, 451 a 457 e 617, II, "a". CP: arts. 12 e 64, II. CPP: arts. 28-A e 79, I. Lei 9.099/1995: art. 90-A.
 - Leis 9.299/1996, 13.491/2017 e 14.688/2023.
+
 
 ## 51.17 Julgados, temas e súmulas do capítulo
 

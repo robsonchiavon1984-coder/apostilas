@@ -9,6 +9,7 @@ Cada capítulo traz ainda: a incidência (pontos dos editais e nível de cobran�
 Questões: QConcursos, disciplina Direito Processual Penal, bancas FGV e FCC, nível superior, 2024 a 2026, excluídas as desatualizadas (677 questões: FGV 589 e FCC 88, todas com gabarito oficial), parafraseadas e identificadas pelo número Q. Os capítulos 32 e 33 não têm questões próprias no banco e trazem itens de fixação.
 Cada julgado, tema ou súmula é desenvolvido em um único capítulo; nos demais há só remissão. Convenções: latim e estrangeirismos em itálico; ênfases em CAIXA ALTA; datas d/m/aaaa.
 
+Atualização de 13/11/2026: Lei 15.358/2026 reconferida e ADIs 7.952, 7.956, 7.957 e 7.958 registradas; Resolução CNJ 679/2026 (oitiva presencial da vítima de violência doméstica); art. 12-D da Lei Maria da Penha (Lei 15.383/2026); reflexos processuais das novas penas da Lei 15.397/2026 (furto, roubo e receptação); art. 112 da LEP na redação da Lei 15.402/2026.
 Esta apostila tem dois volumes, com numeração contínua de capítulos (as remissões "ver Cap. X" valem para os dois): Volume I — Caps. 1 a 17 — Fundamentos, investigação, ação penal, competência, sujeitos, incidentes e provas; Volume II — Caps. 18 a 33 — Prisões, atos, sentença, procedimentos, nulidades, recursos, ações autônomas, execução, cooperação e prova prática.
 
 ## Correspondência entre capítulos e pontos

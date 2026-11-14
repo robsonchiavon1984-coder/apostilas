@@ -26,6 +26,7 @@ Este caderno reúne, de cada um dos 35 capítulos da Apostila de Direito Tribut�
 | Progressivo x regressivo | peso relativo cresce x diminui com a renda | consumo tende a ser regressivo; IR progressivo | art. 145, § 4º |
 | Fiscal, extrafiscal, parafiscal | arrecadar; induzir comportamentos; arrecadar para terceiro | finalidade preponderante; extrafiscalidade não é sanção; destinatária sem capacidade ativa não é ré na repetição | Súmula 666 do STJ |
 
+
 ## 01.9 Artigos de lei incidentes
 
 - Constituição Federal: arts. 20, § 1º; 24, I e §§ 1º a 4º; 30, II; 62, § 1º, III; 69; 145 (§§ 1º a 4º); 146 (I a III e §§ 1º a 3º); 146-A; 148, parágrafo único; 149, *caput*; 154, I; 156, § 1º; 167, IV; 177, § 4º, II; 182, § 4º, II; 239.
@@ -34,6 +35,7 @@ Este caderno reúne, de cada um dos 35 capítulos da Apostila de Direito Tribut�
 - Lei 4.320/1964: art. 9º (definição financeira de tributo, que inclui a destinação).
 - Lei 9.430/1996: art. 73, parágrafo único (Tema 874).
 - LC 84/1996, art. 1º, II (Tema 516); LC 123/2006 (art. 146, III, d).
+
 
 ## 01.10 Julgados, temas e súmulas do capítulo
 
@@ -75,6 +77,7 @@ Este caderno reúne, de cada um dos 35 capítulos da Apostila de Direito Tribut�
 | Anterioridade do empréstimo | Inciso I: nenhuma | Inciso II: anual e nonagesimal | Art. 150, § 1º |
 | Restituição | Obrigatória, na mesma espécie | Inconstitucional devolução em quotas do FND | RE 121.336; RE 175.385 |
 
+
 ## 02.8 Artigos de lei incidentes
 
 - Constituição Federal: art. 5º, XXXIV; art. 62, § 1º, III; art. 145, I a III e §§ 1º a 4º; art. 148; art. 150, III, b e c, § 1º, e V; art. 153, VIII; art. 154, II; art. 167, IV e § 4º; art. 175, parágrafo único, III; art. 206, IV.
@@ -82,6 +85,7 @@ Este caderno reúne, de cada um dos 35 capítulos da Apostila de Direito Tribut�
 - Decreto-Lei 195/1967: arts. 1º a 12.
 - Lei 11.445/2007: arts. 29 e 35 (redação da Lei 14.026/2020).
 - Lei 6.938/1981, com a redação da Lei 10.165/2000 (Taxa de Controle e Fiscalização Ambiental), apenas como referência.
+
 
 ## 02.9 Julgados, temas e súmulas do capítulo
 
@@ -145,6 +149,7 @@ Remissões a outros capítulos: art. 4º do CTN e classificações gerais (Cap. 
 | Contribuições sindicais | Sindical: facultativa desde 2017; confederativa: só filiados | Assistencial: a todos, com direito de oposição; sindical rural: tributo | ADI 5.794; SV 40; Tema 935; Tema 948; Súmula 396 do STJ |
 | COSIP | Municípios e DF; custeio, expansão e melhoria da iluminação e do monitoramento de logradouros; cobrança na fatura | Não é taxa; contribuintes: consumidores de energia; progressividade por consumo; anterioridades anual e nonagesimal | Art. 149-A (EC 132); art. 82-A do CTN (LC 227/2026); RE 573.675; Tema 696 |
 
+
 ## 03.7 Artigos de lei incidentes
 
 - Constituição Federal: arts. 8º, IV; 145, II; 146, III; 149, caput, §§ 1º a 4º; 149-A; 150, I e III; 154, I; 159, III; 167, IV e XI; 177, § 4º; 194; 195, I a V e §§ 3º a 9º, 11, 12, 15; 212, §§ 5º a 7º; 239; 240.
@@ -153,6 +158,7 @@ Remissões a outros capítulos: art. 4º do CTN e classificações gerais (Cap. 
 - Lei 8.212/1991: arts. 11 e 25. Lei 9.424/1996: art. 15. Lei 10.336/2001 (CIDE-combustíveis). Lei 10.168/2000 e Lei 10.332/2001 (CIDE-remessas). Lei 8.029/1990 (Sebrae, Apex, ABDI). LC 110/2001: art. 1º. LC 84/1996. Lei 6.950/1981: art. 4º, parágrafo único.
 - Lei 12.514/2011 (anuidades dos conselhos). Lei 8.906/1994: art. 46. CLT: art. 578 (Lei 13.467/2017). Decreto-Lei 1.661/1971.
 - Lei 11.457/2007 (arrecadação pela Receita Federal). LC 187/2021 (remissão ao Cap. 6). LC 214/2025 (remissão ao Cap. 32).
+
 
 ## 03.8 Julgados, temas e súmulas do capítulo
 
@@ -213,6 +219,7 @@ Remissões a outros capítulos: art. 4º do CTN e classificações gerais (Cap. 
 | Conflitos de competência | Lei complementar dispõe | LC explicita fronteiras, não cria competência | CF, art. 146, I |
 | Processo | Dúplice exigência: consignação em pagamento | Litisconsórcio passivo dos entes; depósito suspende exigibilidade | CTN, art. 164, III e § 2º |
 
+
 ## 04.8 Artigos de lei incidentes
 
 - Constituição Federal: arts. 18, § 2º; 24, I e §§ 1º a 4º; 30, I e III; 32; 60, § 4º, I; 62, § 1º, III, e § 2º; 109, I; 145; 146, I, II e III, *a*; 147; 148; 149, *caput* e § 1º; 149-A; 150, § 1º; 153, *caput*, VII e VIII, § 4º, III, e § 6º, V e VI; 154, I e II; 155, *caput*, e § 2º, XII, *g*; 156, *caput*; 156-A, *caput* e § 1º, V e XII; 156-B; 157, II; 158, II e III; 167, IV; 195, § 4º, e V.
@@ -222,6 +229,7 @@ Remissões a outros capítulos: art. 4º do CTN e classificações gerais (Cap. 
 - Lei 11.250/2005: art. 1º (convênios do ITR).
 - Lei 11.457/2007 (arrecadação das contribuições pela Receita Federal do Brasil).
 - LC 214/2025 (institui IBS, CBS e Imposto Seletivo; só identificação, Caps. 32 e 33).
+
 
 ## 04.9 Julgados, temas e súmulas do capítulo
 
@@ -262,6 +270,7 @@ Remissões a outros capítulos: Tema 825 do STF (ITCMD e exterior, Cap. 30); Tem
 | Sanções políticas | vedadas: interdição, apreensão até o pagamento, proibição de atividade, garantia para nota fiscal | regularidade fiscal para licitar, protesto de CDA e regimes do devedor contumaz são válidos se proporcionais | Súmulas 70, 323 e 547; Tema 31; RE 550.769; ADIs 173 e 394 |
 | Segurança jurídica | certeza, não surpresa e confiança | concretizada por legalidade e anterioridade; arts. 100, 146 e 178 do CTN; modulação | art. 5º, XXXVI; CTN |
 
+
 ## 05.13 Artigos de lei incidentes
 
 - Constituição Federal: arts. 5º, XIII, XXXVI, XLVI e LIV; 62, §§ 1º, III, e 2º; 145, §§ 1º, 3º e 4º; 146-A; 148; 150, I a V, §§ 1º e 6º; 151; 152; 153, §§ 1º, 2º, I, 3º, I, 4º, I, e 6º, VI; 154; 155, § 1º, VI, § 2º, IV e XII, h, § 4º, IV, c, § 6º, II e III; 156, § 1º, III, e § 3º, II; 156-A, § 1º, V; 167, IV e § 4º; 170, parágrafo único; 177, § 4º, I, b; 182, § 4º, II; 195, §§ 3º, 6º e 9º.
@@ -269,6 +278,7 @@ Remissões a outros capítulos: Tema 825 do STF (ITCMD e exterior, Cap. 30); Tem
 - LC 225/2026: arts. 11 e 12 (devedor contumaz).
 - LC 190/2022: art. 3º (vacatio do DIFAL).
 - Lei 10.865/2004: art. 27, § 2º. Lei 8.033/1990: art. 1º, IV. Lei 12.514/2011 (teto da ART e das anuidades). Lei 7.711/1988 (dispositivos invalidados nas ADIs 173 e 394). Lei 9.868/1999: art. 27.
+
 
 ## 05.14 Julgados, temas e súmulas do capítulo
 
@@ -333,6 +343,7 @@ Remissões a outros capítulos: Tema 540 do STF (Cap. 3); Tema 732 do STF (Caps.
 | ITR | pequena gleba explorada por proprietário sem outro imóvel | arrendada a terceiro, não | CF, art. 153, § 4º, II |
 | Outras | ITBI na integralização (Tema 1.348; Cap. 29); ITCMD para entidades de relevância pública; petição e certidões; aposentadoria do RGPS; reforma agrária | | CF, arts. 156, § 2º, I, 155, § 1º, V e VII, 5º, XXXIV, 195, II, 184, § 5º |
 
+
 ## 06.11 Artigos de lei incidentes
 
 - Constituição Federal: art. 5º, XXXIV, LXXIII, LXXVI e LXXVII; art. 146, II; art. 149, § 2º, I; art. 149-B, II e parágrafo único; art. 150, VI, a a e, e §§ 2º, 3º e 4º; art. 151, III; art. 153, § 3º, III, § 4º, II, e § 5º; art. 155, § 1º, V e VII, § 2º, X, e § 3º; art. 156, § 1º-A, e § 2º, I; art. 156-A, § 1º, III e XI; art. 173, § 2º; art. 184, § 5º; art. 195, II, e § 7º; art. 202, § 3º; art. 226, § 1º.
@@ -340,6 +351,7 @@ Remissões a outros capítulos: Tema 540 do STF (Cap. 3); Tema 732 do STF (Caps.
 - CTN: arts. 9º, IV, e § 1º (redação da LC 214/2025 no inciso IV); 12; 13; 14; 111; 123; 130; 175; 176; 194, § 1º (redação da LC 236/2026).
 - Lei Complementar 187/2021: arts. 2º, 3º, 4º, 37, 38 e 41.
 - Lei 9.430/1996, art. 32 (suspensão da imunidade na esfera federal).
+
 
 ## 06.12 Julgados, temas e súmulas do capítulo
 
@@ -405,6 +417,7 @@ Remissões a outros capítulos: art. 146 e normas gerais (Cap. 1); SV 19 e taxas
 | Controle | LC de rateio; TCU calcula quotas; divulgação mensal | | arts. 161 e 162 |
 | Compras públicas | IBS e CBS ao ente contratante | Alíquota zero aos demais entes | art. 149-C |
 
+
 ## 07.8 Artigos de lei incidentes
 
 - Constituição Federal: arts. 149-C; 153, § 4º, III, e § 5º; 154, I e II; 157; 158; 159; 159-A; 160; 161; 162; 167, IV e § 4º; 177, § 4º; 198, § 2º; 216, § 6º.
@@ -416,6 +429,7 @@ Remissões a outros capítulos: art. 146 e normas gerais (Cap. 1); SV 19 e taxas
 - LC 63/1990: valor adicionado e repasse da cota municipal do ICMS (art. 4º, § 1º).
 - LC 214/2025: art. 11 (local da operação para IBS e CBS).
 - Lei 9.639/1998: arts. 1º e 5º, § 4º (limites afastados pelo Tema 1.401 do STJ).
+
 
 ## 07.9 Julgados, temas e súmulas do capítulo
 
@@ -463,12 +477,14 @@ Remissões a outros capítulos: art. 146 e normas gerais (Cap. 1); SV 19 e taxas
 | Lucros no exterior | Art. 74 da MP 2.158-35 válido para controladas | Coligadas fora de paraísos: não; não retroage | ADI 2.588; RE 541.090; RE 870.214 pendente |
 | Preços de transferência | *Arm's length* | Vigência em 1º/1/2024; opção desde 2023 | Lei 14.596/2023 |
 
+
 ## 08.11 Artigos de lei incidentes
 
 - CF: arts. 5º, § 3º; 49, I; 62, § 2º; 84, IV e VIII; 146; 150, I, III e § 6º; 151, III; 152; 153, § 1º; 195, I, b.
 - CTN: arts. 2º; 96 a 112; 113-A; 118; 120; 144; 146; 199-A; 208-D, § 3º; 208-G; 210.
 - LINDB: arts. 1º, 2º e 4º. LC 95/1998: art. 8º. LC 236/2026.
 - Lei 14.596/2023: arts. 1º a 4º e 45 a 47. Lei 15.079/2024. MP 2.158-35/2001: art. 74. Lei 12.973/2014. Lei 14.689/2023.
+
 
 ## 08.12 Julgados, temas e súmulas do capítulo
 
@@ -518,6 +534,7 @@ Remissões a outros capítulos: art. 146 e normas gerais (Cap. 1); SV 19 e taxas
 | Elisão / evasão / elusão | lícita (antes do FG) / ilícita (oculta o FG) / abuso de forma, dissimulação | evasão: art. 149, VII, multa qualificada, crime | doutrina; Lei 4.502/1964, arts. 71 a 73 |
 | Norma antielisiva | desconsiderar atos que dissimulam o fato gerador | constitucional; não autoriza analogia nem interpretação econômica; depende de lei ordinária de cada ente; sem lei, desconsideração é ilegal | art. 116, p. ú.; ADI 2.446; AREsp 2.848.456/SP |
 
+
 ## 09.12 Artigos de lei incidentes
 
 - Constituição Federal: arts. 145, §§ 1º e 2º; 146, III, a; 149, § 2º, III; 150, I, e § 7º; 153, § 1º; 155, § 4º, IV, a; 156, § 2º, I; 170.
@@ -529,6 +546,7 @@ Remissões a outros capítulos: art. 146 e normas gerais (Cap. 1); SV 19 e taxas
 - Lei 9.393/1996: art. 4º, parágrafo único (domicílio no ITR).
 - Lei 9.430/1996: art. 42 (presunção de omissão de receita).
 - Lei 14.973/2024: arts. 43 e 44 (DIRBI).
+
 
 ## 09.13 Julgados, temas e súmulas do capítulo
 
@@ -569,6 +587,7 @@ Remissões a outros capítulos: art. 146 e normas gerais (Cap. 1); SV 19 e taxas
 | Pessoal do agente | crimes, dolo específico, fraude contra o representado | exercício regular ou ordem expressa | art. 137 |
 | Denúncia espontânea | exclui multas punitivas e de mora com pagamento de tributo e juros antes de fiscalização | não cabe: tributo declarado e pago a destempo, parcelamento, obrigação acessória autônoma | art. 138 (LC 236/2026); Súmula 360; Temas 385 e 101 |
 
+
 ## 10.9 Artigos de lei incidentes
 
 - Constituição Federal: art. 146, III, b; art. 150, § 7º.
@@ -580,6 +599,7 @@ Remissões a outros capítulos: art. 146 e normas gerais (Cap. 1); SV 19 e taxas
 - Lei 6.404/1976: art. 233 (cisão).
 - Código Civil: arts. 50, 1.142, 1.146 e 1.792.
 - CPC: art. 886, VI; arts. 133 a 137 (incidente de desconsideração).
+
 
 ## 10.10 Julgados, temas e súmulas do capítulo
 
@@ -625,6 +645,7 @@ Remissões a outros capítulos: Tema 201 do STF e Tema 1.191 do STJ (Cap. 27); T
 | Pagamento e parcelamento | pagamento extingue; parcelamento antes da denúncia suspende | devedor contumaz: não; garantia não equivale | Lei 10.684, art. 9º; Lei 9.430, art. 83 |
 | ICMS declarado e não pago | crime do art. 2º, II, se contumaz e com dolo de apropriação | inadimplência eventual é só ilícito tributário | RHC 163.334; Súmula 658 do STJ; Tema 937 |
 
+
 ## 11.9 Artigos de lei incidentes
 
 - CF: arts. 5º, XXXIV, a (petição), 146-A, 150, IV.
@@ -635,6 +656,7 @@ Remissões a outros capítulos: Tema 201 do STF e Tema 1.191 do STJ (Cap. 27); T
 - Lei 8.137/1990: arts. 1º e 2º. Lei 10.684/2003: art. 9º.
 - LC 225/2026: arts. 3º, XX, 11 a 13, 42, § 1º.
 - Decreto-Lei 1.025/1969 (encargo legal); Decreto-Lei 1.455/1976 (perdimento).
+
 
 ## 11.10 Julgados, temas e súmulas do capítulo
 
@@ -681,6 +703,7 @@ Remissões a outros capítulos: Súmula 554 e Súmula 360 do STJ e denúncia esp
 | Declaração constitutiva | declaração reconhecendo débito constitui o crédito | inscrição direta; prescrição em vez de decadência; afasta denúncia espontânea; não abrange o não declarado | Súmula 436; Tema 96 |
 | Mapa de cobrança | declarado e não pago: inscrição direta; não declarado: lançamento de ofício | pago a menor: lançar a diferença | Súmulas 436 e 555; art. 149, V |
 
+
 ## 12.9 Artigos de lei incidentes
 
 - CTN (Lei 5.172/1966): arts. 139, 140, 141, 142 (caput e §§ 1º a 3º, 5º e 8º, na redação da LC 236/2026), 143, 144, 145, 146 (redação da LC 236/2026), 147, 148, 149, 150 (§§ 5º e 6º incluídos pela LC 236/2026); remissões: arts. 106, 113, 127-A, 151, 156, 173, 199-A, 201, § 3º, 208-B, 208-G, 208-H e 211-B.
@@ -690,6 +713,7 @@ Remissões a outros capítulos: Súmula 554 e Súmula 360 do STJ e denúncia esp
 - LC 227/2026: art. 38, §§ 1º a 4º, do CTN (valor venal do ITBI e avaliação contraditória; remissão).
 - LC 105/2001 e Lei 10.174/2001 (aplicação imediata, art. 144, § 1º).
 - Decreto 70.235/1972, art. 18, § 3º (lançamento suplementar no curso do PAF federal).
+
 
 ## 12.10 Julgados, temas e súmulas do capítulo
 
@@ -739,6 +763,7 @@ Remissões a outros capítulos: Súmula Vinculante 8 e Súmulas 555 e 622 do STJ
 | Depósito prévio para recorrer | vedado | também arrolamento e caução | SV 21; Súmula 373; art. 151, § 2º |
 | Liminar e tutela | suspendem enquanto vigentes; independem de depósito e de esgotamento administrativo | não impedem o lançamento; cassação retoma a prescrição | art. 151, IV e V |
 
+
 ## 13.11 Artigos de lei incidentes
 
 - Constituição Federal: art. 5º, XXXIV, a, XXXV e LV; art. 146, III, b; art. 151, III.
@@ -748,6 +773,7 @@ Remissões a outros capítulos: Súmula Vinculante 8 e Súmulas 555 e 622 do STJ
 - Lei 11.101/2005: arts. 6º, § 7º-B; 57; 68 e parágrafo único.
 - Lei 9.703/1998 (depósitos de tributos federais); Lei 9.430/1996, art. 73, parágrafo único (Tema 874); Lei 9.532/1997, art. 64 (arrolamento); Lei 12.016/2009, art. 7º, III e § 2º; Lei 6.830/1980, arts. 9º e 32, § 2º.
 - Código Civil: arts. 191 e 199 (contraste com o regime tributário).
+
 
 ## 13.12 Julgados, temas e súmulas do capítulo
 
@@ -802,6 +828,7 @@ Quadro final das causas de extinção: causa, fundamento, requisito-chave e pega
 | Decadência e prescrição | art. 156, V | prazos por lei complementar (SV 8) | decadência é causa "imprópria" (não há crédito constituído); pagamento de crédito prescrito é restituível; Cap. 15 |
 | Causas fora do CTN | ADI 2.405 | lei do próprio ente | confusão; dação de móveis por lei local; transação não é novação |
 
+
 ## 14.13 Artigos de lei incidentes
 
 - Constituição Federal: arts. 5º, XXXV; 146, III, b; 150, § 6º.
@@ -815,6 +842,7 @@ Quadro final das causas de extinção: causa, fundamento, requisito-chave e pega
 - Lei 12.016/2009, art. 7º, § 2º (declarado inconstitucional na ADI 4.296).
 - CPC: arts. 313, II; 487, III, c; 515, II e III; 539 a 549; 922; 924, II.
 - Santa Catarina: Lei 19.398/2025. Rio Grande do Sul: Lei 6.537/1973, art. 122; Lei 16.241/2024.
+
 
 ## 14.14 Julgados, temas e súmulas do capítulo
 
@@ -865,6 +893,7 @@ Remissões a outros capítulos: ADI 4.296 (Cap. 23); SV 8 (Cap. 15); Súmula 112
 | Intercorrente | art. 40 da LEF | nova interrupção pela sentença de extinção por não localização | Cap. 22; art. 174, § 1º, VII |
 | De ofício | juiz reconhece prescrição e decadência | contraditório prévio; exceção de pré-executividade se houver prova pré-constituída | Súmula 409 do STJ; arts. 10 e 487 do CPC; Súmula 393 do STJ |
 
+
 ## 15.8 Artigos de lei incidentes
 
 - Constituição Federal: art. 146, III, b; art. 7º, XXIX (FGTS).
@@ -877,6 +906,7 @@ Remissões a outros capítulos: ADI 4.296 (Cap. 23); SV 8 (Cap. 15); Súmula 112
 - Lei 11.941/2009: art. 53 (reconhecimento administrativo da prescrição).
 - Código Civil: arts. 189, 191, 202, 207, 882 e 1.245.
 - CPC: art. 10; art. 240, § 1º; art. 332, § 1º; art. 487, II e parágrafo único.
+
 
 ## 15.9 Julgados, temas e súmulas do capítulo
 
@@ -932,6 +962,7 @@ Remissões a outros capítulos: Súmula 436 do STJ e Tema 387 do STJ (Cap. 12); 
 | Compensação de crédito judicial (federal) | limite mensal acima de 10 milhões, piso de 1/60 | constitucional | art. 74-A da Lei 9.430/1996; ADIs 7.587 e 7.609 |
 | Compensação e trânsito | só após o trânsito, inclusive se inconstitucional o tributo | ver Cap. 14 | art. 170-A; Tema 346 do STJ |
 
+
 ## 16.8 Artigos de lei incidentes
 
 - Constituição Federal: arts. 100 (precatórios e RPV), 146, III, b (prescrição por lei complementar), 150, § 7º (restituição na substituição tributária), 157, I, e 158, I (IR retido por Estados e Municípios).
@@ -945,6 +976,7 @@ Remissões a outros capítulos: Súmula 436 do STJ e Tema 387 do STJ (Cap. 12); 
 - Lei 11.457/2007: art. 24 (prazo de 360 dias para decidir pedidos administrativos).
 - Código Civil: arts. 202, VI, 354, 405, 877 e 882 (para contraste).
 - CPC: arts. 373, I; 487, II; 515, I; 534 e 535.
+
 
 ## 16.9 Julgados, temas e súmulas do capítulo
 
@@ -1000,6 +1032,7 @@ Remissões a outros capítulos: Súmula 436 do STJ e Tema 387 do STJ (Cap. 12); 
 | Reforma | ICMS e benefícios reduzidos 2029-2032; IBS sem benefícios | fundo de compensação dos onerosos (Cap. 33) | ADCT, art. 128; CF, art. 156-A, § 1º, X |
 | Subvenções | crédito presumido de ICMS fora do IRPJ e da CSLL; demais só com requisitos legais | Lei 14.789/2023: crédito fiscal de 25% | EREsp 1.517.492; Tema 1.182 do STJ |
 
+
 ## 17.10 Artigos de lei incidentes
 
 - CF: arts. 43, § 4º; 150, § 6º; 151, I e III; 155, § 2º, II, XII, e e g; 156, § 3º, II; 156-A, § 1º, X; 165, § 6º; 167-D, parágrafo único; 195, § 3º. ADCT: arts. 113 e 128, §§ 1º a 3º. EC 109/2021, art. 4º.
@@ -1009,6 +1042,7 @@ Remissões a outros capítulos: Súmula 436 do STJ e Tema 387 do STJ (Cap. 12); 
 - LC 101/2000 (LRF): arts. 14 e 14-A (LC 224/2025).
 - LC 224/2025: arts. 4º e 5º.
 - Lei 14.789/2023: arts. 1º, 2º, 4º, 6º e 21.
+
 
 ## 17.11 Julgados, temas e súmulas do capítulo
 
@@ -1053,6 +1087,7 @@ Remissões a outros capítulos: Súmula 436 do STJ e Tema 387 do STJ (Cap. 12); 
 | Inventário e liquidação | tributo do espólio e da liquidanda pago antes dos demais | liquidação: preferência sem ressalva | CTN, arts. 189 e 190 |
 | Prova de quitação | extinção das obrigações do falido; partilha e adjudicação; contratos públicos | partilha: tributos dos bens e rendas, não o ITCMD prévio no arrolamento sumário | CTN, arts. 191 a 193; CPC, art. 659, § 2º |
 
+
 ## 18.11 Artigos de lei incidentes
 
 - CF: art. 19, III; art. 146, III, b.
@@ -1064,6 +1099,7 @@ Remissões a outros capítulos: Súmula 436 do STJ e Tema 387 do STJ (Cap. 12); 
 - Lei 8.009/1990: art. 3º, IV.
 - Lei 9.532/1997: art. 64.
 - Lei 10.522/2002: art. 10-A (remissão).
+
 
 ## 18.12 Julgados, temas e súmulas do capítulo
 
@@ -1109,6 +1145,7 @@ Remissões a outros capítulos: arts. 130 e 131 do CTN e responsabilidade de suc
 | Devedor contumaz | inadimplência substancial, reiterada e injustificada, cumulativas; notificação prévia e 30 dias para regularizar ou defender com efeito suspensivo | federal: 15 milhões e mais de 100% do patrimônio; 4 consecutivos ou 6 alternados em 12 meses; medidas do art. 13 | arts. 11 a 16 |
 | Conformidade | Confia, Sintonia, OEA e selos | bônus de adimplência na CSLL; renovação colaborativa de certidões; Lei 14.740/2023 | arts. 18 a 47 |
 
+
 ## 19.11 Artigos de lei incidentes
 
 - Constituição Federal: art. 5º, X, XI, XII e XXXIV, b; art. 37, XVIII e XXII; art. 58, § 3º; art. 145, § 1º; art. 146, III; art. 146-A; art. 148; art. 149; art. 167, IV.
@@ -1123,6 +1160,7 @@ Remissões a outros capítulos: arts. 130 e 131 do CTN e responsabilidade de suc
 - Lei 9.430/1996: arts. 42, 81-A e 83.
 - Lei 14.740/2023: arts. 1º e 2º.
 - Código Civil: art. 1.193. CPC: arts. 380, 782, § 3º, 783 e 784, IX.
+
 
 ## 19.12 Julgados, temas e súmulas do capítulo
 
@@ -1171,6 +1209,7 @@ Remissões a outros capítulos: arts. 130 e 131 do CTN e responsabilidade de suc
 | IBS | 1ª instância por Câmaras estaduais de servidores; 2ª paritária com contribuintes; Câmara Superior | prazos em dias úteis; prazo em dobro para a Fazenda; rito sumário | LC 227/2026, arts. 54 a 102 |
 | Integração IBS/CBS | Câmara Nacional de Integração: legislação comum | recurso especial em 10 dias úteis, suspende a exigibilidade; decisões vinculantes | LC 214, arts. 323-G a 323-M |
 
+
 ## 20.13 Artigos de lei incidentes
 
 - CF: arts. 5º, XXXIV, a, XXXV, LV e LXXVIII; 24, I; 103-A; 146, III; 156-B, III e § 8º.
@@ -1187,6 +1226,7 @@ Remissões a outros capítulos: arts. 130 e 131 do CTN e responsabilidade de suc
 - LC 465/2009 (SC): arts. 4º, 5º, 7º, 14, 20, 29 a 32, 34, 35, 47, 48 e 49 (demais no Cap. 34).
 - Lei 6.537/1973 (RS): arts. 28, 36, 39-A, 41, 44 a 46, 49 a 55, 58, 60 e 63.
 - Lei 11.417/2006: art. 7º, § 1º.
+
 
 ## 20.14 Julgados, temas e súmulas do capítulo
 
@@ -1245,6 +1285,7 @@ Remissões a outros capítulos: arts. 130 e 131 do CTN e responsabilidade de suc
 | Cancelamento da CDA | extinção sem ônus (art. 26) | causalidade: Fazenda que deu causa paga, por equidade | Tema 143; AREsp 3.090.386-RJ |
 | Alçada | até 50 ORTN: embargos infringentes em 10 dias | soma de todos os exercícios da CDA | LEF, art. 34; Temas 395 e 1.248 |
 
+
 ## 21.16 Artigos de lei incidentes
 
 - Constituição Federal: art. 109, I e § 3º; art. 146, III, b.
@@ -1257,6 +1298,7 @@ Remissões a outros capítulos: arts. 130 e 131 do CTN e responsabilidade de suc
 - Lei 14.689/2023: inclusão do § 7º do art. 9º da LEF.
 - Lei 8.009/1990: art. 3º, IV.
 - Decreto-Lei 1.025/1969: art. 1º (encargo legal).
+
 
 ## 21.17 Julgados, temas e súmulas do capítulo
 
@@ -1331,6 +1373,7 @@ Remissões a outros capítulos: arts. 130 e 131 do CTN e responsabilidade de suc
 | Cautelar fiscal: requisitos e efeitos | prova literal do crédito + prova documental do risco; indisponibilidade imediata até o limite | PJ: ativo permanente; extensão a controlador e administradores | arts. 3º e 4º |
 | Cautelar fiscal: prazos | 15 contestar; 60 para executar (da irrecorribilidade); 30 para efetivar | competência do relator se em tribunal; eficácia mantida na suspensão da exigibilidade; coisa julgada só nas causas extintivas | arts. 5º, 8º, 11, 12, 13, 15 e 16 |
 
+
 ## 22.13 Artigos de lei incidentes
 
 - Lei 6.830/1980: arts. 1º, 2º, 3º, 8º, 9º, 16, 17, 20, 25, 26, 32, § 2º, 34, 38, 39 e 40.
@@ -1341,7 +1384,8 @@ Remissões a outros capítulos: arts. 130 e 131 do CTN e responsabilidade de suc
 - Lei 12.514/2011: art. 8º.
 - Lei 9.532/1997: art. 64, §§ 3º e 4º.
 - CPC: arts. 10, 69, 133 a 137, 219, 278, 485, VI, 487, II, 782, § 3º, 805, 914, 919, § 1º, 921, 922, 924 e 1.012, § 1º, III.
-- Resolução CNJ 547/2024 (com as Resoluções 617/2025 e 689/2026): arts. 1º a 4º-A.
+- Resolução CNJ 547/2024 (com as Resoluções 617/2025 e 689/2026): arts. 1º a 1º-C, 2º a 4º-A.
+
 
 ## 22.14 Julgados, temas e súmulas do capítulo
 
@@ -1390,6 +1434,7 @@ Remissões a outros capítulos: arts. 130 e 131 do CTN e responsabilidade de suc
 | Rescisória | 2 anos do trânsito | não cabe se o julgado seguia o Plenário do STF à época; decisão do STF não rescinde sozinha; AR 2.876 QO: prazo e limite de 5 anos | art. 975 do CPC; Tema 136; RE 730.462 |
 | Modulação | restringe efeitos por segurança jurídica | ressalva de ações ajuizadas até um marco; combina com a prescrição | art. 27 da Lei 9.868/1999; art. 927, § 3º, do CPC |
 
+
 ## 23.13 Artigos de lei incidentes
 
 - Constituição Federal: art. 5º, XXXV e LXX; art. 100; art. 102, I, f; art. 109, I e § 2º; art. 150, III, b e c; art. 195, § 6º.
@@ -1403,6 +1448,7 @@ Remissões a outros capítulos: arts. 130 e 131 do CTN e responsabilidade de suc
 - Lei 10.259/2001: arts. 3º e 17. Lei 12.153/2009: arts. 2º e 5º.
 - CPC: arts. 19, 20, 52, 55, § 2º, I; 85, §§ 3º a 8º-A; 292; 300; 311; 313, V, a; 338; 339; 496; 505, I; 525, §§ 12 a 15; 534; 535, §§ 5º a 8º; 539 a 549; 784, § 1º; 927, § 3º; 966, V; 975; 1.059.
 - Decreto 20.910/1932: art. 1º.
+
 
 ## 23.14 Julgados, temas e súmulas do capítulo
 
@@ -1453,6 +1499,7 @@ Remissões a outros capítulos: Súmulas 112 e 373 do STJ, SV 21 e efeitos da li
 | Dividendos | isentos em regra | retenção de 10% sobre o total acima de 50 mil/mês da mesma fonte; 10% na remessa ao exterior; transição para lucros até 2025 aprovados até 31/12/2025 | arts. 6º-A da Lei 9.250 e 10 da Lei 9.249 |
 | IRPFM | acima de 600 mil/ano; alíquota linear até 10% em 1,2 milhão | base inclui isentos; exclui ganho de capital, poupança, LCI/LCA, herança, indenizações, moléstia grave; deduz IR já pago e redutor de 34/40/45% | arts. 16-A e 16-B da Lei 9.250 |
 
+
 ## 24.14 Artigos de lei incidentes
 
 - Constituição Federal: arts. 145, § 1º; 146, III, a; 150, III, e § 1º; 153, III, e § 2º, I; 157, I; 158, I; 159, I.
@@ -1469,6 +1516,7 @@ Remissões a outros capítulos: Súmulas 112 e 373 do STJ, SV 21 e efeitos da li
 - Lei 15.270/2025: arts. 2º a 8º (redução, dividendos, IRPFM, compensação aos entes, vigência).
 - LC 224/2025: arts. 4º, §§ 4º e 5º (lucro presumido), 8º (JCP) e 14 (efeitos).
 - Lei 10.833/2003: art. 34; IN RFB 1.234/2012 (retenções pela Administração federal).
+
 
 ## 24.15 Julgados, temas e súmulas do capítulo
 
@@ -1542,6 +1590,7 @@ Remissões a outros capítulos: Tema 1.130 do STF e Tema 364 do STF (Cap. 7); S�
 | IGF | Lei complementar; nunca instituído | Mora reconhecida na ADO 55 (Cap. 4) | CF, art. 153, VII |
 | Residual e extraordinário | Residual: LC, não cumulativo, base nova, anterioridades, 20% a Estados e DF | Extraordinário: guerra externa, qualquer base, sem anterioridades, extinção em até cinco anos da paz | CF, arts. 154 e 157, II; CTN, art. 76 |
 
+
 ## 25.9 Artigos de lei incidentes
 
 - Constituição Federal: art. 150, § 1º; art. 153, I, II, IV, V, VI e VII, §§ 1º, 3º, 4º e 5º; art. 154; art. 158, II; art. 159, II; ADCT, arts. 40, 92-B e 126, III.
@@ -1555,6 +1604,7 @@ Remissões a outros capítulos: Tema 1.130 do STF e Tema 364 do STF (Cap. 7); S�
 - Decreto 7.212/2010 (RIPI): arts. 2º, 4º, 9º, 35 e 226.
 - Decreto 6.759/2009 (Regulamento Aduaneiro): arts. 72, 73, 315 e 689.
 - Lei 7.798/1989: art. 3º; Lei 4.502/1964: arts. 4º e 14; Lei 9.873/1999: art. 1º, § 1º.
+
 
 ## 25.10 Julgados, temas e súmulas do capítulo
 
@@ -1611,6 +1661,7 @@ Remissões a outros capítulos: Tema 1.042 do STF (Cap. 11); Tema 209 do STJ (Ca
 | RAT e FAP | 1, 2 ou 3% pela atividade preponderante, x FAP (0,5 a 2) | SAT antes da EC 20 sobre não empregados: inconstitucional | art. 22, II; Lei 10.666, art. 10; Tema 554 |
 | CPRB | substitutiva e facultativa; base com tributos | reoneração 2025 a 2027; fim em 2028 | Lei 12.546, arts. 7º a 9º-B; Lei 14.973/2024 |
 
+
 ## 26.12 Artigos de lei incidentes
 
 - Constituição Federal: arts. 149, § 2º, I e III, a; 167, XI; 195, I, a, b e c, II, IV e V, §§ 4º, 6º, 8º, 9º, 12 e 17; 239; ADCT, art. 126, II (EC 132/2023).
@@ -1626,6 +1677,7 @@ Remissões a outros capítulos: Tema 1.042 do STF (Cap. 11); Tema 209 do STJ (Ca
 - DL 1.598/1977: arts. 12 (receita bruta, §§ 1º, 4º e 5º) e 13.
 - Lei 9.430/1996: art. 64 (retenção por órgãos federais); IN RFB 1.234/2012.
 - CTN: arts. 111 e 170-A (reflexos).
+
 
 ## 26.13 Julgados, temas e súmulas do capítulo
 
@@ -1666,6 +1718,7 @@ Remissões a outros capítulos: Tema 228 do STF (Cap. 16); Temas 75 do STF e 1.0
 | Substituição para frente | exige LC federal; atribuição por lei estadual | base: preço público, sugerido, PMPF ou valor + MVA | art. 150, § 7º; arts. 6º a 10 da LC 87; Tema 456 |
 | Restituição na ST | fato gerador que não ocorre e base real menor | sem art. 166 (Cap. 16); PMC não vale para hospitais | Tema 201; Tema 1.191; Súmula 654 |
 
+
 ## 27.16 Artigos de lei incidentes
 
 - Constituição: art. 150, § 7º; art. 155, II, e §§ 2º (I a XII), 3º, 4º e 5º; art. 82 do ADCT; art. 128 do ADCT (transição).
@@ -1673,6 +1726,7 @@ Remissões a outros capítulos: Tema 228 do STF (Cap. 16); Temas 75 do STF e 1.0
 - LC 87/1996: arts. 2º, 3º, 4º, 6º, 8º, 10, 11, 12 (inclusive §§ 4º e 5º, LC 204/2023), 13 (inclusive § 1º, III, LC 227/2026), 19, 20, 21, 24, 25 e 33.
 - LC 190/2022 (DIFAL; art. 3º); LC 192/2022 (combustíveis); LC 194/2022 (essencialidade; art. 3º, X, da LC 87); LC 204/2023 (transferências); LC 114/2002 (importação).
 - Lei 10.297/1996 de SC: art. 31-E (ilustração; desenvolvimento no Cap. 34).
+
 
 ## 27.17 Julgados, temas e súmulas do capítulo
 
@@ -1718,6 +1772,7 @@ Remissões a outros capítulos: Tema 402 do STF (Cap. 6); Temas 475 e 633 e Tema
 | Exportação | não incide | resultado no Brasil: incide, ainda que pago do exterior | art. 2º, I e parágrafo único |
 | Reforma | extinção a partir de 2033 | reduções de 10% a 40% entre 2029 e 2032 | arts. 128 e 129 do ADCT; art. 8º-B da LC 116 |
 
+
 ## 28.11 Artigos de lei incidentes
 
 - CF: art. 147; art. 151, III; art. 155, II e § 2º, IX, b; art. 156, III e § 3º; art. 236. ADCT: arts. 88, 128 e 129.
@@ -1726,6 +1781,7 @@ Remissões a outros capítulos: Tema 402 do STF (Cap. 6); Temas 475 e 633 e Tema
 - Decreto-Lei 406/1968: art. 9º, §§ 1º a 3º.
 - CTN: arts. 108, § 1º; 110; 111, II; 128; 150, § 1º; 164, III; 166.
 - Lei 8.429/1992: art. 10, XXII. Lei 8.906/1994: arts. 15 a 17. Lei 12.485/2011 (SeAC).
+
 
 ## 28.12 Julgados, temas e súmulas do capítulo
 
@@ -1784,6 +1840,7 @@ Remissões a outros capítulos: Tema 402 do STF (Cap. 6); Temas 475 e 633 e Tema
 | Integralização e reorganizações | imunes | só até o valor do capital integralizado (Tema 796); ressalva da atividade preponderante (mais de 50% da receita em 2 anos antes e 2 depois, ou 3 anos seguintes) só nas reorganizações; na integralização, imunidade incondicionada, salvo simulação ou fraude (Tema 1.348) | CF, art. 156, § 2º, I; CTN, arts. 36 e 37 |
 | ITBI: contribuinte e competência | qualquer das partes, conforme a lei (em regra, o adquirente); Município da situação | imunidade do vendedor não aproveita ao comprador (Súmula 75); tabelião responde nos termos do art. 134, VI | CTN, arts. 41, 42 e 134, VI; CF, art. 156, § 2º, II |
 
+
 ## 29.12 Artigos de lei incidentes
 
 - Constituição Federal: arts. 147; 150, § 1º; 156, I e II, §§ 1º (I a III), 1º-A e 2º; 182, § 4º.
@@ -1794,6 +1851,7 @@ Remissões a outros capítulos: Tema 402 do STF (Cap. 6); Temas 475 e 633 e Tema
 - Lei 6.766/1979: art. 53.
 - Código Civil: arts. 1.225 e 1.245.
 - LC 227/2026: arts. 165 (alterações do CTN) e 181, I (revogação do parágrafo único do art. 35 e do art. 39 do CTN).
+
 
 ## 29.13 Julgados, temas e súmulas do capítulo
 
@@ -1831,6 +1889,7 @@ Remissões a outros capítulos: Tema 402 do STF (Cap. 6); Temas 475 e 633 e Tema
 | IPVA: alíquotas | mínimas pelo Senado; diferenciáveis por tipo, valor, utilização e impacto ambiental | faculdade; procedência vedada | CF, arts. 152 e 155, § 6º, I e II |
 | IPVA: sujeito ativo | domicílio ou sede do proprietário | licenciamento irrelevante; cota municipal segue licenciamento (aquáticos e aéreos: domicílio) | Tema 708 do STF; CF, art. 158, III |
 
+
 ## 30.9 Artigos de lei incidentes
 
 - Constituição Federal: arts. 24, §§ 3º e 4º; 150, § 1º e § 6º; 152; 155, I e III, § 1º (I a VII) e § 6º (I a III); 158, III.
@@ -1839,8 +1898,10 @@ Remissões a outros capítulos: Tema 402 do STF (Cap. 6); Temas 475 e 633 e Tema
 - CTN: arts. 35 a 42 (no que resta ao ITCMD); 97, IV; 110; 111; 128; 131; 134, VI; 142; 144; 148; 164, III; 165; 173, I; 192.
 - Código Civil: arts. 538; 794; 1.245; 1.410; 1.784; 1.804 a 1.808; 1.951 a 1.960; 2.018.
 - CPC: arts. 637; 638; 659, § 2º; 662.
+- Resolução CNJ 35/2007, art. 15 (redação da Resolução CNJ 695/2026).
 - Lei 14.754/2023, art. 12 (*trust*).
 - Lei 13.136/2004 de Santa Catarina: arts. 2º a 3º; 5º a 14.
+
 
 ## 30.10 Julgados, temas e súmulas do capítulo
 
@@ -1883,6 +1944,7 @@ Remissões a outros capítulos: Tema 402 do STF (Cap. 6); Temas 475 e 633 e Tema
 | Processo | União (PGFN) | ente local em MS contra autoridade local, tributo só local e obrigação acessória | art. 41 |
 | Reforma | IBS/CBS no DAS ou pelo regime regular | opção semestral | CF, art. 146, §§ 2º e 3º; LC 123, art. 13, §§ 9º a 11 |
 
+
 ## 31.13 Artigos de lei incidentes
 
 - Constituição Federal: arts. 146, III, d, e §§ 1º a 3º; 170, IX; 179.
@@ -1890,6 +1952,7 @@ Remissões a outros capítulos: Tema 402 do STF (Cap. 6); Temas 475 e 633 e Tema
 - LC 214/2025: arts. 26, IV, 41, 47, § 9º, 516 a 518 e 544.
 - LC 216/2025, art. 2º; LC 227/2026, arts. 168, 169 e 181, IV; LC 238/2026, arts. 1º, 2º, 5º, 6º e 10.
 - CTN: arts. 156, IV, e 174.
+
 
 ## 31.14 Julgados, temas e súmulas do capítulo
 
@@ -1939,6 +2002,7 @@ Remissões a outros capítulos: Súmulas 70, 323 e 547 do STF (Cap. 5); ADI 7.76
 | Específicos | combustíveis (monofásico, *ad rem*), financeiros, saúde, prognósticos, imóveis, cooperativas, turismo, bares | técnica própria | CF, art. 156-A, § 6º; LC 214, arts. 172 a 306 |
 | Imposto Seletivo | União; monofásico; extrafiscal; lei ordinária para alíquotas | não incide em exportação (salvo extração), energia e telecomunicações; não integra a própria base; integra a de ICMS, ISS, IBS e CBS; pode ter o mesmo fato gerador de outros tributos | CF, art. 153, VIII e § 6º; LC 214, arts. 409 a 437 |
 
+
 ## 32.16 Artigos de lei incidentes
 
 - Constituição Federal: arts. 105, I, j; 145, §§ 3º e 4º (remissão); 149-B; 149-C; 150, VI, e § 1º; 153, VIII, e § 6º; 156-A; 156-B (remissão); 195, V, e §§ 6º, 7º e 15 a 19.
@@ -1946,6 +2010,7 @@ Remissões a outros capítulos: Súmulas 70, 323 e 547 do STF (Cap. 5); ADI 7.76
 - EC 132/2023: arts. 8º e 9º.
 - LC 214/2025 (com a redação da LC 227/2026): arts. 1º a 7º-A; 8º e 9º; 10; 11; 12 e 13; 14 a 20; 21 a 26; 27 a 36; 38 e 39; 41; 47 a 57; 63 a 69; 79 a 82; 112 a 124; 125 a 128; 143; 157; 164; 172 e 173; 182; 252, 257, 259 e 261; 273; 409 a 414, 419, 421 a 424, 426 e 436; 444; 473.
 - CTN: arts. 14, 118, 124 e 166 (remissões).
+
 
 ## 32.17 Julgados, temas e súmulas do capítulo
 
@@ -1982,6 +2047,7 @@ Remissões a outros capítulos: Tema 779 do STJ (insumos de PIS/COFINS; Cap. 26)
 | Distribuição do IBS | retenção pela média histórica: 80% (2029-2032), 90% (2033), menos 1/45 ao ano até 2077 | seguro-receita de 5% sobre o restante (2029 a 2096); multas punitivas fora | ADCT, arts. 131 e 132; LC 227, arts. 103 a 117 |
 | Simples Nacional | IBS e CBS no DAS: optante sem crédito; adquirente credita o equivalente ao cobrado | opção semestral pelo regime regular do IBS e da CBS; ICMS-ST em estoque por restituição | CF, art. 146, §§ 1º a 3º; LC 214, arts. 41, 47, § 9º, e 348; LC 227, art. 145 |
 
+
 ## 33.10 Artigos de lei incidentes
 
 - Constituição Federal: arts. 50, caput e § 2º; 105, I, j; 146, III, d, e §§ 1º a 3º; 156-B; 158, IV, b, e § 2º; 159-A.
@@ -1991,6 +2057,7 @@ Remissões a outros capítulos: Tema 779 do STJ (insumos de PIS/COFINS; Cap. 26)
 - LC 227/2026: arts. 1º a 17, 25 a 30, 40, 45 a 53, 54, 56, 62, 88 a 97, 103 a 117, 132 a 145.
 - LC 87/1996: art. 31-A (incluído pela LC 214). LC 116/2003: art. 8º-B (incluído pela LC 214). LC 123/2006: art. 13, §§ 9º a 11 (redação da LC 214 e da LC 227).
 - Lei 1.079/1950: art. 79-A (incluído pela LC 227).
+
 
 ## 33.11 Julgados, temas e súmulas do capítulo
 
@@ -2032,6 +2099,7 @@ Remissões a outros capítulos: Tema 69 do STF, exclusão do ICMS da base do PIS
 | ITCMD: isenções | até 20.000 reais; imóvel único de até 200.000 na sucessão | interpretação literal | Lei 13.136, art. 10 |
 | ITCMD: atos e multas | registros dependem da prova de pagamento | 20%, 50% e 75% | Lei 13.136, arts. 12 e 13 |
 
+
 ## 34.7 Artigos de lei incidentes
 
 - CF: arts. 146, III; 155, § 1º, II, III, VI e VII. EC 132/2023: arts. 16 e 17. LC 227/2026: arts. 158 e 159. CTN: arts. 151, III, 169 e 174. Lei 6.830/1980: art. 38, parágrafo único.
@@ -2040,6 +2108,7 @@ Remissões a outros capítulos: Tema 69 do STF, exclusão do ICMS da base do PIS
 - Lei 10.297/1996 (SC): arts. 2º, 4º, 7º a 11, 18 a 31-E, 36, 37 a 43-A, 49, 51, 52, 94, 97, 99-A e 100; Anexo I.
 - Lei 13.136/2004 (SC): arts. 2º, 3º, 5º a 15.
 - Lei 5.983/1981 (SC): arts. 68, 68-A, 69, 69-A e 70.
+
 
 ## 34.8 Julgados, temas e súmulas do capítulo
 
@@ -2073,6 +2142,7 @@ Remissões a outros capítulos: Tema 69 do STF, exclusão do ICMS da base do PIS
 | Anulatória e repetição | sem depósito prévio; prescrição de 5 anos de cada pagamento; 2 anos para anular denegação administrativa | anulatória não impede a execução sem garantia; renúncia ao recurso administrativo | SV 28; arts. 168 e 169 do CTN; art. 784, § 1º, do CPC; art. 38, parágrafo único, da LEF |
 | Recebimento do indébito judicial | precatório ou RPV, ou compensação após o trânsito | restituição administrativa em dinheiro vedada; habilitação em 5 anos do trânsito | Súmula 461; Tema 1.262; art. 168, §§ 2º e 3º |
 
+
 ## 35.9 Artigos de lei incidentes
 
 - CF: art. 100 (precatórios e RPV); art. 109, I (competência federal).
@@ -2086,6 +2156,7 @@ Remissões a outros capítulos: Tema 69 do STF, exclusão do ICMS da base do PIS
 - Lei 10.522/2002: art. 19, § 1º, I.
 - DL 1.025/1969: art. 1º (encargo legal).
 - Lei 10.259/2001: art. 13; Lei 12.153/2009: art. 11.
+
 
 ## 35.10 Julgados, temas e súmulas do capítulo
 
