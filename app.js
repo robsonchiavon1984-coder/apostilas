@@ -117,7 +117,7 @@ const mdHtml=(md,apo)=>parse(md).map(b=>blockHtml(b,apo)).join('');
 
 /* ---------------- interface geral ---------------- */
 function toast(msg,ms=2600){const t=$('#toast');t.textContent=msg;t.hidden=false;clearTimeout(t._t);t._t=setTimeout(()=>t.hidden=true,ms)}
-function applyPrefs(){const r=document.documentElement;if(S.prefs.theme==='auto')r.removeAttribute('data-theme');else r.setAttribute('data-theme',S.prefs.theme);r.style.setProperty('--fs',S.prefs.fs+'px');r.style.setProperty('--maxw',S.prefs.maxw+'rem')}
+function applyPrefs(){const r=document.documentElement;if(S.prefs.theme==='auto')r.removeAttribute('data-theme');else r.setAttribute('data-theme',S.prefs.theme);r.style.setProperty('--fs',S.prefs.fs+'px');r.style.setProperty('--maxw',S.prefs.maxw+'rem');document.body.classList.toggle('side-collapsed',!!S.prefs.sideC);const m=document.getElementById('btnMenu');if(m){m.title=S.prefs.sideC?'Mostrar o índice':'Índice (recolher no tablet/computador)';m.setAttribute('aria-expanded',String(!S.prefs.sideC))}}
 let EDIT=false;
 function setEdit(v){EDIT=v;document.body.classList.toggle('editing',v);$('#btnEdit').setAttribute('aria-pressed',v);toast(v?'Modo de edição ativado: passe o mouse sobre um trecho para editar, inserir ou ocultar.':'Modo de edição desativado.')}
 function sideOpen(v){document.body.classList.toggle('side-open',v);$('#scrim').hidden=!v}
@@ -494,7 +494,7 @@ async function importLib(file){const o=JSON.parse(await file.text());if(o.app!==
   await saveLib();refreshCat();return n}
 
 /* ---------------- eventos gerais ---------------- */
-$('#btnMenu').onclick=()=>sideOpen(!document.body.classList.contains('side-open'));
+$('#btnMenu').onclick=()=>{if(innerWidth>900){S.prefs.sideC=!S.prefs.sideC;applyPrefs();save(false)}else sideOpen(!document.body.classList.contains('side-open'))};
 $('#scrim').onclick=()=>sideOpen(false);
 $('#btnEdit').onclick=()=>setEdit(!EDIT);
 $('#btnComments').onclick=()=>openDrawer($('#drawer').hidden);
