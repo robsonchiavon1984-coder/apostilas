@@ -1,7 +1,7 @@
 {
  "app": "apostilas",
  "v": 1,
- "exported": "2026-11-18T20:50:40.247Z",
+ "exported": "2026-11-18T21:17:41.734Z",
  "edits": {},
  "added": {
   "mw0yw457c2jia": {
@@ -353,6 +353,19 @@
    "kind": "c",
    "created": 1795035024311,
    "at": 1795035024311
+  },
+  "mwmmh0impvsdz": {
+   "apo": "const",
+   "ch": "ch06",
+   "bid": "b12",
+   "h": "e3labx",
+   "quote": "PROmover",
+   "pos": 251,
+   "whole": false,
+   "note": "CIROS\n\nCor\nIdade\nRaça\nOrigem\nSexo",
+   "kind": "c",
+   "created": 1795036646110,
+   "at": 1795036646110
   }
  },
  "progress": {
@@ -632,7 +645,7 @@
    "at": 1795024261648,
    "read": {
     "front": 0.18888716877846556,
-    "ch06": 0.059126266441747496
+    "ch06": 0.11593704611012563
    }
   }
  }
