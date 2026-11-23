@@ -1,7 +1,7 @@
 {
  "app": "apostilas",
  "v": 1,
- "exported": "2026-11-18T22:16:45.253Z",
+ "exported": "2026-11-23T20:50:19.817Z",
  "edits": {},
  "added": {
   "mw0yw457c2jia": {
@@ -352,7 +352,7 @@
    "note": "1) Tribunais de Justiça podem exercer controle abstrato de constitucionalidade de leis municipais utilizando como parâmetro normas da Constituição Federal, desde que se trate de normas de reprodução obrigatória pelos Estados; e \n\n2) O art. 39, § 4º, da Constituição Federal não é incompatível com o pagamento de terço de férias e décimo terceiro salário.\n\nArt. 39. A União, os Estados, o Distrito Federal e os Municípios instituirão conselho de política de administração e remuneração de pessoal, integrado por servidores designados pelos respectivos Poderes. [...] § 4º O membro de Poder, o detentor de mandato eletivo, os Ministros de Estado e os Secretários Estaduais e Municipais serão remunerados exclusivamente por subsídio fixado em parcela única, vedado o acréscimo de qualquer gratificação, adicional, abono, prêmio, verba de representação ou outra espécie remuneratória, obedecido, em qualquer caso, o disposto no art. 37, X e XI.",
    "kind": "c",
    "created": 1795035024311,
-   "at": 1795035024311
+   "at": 1795467004799
   },
   "mwmmh0impvsdz": {
    "apo": "const",
@@ -644,7 +644,7 @@
     "ch06": true
    },
    "last": "ch06",
-   "at": 1795040189812,
+   "at": 1795466986688,
    "read": {
     "front": 0.18888716877846556,
     "ch06": 1
