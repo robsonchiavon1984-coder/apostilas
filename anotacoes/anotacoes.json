@@ -1,7 +1,7 @@
 {
  "app": "apostilas",
  "v": 1,
- "exported": "2026-11-23T20:50:19.817Z",
+ "exported": "2026-11-26T13:28:46.174Z",
  "edits": {},
  "added": {
   "mw0yw457c2jia": {
@@ -366,6 +366,19 @@
    "kind": "c",
    "created": 1795036646110,
    "at": 1795036646110
+  },
+  "mwxl8sk8jrd7y": {
+   "apo": "const",
+   "ch": "ch01",
+   "bid": "b35",
+   "h": "13afpqc",
+   "quote": "positivismo jurídico inclusivo",
+   "pos": 675,
+   "whole": false,
+   "note": "O positivismo jurídico inclusivo (também chamado de positivismo brando ou soft positivism) é uma corrente da filosofia do direito que admite que critérios morais podem definir a validade de uma norma jurídica, desde que o próprio ordenamento decida incorporá-los.\n\nA ideia central, associada ao pós-escrito de H. L. A. Hart e desenvolvida por autores como Jules Coleman e Wil Waluchow, apoia-se em dois pilares:\n\n* Não há conexão necessária entre direito e moral: como toda teoria positivista, ele sustenta que uma lei não deixa de ser jurídica apenas por ser injusta ou imoral. A validade do direito depende, em última instância, de fatos sociais (quem tem autoridade para criar normas e qual procedimento seguiu).\n\n* Há possibilidade de conexão contingente (opcional): se a própria Constituição ou a prática jurídica de um país (a regra de reconhecimento) escolher incluir princípios morais — como dignidade da pessoa humana, igualdade ou razoabilidade — como requisito de validade das leis, esses critérios passam a fazer parte do direito.\n\nComo ele se diferencia das outras correntes\nCorrente                    Relação entre Direito e Moral na validade da norma\n\nPositivismo Exclusivo (ex.: Joseph Raz)     Nunca. A validade depende apenas de fontes sociais; argumentos morais não definem o que é direito.\n\nPositivismo Inclusivo (ex.: Hart, Coleman)    Pode existir. Depende de o ordenamento ter positivado critérios morais (como em uma Constituição).\n\nJusnaturalismo / Pós-positivismoNecessária. O direito e a moral estão intrinsecamente ligados, independentemente de previsão expressa.\n\nA ligação com a crítica ao neoconstitucionalismo\nNo trecho da sua apostila, a crítica de Dimitri Dimoulis parte exatamente dessa distinção: para o positivismo inclusivo, usar princípios com forte carga valorativa (como a dignidade ou a proporcionalidade) para invalidar leis não exige abandonar o positivismo nem criar uma \"nova era\" (o pós-positivismo). Se esses valores estão escritos na Constituição de 1988, aplicá-los continua sendo aplicar o direito posto.",
+   "kind": "c",
+   "created": 1795699710872,
+   "at": 1795699710872
   }
  },
  "progress": {
@@ -643,11 +656,12 @@
    "done": {
     "ch06": true
    },
-   "last": "ch06",
-   "at": 1795466986688,
+   "last": "ch01",
+   "at": 1795698983665,
    "read": {
     "front": 0.18888716877846556,
-    "ch06": 1
+    "ch06": 1,
+    "ch01": 0.19468679081152926
    }
   }
  }
